@@ -1,0 +1,41 @@
+name: Deploy reading exhibit and garden
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+permissions:
+  contents: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download complete reviewed website
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh release download online-030-r2012 --pattern online-site.zip --dir package
+      - name: Verify and unpack
+        run: |
+          echo "ff6d47b95a5ec0296e4af5b99a52b2659bfffe3931f857b8b0502772269596f1  package/online-site.zip" | sha256sum --check
+          python -m zipfile -e package/online-site.zip _site
+          test -f _site/index.html
+          test -f _site/garden/viewer/index.html
+          test -f _site/garden/outputs/garden_020.glb
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
