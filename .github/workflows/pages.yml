@@ -1,8 +1,6 @@
-name: Deploy reading exhibit and garden
+name: Deploy reading exhibit, garden and visual atlas
 on:
   workflow_dispatch:
-  release:
-    types: [published]
 permissions:
   contents: read
 concurrency:
@@ -12,17 +10,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Download complete reviewed website
+      - name: Download preserved exhibit and garden
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: gh release download online-030-r2012 --pattern online-site.zip --dir package
-      - name: Verify and unpack
+      - name: Download reviewed visual atlas 65 to 67
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh release download atlas-065-067-v1 --pattern atlas-065-067.zip --dir additions
+      - name: Verify and compose website
         run: |
           echo "ff6d47b95a5ec0296e4af5b99a52b2659bfffe3931f857b8b0502772269596f1  package/online-site.zip" | sha256sum --check
+          echo "abe2cc2c171e1a23ca6c60cb073f8555f772a8368add8a063ba6f6438cc4fef7  additions/atlas-065-067.zip" | sha256sum --check
           python -m zipfile -e package/online-site.zip _site
+          python -m zipfile -e additions/atlas-065-067.zip _site
           test -f _site/index.html
-          test -f _site/garden/viewer/index.html
+          test -f _site/atlas/index.html
+          test -f _site/atlas/content/chapter_065.js
+          test -f _site/atlas/content/chapter_066.js
+          test -f _site/atlas/content/chapter_067.js
           test -f _site/garden/outputs/garden_020.glb
       - uses: actions/upload-pages-artifact@v4
         with:
