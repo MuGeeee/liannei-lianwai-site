@@ -1,0 +1,319 @@
+{
+  "number": 67,
+  "title": "第六十七回西门庆书房赏雪　李瓶儿梦诉幽情",
+  "intro": "雪封住院子，书房仍在接人、递信、分银。先辨清每笔银钱、每个说法来自谁，再看梦里怎样换了一套语言。",
+  "scenes": [
+    {
+      "id": "067-01",
+      "chapter": 67,
+      "title": "雪外，火盆边",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 6,
+          "quote": "西门庆于是坐在一张醉翁椅上，打开头发，敎他整理梳篦"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 6,
+          "quote": "头戴毡帽，身穿绿绒袄子，脚穿一只旧皂靴，棕套"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 6,
+          "quote": "伯爵拉过一张椅子来，就着火盆坐下了"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "小周儿"
+      ],
+      "place": "藏春阁书房，落雪的早晨",
+      "event": "小周儿为西门庆梳篦，伯爵刚进来在火盆旁坐下。",
+      "why": "财富不仅摆在酒席上，也体现在有人调温、梳洗和照管身体。",
+      "composition": "一侧半身服务动作，另一侧火盆与新来客，窗外雪色作纵深。",
+      "summary": "西门庆不往衙门，披绒衣、戴毡巾进藏春阁。书房有地炉暖炕、黄铜火盆与暖帘。小周儿来给他梳篦，应伯爵穿绿绒袄、戴毡帽，刚从雪里来，拉椅就火坐下。图停在梳篦时，尚未换成后来的忠靖冠与绒氅。",
+      "psychology": "原文明写：西门庆说自己忙乱不遂，伯爵谈寒冷与昨夜辛苦。推测：同一间屋里，主人被照料的身体与来客找热处的身体，形成安逸程度的差别。不能仅凭衣着断定伯爵处处贫困。",
+      "social": "“篦”是用细齿梳整理头发；醉翁椅按可倚坐的椅子理解，具体构造未核实。这里不拿后文的按摩动作代替当前梳发。",
+      "explicit": "绒衣、解开发、醉翁椅、绿绒袄与毡帽、黄铜火盆、书房暖帘、窗外落雪。",
+      "inference": "小周儿年龄没有在此段明示，画成完整着衣的年轻成年服务者；椅形、帘纹、梳子材质及精确位置为艺术补足。",
+      "history": "未另引外部史料；器物和服饰以本回名物为锚，形制、纹样和尺度仍有美术补足。故事设定年代与晚明视觉语汇不强行等同。",
+      "references": [
+        "style-065-01",
+        "guests-030"
+      ],
+      "prompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. Snowy morning inside a cultivated wealthy private study. Ximen with the locked same face but more substantial torso sits in a believable wooden reclining chair, fully clothed in a dark warm velvet indoor robe, HAIR LET DOWN and being gently combed; NO CAP on his head while combing. One fully clothed young ADULT male attendant Xiao Zhou stands behind him, carefully drawing a narrow-tooth comb through long hair, no massage or intimate contact. Ying Bojue at right, use the SLIM LEFT man from reference2, sits close to a warm BRASS BRAZIER; he wears a dark felt cap and a weathered GREEN VELVET jacket, boots under loose lower garments, rubbing hands toward warmth. Snow falls visibly outside a lattice opening beyond a partially lowered thick warm curtain. Plum branches in a vase, restrained calligraphy-free books and inkstone, low heated kang and red felt surface in background. Three men, distinctive triangular action, pale blue snow light meeting low ember warmth, NO visible magic, modern radiator or exposed body. The host is not standing in his later white formal cap.",
+      "image": "assets/067-01.png",
+      "status": "generated_reviewed",
+      "review": "已查看修正版：西门庆散发受梳，伯爵绿绒袄毡帽在火盆旁，成年服务者持篦；雪窗与暖帘有冷暖分隔。首版两人脸形混淆、伯爵帽式不当，已按独立参考修正，并移去误加的手中杯。醉翁椅、火盆花纹与暖帘梅纹为补足；开窗范围偏大，不是可据以复原采暖效率的空间图。",
+      "actualPrompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. Snowy morning inside a cultivated wealthy private study. Ximen with the locked same face but more substantial torso sits in a believable wooden reclining chair, fully clothed in a dark warm velvet indoor robe, HAIR LET DOWN and being gently combed; NO CAP on his head while combing. One fully clothed young ADULT male attendant Xiao Zhou stands behind him, carefully drawing a narrow-tooth comb through long hair, no massage or intimate contact. Ying Bojue at right, use the SLIM LEFT man from reference2, sits close to a warm BRASS BRAZIER; he wears a dark felt cap and a weathered GREEN VELVET jacket, boots under loose lower garments, rubbing hands toward warmth. Snow falls visibly outside a lattice opening beyond a partially lowered thick warm curtain. Plum branches in a vase, restrained calligraphy-free books and inkstone, low heated kang and red felt surface in background. Three men, distinctive triangular action, pale blue snow light meeting low ember warmth, NO visible magic, modern radiator or exposed body. The host is not standing in his later white formal cap.",
+      "styleEditPrompt": "Correct ONLY the identities, headwear and curtain in image1, preserving its scene, composition and actions. The seated person having his hair combed at LEFT/CENTER is XIMEN: replace his face with the SAME FACE as the SOLO MAN IN IMAGE2, long youthful adult face, straight brows, narrow eyes, no pointed chin goatee, slight natural fatigue. His hair remains let down, no cap; substantial adult torso beneath warm dark robe. Remove his held cup and rest his hand naturally, since the scene is before milk arrives. The guest at RIGHT is YING BOJUE, who must match the SLIM MUSTACHED MAN AT FAR LEFT of image3, not its center young host or plump right guest. Give Ying the distinctive older lean face, narrow mustache and short goatee, crow's feet. Keep Ying green velvet winter jacket. Replace his rigid official-looking headdress with a plain rounded DARK FELT WINTER HAT, no wings or tall tiers. Keep both men separate recognizable individuals. The attendant behind still combs the host's hair, do not alter his face. Replace the upper bamboo blind across the broad snowy opening with a thick partially raised dark warm cloth curtain decorated subtly with a plum branch motif, folds visible; snow remains outside. Everything else unchanged, gongbi painted linework and silk grain, no words or text."
+    },
+    {
+      "id": "067-02",
+      "chapter": 67,
+      "title": "一封书要递过几道门",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 14,
+          "quote": "雷兵备前日在我这里吃酒，我只会了一面，又不甚相熟，我怎好写书与他！"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 14,
+          "quote": "我转央钞关钱老爹和他说说去；与他是同年，都是壬辰进士"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 16,
+          "quote": "把礼帖收了，礼物还令他拿回去"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "黄四",
+        "应伯爵"
+      ],
+      "place": "西门家厅上，黄四交银后请求相见",
+      "event": "黄四哭求说情，西门庆答应转托钱主事，伯爵加入劝说。",
+      "why": "人情并不是抽象的有关系：谁与谁熟、经哪一层传话，决定一封书怎样走。",
+      "composition": "厅中三角中景，跪者、拒礼的手与门边加入的人。",
+      "summary": "黄四交还一千两后，另外为岳父孙清与妻弟孙文相的案子求书。他所述案情仍是一方说法。西门庆说与雷兵备仅一面之交，转而托同年的钱主事。黄四提出银、米帖，伯爵劝收；落点是收礼帖、退礼物，不能一概写成当场收走百两银。",
+      "psychology": "原文明写：黄四跪哭，西门庆沉吟，伯爵劝他收下。推测：请求者把案中亲属的危险带入厅堂，居中者则同时谈人情与酬谢。不能据黄四的哭诉直接裁定案中全部事实。",
+      "social": "一千两是还款，一百两银与一百石米帖属于另一项礼物请求，不能混作同一笔。钱主事到雷兵备的信，在本回稍后确有回帖；图只取请求时刻，不预画释放结果。",
+      "explicit": "黄四跪请、说帖、银与米帖；西门庆称转托钱主事；伯爵自角门出来参与。",
+      "inference": "跪请、拒礼与伯爵加入的时间很近，本图取三人在场的片刻；纸帖与银包摆位为构图补足，不在图上生成数字或姓名。",
+      "history": "未另引外部史料；器物和服饰以本回名物为锚，形制、纹样和尺度仍有美术补足。故事设定年代与晚明视觉语汇不强行等同。",
+      "references": [
+        "067-01修正版（西门庆左、伯爵右）"
+      ],
+      "prompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. A medium-wide scene in the household reception hall during a snowy day. Exactly three primary ADULT men. At left Ximen with locked face, broader torso, wearing WHITE VELVET Zhongjing-style scholar cap and a subdued heavy velvet cloak as specified later that morning, extends a hand in initial reluctance toward offered gifts. In center a different merchant Huang Si, weathered round-to-oblong face, ordinary brown padded robe, kneels with pleading wet eyes and bent shoulders; he holds a folded written petition turned away, with TWO closed small silver paper bundles and a single rice-credit paper slip set near his knees; no visible writing and no huge heap of coins. At right Ying, SLIM LEFT face of second reference, in GREEN VELVET jacket and dark felt cap, has entered near a side door and gestures persuasively between men. Snow visible through side courtyard doorway, household chairs at modest differing heights. The tension lies in refusal, urgent pleading and intervention. Do NOT show a magistrate trial or prisoners here: these men are asking for a letter, not judging a courtroom case. No touching exposed flesh, no violence.",
+      "image": "assets/067-02.png",
+      "status": "generated_reviewed",
+      "review": "已查看定稿：西门庆左、黄四中间跪请、伯爵右侧介入，三张脸分开；纸帖与两包银处在请求现场，未画成审案。白帽被简化成软布形帽，未准确复原忠靖冠；绒氅加毛边、人物位置与厅堂为艺术补足。银包看似金属色，明确其是未展开的包，不声称显示百两重量。",
+      "actualPrompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. A medium-wide scene in the household reception hall during a snowy day. Exactly three primary ADULT men. At left Ximen with locked face, broader torso, wearing WHITE VELVET Zhongjing-style scholar cap and a subdued heavy velvet cloak as specified later that morning, extends a hand in initial reluctance toward offered gifts. In center a different merchant Huang Si, weathered round-to-oblong face, ordinary brown padded robe, kneels with pleading wet eyes and bent shoulders; he holds a folded written petition turned away, with TWO closed small silver paper bundles and a single rice-credit paper slip set near his knees; no visible writing and no huge heap of coins. At right Ying, slim mustached guest at RIGHT of reference1, in GREEN VELVET jacket and dark felt cap, has entered near a side door and gestures persuasively between men. Snow visible through side courtyard doorway, household chairs at modest differing heights. The tension lies in refusal, urgent pleading and intervention. Do NOT show a magistrate trial or prisoners here: these men are asking for a letter, not judging a courtroom case. No touching exposed flesh, no violence. Reference1 is the corrected winter-study painting: Ximen is LEFT reclining man, Ying is RIGHT green-jacket mustached guest. Preserve these two identities, but not the grooming action or study composition.",
+      "styleEditPrompt": ""
+    },
+    {
+      "id": "067-03",
+      "chapter": 67,
+      "title": "搭裢底，三两银",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 16,
+          "quote": "走到仪门首，还抖出三两一块麻姑头银子来"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 16,
+          "quote": "于是褪入袖中，到前边递与黄四搭裢"
+        }
+      ],
+      "people": [
+        "玳安"
+      ],
+      "place": "仪门首，取回盛银搭裢的途中",
+      "event": "玳安抖出漏在搭裢底的一块银，藏入袖中。",
+      "why": "大额还款之外，纸包破损、一次倒银和一只袖子，也改变了银钱去向。",
+      "composition": "近景俯角，脸、张开的搭裢与银块可读，门外冷雪保持余白。",
+      "summary": "玉箫忙着裁衣，取搭裢时使性倒银，纸包破了，漏下一块。玳安拿到仪门前抖出三两银，称拾了白财，便藏进袖里，再把搭裢还黄四。这里的三两与此前入大娘处的一千两分开记录，不据这段补造完整的收银账。",
+      "psychology": "原文明写：玳安说“拾个白财”，褪入袖中。推测：他把偶然漏银当作可据为己有的机会；不能据这一次便给他全部差事贴同一种动机。",
+      "social": "“搭裢”是可搭在身上、两端装物的袋子。三两是文中的重量与金额线索；图里的银块大小、头形不能用来反算可靠尺度。",
+      "explicit": "仪门、搭裢、纸包破损漏银、三两一块、藏袖。",
+      "inference": "玳安面貌沿用旧三幅图左侧，当前年龄不精确；搭裢织法、袖口结构和银块外形为补足。画在他拾起将藏的动作，不声称画面显示三两重量。",
+      "history": "未另引外部史料；器物和服饰以本回名物为锚，形制、纹样和尺度仍有美术补足。故事设定年代与晚明视觉语汇不强行等同。",
+      "references": [
+        "style-065-01",
+        "young-people-030"
+      ],
+      "prompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. Close narrative view at a household inner ceremonial gateway, cold snowy courtyard blurred beyond. ONE young male household servant Daian: use the LEFT PANEL person in reference2 only, not the middle fruit seller or right girl. Retain his narrow alert face and simple bound hair, plain indigo-gray working jacket with loose fully closed garments. He glances briefly down and sideways as his right hand slides ONE small irregular SILVER INGOT into the wide sleeve of his opposite arm. A woven double-ended carrying pouch (dalian) hangs OPEN in his other hand with a fragment of torn wrapping paper at its opening, coherent hand positions. Focus on hand, pale silver and dark sleeve, not swagger or villain caricature. No purses full of gold, no modern stitched zipper, no extra silver scattered, no text. Frame tighter than previous group scenes. Fine drawn lines, snow-white / slate / muted earth palette. Ingots irregular, never label exact weight inside image.",
+      "image": "assets/067-03.png",
+      "status": "generated_reviewed",
+      "review": "已查看定稿：玳安一人，面貌对应旧三幅左侧；一块银正向袖口藏，另一手持袋，袋内有破纸。搭裢只画清一端袋口，没有完整呈现双端结构；银块被画作马蹄形，不能以此认定麻姑头确切形制或三两尺度。",
+      "actualPrompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. Close narrative view at a household inner ceremonial gateway, cold snowy courtyard blurred beyond. ONE young male household servant Daian: use the LEFT PANEL person in reference2 only, not the middle fruit seller or right girl. Retain his narrow alert face and simple bound hair, plain indigo-gray working jacket with loose fully closed garments. He glances briefly down and sideways as his right hand slides ONE small irregular SILVER INGOT into the wide sleeve of his opposite arm. A woven double-ended carrying pouch (dalian) hangs OPEN in his other hand with a fragment of torn wrapping paper at its opening, coherent hand positions. Focus on hand, pale silver and dark sleeve, not swagger or villain caricature. No purses full of gold, no modern stitched zipper, no extra silver scattered, no text. Frame tighter than previous group scenes. Fine drawn lines, snow-white / slate / muted earth palette. Ingots irregular, never label exact weight inside image. Reference1 is ONLY for painted medium, absolutely do NOT include any man from it. The ONLY visible human is Daian, the LEFT PANEL of reference2. He is a distinct youthful male servant, not the host. The pouch stays hanging from the fingers of the supporting hand while the other hand slides a single silver piece into that sleeve.",
+      "styleEditPrompt": ""
+    },
+    {
+      "id": "067-04",
+      "chapter": 67,
+      "title": "原封五十两",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 34,
+          "quote": "这封五十两，你都拿了使去，省的我又拆开他。原封未动，你打开看看"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 34,
+          "quote": "都是两司各府倾就分资，三两一锭，松纹足色"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 34,
+          "quote": "那西门庆也不接他文约"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "藏春阁书房，另一天的对坐",
+      "event": "伯爵为家中新生孩子开销求助，西门庆给他一封五十两银。",
+      "why": "先前官员办酒的分资，在这里又变成朋友家中周转的钱。",
+      "composition": "越肩近中景，纸包正在打开，收钱者的身体由绷紧转向前倾。",
+      "summary": "伯爵说家中添子、费用难措，开口要二十两并想立字。西门庆不接文约，让王经取来前日巡按摆酒留下的原封银，整封五十两给他。伯爵打开看，文中说是各官分资铸就的小锭。他的欢喜与连声致谢是明确写出的。",
+      "psychology": "原文明写：伯爵故意不作声、借款、打开银封后欢喜，西门庆不收字据。解释：这既能见到慷慨照应，也能见到往来中的依赖；席间带性意味的玩笑另作语言记录，不用情色画面替它解释。",
+      "social": "“符儿”在这里指字据。免收字据不是银钱关系消失；说话双方还在试探怎样把馈赠称为友情。银封称五十两，小锭称三两，画面不把锭数强算成精确总额。",
+      "explicit": "一封五十两、原封、拆看小锭、拒接文约；此时所用银来自前日办席分资。",
+      "inference": "纸封、锭形与铺陈方式是美术补足。画面只露几枚作为局部，不声称精确画足总额。人物脸形连贯，伯爵仍绿袄毡帽为谨慎沿用，原文此日未重写全套衣装。",
+      "history": "未另引外部史料；器物和服饰以本回名物为锚，形制、纹样和尺度仍有美术补足。故事设定年代与晚明视觉语汇不强行等同。",
+      "references": [
+        "067-01修正版（西门庆左、伯爵右）"
+      ],
+      "prompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. An intimate over-shoulder medium-close scene in the winter study, TWO ADULT MEN only. Ximen with locked face and somewhat broad sturdy torso sits on left in warm dark velvet cloak and pale white velvet cap, leaning forward in easy unforced generosity. Ying Bojue, the slim left face from second reference, at right in muted green winter jacket and dark felt cap, eagerly opens a single brown paper packet that has just been given to him. Several small irregular SILVER ingots are visible inside the partly opened paper, not a precisely countable full amount; each has an unlettered natural cast surface. Ximen withdraws his relaxed hand after offering the packet. Ying face shows relief and surprised gratitude, not cartoon greed. A small unused folded slip of paper sits to the side on table, suggesting a declined IOU without any legible writing. Focus on hands, packet and exchanged gaze, drawn pigment textures and restrained pale winter daylight, distant snow at window. No gold, no fifty huge bars, no textual amounts, no woman or child in room.",
+      "image": "assets/067-04.png",
+      "status": "generated_reviewed",
+      "review": "已查看定稿：西门庆递封、伯爵拆包，脸部延续本回修正参考；露出少量小银锭，不声称足五十两。白帽仍是简化软帽，散发偏多，忠靖冠与束发还原不足；包纸、银锭与文约摆位为补足，当前日伯爵衣装未重写，绿袄毡帽仅谨慎沿用。",
+      "actualPrompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. An intimate over-shoulder medium-close scene in the winter study, TWO ADULT MEN only. Ximen with locked face and somewhat broad sturdy torso sits on left in warm dark velvet cloak and pale white velvet cap, leaning forward in easy unforced generosity. Ying Bojue, the mustached slim guest on RIGHT of image1, at right in muted green winter jacket and dark felt cap, eagerly opens a single brown paper packet that has just been given to him. Several small irregular SILVER ingots are visible inside the partly opened paper, not a precisely countable full amount; each has an unlettered natural cast surface. Ximen withdraws his relaxed hand after offering the packet. Ying face shows relief and surprised gratitude, not cartoon greed. A small unused folded slip of paper sits to the side on table, suggesting a declined IOU without any legible writing. Focus on hands, packet and exchanged gaze, drawn pigment textures and restrained pale winter daylight, distant snow at window. No gold, no fifty huge bars, no textual amounts, no woman or child in room. Reference1 supplies two identities only: Ximen left, Ying green-jacket right. Give Ximen the WHITE VELVET cap and cloak appropriate later in the chapter, hair bound inside cap. This is another day, no combing attendant or brazier foreground. Make the faces close enough to recognize; hands and silver packet most prominent.",
+      "styleEditPrompt": ""
+    },
+    {
+      "id": "067-05",
+      "chapter": 67,
+      "title": "梦到帘前",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 29,
+          "quote": "身穿糁紫衫，白绢裙，乱挽乌云，黄恹恹面容"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 29,
+          "quote": "说毕，二人抱头放声而哭"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 29,
+          "quote": "却是南柯一梦"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "梦中的李瓶儿"
+      ],
+      "place": "藏春阁书房；只属于西门庆梦境",
+      "event": "梦中瓶儿来见，二人抱头而哭。",
+      "why": "这是梦里重新见面的一个瞬间，不能拿梦话替现实断案或预告。",
+      "composition": "近中景，两张熟悉而疲倦的脸；帘影虚化，梦境身份由图外明确标示。",
+      "summary": "西门庆看过回帖，在炕上睡着。梦里的李瓶儿穿糁紫衫、白绢裙，发髻松乱，面色黄瘦，来诉受苦，两人抱头哭。醒来正是中午。图只取梦中拥哭，不把梦内的阴间诉讼另画成真实发生的案卷，也不解释梦话是否会应验。",
+      "psychology": "原文明写：梦中拥哭，西门庆哭醒、追思痛切。解释：本回才处理完人间说情，梦里又用诉讼与说情说苦；这种措辞的相近可以并读，但不能证明梦中所述确有其事。",
+      "social": "",
+      "explicit": "梦中紫衫白裙、乱发黄容、抱头哭；醒来与梦境有明确界线。",
+      "inference": "由旧瓶儿瓜子脸、细眉作身份参照，减淡华饰，画出黄瘦疲乏；梦境光影为艺术处理。不得借后续情节添入预兆、特定象征或命运解释。",
+      "history": "未另引外部史料；器物和服饰以本回名物为锚，形制、纹样和尺度仍有美术补足。故事设定年代与晚明视觉语汇不强行等同。",
+      "references": [
+        "067-01修正版（西门庆）",
+        "ping-013（瓶儿面貌）"
+      ],
+      "prompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. This is explicitly a DREAM IMAGE from this chapter, not a real visit and not an omen. A compassionate close-medium painted scene of TWO fully clothed adults embracing and crying beside a study kang. Ximen, same recognizable long face with natural fatigue, in a muted warm indoor robe, no modern clothing, lifts an arm around the shoulders of his deceased wife as seen in the dream. Ping is recognizable as the woman in reference2: short oval face, finely curved eyebrows, small frame; but now her hair is LOOSELY AND UNTIDILY gathered, face sallow yellowish and tired, visibly thinner and with no polished beauty makeup, wearing a muted DUSTY PURPLE upper garment and plain WHITE SILK SKIRT. They hold the other person heads or shoulders and weep in a nonsexual grief embrace, no kissing. Keep distinct coherent arms and hands. Cool pale wintry light filtered by a soft curtain, restrained ink gray and lavender, no golden glamor. No ghost transparency, no halo, no crane, no chains, no wounds, no blood, no demons, no corpse or prison. Their natural human faces and touch convey dream grief. No textual dream label inside the image; it is supplied outside by the webpage.",
+      "image": "assets/067-05.png",
+      "status": "generated_reviewed",
+      "review": "已查看修正版：瓶儿为紫衫白裙，乱发、淡黄灰面色，原先过美的发饰已去掉、衣纹变素；面貌仍可联系旧肖像。两人拥哭，衣装完整，无鬼神、血污或预告符号。画面只表现较克制的拥泣，不足以传达原文放声哭的全部强度；窗外雪景及室内材质为梦境视觉补足。",
+      "actualPrompt": "Literary illustration-story, landscape 3:2, fine Chinese gongbi ink outlines and subtle mineral pigments on silk, believable physical anatomy and late-Ming lived-in household materials, cinematic staging. Recognizably drawn and painted, not a photograph, not anime, no glossy fantasy beauty. No text, pseudo-calligraphy, signature or watermark. No nudity, sexual acts or gore. Image1 locks the NEW painted style and Ximen identity (left seated man), not the scene or clothes. Ximen keeps the same long face and eyes but has a somewhat broader, more substantial torso here, around early thirties as suggested by his own comparison in this chapter, tired natural face; do not make him a white-haired old man or a super-thin pretty youth. This is explicitly a DREAM IMAGE from this chapter, not a real visit and not an omen. A compassionate close-medium painted scene of TWO fully clothed adults embracing and crying beside a study kang. Ximen, same recognizable long face with natural fatigue, in a muted warm indoor robe, no modern clothing, lifts an arm around the shoulders of his deceased wife as seen in the dream. Ping is recognizable as the woman in reference2: short oval face, finely curved eyebrows, small frame; but now her hair is LOOSELY AND UNTIDILY gathered, face sallow yellowish and tired, visibly thinner and with no polished beauty makeup, wearing a muted DUSTY PURPLE upper garment and plain WHITE SILK SKIRT. They hold the other person heads or shoulders and weep in a nonsexual grief embrace, no kissing. Keep distinct coherent arms and hands. Cool pale wintry light filtered by a soft curtain, restrained ink gray and lavender, no golden glamor. No ghost transparency, no halo, no crane, no chains, no wounds, no blood, no demons, no corpse or prison. Their natural human faces and touch convey dream grief. No textual dream label inside the image; it is supplied outside by the webpage.",
+      "styleEditPrompt": "Precise finishing correction only. Preserve the same two recognizable faces, the grief embrace, hands, poses, lavender and white costume colors, study room and painted gongbi medium. The woman is described as sallow and worn, with untidily gathered hair, NOT a glowing healthy beauty. Remove the decorative jeweled flower from her hair, loosen the bun into uneven strands without elegant coiffure; give her visible tired under-eye shadows, a yellow-gray sallow undertone, paler dry lips, slightly hollowed cheeks and a natural strained expression. Keep her recognizable oval face and fine brows rather than aging her into an old woman. Simplify the upper garment embroidery to much subtler woven marks; keep muted dusty PURPLE upper garment and WHITE skirt, fully clothed. No wounds, no corpse imagery, no ghosts, no supernatural particles. This remains a compassionate dream encounter, not illness spectacle. No words, no text. Change no other elements."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "同一块甜食，两种说法",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 19,
+          "quote": "上头纹溜就像螺蛳儿一般，粉红纯白两样儿"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 19,
+          "quote": "我见此物，不免又使我伤心"
+        }
+      ],
+      "text": "泡螺不是画成活螺蛳：文中说有螺纹，粉红与白色两样。月姐送来的点心，让西门庆想起瓶儿的手艺，伯爵又把这层话转作玩笑。怀念与取笑在同一席上交替，不能只截一头概括人物。未取得可靠工艺资料，不补造现代配方。"
+    },
+    {
+      "title": "案情有几种证据",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 25,
+          "quote": "讨了回帖纔来了"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 26,
+          "quote": "量追烧埋钱十两，给与冯二"
+        }
+      ],
+      "text": "请求时听到黄四一方的叙述；办成之后，是玳安口头回报与雷兵备回帖。后者至少让我们看到明确的处置话语，仍不等于独立复原案发现场。“保辜限外”在本回被用来讨论伤后隔时死亡能否抵命；这里不引申成普遍适用的现代法律说明。"
+    },
+    {
+      "title": "传话没有到达，礼物还要继续",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 35,
+          "quote": "帖子还袖在袖子里"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 25,
+          "quote": "莫非咱家孩儿没了，断了礼不送了！"
+        }
+      ],
+      "text": "乔家来请，金莲进书房后忘了正事，月娘等不到回复。与此同时，月娘坚持继续送乔家生日礼。这些都发生在本回：消息可能滞留在一个人的袖里，亲家礼数却仍由家内的人维持。此处只谈已经发生的延误与送礼，不替任何关系写未来结果。"
+    },
+    {
+      "title": "梦醒之后，仍回到物件",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 37,
+          "quote": "问月娘寻出李瓶儿两套锦衣，搅金银钱纸装在库内"
+        }
+      ],
+      "text": "回末并非止在梦中：陈经济与玳安装封箱库，供饭、烧纸、门首焚化。衣物、纸钱与人手使记念成为一道具体程序。箱库精确结构未明，本次不把它补造成后文才有的房舍或器物。"
+    },
+    {
+      "title": "本回外观补记：西门庆",
+      "text": "任后溪的评价经西门庆转述，伯爵也称他胖大；本回画面略加宽厚体态，但不以他人评语测定体重。如意儿自报31，他说小自己一岁，这是当前的自述比较，不强整所有前回年龄。",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 7,
+          "quote": "身体魁伟，而虚之太极"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 22,
+          "quote": "你原来小我一岁"
+        }
+      ]
+    },
+    {
+      "title": "本回外观补记：如意儿",
+      "text": "本回自报31，独立于65回未明的年龄。面貌沿用65-04新立的自然宽方脸、实在体态；不把白净等比拟画成瓶儿的同一张脸。",
+      "evidence": [
+        {
+          "chapter": 67,
+          "paragraph": 22,
+          "quote": "我今年属兔的，三十一岁了"
+        }
+      ]
+    }
+  ]
+}

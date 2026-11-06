@@ -1,0 +1,283 @@
+{
+  "number": 97,
+  "title": "第九十七回经济守御府用事　薛嫂卖花说姻亲",
+  "intro": "旧衣、回帖、端午杯、婚帖、宝瓶和印信。这一回，同一人在不同屋里做不同的事，也被不同的人叫作不同的名字。",
+  "scenes": [
+    {
+      "id": "097-01",
+      "chapter": 97,
+      "title": "旧衣挂上梁",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 5,
+          "quote": "一套新衣服靴帽"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 5,
+          "quote": "搁在班直房内梁上吊着"
+        }
+      ],
+      "people": [
+        "张胜",
+        "陈经济"
+      ],
+      "place": "守备府班直房",
+      "event": "陈经济已经更衣，张胜把他的旧衣卷挂上梁。",
+      "why": "从水月寺到府里，衣服先被换掉，稍后才谈该怎样称呼彼此。",
+      "composition": "梁下仰角，衣卷近处，已穿戴整齐的陈经济在门边。",
+      "summary": "春梅令他在外边班直房洗浴，叫人包出新衣靴帽。张胜把脱下来的旧衣卷好挂在梁上。画取更衣完毕，两人都衣冠整齐；不把后堂私下约定的说法画成这间屋里的谈话。",
+      "psychology": "换衣是实事；后堂春梅另教他以姑表兄弟相称。这个亲缘是两人约好的说法。",
+      "social": "有了新衣与西书院的住处，他在府里得到的待遇已与做工时不同。",
+      "explicit": "新衣靴帽、旧衣卷、班直房梁。",
+      "inference": "吊挂材料和新衣颜色未明。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use adult broad bearded MAN Zhang only; ref2 adult young oval-faced Chen only; ref3 painted medium. Exactly two fully dressed adult Chinese men. Low angled view inside spare guard duty room, Zhang lifts a tied ragged grey cloth bundle to a peg or cord from an old overhead timber beam. Newly dressed Chen in understated deep teal full robe and clean cap waits beside the side door, looking at the bundle. Daylight, unfinished plank floor, no bathing, exposure, violence or writing.",
+      "references": [
+        "094-02（张胜）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use adult broad bearded MAN Zhang only; ref2 adult young oval-faced Chen only; ref3 painted medium. Exactly two fully dressed adult Chinese men. Low angled view inside spare guard duty room, Zhang lifts a tied ragged grey cloth bundle to a peg or cord from an old overhead timber beam. Newly dressed Chen in understated deep teal full robe and clean cap waits beside the side door, looking at the bundle. Daylight, unfinished plank floor, no bathing, exposure, violence or writing."
+    },
+    {
+      "id": "097-02-v2",
+      "chapter": 97,
+      "title": "隔纱窗再看一眼",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 12,
+          "quote": "是与舅吃的"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 12,
+          "quote": "打纱窗外往里张看"
+        }
+      ],
+      "people": [
+        "玳安",
+        "陈经济"
+      ],
+      "place": "守备府西书院窗外",
+      "event": "玳安跟着送饭人到西书院，从纱窗看见陈经济。",
+      "why": "先前只远远看见的面孔，这一次有了送饭人的话和所见房间互相印证。",
+      "composition": "从窗外侧拍，玳安轮廓近，纱格内陈经济坐到饭桌前。",
+      "summary": "月娘来赴春梅生日席，陈经济留在西书院不出来。玳安问送饭小伴当，听说是给陈舅，便跟去隔窗认人，回家再向月娘说明。图只让两位成人入画，不让月娘在现场看见。",
+      "psychology": "玳安先问姓、再亲眼看。他说服月娘用的是所见，不只是对那称呼的猜测。",
+      "social": "同一户人家的前后院能同时接待来客与避开来客，靠送饭和门窗各得其所。",
+      "explicit": "西书院、纱窗、盘中汤饭点心、隔窗观看。",
+      "inference": "窗格样式和窗案距离属示意。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only left adult male Dai'an, ignore woman; ref2 only young adult Chen, ref3 paint medium. Two visible adult Chinese men, voyeur-free view from outdoors over Dai'an's fully clothed shoulder as he peers quietly through an old fine gauze lattice window into a study. Through clear portion Chen in plain teal robe is at a low desk receiving himself to eat a tray of food already there. Depth separates them, both faces plausible, no reflection doubles, no women, no bedroom intimacy or text.",
+      "references": [
+        "097-02（前稿，局部修正）",
+        "young-people-030左（玳安）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-02-v2.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版补上窗纱，并校正窗外春叶；仍未复原送饭者的位置。",
+      "actualPrompt": "Preserve the two adult men and window layout, food and hands. The scene is in late lunar April, so remove orange-red maple leaves at left and put fresh spring green leaves. More critically add a thin, translucent woven gauze across the center window opening, still letting us see Chen beyond it clearly but dimmer, as man outside is looking through the gauze. No writing; keep all people and props unchanged.",
+      "baselineReferences": [
+        "young-people-030左（玳安）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "knownDeviation": "修正版补上窗纱，并校正窗外春叶；仍未复原送饭者的位置。"
+    },
+    {
+      "id": "097-03",
+      "chapter": 97,
+      "title": "雨前的金荷花杯",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 15,
+          "quote": "盆栽绿柳，瓶插红榴"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 16,
+          "quote": "春梅拿起大金荷花杯来相劝"
+        }
+      ],
+      "people": [
+        "春梅",
+        "孙二娘",
+        "陈经济"
+      ],
+      "place": "守备府西书院花亭",
+      "event": "端午酒席将晚，春梅举荷花杯劝酒。",
+      "why": "一组节物让人认得是端午，也让同桌与离席的时间有了界线。",
+      "composition": "把杯、粽、红榴放近处；人物只作席间可辨的半身。",
+      "summary": "守备出巡时，春梅在花亭和孙二娘、陈经济过端午。正文列出角黍、菖蒲、艾虎、绒绳和插榴；将晚微雨，春梅举荷花杯。图停在席间劝酒，不画后来离席或私下的事。",
+      "psychology": "孙二娘后来因不胜酒力先走，画中不让她预先露出别的心思。",
+      "social": "粽、插榴与五色绳写的是这一席的节俗；不是每户人家摆设相同。",
+      "explicit": "金荷花杯、红榴、角黍、花亭、三名席客。",
+      "inference": "不确认杯的制式；孙二娘用较年长圆钝下颌与朴素墨蓝衣区分。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei, ref2 only adult Chen, ref3 painted medium. Three adult Chinese people at a roofed courtyard pavilion table at Dragon Boat festival before a light shower: foreground close large golden lotus-petal goblet just raised by Chunmei's clothed hand, leaf-wrapped triangular rice dumplings, vivid red pomegranate blossom in a ceramic vase and a tiny potted green willow. Midground attentive adult Second Lady Sun in modest ink-blue robe distinct mature round jaw and Chen in teal. Quiet damp light, no writing, no paper lanterns or extra figures, no touch.",
+      "references": [
+        "chun-030（春梅）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei, ref2 only adult Chen, ref3 painted medium. Three adult Chinese people at a roofed courtyard pavilion table at Dragon Boat festival before a light shower: foreground close large golden lotus-petal goblet just raised by Chunmei's clothed hand, leaf-wrapped triangular rice dumplings, vivid red pomegranate blossom in a ceramic vase and a tiny potted green willow. Midground attentive adult Second Lady Sun in modest ink-blue robe distinct mature round jaw and Chen in teal. Quiet damp light, no writing, no paper lanterns or extra figures, no touch."
+    },
+    {
+      "id": "097-04",
+      "chapter": 97,
+      "title": "花箱之外一方红缎",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 23,
+          "quote": "袖中取出个婚帖儿"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 23,
+          "quote": "大红缎子上写着开缎铺葛员外家大女儿"
+        }
+      ],
+      "people": [
+        "春梅",
+        "薛嫂"
+      ],
+      "place": "守备府内",
+      "event": "薛嫂送花时取出葛家婚帖，春梅决定让她先通信。",
+      "why": "婚事把媒人的口头消息、男方的身份和女方的家业摆上了同一张桌。",
+      "composition": "用花箱遮住半张桌面，只露从袖中递出的红缎一角。",
+      "summary": "此前两门亲都没谈成。薛嫂又带来葛翠屏的婚帖，介绍她二十岁，说葛家开缎铺、往来苏杭南京，嫁妆备得齐。春梅听后让她去通信。媒人的外貌与家财评价，先按她的说法看。",
+      "psychology": "春梅前两次拒绝各有理由。此处同意先联系，尚未完成纳彩迎娶。",
+      "social": "门第既包括守备府的声势，也包括葛家生意与陪嫁的条件。",
+      "explicit": "花箱、袖里取出红缎婚帖。",
+      "inference": "不开正面文字；缎色、折法及桌面取叙事示意。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei face; ref2 only LEFT older Xue Sao face; ref3 paint. Two fully clothed Chinese women in a sunny household workroom. From close side angle show Xue Sao in faded plum drawing ONE modest folded scarlet silk marriage card half from her sleeve beside a closed portable flower case, Chunmei in muted blue-green takes an interested look. Hands and red silk lead composition, no writing or other people, no excessive decor.",
+      "references": [
+        "chun-030（春梅）",
+        "matchmakers-030左（薛嫂）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei face; ref2 only LEFT older Xue Sao face; ref3 paint. Two fully clothed Chinese women in a sunny household workroom. From close side angle show Xue Sao in faded plum drawing ONE modest folded scarlet silk marriage card half from her sleeve beside a closed portable flower case, Chunmei in muted blue-green takes an interested look. Hands and red silk lead composition, no writing or other people, no excessive decor."
+    },
+    {
+      "id": "097-05-v2",
+      "chapter": 97,
+      "title": "盖袱下抱着宝瓶",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 27,
+          "quote": "戴着大红销金盖袱"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 27,
+          "quote": "抱着寳瓶，进入大门"
+        }
+      ],
+      "people": [
+        "葛翠屏",
+        "陈经济",
+        "春梅"
+      ],
+      "place": "守备府大门",
+      "event": "葛翠屏下轿后抱宝瓶过门。",
+      "why": "婚礼中最容易认出的不是新人的脸，而是她在门槛上抱的那件东西。",
+      "composition": "以宝瓶与双手近景为主，新娘正过门槛；白马和迎亲人只在后景。",
+      "summary": "六月初八迎娶葛翠屏。陈经济骑白马，青缎圆领，簪两枝金花。新娘落轿，戴红盖袱、抱宝瓶入门，之后才参拜、坐帐。只画入门这一段。",
+      "psychology": "盖袱遮住表情；媒人所说的瓜子面、小身材，不强行写成此图看得见的面貌。",
+      "social": "纳彩的二十两礼银和迎娶门槛的宝瓶各有用途，不能把礼物都画成现金。",
+      "explicit": "大红盖袱、宝瓶、门槛、白马、青缎圆领。",
+      "inference": "宝瓶设小型青釉，形制未明；不画未出现的旗号与额文。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face if visible in rear; ref2 paint. Close oblique view of adult Chinese bride Ge Cuiping crossing a wooden gate sill in a fully closed deep red embroidered wedding ensemble with face entirely hidden by draped scarlet gold-patterned veil. She holds ONE small pale celadon jar securely against body with both hands. Behind in soft focus an adult groom in teal round-collared robe beside a white horse and a closed red bridal sedan. Quietly ceremonial, no skin display, no writing, no oversized vessels or crowd closeups.",
+      "references": [
+        "097-05（前稿，局部修正）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-05-v2.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版按六月换为夏叶；宝瓶形制和新郎头饰没有逐项复原。",
+      "actualPrompt": "Edit the supplied illustration only in the visible outdoor foliage. This is a hot early-summer wedding: remove orange autumn leaves on upper left and ground, replace with fresh deep green leaves and warm summer light. Keep the fully veiled bride, pale blue-green vase, hands, red sedan and white horse exactly. No lettering.",
+      "baselineReferences": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "knownDeviation": "修正版按六月换为夏叶；宝瓶形制和新郎头饰没有逐项复原。"
+    },
+    {
+      "id": "097-06",
+      "chapter": 97,
+      "title": "在书院经手印信",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 30,
+          "quote": "都打他手里过"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 30,
+          "quote": "或登记簿籍，或御使印信"
+        }
+      ],
+      "people": [
+        "陈经济"
+      ],
+      "place": "守备府西书院",
+      "event": "陈经济在书案前登记和经手来往文书。",
+      "why": "所谓在府中“用事”，可以从谁先接触文书、谁登记、谁经手印看出来。",
+      "composition": "案头俯侧，展簿、折帖、笔与印各占清楚位置。",
+      "summary": "成婚后，春梅另辟西厢给夫妇住，外边西书院仍是陈经济书房。守备往来书柬和手本过他的手，有的登记，有的经手印信。画取案头动作，不能据此称他已经有正式官职。",
+      "psychology": "原文在这段主要列他办的事，没有写他当时怎样想。",
+      "social": "住在府里、代办文书、正式任官是不同的事；本图只画已写明的第二种。",
+      "explicit": "书房、簿籍、笔砚、印信、架阁书集。",
+      "inference": "印文、文书内容、格式均不复原。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult male Chen face, ref2 paint. Single adult Chinese man in a quiet estate study, tight high three-quarter angle focused on a young man in neat slate-teal fully closed robe at a low dark desk, placing a small unlettered seal beside a spread register, brush and folded documents within reach. Plain bound books on a shelf, natural late light. No official hat, no text on paper, no additional figures. Make hands and objects structurally clear.",
+      "references": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/097-06.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult male Chen face, ref2 paint. Single adult Chinese man in a quiet estate study, tight high three-quarter angle focused on a young man in neat slate-teal fully closed robe at a low dark desk, placing a small unlettered seal beside a spread register, brush and folded documents within reach. Plain bound books on a shelf, natural late light. No official hat, no text on paper, no additional figures. Make hands and objects structurally clear."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "堂上重复了哪些话",
+      "text": "春梅私下告诉陈经济年龄、生日和该怎样说亲缘。周守备进来后，陈经济照样复述年龄生日。图鉴将这段当作双方合意的说法。",
+      "evidence": [
+        {
+          "chapter": 97,
+          "paragraph": 5,
+          "quote": "只说是姑表兄弟"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 6,
+          "quote": "俺姐姐长我一岁"
+        }
+      ]
+    }
+  ]
+}

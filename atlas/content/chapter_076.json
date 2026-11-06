@@ -1,0 +1,283 @@
+{
+  "number": 76,
+  "title": "第七十六回孟玉楼解愠吴月娘　西门庆斥逐温葵轩",
+  "intro": "说和、说情、收文、交钥匙与闭门：本回的许多转折，发生在一双手交出或收回东西的时候。",
+  "scenes": [
+    {
+      "id": "076-01",
+      "chapter": 76,
+      "title": "隔着绵裀，伸出手腕",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 3,
+          "quote": "月娘向袖口边伸玉腕，露青葱，教任医官诊脉"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "任医官",
+        "琴童"
+      ],
+      "place": "上房明间",
+      "event": "月娘经催促后出房，坐在对面椅上接受诊脉。",
+      "why": "上回仍在犹豫见医，本回才实际伸出了手腕。",
+      "composition": "桌上绵裀为前景，两人分坐两边，诊脉动作轻而有限。",
+      "summary": "月娘穿戴后走出，医官先避身还礼，再隔桌诊脉。诊完她即回房，症状又由琴童传出。画面取诊脉本身，不画已经痊愈；医官随后看到官场宴客人役而倍加敬重，也使照料和家主声势出现在同一段。",
+      "psychology": "明写：月娘诊后退回、医官另听传话。解释：她参加了诊察，并不意味着原有顾虑全部消失。",
+      "social": "症状、脉理与药效说法属于小说人物的当时语言，不用来提供现代诊断或治疗建议。",
+      "explicit": "月娘白绫袄柳黄裙延续75回衣装；明间、春凳、毡毯、火盆、桌上绵裀、对面诊脉。",
+      "inference": "医官面貌设为瘦长年长男子、灰须；桌椅与手腕姿态补足。月娘团面、身量不高依本回新描写。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY mature round-faced Wu Yueniang. Reference2 ONLY painted gongbi silk medium. Intimate Chinese winter household consultation, TWO principal fully clothed adults and one plain attendant partly visible. Yueniang, short-to-average stature, full round face, modest pregnant silhouette under CLOSED WHITE silk padded jacket and PALE YELLOW long skirt, sits at LEFT of a small table. She rests ONE wrist on a small textile cushion, sleeve otherwise covering arm. Opposite at right an older lean male doctor with long face gray short beard and plain charcoal scholar robe gently places two fingertips at her wrist, professional serious posture, no intimacy. A young household attendant stands far behind holding a covered tea tray, no sexualization. Woven carpet, plain chair and modest brazier, diffused winter daylight, no medicine being given or guaranteed recovery, no writing, anatomy coherent, fine ink lines matte mineral pigment.",
+      "references": [
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY mature round-faced Wu Yueniang. Reference2 ONLY painted gongbi silk medium. Intimate Chinese winter household consultation, TWO principal fully clothed adults and one plain attendant partly visible. Yueniang, short-to-average stature, full round face, modest pregnant silhouette under CLOSED WHITE silk padded jacket and PALE YELLOW long skirt, sits at LEFT of a small table. She rests ONE wrist on a small textile cushion, sleeve otherwise covering arm. Opposite at right an older lean male doctor with long face gray short beard and plain charcoal scholar robe gently places two fingertips at her wrist, professional serious posture, no intimacy. A young household attendant stands far behind holding a covered tea tray, no sexualization. Woven carpet, plain chair and modest brazier, diffused winter daylight, no medicine being given or guaranteed recovery, no writing, anatomy coherent, fine ink lines matte mineral pigment."
+    },
+    {
+      "id": "076-02",
+      "chapter": 76,
+      "title": "借一句“亲家”笑开",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 6,
+          "quote": "亲家，孩儿年幼，不识好歹，冲撞亲家"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 6,
+          "quote": "那月娘忍不住也笑了"
+        }
+      ],
+      "people": [
+        "孟玉楼",
+        "潘金莲",
+        "吴月娘"
+      ],
+      "place": "月娘上房，赔礼时",
+      "event": "玉楼扮作金莲母亲说亲家话，金莲四拜后追打她，月娘也笑开。",
+      "why": "道理未能独自收场，借角色玩笑给几个人留了台阶。",
+      "composition": "三角中景，刚起身的金莲回头向玉楼，月娘在侧开始笑。",
+      "summary": "玉楼先劝月娘，又去劝金莲梳头赔礼。进屋后她忽以亲家、孩儿自居，替金莲说好话。金莲四拜后恼她又充娘，众人笑起来，接着一起装果盒。图取笑开的礼后瞬间，不画真的母女关系或当场殴打。",
+      "psychology": "明写：金莲忍气接受劝说，月娘也笑。解释：短暂说和与彼此理解并非一件事；画面不宣告嫌隙全消。",
+      "social": "前边宴客正在忙，装盒、擦器和厨下事务催人重新合作；说和也有实际分工的需要。",
+      "explicit": "玉楼扮亲家、金莲四拜、月娘笑、随后金莲洗手装果盒。",
+      "inference": "三人的具体衣色、微笑力度与站位补足；玉楼保留微麻。以回身手势表示玩笑，不作击打动作。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY tall slim mature Meng Yulou with subtle pockmarks. Reference2 ONLY narrow oval adult Pan Jinlian. Reference3 ONLY mature round-faced Wu Yueniang. Reference4 ONLY painted medium. Three fully clothed adult women, winter sitting room. Yulou at left in muted ochre padded jacket and dark red skirt lightly holds both hands together, comically formal matchmaking-parent posture, smiling without caricature. Pan center in indigo padded jacket and muted rose skirt has JUST RISEN from a formal bow, turns toward Yulou with mock-reproach small raised open hand, NO hitting. Yueniang at right on kang in WHITE jacket and pale yellow skirt has finally begun smiling, relaxed eyes. A few partly filled fruit gift boxes on a low table emphasize work awaiting them. Natural cloth textures, no actual wedding, no mother-and-child tableau, no text, fine painted contour and matte mineral color.",
+      "references": [
+        "yulou（玉楼）",
+        "pan-solo-030（金莲）",
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY tall slim mature Meng Yulou with subtle pockmarks. Reference2 ONLY narrow oval adult Pan Jinlian. Reference3 ONLY mature round-faced Wu Yueniang. Reference4 ONLY painted medium. Three fully clothed adult women, winter sitting room. Yulou at left in muted ochre padded jacket and dark red skirt lightly holds both hands together, comically formal matchmaking-parent posture, smiling without caricature. Pan center in indigo padded jacket and muted rose skirt has JUST RISEN from a formal bow, turns toward Yulou with mock-reproach small raised open hand, NO hitting. Yueniang at right on kang in WHITE jacket and pale yellow skirt has finally begun smiling, relaxed eyes. A few partly filled fruit gift boxes on a low table emphasize work awaiting them. Natural cloth textures, no actual wedding, no mother-and-child tableau, no text, fine painted contour and matte mineral color."
+    },
+    {
+      "id": "076-03",
+      "chapter": 76,
+      "title": "手本之外，还有三两",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 8,
+          "quote": "宋御史看了，即令书办吏典收执"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 8,
+          "quote": "悄悄递上三两银子与他"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "宋御史",
+        "书吏"
+      ],
+      "place": "卷棚内，正式宴席前",
+      "event": "荆忠与吴铠的履历被宋交书吏收下，西门另令人悄递三两。",
+      "why": "面上承诺还要经过经手文书的人，这一步又有另一笔打点。",
+      "composition": "手本由官员转向书吏，银从低处递来，双层动作在同一空间。",
+      "summary": "宋谢鼎后问地方官员，西门推荐荆忠，又说明吴铠是妻兄。宋允题本时照看，令吏收履历，西门又悄送书吏三两。画面截收帖与递银的连续环节，不把尚待年终的升转画成已经颁发。",
+      "psychology": "明写：西门作揖、递手本、打点书吏；叙述说书吏记在心上。解释：不能由一句允诺断定全部升迁程序已完。",
+      "social": "鼎的奉价在本段再次被辞谢；官员承诺和书吏打点分属不同层次，不合并成精确买官价格。",
+      "explicit": "两份履历、宋命收执、三两银悄递书吏。",
+      "inference": "宋设成熟长方脸、短须；书吏与递银家役面貌、银锭形态、衣色与空间距离补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY gongbi painted medium. FOUR fully clothed adult men in a private garden reception room. Ximen seated left in blue-green robe listens as a mature square-faced official Song in plain dark formal robe hands TWO folded letterless service-record papers to a lean gray-robed clerk standing at right. Low near the clerk sleeve, a plain household attendant discreetly offers ONE small silver piece, not a mountain of money, no exact weight engraved. Clerk fingers receive document while noticing discreet silver, coherent separate hands. Foreground tea cups, winter garden through lattice, subtle hierarchy of seats and standing bodies. The event is filing petitions and a separate gratuity, NOT successful promotion ceremony, no readable text, stamps or future insignia. Fine painted ink contour mineral colors.",
+      "references": [
+        "ximen（西门庆）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY gongbi painted medium. FOUR fully clothed adult men in a private garden reception room. Ximen seated left in blue-green robe listens as a mature square-faced official Song in plain dark formal robe hands TWO folded letterless service-record papers to a lean gray-robed clerk standing at right. Low near the clerk sleeve, a plain household attendant discreetly offers ONE small silver piece, not a mountain of money, no exact weight engraved. Clerk fingers receive document while noticing discreet silver, coherent separate hands. Foreground tea cups, winter garden through lattice, subtle hierarchy of seats and standing bodies. The event is filing petitions and a separate gratuity, NOT successful promotion ceremony, no readable text, stamps or future insignia. Fine painted ink contour mineral colors."
+    },
+    {
+      "id": "076-04",
+      "chapter": 76,
+      "title": "札付上的新名目",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 20,
+          "quote": "看见上写「义官乔洪」名字"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 20,
+          "quote": "援例上纳白米三十石，以济边储"
+        }
+      ],
+      "people": [
+        "乔大户",
+        "西门庆"
+      ],
+      "place": "厅上，乔来看义官札付",
+      "event": "乔看到已经送来的札付，欢喜致谢，并说有了冠带便敢陪坐。",
+      "why": "文书上的名目，迅速变为席间可见的身份与自信。",
+      "composition": "两人对看文书，乔双手接近纸缘，表情较前来求援时开朗。",
+      "summary": "前面交三十两并猪酒，胡府尹送来札付；这里文书写纳白米三十石。乔看见自己名字十分欢喜，随即说有冠带便可陪坐。图不画三十石米已经在院内交粮，也不将银、米两种表述强行换算。",
+      "psychology": "明写：乔满心欢喜，感谢亲家，提到以后陪坐。解释：得到一种名目影响他如何进入熟人圈，不意味着掌握了与各官相同的职权。",
+      "social": "义官不能只凭冠服当成实任掌刑官；本回给出的重点是札付、名目与交际。",
+      "explicit": "札付、义官乔洪、白米三十石记载、冠带与致谢。",
+      "inference": "乔沿早期图无可锁独立脸，设年长圆脸细须、较宽体；正式衣色、文书封套补足，纸面不造可读文字。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing identity. Reference2 ONLY painted medium. A warm winter household reception table, TWO adult men. At left Qiao, DISTINCT older broad-bodied man with round lined face and thin gray moustache, now plain dark blue formal robe and black official-style cap, leans forward delighted and respectfully studies a folded official document held open by Ximen at right. Ximen long face blue-green robe gestures calmly at paper, not emperor conferring office. Blank or abstract paper marks ONLY, no readable names or seals. Qiao hands joined just above lap beginning thanks, no kowtow action required. Covered tea cup and small document wrapper, natural restrained smile, no rice sacks, no weighing silver, no actual government courtroom, fine gongbi ink and mineral pigment.",
+      "references": [
+        "ximen（西门庆）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing identity. Reference2 ONLY painted medium. A warm winter household reception table, TWO adult men. At left Qiao, DISTINCT older broad-bodied man with round lined face and thin gray moustache, now plain dark blue formal robe and black official-style cap, leans forward delighted and respectfully studies a folded official document held open by Ximen at right. Ximen long face blue-green robe gestures calmly at paper, not emperor conferring office. Blank or abstract paper marks ONLY, no readable names or seals. Qiao hands joined just above lap beginning thanks, no kowtow action required. Covered tea cup and small document wrapper, natural restrained smile, no rice sacks, no weighing silver, no actual government courtroom, fine gongbi ink and mineral pigment."
+    },
+    {
+      "id": "076-05",
+      "chapter": 76,
+      "title": "铺子钥匙，先交出来",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 38,
+          "quote": "把狮子街铺内钥匙，交递与西门庆"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 42,
+          "quote": "把钥匙交付与他"
+        }
+      ],
+      "people": [
+        "贲四",
+        "西门庆"
+      ],
+      "place": "厅上，贲四告假送家眷入京",
+      "event": "贲四呈夏书、交铺钥匙，西门安排二舅暂代开铺。",
+      "why": "答应人情之后，还要补上日常生意里不能空着的一个位置。",
+      "composition": "交钥匙的手部近景，两张侧脸与旅包分别在后。",
+      "summary": "夏家借贲四护送家眷，贲四来问去不去。西门允行，又因年节绸线销快不肯关铺，后来把钥匙交吴二舅代管。图取第一次交钥匙，不把后来代管人也塞在同一现场。",
+      "psychology": "明写：贲四请示，西门说夏央他应去，又安排替手。解释：许可离开并不等于店铺自动继续运转。",
+      "social": "这里不是宣布新伙计永久接任；文本说暂代与轮流上宿，长期安排仍不补造。",
+      "explicit": "夏书、初六起程、月半回、交狮子街铺钥匙、二舅代开。",
+      "inference": "贲四脸沿71回新像，蓝衣小帽；钥匙形制、旅包、桌面和手势补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ben Si, stockier middle-aged clerk at LEFT FOREGROUND in blue robe small cap, preserve wide nose and short moustache. Reference2 ONLY Ximen long face. Reference3 ONLY painted medium. CLOSE-TO-MEDIUM household business handover. Ben Si stands left with simple dark travel bundle over one forearm, offers a SMALL old brass shop KEY on a plain ring with his other hand. Ximen seated right in dark green indoor robe reaches to accept, folded letterless letter on desk, no contract text. Foreground key and separate hands sharply legible, faces three-quarter in soft winter light. No bank vault, no map, no new replacement employee in scene, no train or modern luggage, tactile worn metal coarse cloth ink contours mineral pigment.",
+      "references": [
+        "071-02左前（贲四）",
+        "ximen（西门庆）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-05.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ben Si, stockier middle-aged clerk at LEFT FOREGROUND in blue robe small cap, preserve wide nose and short moustache. Reference2 ONLY Ximen long face. Reference3 ONLY painted medium. CLOSE-TO-MEDIUM household business handover. Ben Si stands left with simple dark travel bundle over one forearm, offers a SMALL old brass shop KEY on a plain ring with his other hand. Ximen seated right in dark green indoor robe reaches to accept, folded letterless letter on desk, no contract text. Foreground key and separate hands sharply legible, faces three-quarter in soft winter light. No bank vault, no map, no new replacement employee in scene, no train or modern luggage, tactile worn metal coarse cloth ink contours mineral pigment."
+    },
+    {
+      "id": "076-06",
+      "chapter": 76,
+      "title": "长柬停在门外",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 41,
+          "quote": "家老爹要房子堆货，教温师父转寻房儿便了"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 43,
+          "quote": "具了一篇长柬，递与琴童儿，琴童又不敢接"
+        }
+      ],
+      "people": [
+        "温秀才",
+        "琴童"
+      ],
+      "place": "西门家门外，温求见时",
+      "event": "温接迁居通知，衣巾求见，长柬也未被接进。",
+      "why": "从替主人写帖的人，到自己的书柬无法进去，变化落实在门口。",
+      "composition": "门内外的近远反差，温持长柬前伸，家役双手收在袖中，留出空距。",
+      "summary": "画童哭着不愿回温处，随后陈说自己受害，也提及温探问内事、取书稿。西门询问后令不再过去，并以堆货为由叫温搬离。温两次求见不得，长柬未接，最后搬回旧处。图只画成年人在门口，不画侵害、不展示儿童身体或相关器具。",
+      "psychology": "明写：温大惊、求见；西门联想到消息外泄并决定逐人。解释：儿童的陈说与主人担心泄密在同段并列，不能用主人被背叛的感觉遮掉受害者，也不替温画已被审判的公堂。",
+      "social": "这是家主撤去居所与往来的处分，不是刑事审判完结记录。温被逐事实与各项陈说的证据层次分开。",
+      "explicit": "通知搬房、拒见、琴童不敢接长柬、搬往旧处。",
+      "inference": "温面貌沿72、73回，绿袍方巾；琴童只画成年普通家役，精确年龄未定；门墙与距离为美术补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wen Xiucai at RIGHT wearing green scholar robe and square cap, mature gaunt face neat short beard, preserve identity, not the other two men. Reference2 ONLY painted medium. TWO ADULT MEN at an ordinary wealthy-house threshold in cool daylight. Outside at LEFT Wen in full green satin scholar robe and square headcloth holds a LONG FOLDED letterless letter forward with both hands, worried stiff posture. Inside at RIGHT a plainly clothed ADULT male attendant in simple indigo robe keeps his hands WITHIN his own sleeves, declines to receive it, no violence or ridicule. A thick door panel and threshold leave visible distance between offered letter and withheld hands. No child visible anywhere, no abusive act, no bedroom, no sexual content, no punishment tools or dramatic injury. The narrative is revoked access, not a court verdict. Winter wind, worn wood and matte ink/mineral pigment, no writing.",
+      "references": [
+        "072-02右侧（温）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/076-06.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wen Xiucai at RIGHT wearing green scholar robe and square cap, mature gaunt face neat short beard, preserve identity, not the other two men. Reference2 ONLY painted medium. TWO ADULT MEN at an ordinary wealthy-house threshold in cool daylight. Outside at LEFT Wen in full green satin scholar robe and square headcloth holds a LONG FOLDED letterless letter forward with both hands, worried stiff posture. Inside at RIGHT a plainly clothed ADULT male attendant in simple indigo robe keeps his hands WITHIN his own sleeves, declines to receive it, no violence or ridicule. A thick door panel and threshold leave visible distance between offered letter and withheld hands. No child visible anywhere, no abusive act, no bedroom, no sexual content, no punishment tools or dramatic injury. The narrative is revoked access, not a court verdict. Winter wind, worn wood and matte ink/mineral pigment, no writing."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "把症状、诊断和感受分开",
+      "text": "医官解释脉理，月娘自述不适；后来她说好转并与玉楼开玩笑。三者均是人物当时的话，不据此向读者证明一套现代医学因果。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 19,
+          "quote": "今日好了，头也不疼，心口也不发胀了"
+        }
+      ]
+    },
+    {
+      "title": "前一回的奉价，在这里被辞掉",
+      "text": "宋再次说还当奉价，西门答岂敢云价。这是76回新增的对话，不回头改75回尚待兑现的承诺记录。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 8,
+          "quote": "岂敢云价"
+        }
+      ]
+    },
+    {
+      "title": "账和银钱一并交接",
+      "text": "玉楼攒账后不再管使用银钱，西门兑三十两银、三十吊钱交金莲。银与钱并列，不能把两个三十直接相加成同一货币总额。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 19,
+          "quote": "三十两银子，三十吊钱"
+        }
+      ]
+    }
+  ]
+}

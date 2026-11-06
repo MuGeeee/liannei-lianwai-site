@@ -1,0 +1,236 @@
+{
+  "number": 83,
+  "title": "第八十三回秋菊含恨泄幽情　春梅寄柬谐佳会",
+  "intro": "雨披、珠花、门锁与草筐都参与了知情和遮掩。看见了什么，与谁肯相信，是两条不总相合的线。",
+  "scenes": [
+    {
+      "id": "083-01",
+      "chapter": 83,
+      "title": "雨里的红卧单",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 8,
+          "quote": "披着一条茜红氁子卧单在身上"
+        },
+        {
+          "chapter": 83,
+          "paragraph": 9,
+          "quote": "见一人披着红卧单，従房中出去了"
+        }
+      ],
+      "people": [
+        "陈经济"
+      ],
+      "place": "花园角门间，雨中来往",
+      "event": "经济冒雨来赴约，翌晨那条红卧单又成了秋菊辨认人的线索。",
+      "why": "为遮雨拿来的一件日常物，也会让隐蔽来往变得可辨。",
+      "composition": "雨夜宽景，红织物包住完整衣装的人，门只虚掩一道。",
+      "summary": "黄昏雨紧，经济等不住，披红卧单从西角门入园。天明仍雨，秋菊隔窗见红卧单的人出去，觉得像陈姐夫。图只画雨中入门；次晨观察另记文字，不把秋菊初见时的恰似升级为当场看清所有细节。",
+      "psychology": "明写：经济急于赴约，秋菊后来据所见判断。解释：读者已知来者，观察者却只有片断线索，两种知识不等量。",
+      "social": "氁子卧单在这里用作披雨织物，不画成红色官服或婚衣。",
+      "explicit": "大雨、茜红卧单、西角门、门虚掩、次晨红影线索。",
+      "inference": "取入门而非出门的单一时刻；雨量、铺地与门制为艺术补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face; reference2 ONLY fine painted gongbi narrative medium. WIDE rain-soaked Chinese courtyard at dusk, ONE fully clothed adult man moves quickly through partly open small side gate. Chen wears plain blue-gray full robe, drapes a LARGE DEEP MADDER-RED WOOLEN BED COVER over shoulders and head as improvised rain covering, edges heavy and wet, not a red official cape or wedding costume. One hand holds fabric closed, one pushes wooden gate. Rain from tile eaves, puddled worn stones reflect a distant small lantern, foliage in soft silhouette, no bedroom or other person visible. Mood urgent ordinary concealment, no supernatural stalker, no sex or nudity, drawn contour and mineral pigments, no text.",
+      "references": [
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/083-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face; reference2 ONLY fine painted gongbi narrative medium. WIDE rain-soaked Chinese courtyard at dusk, ONE fully clothed adult man moves quickly through partly open small side gate. Chen wears plain blue-gray full robe, drapes a LARGE DEEP MADDER-RED WOOLEN BED COVER over shoulders and head as improvised rain covering, edges heavy and wet, not a red official cape or wedding costume. One hand holds fabric closed, one pushes wooden gate. Rain from tile eaves, puddled worn stones reflect a distant small lantern, foliage in soft silhouette, no bedroom or other person visible. Mood urgent ordinary concealment, no supernatural stalker, no sex or nudity, drawn contour and mineral pigments, no text."
+    },
+    {
+      "id": "083-02",
+      "chapter": 83,
+      "title": "珠花摆在眼前",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 10,
+          "quote": "教春梅放小桌儿在床上，拿过珠花来"
+        },
+        {
+          "chapter": 83,
+          "paragraph": 10,
+          "quote": "原来在屋里穿珠花哩"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "吴月娘",
+        "春梅"
+      ],
+      "place": "金莲房中，临时摆起的穿珠花处",
+      "event": "月娘突然到来，金莲以穿珠花掩饰，月娘看到手艺便称赞。",
+      "why": "眼见也有边界：看见桌上真有珠花，不能证明别处就没有被藏起的事。",
+      "composition": "珠花与两位女主手势居前，床身与帷帐完全遮住，不展示藏者。",
+      "summary": "秋菊又去报，小玉改说成五娘请奶奶。月娘到前，春梅先报，经济被藏起，床上架小桌穿珠花。月娘细看花样，夸好并请她也穿一条。图只画完全着衣的三人和珠花；不画藏者身体，也不把月娘称赞改成已经识破的反讽对白。",
+      "psychology": "明写：金莲紧张后因月娘好话放松，月娘信眼前手工。解释：布置并非虚幻，正因真在穿珠，才足以让来意改变。",
+      "social": "珠花是此幕的掩护，也是细致手工本身。芝麻花、方胜、蜂赶菊、同心结为原文花样；具体串法未核实。",
+      "explicit": "床上小桌、珠花、月娘拿看赞、春梅倒茶。",
+      "inference": "图把小桌置榻前近处便于观看，细珠式样属艺术复原；无人裸露或性化。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow natural face; reference2 ONLY round mature Yueniang; reference3 ONLY Chunmei young straight brows, modest NONSEXUAL; reference4 ONLY painted gongbi medium. THREE fully clothed female figures at an indoor daytime craft scene. Pan in CLOSED pale blue-gray jacket and full long skirt sits upright on a covered kang with a SMALL LOW TABLE upon it, threads tiny pearls into a floral forehead ornament. Yueniang in plain white mourning outer robe leans forward holding one edge of finished bead ornament and admiring fine work, trusting expression, not knowingly suspicious. Chunmei in loose closed blue jacket and long yellow skirt at right brings a covered cup, controlled attentive look. Full blanket and opaque wooden kang base conceal ALL beneath, no hidden body's outline or limbs, no nakedness, no intimacy. Close detailed pearl motifs abstract flowers and diamond knots, no exact archaeological claim. Fine silk painted contours, quiet light, no text.",
+      "references": [
+        "pan-solo-030（金莲）",
+        "moon-030（月娘）",
+        "chun-030（春梅）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/083-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow natural face; reference2 ONLY round mature Yueniang; reference3 ONLY Chunmei young straight brows, modest NONSEXUAL; reference4 ONLY painted gongbi medium. THREE fully clothed female figures at an indoor daytime craft scene. Pan in CLOSED pale blue-gray jacket and full long skirt sits upright on a covered kang with a SMALL LOW TABLE upon it, threads tiny pearls into a floral forehead ornament. Yueniang in plain white mourning outer robe leans forward holding one edge of finished bead ornament and admiring fine work, trusting expression, not knowingly suspicious. Chunmei in loose closed blue jacket and long yellow skirt at right brings a covered cup, controlled attentive look. Full blanket and opaque wooden kang base conceal ALL beneath, no hidden body's outline or limbs, no nakedness, no intimacy. Close detailed pearl motifs abstract flowers and diamond knots, no exact archaeological claim. Fine silk painted contours, quiet light, no text."
+    },
+    {
+      "id": "083-03",
+      "chapter": 83,
+      "title": "门上添了锁",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 11,
+          "quote": "取衣物薬材，同玳安儿出入"
+        },
+        {
+          "chapter": 83,
+          "paragraph": 11,
+          "quote": "各处门户都上了锁钥"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "玳安"
+      ],
+      "place": "库房与内外门户，制度改变后的出入示意",
+      "event": "月娘改变住处安排，取货时让经济由家人同行，各门上锁。",
+      "why": "她没有相信每一条告发，却仍改变了谁能独自去哪里的规则。",
+      "composition": "钥匙近景、两人并行，封闭门扇成背景；不画完整平面图。",
+      "summary": "月娘担心外界议论，把大姐夫妇搬入仪门，经济要轮宿铺中，取药材衣物由玳安等同行，门锁也更紧。图为这些已执行安排的关系示意，不是任一把锁的实测记录；不能说她此时已知道全部内情。",
+      "psychology": "明写：她疑虑名声、爱女与孩子来路被议。解释：不信告发和采取防备可以并存，不必硬判成全信或全不信。",
+      "social": "库房钥匙、伴行与住宿地点共同约束行动，家庭中的管理权有可见的空间形式。",
+      "explicit": "搬住后边、轮宿铺、取物同行、门锁、禁止无事外出。",
+      "inference": "以一门一锁概括多处制度，锁式、库门位置、手势为艺术示意，无比例尺。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face; reference2 ONLY Daian at FAR LEFT panel, not other people; reference3 ONLY painted gongbi medium. TWO fully clothed adult male household figures at a plain storeroom door in daylight. Chen in closed subdued gray-blue full robe holds a small folded fabric bundle and waits, constrained neutral expression. Daian in ordinary brown-blue servant full robe stands WITH him, turns a small traditional metal padlock on wooden hasp with a key, alert but not cruel. Closed doors recede in courtyard depth, one simple lock central, herb bundles on shelf through narrow door gap, no complete floorplan or readable labels. Their side-by-side route clearly accompanied, no guards, chains, violence or prison bars. Fine wood and textile texture in matte painted silk, no text.",
+      "references": [
+        "chen-030（经济）",
+        "young-people-030左（玳安）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/083-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face; reference2 ONLY Daian at FAR LEFT panel, not other people; reference3 ONLY painted gongbi medium. TWO fully clothed adult male household figures at a plain storeroom door in daylight. Chen in closed subdued gray-blue full robe holds a small folded fabric bundle and waits, constrained neutral expression. Daian in ordinary brown-blue servant full robe stands WITH him, turns a small traditional metal padlock on wooden hasp with a key, alert but not cruel. Closed doors recede in courtyard depth, one simple lock central, herb bundles on shelf through narrow door gap, no complete floorplan or readable labels. Their side-by-side route clearly accompanied, no guards, chains, violence or prison bars. Fine wood and textile texture in matte painted silk, no text."
+    },
+    {
+      "id": "083-04",
+      "chapter": 83,
+      "title": "草筐里的柬帖",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 18,
+          "quote": "推往前边马坊中取草来填枕头"
+        },
+        {
+          "chapter": 83,
+          "paragraph": 20,
+          "quote": "捎寄了一柬帖在此"
+        }
+      ],
+      "people": [
+        "春梅",
+        "陈经济"
+      ],
+      "place": "印子铺，春梅借取草出入送信",
+      "event": "春梅带草筐到铺门传信，请经济再赴金莲处。",
+      "why": "同样被门禁限制的路，可以借一个被允许的差事绕过去。",
+      "composition": "草筐居前，小封帖从袖中递出，店门与夜色分开内外。",
+      "summary": "隔绝月余，金莲不快，春梅借往马坊取草填枕头，夹带密封柬帖到印子铺。傅伙计不在，经济独宿，收到后答应。图止于普通传信，二人的身体接触不画；也不把她此前受压而卷入的过程删去，仅用能干红娘一词概括她。",
+      "psychology": "明写：春梅主动提出办法、送信，经济作揖答谢。解释：她此刻确在帮助，不等于之前所有关系都出于平等自由的选择。",
+      "social": "草是真取的，差事同时成为出入理由；隐瞒并不一定靠完全虚构一件不存在的工作。",
+      "explicit": "草筐、马坊取草填枕、密封柬、印子铺、经济独在。",
+      "inference": "草筐形制、信折法、柜台位置补足；少女完整衣装无性化，与经济保持递物距离。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight-browed maid, entirely modest and NONSEXUAL; reference2 ONLY Chen Jingji young ADULT oval face; reference3 ONLY fine gongbi painted medium. TWO fully clothed figures at a modest pawn shop doorway by night. Chunmei stands outside in loose CLOSED blue-green jacket and full long yellow-gray skirt, holds a WOVEN BASKET filled with dry clean STRAW at hip level. With free hand she offers ONE tiny SEALED LETTER from sleeve across a respectful gap. Chen inside in full dark gray robe and plain cap reaches for letter, surprised attentive expression, no touching her. Simple counters and tied cloth parcels in warm candlelight, no glittering jewelry display or readable words. Basket and letter are dual narrative objects, everyday labor as passage, no romance pose, no nudity, believable wood, fine pigment and ink.",
+      "references": [
+        "chun-030（春梅）",
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/083-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight-browed maid, entirely modest and NONSEXUAL; reference2 ONLY Chen Jingji young ADULT oval face; reference3 ONLY fine gongbi painted medium. TWO fully clothed figures at a modest pawn shop doorway by night. Chunmei stands outside in loose CLOSED blue-green jacket and full long yellow-gray skirt, holds a WOVEN BASKET filled with dry clean STRAW at hip level. With free hand she offers ONE tiny SEALED LETTER from sleeve across a respectful gap. Chen inside in full dark gray robe and plain cap reaches for letter, surprised attentive expression, no touching her. Simple counters and tied cloth parcels in warm candlelight, no glittering jewelry display or readable words. Basket and letter are dual narrative objects, everyday labor as passage, no romance pose, no nudity, believable wood, fine pigment and ink."
+    },
+    {
+      "id": "083-05",
+      "chapter": 83,
+      "title": "说过，却没有被听见",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 33,
+          "quote": "再不敢来后边说去了"
+        },
+        {
+          "chapter": 83,
+          "paragraph": 35,
+          "quote": "我昨日见在铺子上宿"
+        }
+      ],
+      "people": [
+        "秋菊",
+        "吴月娘"
+      ],
+      "place": "上房门前，秋菊再次告知被斥退",
+      "event": "秋菊再来报告，月娘据先前所见斥责她，后来经济又以铺宿搪塞妻子。",
+      "why": "相同事实反复被不同的人改说，最后受威胁噤声的是地位最弱的报告者。",
+      "composition": "门槛分开两人，秋菊抱紧自己的袖子退一步，月娘坐处说话，不画打人。",
+      "summary": "又一次夜里所见后，秋菊再到后边报告。月娘想起上次珠花场面，认她无端葬送主子，斥骂要打；她只得逃回。图取话语被堵住的片刻，不复现窥见的性行为、裸体或暴力，也不把她受辱当作可供取乐的笑料。",
+      "psychology": "明写：秋菊怕、退、不敢再说；月娘担忧全家名誉与孩子被牵连。解释：家主的顾虑使亲眼所见也被塞进另一套可信与不可信的秩序。",
+      "social": "报告内容真假与报告者是否受保护是两个问题。本回读者知道其所见有据，不跟着辱骂把她判成撒谎者。",
+      "explicit": "再次告知、月娘据前次所见斥、要打、秋菊退走。",
+      "inference": "站位、表情与衣色补足；不画伤口或击打，完整衣装，不性化年轻人物。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Qiuju plain young female face BOTTOM LEFT panel, not other portraits, NONSEXUAL modest treatment; reference2 ONLY Yueniang mature round face; reference3 ONLY painted gongbi medium. TWO fully clothed female figures at a household threshold in daylight. Young Qiuju in loose CLOSED worn gray-brown cotton jacket and full dark skirt stands outside, shoulders tight, holding her own sleeve, one foot cautiously retreats, frightened but dignified natural face. Yueniang inside in plain white mourning robe sits upright, controlled angry expression and a firm STOP gesture toward door, no touching, stick or blow. Wooden threshold and half-open screen divide space, small tea cup untouched. No voyeuristic scene, nude body, injuries, degradation fetish or melodrama tears, focus on unequal speaking/listening positions. Fine ink contours mineral pigment, muted natural light, no text.",
+      "references": [
+        "others-030左下（秋菊）",
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/083-05.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Qiuju plain young female face BOTTOM LEFT panel, not other portraits, NONSEXUAL modest treatment; reference2 ONLY Yueniang mature round face; reference3 ONLY painted gongbi medium. TWO fully clothed female figures at a household threshold in daylight. Young Qiuju in loose CLOSED worn gray-brown cotton jacket and full dark skirt stands outside, shoulders tight, holding her own sleeve, one foot cautiously retreats, frightened but dignified natural face. Yueniang inside in plain white mourning robe sits upright, controlled angry expression and a firm STOP gesture toward door, no touching, stick or blow. Wooden threshold and half-open screen divide space, small tea cup untouched. No voyeuristic scene, nude body, injuries, degradation fetish or melodrama tears, focus on unequal speaking/listening positions. Fine ink contours mineral pigment, muted natural light, no text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "小玉把来意改了",
+      "text": "秋菊来报告，小玉没有向月娘照说，而改为五娘请说话。月娘因此来房，看见的是已经布置过的珠花场面。不能把她当成先听完全部指控再作现场查验。",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 10,
+          "quote": "只说：「五娘使秋菊来请奶奶说话。」"
+        }
+      ]
+    },
+    {
+      "title": "回赠了什么，不等于替谁证明什么",
+      "text": "经济收到柬，赠春梅白绫汗巾和银三事挑牙儿。可理解为一组随身小用具，但具体每件形制未核定，图没有凑造完整三件器物。答谢物的存在不改变此前权力差异。",
+      "evidence": [
+        {
+          "chapter": 83,
+          "paragraph": 22,
+          "quote": "一方白绫汗巾，一副银三事挑牙儿"
+        }
+      ]
+    }
+  ]
+}

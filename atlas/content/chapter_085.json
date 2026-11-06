@@ -1,0 +1,205 @@
+{
+  "number": 85,
+  "title": "第八十五回月娘识破金莲奸情　薛嫂月夜卖春梅",
+  "intro": "拒绝如何随钱改口，门禁如何又被穿过，临走能带哪两件衣裳：决定命运的权力，落在极小的动作里。",
+  "scenes": [
+    {
+      "id": "085-01",
+      "chapter": 85,
+      "title": "又添了二钱",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 7,
+          "quote": "没有没有"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 7,
+          "quote": "又添了二钱薬资"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "胡太医"
+      ],
+      "place": "胡太医家",
+      "event": "经济为金莲求药，医生先拒，见加钱后又应承。",
+      "why": "一段滔滔医理怎样转弯，落在添钱前后几句不同的话上。",
+      "composition": "手边小银包、说话者停顿与收银动作作中景，不展示药方。",
+      "summary": "金莲自述已有身孕，请经济秘密求药。他拿三钱去，医生先讲医理并拒绝，添二钱后却给药；后文记药后失胎。图只画求药的金钱交涉，不画用药、妊娠身体或胎儿，也不展示配方、药名与做法，更不以文学记述证明医疗安全。",
+      "psychology": "明写：金莲急求隐瞒，经济求助，医生改口。解释：前后的语气与收钱动作足以构成讽刺，不需替医生虚构额外贿赂往事。",
+      "social": "三钱加二钱是本次求药资；不是安胎价格与失胎价格的历史行情。",
+      "explicit": "初付三钱、先拒、添二钱、收钱给药。",
+      "inference": "胡医未有稳定肖像，设清瘦中年小眼短须；药铺陈设补足，图片无药方药物细节。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face fine straight eyebrows; reference2 ONLY fine painted gongbi medium. TWO fully clothed adult men at a plain physician's reception table, NON-GRAPHIC social negotiation. Chen in subdued dark gray-blue full robe and plain cap places a TINY extra silver piece beside a modest cloth money packet, anxious controlled gaze toward doctor. Doctor Hu is NEW lean mature adult man, narrow small eyes and short sparse beard, plain brown full robe and soft black cap, interrupts his lecturing hand gesture and reaches to receive packet with changed practical attention. An EMPTY closed medicine drawer cabinet behind, no readable labels, prescriptions, pills, herbs or treatment demonstration, no patient or pregnancy body present. Fine contours matte mineral pigments, ordinary daylight, focus on transaction and speech, no text.",
+      "references": [
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/085-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face fine straight eyebrows; reference2 ONLY fine painted gongbi medium. TWO fully clothed adult men at a plain physician's reception table, NON-GRAPHIC social negotiation. Chen in subdued dark gray-blue full robe and plain cap places a TINY extra silver piece beside a modest cloth money packet, anxious controlled gaze toward doctor. Doctor Hu is NEW lean mature adult man, narrow small eyes and short sparse beard, plain brown full robe and soft black cap, interrupts his lecturing hand gesture and reaches to receive packet with changed practical attention. An EMPTY closed medicine drawer cabinet behind, no readable labels, prescriptions, pills, herbs or treatment demonstration, no patient or pregnancy body present. Fine contours matte mineral pigments, ordinary daylight, focus on transaction and speech, no text."
+    },
+    {
+      "id": "085-02",
+      "chapter": 85,
+      "title": "鹦哥叫，大娘来",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 12,
+          "quote": "高声呌：「大娘来了！」"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 12,
+          "quote": "今日亲眼看见，说不的了"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "潘金莲",
+        "陈经济",
+        "春梅"
+      ],
+      "place": "玩花楼梯口与房檐鸟笼下",
+      "event": "秋菊引月娘来看，鹦鹉报来，经济持衣下楼仍被喝问，金莲被数说。",
+      "why": "上回得以遮过去的检查，这次终于带来当面的追问。",
+      "composition": "月娘在楼脚问金莲，春梅立旁；檐下小笼保留前一刻的报声线索。",
+      "summary": "秋菊再次请月娘，月娘到楼下，驯养的鹦哥喊大娘来了。春梅赶去报，经济已持衣下楼，被月娘喝问，金莲后来也被数落。图取完全着衣后的楼口对质，不表现楼内性行为；月娘的亲眼看见仍只按她此时看到的与说出的范围记。",
+      "psychology": "明写：经济借取衣辩解，金莲否认与他说话，月娘动怒。解释：同一句取衣理由此前能过关，这次在更多信息面前不再同样管用。",
+      "social": "鹦鹉传的是学来的声音，不把它拟人成正义裁判；骂语中的道德标签也不自动变为完整人物结论。",
+      "explicit": "檐下笼鹦哥喊、春梅报、经济拿衣下楼、月娘质问。",
+      "inference": "改取经济已经离开后，月娘数说金莲的一刻；三位女眷同框，不再把前后的问话合画。楼口与鸟笼位置为艺术补足。首次把金莲误画成男性，已重生成修正。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished gongbi narrative illustration on silk, fine ink mineral pigments, landscape3:2. Reference1 ONLY Yueniang mature round-faced WOMAN. Reference2 ONLY Pan Jinlian adult Chinese WOMAN natural narrow oval feminine face, NO MUSTACHE NO BEARD NO FACIAL HAIR, her pinned woman's bun, not man. Reference3 ONLY Chunmei young modest NONSEXUAL maid. Reference4 ONLY painted medium. EXACTLY THREE FULLY CLOTHED FEMALE figures, NO MAN anywhere. The moment AFTER Chen Jingji has already gone, Yueniang at foot of household staircase in closed white mourning full robe sternly questions Pan who has come down the steps. Pan in closed dark indigo WOMAN'S padded jacket and full dark long SKIRT looks ashamed and defensive, no headwrap or masculine styling. Chunmei quietly beside steps in loose closed blue jacket and long yellow skirt. Ordinary small PARROT cage hanging under eaves. No sexual event, nudity, men, beard, injuries or text, realistic distinct women's faces from references, quiet October daylight and wood courtyard, restrained scene.",
+      "references": [
+        "moon-030（月娘）",
+        "pan-solo-030（金莲）",
+        "chun-030（春梅）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/085-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished gongbi narrative illustration on silk, fine ink mineral pigments, landscape3:2. Reference1 ONLY Yueniang mature round-faced WOMAN. Reference2 ONLY Pan Jinlian adult Chinese WOMAN natural narrow oval feminine face, NO MUSTACHE NO BEARD NO FACIAL HAIR, her pinned woman's bun, not man. Reference3 ONLY Chunmei young modest NONSEXUAL maid. Reference4 ONLY painted medium. EXACTLY THREE FULLY CLOTHED FEMALE figures, NO MAN anywhere. The moment AFTER Chen Jingji has already gone, Yueniang at foot of household staircase in closed white mourning full robe sternly questions Pan who has come down the steps. Pan in closed dark indigo WOMAN'S padded jacket and full dark long SKIRT looks ashamed and defensive, no headwrap or masculine styling. Chunmei quietly beside steps in loose closed blue jacket and long yellow skirt. Ordinary small PARROT cage hanging under eaves. No sexual event, nudity, men, beard, injuries or text, realistic distinct women's faces from references, quiet October daylight and wood courtyard, restrained scene."
+    },
+    {
+      "id": "085-03",
+      "chapter": 85,
+      "title": "花箱也能带信",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 15,
+          "quote": "提着花箱儿"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 22,
+          "quote": "六眼不藏私"
+        }
+      ],
+      "people": [
+        "薛嫂",
+        "潘金莲"
+      ],
+      "place": "金莲房中，薛嫂来访送信",
+      "event": "薛嫂借探望与卖花入宅，送来经济柬，又带回帕戒与五钱。",
+      "why": "卖花、探病和传话共用一条路，信任又靠回赠与报出报酬来经营。",
+      "composition": "花箱与密封柬同桌，妇人看信，薛嫂袖边留一方包裹，不拼成已经交付两头的同刻。",
+      "summary": "经济先给薛嫂一两，请她送柬。她提花箱先看月娘玉楼，再来金莲处交信；金莲回帕、金戒和五钱，薛再去复命并展示所得。图只画入房交信的时刻，往返在文字说明；不画成她已经安排好以后某种结果。",
+      "psychology": "明写：薛嫂对两边都说好话，又把五钱给经济看。解释：报明一部分所得能建立可信的姿态，却不等于她对每个人都说了全部事情。",
+      "social": "一两与五钱出自不同人，金戒帕是双方传递的物，并非全部都归中间人。花钱与传话钱不混成一笔。",
+      "explicit": "花箱、探望次序、柬、回赠帕戒、两边酬谢。",
+      "inference": "薛嫂沿30回左幅，服色与花箱形制属旧美术约定；信上不写伪词。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Xue Sao LEFT portrait holding flower box, lined mature oval face and natural skin, NOT older woman at right. Reference2 ONLY adult Pan narrow face; reference3 ONLY painted gongbi medium. TWO fully clothed adult women at a small household table on an autumn afternoon. Xue Sao in closed faded plum full jacket and long brown skirt sets a SMALL WOODEN FLOWER BOX with a few fabric hair flowers beside table, hands ONE SEALED LETTER to Pan. Pan in closed dark indigo padded jacket and full gray-green skirt receives and begins opening it, weary attentive expression, a simple porridge bowl pushed aside. No gold shown yet, no second delivery montage, no romance pose, no readable writing. Old wooden lattice and pale sunlight, detailed hands and paper against textile flowers, fine matte pigments and contour, no text.",
+      "references": [
+        "matchmakers-030左（薛嫂）",
+        "pan-solo-030（金莲）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/085-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Xue Sao LEFT portrait holding flower box, lined mature oval face and natural skin, NOT older woman at right. Reference2 ONLY adult Pan narrow face; reference3 ONLY painted gongbi medium. TWO fully clothed adult women at a small household table on an autumn afternoon. Xue Sao in closed faded plum full jacket and long brown skirt sets a SMALL WOODEN FLOWER BOX with a few fabric hair flowers beside table, hands ONE SEALED LETTER to Pan. Pan in closed dark indigo padded jacket and full gray-green skirt receives and begins opening it, weary attentive expression, a simple porridge bowl pushed aside. No gold shown yet, no second delivery montage, no romance pose, no readable writing. Old wooden lattice and pale sunlight, detailed hands and paper against textile flowers, fine matte pigments and contour, no text."
+    },
+    {
+      "id": "085-04",
+      "chapter": 85,
+      "title": "包起两套衣裳",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 24,
+          "quote": "拣上色的包与他两套"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 24,
+          "quote": "头也不回，扬长决裂出大门去了"
+        }
+      ],
+      "people": [
+        "春梅",
+        "潘金莲",
+        "小玉",
+        "薛嫂"
+      ],
+      "place": "春梅离宅前，收拾衣物至门首",
+      "event": "月娘命薛嫂领卖春梅，本要不准带衣，小玉却帮金莲给她包两套并赠簪。",
+      "why": "同样一项差事，奉命者还可以在执行中为另一人留一点东西。",
+      "composition": "小玉压住衣包系结，金莲把簪交春梅，薛嫂在门侧等待，主角不作漂亮新娘姿态。",
+      "summary": "月娘按旧买价十六两要薛嫂领春梅，不许带衣。小玉到前边却让拣两套，还拔簪相赠，回去只说衣服全留。春梅拜别后随薛出门。图画收包的非露骨瞬间，衣服指随身包裹，绝不把罄身误画为裸体；本回还没有她新去处的交付证据。",
+      "psychology": "明写：春梅先不流泪劝金莲，拜辞时洒泪，临出门不回头。解释：坚决与难过可同在，不用昂首一瞬就判她毫无依恋。",
+      "social": "十六两是月娘所索原买价，此刻领走不等于后手买卖价格已定。人物出售体现人身不由自主，图不将年轻人商品化陈列。",
+      "explicit": "领春梅、原价十六两要求、两套衣服、私赠簪坠、小玉隐报、出门。",
+      "inference": "小玉无稳定肖像，设年轻圆方脸宽眉、普通绿衣，与春梅长直眉区别；完全宽松衣装，不性化。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight brows natural face, entirely modest NONSEXUAL; reference2 ONLY adult Pan narrow face; reference3 ONLY Xue Sao LEFT portrait, not older right woman; reference4 ONLY painted gongbi medium. FOUR FULLY CLOTHED female figures in a household departure preparation, afternoon turning dusk. Chunmei central in loose closed BLUE padded jacket and full long YELLOW skirt stands upright with tearful restrained face, holding ONE finished cloth bundle, not bridal or glamorous. Pan beside her in closed indigo padded jacket and long skirt slips two simple hairpins into her hand with grief. Xiaoyu is NEW young maid with round-square natural face and broad brows, loose green full jacket and full dark skirt, ties a second edge of bundle around TWO folded garments on table, practical caring gesture. Xue Sao mature woman in plum waits at doorway holding flower box, no leading leash, no buyer inspection, no nudity or adult intimacy. Quiet ordinary belongings, human solidarity, matte mineral pigment and fine ink, no text.",
+      "references": [
+        "chun-030（春梅）",
+        "pan-solo-030（金莲）",
+        "matchmakers-030左（薛嫂）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/085-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight brows natural face, entirely modest NONSEXUAL; reference2 ONLY adult Pan narrow face; reference3 ONLY Xue Sao LEFT portrait, not older right woman; reference4 ONLY painted gongbi medium. FOUR FULLY CLOTHED female figures in a household departure preparation, afternoon turning dusk. Chunmei central in loose closed BLUE padded jacket and full long YELLOW skirt stands upright with tearful restrained face, holding ONE finished cloth bundle, not bridal or glamorous. Pan beside her in closed indigo padded jacket and long skirt slips two simple hairpins into her hand with grief. Xiaoyu is NEW young maid with round-square natural face and broad brows, loose green full jacket and full dark skirt, ties a second edge of bundle around TWO folded garments on table, practical caring gesture. Xue Sao mature woman in plum waits at doorway holding flower box, no leading leash, no buyer inspection, no nudity or adult intimacy. Quiet ordinary belongings, human solidarity, matte mineral pigment and fine ink, no text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "回家后的母子相会",
+      "text": "月娘归来先礼佛与拜灵，讲述旅途险事，见奶子抱孩子来，再与兄长饮酒辞别。不是进香后所有人立刻忘了家中旧事，也不是她已经知道离家期间的一切。",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 10,
+          "quote": "子母相会在一处"
+        }
+      ]
+    },
+    {
+      "title": "小玉没有照同一方式执行每项吩咐",
+      "text": "此前她挡秋菊报告，此处又帮春梅留衣并隐瞒月娘。可以比较具体对象与动作，不能只用忠心或背主一个词抹平她的选择。",
+      "evidence": [
+        {
+          "chapter": 85,
+          "paragraph": 11,
+          "quote": "骂的秋菊忍气吞声，喏喏而退"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 24,
+          "quote": "衣服都留下没与他"
+        }
+      ]
+    }
+  ]
+}

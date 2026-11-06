@@ -1,0 +1,262 @@
+{
+  "number": 81,
+  "title": "第八十一回韩道国拐财倚势　汤来保欺主背恩",
+  "intro": "消息在水上先到，银与货随后改道。谁经手、谁知道、谁只能听人说明，逐渐分成不同的位置。",
+  "scenes": [
+    {
+      "id": "081-01",
+      "chapter": 81,
+      "title": "船过了，话留下",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 9,
+          "quote": "韩西桥，你家老爹従正月间没了"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 9,
+          "quote": "瞒着来保，不对他说"
+        }
+      ],
+      "people": [
+        "韩道国",
+        "严四郎"
+      ],
+      "place": "临清闸上，两船相逢",
+      "event": "严四郎过船告知死讯，韩道国独得此消息，未告来保。",
+      "why": "后来两人对货款的不同处理，从一次消息不对称开始。",
+      "composition": "两船交错，喊话者已远，近处船头的人攥着栏板，成捆布货在后。",
+      "summary": "回运布货途中，韩道国遇见严四郎，对方一句话报西门已死，船快就过去了。韩未告诉来保，转而提议趁涨价先卖部分货。图取传话，不把随后所有侵占举动拼在一条船上，也不说来保此刻已经知道。",
+      "psychology": "明写：韩安心在怀又隐瞒。解释：谁先拿到消息，谁便能先安排下一步；这一刻不把来保之后的行为反推成早已共同谋划。",
+      "social": "旱灾造成布价上升是本回叙述，图不编造精确涨价曲线或灾民事件。卖货一千两与原本四千两不是同一个数。",
+      "explicit": "临清闸、两船、严喊死讯、韩不告来保、船载布货。",
+      "inference": "韩无现成稳定画像，设中年长方脸细短须；船型、服色与天气为艺术补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY painted gongbi narrative medium, not faces. WIDE canal lock encounter in early spring, TWO wooden cargo boats passing without collision. Foreground left on one boat Han Daoguo is a NEW fully clothed mature adult man with long rectangular face, narrow straight brows and thin short mustache, medium build, blue-gray travel robe and brown cloth cap. He turns listening sharply, hand resting on low wooden rail. Behind him tied bundles of COTTON CLOTH, woven cargo covers, no silver visible. On other boat moving away at mid-right a distinct fully clothed middle-aged man in dark brown robe raises one hand and calls across water. Weather gray, water gently rippled, canal buildings and lock structure suggest setting but no exact architectural reconstruction. No funeral apparition, future montage or text, fine ink contour matte mineral pigment, clear narrative distance.",
+      "references": [
+        "065-01（媒介）"
+      ],
+      "image": "assets/081-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY painted gongbi narrative medium, not faces. WIDE canal lock encounter in early spring, TWO wooden cargo boats passing without collision. Foreground left on one boat Han Daoguo is a NEW fully clothed mature adult man with long rectangular face, narrow straight brows and thin short mustache, medium build, blue-gray travel robe and brown cloth cap. He turns listening sharply, hand resting on low wooden rail. Behind him tied bundles of COTTON CLOTH, woven cargo covers, no silver visible. On other boat moving away at mid-right a distinct fully clothed middle-aged man in dark brown robe raises one hand and calls across water. Weather gray, water gently rippled, canal buildings and lock structure suggest setting but no exact architectural reconstruction. No funeral apparition, future montage or text, fine ink contour matte mineral pigment, clear narrative distance."
+    },
+    {
+      "id": "081-02",
+      "chapter": 81,
+      "title": "灯下商量的一千两",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 12,
+          "quote": "一封一封倒在炕上"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 12,
+          "quote": "把他这一千两，咱雇了头口拐了上东京"
+        }
+      ],
+      "people": [
+        "韩道国",
+        "王六儿"
+      ],
+      "place": "韩家房中，归来当夜",
+      "event": "韩带银到家，夫妻围着现款商议，王六儿主张全带赴京。",
+      "why": "钱尚未交回，已经在另一张桌边被重新打算。",
+      "composition": "银包置炕，夫妻隔着现款低声相对，门与行李在后。",
+      "summary": "韩回城确认死讯，先归家倒出售货一千两和另有的私银。他起初说要送一半，六儿主张全带投京，倚太师府关系阻挡追寻。次晨他们携家人与行李出发。图只画当夜商议，不把她的怨言当作侵占因此合理的馆方结论。",
+      "psychology": "明写：韩提旧恩，六儿说及吊孝受辱，最后韩不言。解释：感谢、怨恨和依仗权势都被拿来作钱的理由，行动仍需分别看。",
+      "social": "售货款一千两与两包私银一百两分开；未给足银锭重量，不按画中锭数折算。",
+      "explicit": "归家夜谈、银包、一千两货款、王六儿提投京、韩沉默。",
+      "inference": "王六儿沿80回本馆形象；穿戴与室内陈设补足，无新添私情场景。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Han Daoguo rectangular mature face on FOREGROUND boat; reference2 ONLY Wang Liuer, tall broad-shouldered mature woman at LEFT in plain mourning visitor clothes, preserve long face and fuller mouth NOT clothes; reference3 ONLY painted gongbi medium. TWO fully clothed adult spouses in their plain household room at night. Han in blue-gray travel robe and brown cap sits left opening cloth MONEY WRAPPERS on kang table, several modest silver pieces with no exact sum indicated. Wang Liuer right in closed muted brown winter jacket and dark long skirt leans forward speaking firmly, one palm on table, not sensual. Travel bundle still tied near door, a small oil lamp casts warm light on silver and faces. Husband listens quietly conflicted, no villain sneer. No wealth palace, Tokyo outcome, readable sums or map. Matte mineral pigment and drawn ink contours, intimate practical staging.",
+      "references": [
+        "081-01（韩）",
+        "080-02中王六儿",
+        "065-01（媒介）"
+      ],
+      "image": "assets/081-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Han Daoguo rectangular mature face on FOREGROUND boat; reference2 ONLY Wang Liuer, tall broad-shouldered mature woman at LEFT in plain mourning visitor clothes, preserve long face and fuller mouth NOT clothes; reference3 ONLY painted gongbi medium. TWO fully clothed adult spouses in their plain household room at night. Han in blue-gray travel robe and brown cap sits left opening cloth MONEY WRAPPERS on kang table, several modest silver pieces with no exact sum indicated. Wang Liuer right in closed muted brown winter jacket and dark long skirt leans forward speaking firmly, one palm on table, not sensual. Travel bundle still tied near door, a small oil lamp casts warm light on silver and faces. Husband listens quietly conflicted, no villain sneer. No wealth palace, Tokyo outcome, readable sums or map. Matte mineral pigment and drawn ink contours, intimate practical staging."
+    },
+    {
+      "id": "081-03",
+      "chapter": 81,
+      "title": "夺过算盘",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 16,
+          "quote": "劈手夺过算盘来"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 16,
+          "quote": "把银子兑了二千余两"
+        }
+      ],
+      "people": [
+        "来保",
+        "陈经济",
+        "买货客人"
+      ],
+      "place": "西门家布货发卖处",
+      "event": "来保以经验压住经济，夺算盘，重新邀买主成交。",
+      "why": "掌握行情和经手货物的人，能让年轻管事难以控制交易。",
+      "composition": "算盘在两人间移动，买主停在门边回身，货包围出狭窄通道。",
+      "summary": "经济讲价使买主不服而去，来保指责他不懂买卖，夺算盘叫回客人，兑银二千余两交给经济入月娘手。读者此前已知他暗搬八百两货，此刻的当面交银不能替全部行为作清白证明。图不伪造详细账页。",
+      "psychology": "明写：来保自称经验多，经济使性不管。解释：来保把一个看得见的成交用来占住能干的位置；经验本身与是否诚实必须分开。",
+      "social": "暗卸八百两货、称韩先卖二千、当面兑二千余两是三种不同口径；不能互相抵销成透明结算。",
+      "explicit": "经济讲价、买主将去、来保夺算盘邀回、成交交银。",
+      "inference": "来保沿30回左前来保形象，衣装与货位补足；不画月娘在场目睹，她收银在另一环节。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY LAIBAO kneeling at FOREGROUND LEFT in brown in old image, mature broad natural face with short mustache and weathered skin, NOT gray-robed man or seated official. Reference2 ONLY Chen Jingji solo portrait youthful ADULT oval face, NOT clothes. Reference3 ONLY fine painted gongbi medium. THREE fully clothed adult men among stacked tied cloth bales in a household warehouse. Laibao in practical dark brown full robe reaches firmly across desk and PULLS a wooden abacus toward himself, looking toward a buyer who has just turned back from doorway. Chen in plain white mourning full robe and headcloth stands at other side of desk, one hand withdrawn, frustrated quiet expression. Buyer distinct older lean man in gray travel robe holds a small silver wrapper, not bags of gold. Wooden abacus clearly has rows of beads, no modern calculator. No readable ledger or precise total; depth through cloth bundles, tactile material, natural tension, no violence or text.",
+      "references": [
+        "gift-official-030左前（来保）",
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/081-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY LAIBAO kneeling at FOREGROUND LEFT in brown in old image, mature broad natural face with short mustache and weathered skin, NOT gray-robed man or seated official. Reference2 ONLY Chen Jingji solo portrait youthful ADULT oval face, NOT clothes. Reference3 ONLY fine painted gongbi medium. THREE fully clothed adult men among stacked tied cloth bales in a household warehouse. Laibao in practical dark brown full robe reaches firmly across desk and PULLS a wooden abacus toward himself, looking toward a buyer who has just turned back from doorway. Chen in plain white mourning full robe and headcloth stands at other side of desk, one hand withdrawn, frustrated quiet expression. Buyer distinct older lean man in gray travel robe holds a small silver wrapper, not bags of gold. Wooden abacus clearly has rows of beads, no modern calculator. No readable ledger or precise total; depth through cloth bundles, tactile material, natural tension, no violence or text."
+    },
+    {
+      "id": "081-04",
+      "chapter": 81,
+      "title": "这封信要带走谁",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 17,
+          "quote": "要载到京中答应老太太"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 17,
+          "quote": "问他房中玉箫与迎春，情愿要去"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "来保",
+        "玉箫",
+        "迎春"
+      ],
+      "place": "月娘房中，商议京中索人书信",
+      "event": "翟家来信要家中乐女，来保以惹祸威吓，月娘决定送玉箫迎春。",
+      "why": "能弹唱的年轻人，在权势来信与家主安排之间被议定去向。",
+      "composition": "信在年长人手中，两个少女站于另侧，留出被议论者与决定者的距离。",
+      "summary": "翟家来信索四人，月娘慌乱，来保说不送会惹祸。春梅兰香不便送，绣春要看孩子，最后问玉箫与迎春，文本说二人情愿去。图取商议，不把情愿等同现代自由择业；也不表现途中侵害，保留女孩作为人的处境。",
+      "psychology": "明写：月娘慌，来保恐吓，二人表示愿去；女孩的全部想法没有写出。解释：权力悬殊下的答应，不足让展馆判断没有压力。",
+      "social": "未核定个别确切年龄；本回说不上十七八岁。全程普通宽松完整服装、不性化，不画成人侵害。",
+      "explicit": "书信索人、来保恐吓、月娘权衡、玉箫迎春去京。",
+      "inference": "本图仅是商议的关系示意；信上不造原文，两女孩具体站位衣色补足。 迎春身份参考已更正为030版四乐图最右，不与迎儿混用。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY Laibao mature man FOREGROUND LEFT in brown in old reference; reference3 ONLY Yuxiao at LEFT shorter round face; reference4 ONLY Yingchun, woman at FAR RIGHT of the FOUR-WOMAN MUSICIANS image with round lute; face only, not instrument or clothes. Reference5 ONLY painted medium. FOUR fully clothed figures in a quiet household room, NONSEXUAL social scene, fully modest treatment of adolescent girls. Yueniang seated left in plain white mourning robe holds an unreadable folded letter, looks troubled. Laibao stands one pace behind table in plain brown full robe, speaking emphatically with a restrained hand gesture, no touching anyone. At right Yuxiao and Yingchun stand TOGETHER, loose closed gray-green and blue padded jackets with full long skirts, ordinary hair buns, distinct natural faces, hands clasped holding their own small cloth bundles. They look toward seated woman, serious, no glamour poses. Clear space between adults and girls, no chains or physical assault invented, no sexuality or threat scene depicted. Muted spring light, subtle ink, mineral colors, no readable text.",
+      "references": [
+        "moon-030（月娘）",
+        "gift-official-030左前（来保）",
+        "075-04左（玉箫）",
+        "music-030最右（迎春）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/081-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY Laibao mature man FOREGROUND LEFT in brown in old reference; reference3 ONLY Yuxiao at LEFT shorter round face; reference4 ONLY Yingchun, woman at FAR RIGHT of the FOUR-WOMAN MUSICIANS image with round lute; face only, not instrument or clothes. Reference5 ONLY painted medium. FOUR fully clothed figures in a quiet household room, NONSEXUAL social scene, fully modest treatment of adolescent girls. Yueniang seated left in plain white mourning robe holds an unreadable folded letter, looks troubled. Laibao stands one pace behind table in plain brown full robe, speaking emphatically with a restrained hand gesture, no touching anyone. At right Yuxiao and Yingchun stand TOGETHER, loose closed gray-green and blue padded jackets with full long skirts, ordinary hair buns, distinct natural faces, hands clasped holding their own small cloth bundles. They look toward seated woman, serious, no glamour poses. Clear space between adults and girls, no chains or physical assault invented, no sexuality or threat scene depicted. Muted spring light, subtle ink, mineral colors, no readable text."
+    },
+    {
+      "id": "081-05",
+      "chapter": 81,
+      "title": "门外的衣裳，门里的衣裳",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 19,
+          "quote": "依旧换了惨淡衣裳"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 19,
+          "quote": "只瞒过月娘一人不知"
+        }
+      ],
+      "people": [
+        "惠祥"
+      ],
+      "place": "来保新置房内；回西门家前的换装",
+      "event": "惠祥外出穿戴金银，回主人家前换回朴素衣服，掩饰另置家产。",
+      "why": "同一个人的两套衣装，管理着不同人能看见的生活。",
+      "composition": "单人换外袄前的片刻，两套完整衣服分在挂架与身上，不画脱衣。",
+      "summary": "来保与妻弟卖暗藏布货，买房开铺。惠祥在新房换好首饰衣服外出交游，归来再穿惨淡衣裳回西门家。图取新房中已完整穿好的一刻，衣架留着朴素外袄；不是可精确同时发生的双现场，也不把衣装本身当盗财证据。",
+      "psychology": "明写：她有意换装、隐瞒。解释：朴素在这里也成为给特定观看者看的外观，判断依据是正文的换装过程，不是以贫富衣饰猜心。",
+      "social": "原文明确暗卖货与置房开铺，因而可讨论侵占；仅看到金银首饰并不能单独证明它的来源。",
+      "explicit": "新房、首饰衣服、外出扳亲家、回去换惨淡衣裳。",
+      "inference": "惠祥面貌、具体年龄未写，设成熟方圆脸自然细纹，与王六儿不同；衣色、首饰形制补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY fine painted gongbi narrative medium, not faces. ONE mature adult woman Huixiang, NEW gallery face with broad round-square cheeks, softly hooded eyes and natural smile lines, sturdy ordinary build, FULLY CLOTHED. She stands in a newly occupied modest Chinese room, wearing a closed dark teal silk padded jacket, full rust-brown long skirt, small pearl forehead band and a few gold pins, looking toward a plain coat hanging beside the door as she prepares to go out. Her hands fasten the already closed outer collar, NO undressing, no skin exposure, no vanity glamour. On wooden peg hangs a visibly worn plain gray-brown FULL outer robe, everyday cloth bundle on stool. Plain new timber chest and small mirror on table, not a palace or treasure room. Depict contrast of two sets of garments as a literary illustration, no split-screen claiming simultaneous events, fine material and quiet natural light, no readable text.",
+      "references": [
+        "065-01（媒介）"
+      ],
+      "image": "assets/081-05.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY fine painted gongbi narrative medium, not faces. ONE mature adult woman Huixiang, NEW gallery face with broad round-square cheeks, softly hooded eyes and natural smile lines, sturdy ordinary build, FULLY CLOTHED. She stands in a newly occupied modest Chinese room, wearing a closed dark teal silk padded jacket, full rust-brown long skirt, small pearl forehead band and a few gold pins, looking toward a plain coat hanging beside the door as she prepares to go out. Her hands fasten the already closed outer collar, NO undressing, no skin exposure, no vanity glamour. On wooden peg hangs a visibly worn plain gray-brown FULL outer robe, everyday cloth bundle on stool. Plain new timber chest and small mirror on table, not a palace or treasure room. Depict contrast of two sets of garments as a literary illustration, no split-screen claiming simultaneous events, fine material and quiet natural light, no readable text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "不是一千两变成二千两的透明账",
+      "text": "韩实际先卖一千两，来保回家却说他先卖二千。来保又暗卸八百两货。叙述给读者的货物流向，与家中听见的口头说法并不一样，不能拿后一数去改掉前一数。",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 9,
+          "quote": "发卖了一千两布货"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 15,
+          "quote": "暗暗船上搬了八百两货物"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 15,
+          "quote": "说他先卖了二千两银子来家"
+        }
+      ]
+    },
+    {
+      "title": "两锭的赏，交回一锭",
+      "text": "京中赏出两锭元宝，来保只交一锭。他还说若不是自己，连这一锭也拿不回。读者已经看见差额，月娘却因所听的解释感谢他；这层信息差来自本回明写。",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 18,
+          "quote": "这来保还克了一锭"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 18,
+          "quote": "到家只拿出一锭元寳来与月娘"
+        }
+      ]
+    },
+    {
+      "title": "离宅不是财物已追清",
+      "text": "月娘最终让来保夫妻搬走，来保在外开布铺。正文没有写隐货及售款被追回，因此不能把离宅结尾写作完成清账。",
+      "evidence": [
+        {
+          "chapter": 81,
+          "paragraph": 21,
+          "quote": "只得敎他两口子搬离了家门"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "number": 88,
+  "title": "第八十八回潘金莲托梦守御府　吴月娘布施募缘僧",
+  "intro": "官榜、梦、银布和布施物，各有不同的见证人。看一件事怎样从消息变成亲手能做的事。",
+  "scenes": [
+    {
+      "id": "088-01",
+      "chapter": 88,
+      "title": "到门口才读到的消息",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 10,
+          "quote": "门首挂着一张手榜"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 10,
+          "quote": "适纔见了榜文，方知其故"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "看守者"
+      ],
+      "place": "紫石街王婆旧居门外",
+      "event": "经济带银回清河，本要来议娶，到了门首读榜才知人已死。",
+      "why": "他一路按自己的打算赶来，消息却早已在同一个门口变成官府告示。",
+      "composition": "街道深景，经济仰读，窝铺有人探身问话；门锁与灯笼替代惨状。",
+      "summary": "陈父死于东京，经济让母亲带灵柩稍后回乡，自己先押两车箱笼返清河。带百两并十两谢礼到紫石街时，他见官榜才得知金莲与王婆遇害，随后被看守喝问。图只画读榜的片刻，尸身、掩埋处和刑案细节不入画。",
+      "psychology": "明写：他此前仍打算娶金莲，事后伤痛。解释：计划和已经发生的事实在这里碰面，不能把他的未到场改成目睹。",
+      "social": "百两与谢礼是他带来的，未交出；榜上五十两是官府悬赏，分开记。",
+      "explicit": "返乡带银、门首官榜、看守喝问、经济始知。",
+      "inference": "榜纸形制、街面与窝铺为示意，纸面无伪字；不画尸体或墓坑。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Chen Jingji young adult man, smooth oval face; reference2 ONLY fine painted medium. WIDE street vignette: Chen in closed dark blue full winter robe and cloth cap stops outside a CLOSED modest mill-house door, raises eyes toward ONE pale public notice attached beside door, surface unreadable. One plainly clothed adult watchman stands partly out of a rough shelter at distance and calls to him, no confrontation or contact. One hanging lantern and shuttered shopfront, bare winter tree, long quiet lane, muted natural light. Chen holds simple tied pouch at waist, understated surprise. No grave, body, injury, weapon, visible text or symbols. Fine ink contours and mineral pigment on silk, everyday street scale.",
+      "references": [
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/088-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Chen Jingji young adult man, smooth oval face; reference2 ONLY fine painted medium. WIDE street vignette: Chen in closed dark blue full winter robe and cloth cap stops outside a CLOSED modest mill-house door, raises eyes toward ONE pale public notice attached beside door, surface unreadable. One plainly clothed adult watchman stands partly out of a rough shelter at distance and calls to him, no confrontation or contact. One hanging lantern and shuttered shopfront, bare winter tree, long quiet lane, muted natural light. Chen holds simple tied pouch at waist, understated surprise. No grave, body, injury, weapon, visible text or symbols. Fine ink contours and mineral pigment on silk, everyday street scale."
+    },
+    {
+      "id": "088-02",
+      "chapter": 88,
+      "title": "枕上醒来还在哭",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 13,
+          "quote": "撒手惊觉，却是南柯一梦"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 13,
+          "quote": "従睡梦中直哭醒来"
+        }
+      ],
+      "people": [
+        "春梅"
+      ],
+      "place": "守备府内房，梦醒时",
+      "event": "春梅梦见金莲求葬，惊醒时仍哭，心中犹疑。",
+      "why": "先写醒后不能安定的感受，后写次日托办；两件事之间有可以看到的行动。",
+      "composition": "单人近景，枕与屏前的小灯留出安静，画面没有梦中人物。",
+      "summary": "听说金莲死后，春梅哭了多日，屡派人去问。正月的一夜，她梦见金莲诉说无人收葬，醒来仍哭，心里不能确定。图只画清醒的一刻，未把梦中人画成客观到场的鬼魂，也不把梦的内容视为县衙消息。",
+      "psychology": "明写：哭醒、犹疑。解释：梦使未能安葬的忧心成了一段可说的话；这仍是人物经验，不足判定神异真假。",
+      "social": "无须外添风俗结论；下一段另有向人问讯和查对的实际动作。",
+      "explicit": "梦、惊觉、哭醒、犹疑。",
+      "inference": "枕边灯、坐姿与衣色为艺术补足；春梅完整着衣、不性化，不画梦中伤害。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 intimate gongbi portrait on silk. Reference1 ONLY Chunmei natural youthful straight-browed face, modest NONSEXUAL; reference2 ONLY painted style. ONE fully clothed young woman in closed muted blue padded jacket and full long yellow skirt sits upright after waking on a covered daybed, grief and uncertainty, one hand gripping folded cover, a tear visible but no melodrama. Plain pillow and small warm lamp, opaque wooden screen, empty dark space beside her. No ghost, blood, body, supernatural apparition or reflection; no revealing clothes or sensual pose. Fine ink contours and muted mineral pigment; humane quiet moment, no lettering.",
+      "references": [
+        "chun-030（春梅）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/088-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 intimate gongbi portrait on silk. Reference1 ONLY Chunmei natural youthful straight-browed face, modest NONSEXUAL; reference2 ONLY painted style. ONE fully clothed young woman in closed muted blue padded jacket and full long yellow skirt sits upright after waking on a covered daybed, grief and uncertainty, one hand gripping folded cover, a tear visible but no melodrama. Plain pillow and small warm lamp, opaque wooden screen, empty dark space beside her. No ghost, blood, body, supernatural apparition or reflection; no revealing clothes or sensual pose. Fine ink contours and muted mineral pigment; humane quiet moment, no lettering."
+    },
+    {
+      "id": "088-03",
+      "chapter": 88,
+      "title": "十两交给两个办事人",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 14,
+          "quote": "拿出十两银子、两疋大布"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 14,
+          "quote": "休教你老爷知道"
+        }
+      ],
+      "people": [
+        "春梅",
+        "张胜",
+        "李安"
+      ],
+      "place": "守备府内，春梅托办",
+      "event": "春梅请两人代领金莲遗体并安葬，拿出银、布，嘱咐不要让守备知道。",
+      "why": "此前她被安排去留；在这一幕，她有东西可交、有人可请，也能作出具体吩咐。",
+      "composition": "布和银在桌前，两人听令，春梅说话而不摆高座。",
+      "summary": "次日问到仍无人领金莲后，春梅以亲姐姐的名义请张胜、李安代办。两人到县递领状，买棺并葬在永福寺后。画面停在托付；称亲姐妹是春梅的说法，不等于血缘，后面的领取和支出另有证据。",
+      "psychology": "明写：春梅嘱低调办理，办事者也希望她在守备前抬举。解释：旧情和对眼前权力的计算可以同在，不必只选一个原因。",
+      "social": "十两里六两买棺，余四两分作二两经钱及两人各一两，五钱纸钱是另加，依15段区分。",
+      "explicit": "两名经手人、十两两疋、称姐姐、隐瞒守备。",
+      "inference": "张胜李安无可核稳定画像，按壮瘦、脸形区分；银锭数与秤量不按画面计。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei straight-browed young woman, keep modest and NONSEXUAL; reference2 ONLY narrative gongbi painted silk medium. Landscape 3:2. THREE fully clothed figures in a plain reception room. Chunmei stands at left in closed muted blue full jacket and long yellow skirt, serious expression after tears, hands a small CLOSED silver bundle across table. TWO distinct adult male attendants in practical full brown and blue robes listen, one stocky square-faced, other lean long-faced; one receives with both hands. TWO folded bolts of plain cotton cloth lie on table. No body, coffin, weapons, official scene, readably numbered silver, glamour or future symbols. Clear distance, restrained gesture and soft daylight, fine silk contour and matte color, no writing.",
+      "references": [
+        "chun-030（春梅）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/088-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei straight-browed young woman, keep modest and NONSEXUAL; reference2 ONLY narrative gongbi painted silk medium. Landscape 3:2. THREE fully clothed figures in a plain reception room. Chunmei stands at left in closed muted blue full jacket and long yellow skirt, serious expression after tears, hands a small CLOSED silver bundle across table. TWO distinct adult male attendants in practical full brown and blue robes listen, one stocky square-faced, other lean long-faced; one receives with both hands. TWO folded bolts of plain cotton cloth lie on table. No body, coffin, weapons, official scene, readably numbered silver, glamour or future symbols. Clear distance, restrained gesture and soft daylight, fine silk contour and matte color, no writing."
+    },
+    {
+      "id": "088-04",
+      "chapter": 88,
+      "title": "门前给僧人鞋帽",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 18,
+          "quote": "头顶三尊铜佛，身上抅着数枝灯树"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 20,
+          "quote": "一顶僧帽、一双僧鞋、一吊铜钱、一斗白米"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "小玉",
+        "募缘僧",
+        "门前随观者"
+      ],
+      "place": "西门宅大门口",
+      "event": "行脚僧沿街募缘，月娘让小玉拿来预备的鞋帽钱米，众人说笑。",
+      "why": "布施有提前做下的日常物件，也有小玉一句一句顶回去的门前笑声。",
+      "composition": "街门宽景，器物辨识，重心在递物和僧人的负载，不画显灵。",
+      "summary": "二月，月娘一行站在门口，见胖大和尚顶三尊铜佛、挂灯树来募建佛殿，便给鞋帽钱米。鞋帽是她平日备来布施的，小玉却拿礼数打趣，连月娘也忍不住笑。图呈现街头相遇，不把僧人的自述当作寺院已开建的证据。",
+      "psychology": "明写：月娘认真布施，也笑小玉；小玉觉得被和尚打量。解释：同一幕既有敬意又有玩笑，人物各自对目光的解释仍不同。",
+      "social": "灯树按枝状灯架示意；鞋帽、钱、米都能直接供用或变成资财，不换算现价。",
+      "explicit": "胖大僧、杏黄衣、三铜佛、数灯树、门首布施鞋帽钱米。",
+      "inference": "小玉沿85回右侧人物；灯架负载为文学插画，不作实际携行力学证明，远处围观者为示意。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 late-Ming everyday gongbi narrative painting on silk. Reference1 ONLY round-faced mature Yueniang; reference2 ONLY Xiaoyu at FAR RIGHT in muted green, round-square young face, modest; reference3 ONLY painted medium. A HEAVYSET broad-faced middle-aged Buddhist itinerant monk in closed saffron full robe stands in a lane outside merchant household. Above his bald head a small supported tray carries THREE small seated BRONZE BUDDHA STATUETTES, clearly objects, with a few light BRANCHED LAMP STANDS tied securely to his carrying harness, unlit. Xiaoyu in loose closed green jacket and full long dark skirt offers a plain monk cap and pair of fabric shoes on tray; single rice sack and string of copper cash by doorway. Yueniang in pale full robe stands beside her; a few unobtrusive adults watch deeper down street. All ordinary gestures, respectful realistic faces, no magic halo, no caricature, no readable words. Early-spring daylight, delicate ink and mineral color.",
+      "references": [
+        "moon-030（月娘）",
+        "085-04右侧（小玉）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/088-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 正文说行脚僧赤脚，成图中他穿鞋；灯架支撑也只是美术补足。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 late-Ming everyday gongbi narrative painting on silk. Reference1 ONLY round-faced mature Yueniang; reference2 ONLY Xiaoyu at FAR RIGHT in muted green, round-square young face, modest; reference3 ONLY painted medium. A HEAVYSET broad-faced middle-aged Buddhist itinerant monk in closed saffron full robe stands in a lane outside merchant household. Above his bald head a small supported tray carries THREE small seated BRONZE BUDDHA STATUETTES, clearly objects, with a few light BRANCHED LAMP STANDS tied securely to his carrying harness, unlit. Xiaoyu in loose closed green jacket and full long dark skirt offers a plain monk cap and pair of fabric shoes on tray; single rice sack and string of copper cash by doorway. Yueniang in pale full robe stands beside her; a few unobtrusive adults watch deeper down street. All ordinary gestures, respectful realistic faces, no magic halo, no caricature, no readable words. Early-spring daylight, delicate ink and mineral color.",
+      "knownDeviation": "正文说行脚僧赤脚，成图中他穿鞋；灯架支撑也只是美术补足。"
+    }
+  ],
+  "supplements": [
+    {
+      "title": "先祭的是谁",
+      "text": "经济受母命带银到寺里给父亲念经，却先到金莲墓上烧纸，再去父亲灵柩前。原文特写先后，不推断他对两个逝者只可能有一种情绪。",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 17,
+          "quote": "且不参见他父亲灵柩"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 17,
+          "quote": "祭毕，然后纔到方丈内"
+        }
+      ]
+    },
+    {
+      "title": "薛嫂的话保留说话人",
+      "text": "她说春梅已有四五个月身孕，雪娥当场质疑时间。此处只记录转述与质疑，不把月份作为已经核定的事实，不用来反推另一个情节。",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 24,
+          "quote": "他如今有了四五个月身孕了"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 24,
+          "quote": "一尺水十丈波的"
+        }
+      ]
+    }
+  ]
+}

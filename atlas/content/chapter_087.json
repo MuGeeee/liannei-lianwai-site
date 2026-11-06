@@ -1,0 +1,209 @@
+{
+  "number": 87,
+  "title": "第八十七回王婆子贪财受报　武都头杀嫂祭兄",
+  "intro": "帖与箱、现银与天平、红衣与灵位，最后是一双遮住脸的手。人物各自看见的场面，并不带来同一种感受。",
+  "scenes": [
+    {
+      "id": "087-01",
+      "chapter": 87,
+      "title": "一张帖，取走一只箱",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 7,
+          "quote": "封了一两银子，往西门庆家讨他箱子"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 7,
+          "quote": "银子也不曾收"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "张家送帖人",
+        "西门家人"
+      ],
+      "place": "西门宅，交春鸿箱衣处",
+      "event": "春鸿经伯爵推荐转到张家，张送帖银来取他的箱衣，月娘交箱却不收银。",
+      "why": "家役转投的请求，在新主已任提刑官的身份下，成了一封难以拒绝的信。",
+      "composition": "封帖银包与被抬出的箱子分置，月娘停手不接银。",
+      "summary": "春鸿向伯爵说想另寻人家，伯爵带见张二官，张因他会唱南曲留用，再发帖送一两要衣箱。月娘见对方现任提刑官，只得给箱，未收银。图取交箱示意；范氏正陪席，不把两段交游都挤入同一画面。",
+      "psychology": "明写：春鸿愿另投，月娘不好不与。解释：愿望确由春鸿说出，但物品交接仍被新主的官身推动，并非全程平等的自由雇佣手续。",
+      "social": "张任官是本回明写的新信息，86回尚属打点的地方不倒改。所送一两未收，不记作实际成交价。",
+      "explicit": "张留春鸿、发帖送银讨箱、月娘交箱不收银。",
+      "inference": "送帖人与抬箱人数、门位补足；无正式解放契或现代雇佣合同。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY fine painted gongbi medium. THREE fully clothed adult figures in a Chinese household reception doorway. Yueniang in closed plain white mourning robe holds an unreadable folded visiting card, her free hand gently but firmly DECLINES a small closed silver packet offered by a plain brown-clothed adult male messenger. A different adult household attendant in blue-gray carries ONE ordinary wooden personal chest toward doorway at right. No buyer inspection or freed slave certificate, no official seal readable. Empty guest chair and cup beyond, winter daylight, social constraint conveyed in restrained faces and object movement. No text, fine ink mineral pigment on silk.",
+      "references": [
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/087-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY fine painted gongbi medium. THREE fully clothed adult figures in a Chinese household reception doorway. Yueniang in closed plain white mourning robe holds an unreadable folded visiting card, her free hand gently but firmly DECLINES a small closed silver packet offered by a plain brown-clothed adult male messenger. A different adult household attendant in blue-gray carries ONE ordinary wooden personal chest toward doorway at right. No buyer inspection or freed slave certificate, no official seal readable. Empty guest chair and cup beyond, winter daylight, social constraint conveyed in restrained faces and object movement. No text, fine ink mineral pigment on silk."
+    },
+    {
+      "id": "087-02",
+      "chapter": 87,
+      "title": "现银放上天平",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 14,
+          "quote": "拿天平兑起来"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 14,
+          "quote": "我现钟不打却打铸钟"
+        }
+      ],
+      "people": [
+        "武松",
+        "王婆"
+      ],
+      "place": "王婆家兑银处",
+      "event": "武松带百两与另五两来，王婆看见现银便收下，改舍先前等待的人。",
+      "why": "口头许诺与已经摆在眼前的钱，在经手人那里有不同的分量。",
+      "composition": "天平银包前景，王婆伸手，武松严肃不作喜庆新郎。",
+      "summary": "武松遇赦回清河，托言要把嫂子接回看迎儿，王婆索百两，他次日带银来。百两原是施恩给他托刘高照看的款，另五两谢婆子。图只画兑银；他的真实报仇念头由同回12段明写，不把礼貌外观当成已经和解。",
+      "psychology": "明写：婆子见银喜欢，武松心中不自在。解释：两人同在一张桌边，等待的结果并不相同，读者不必替王婆添加早已看穿危险的表情。",
+      "social": "王婆实收百两加谢五两，却只向月娘交二十；索价、实收、代交不同。天平仅示意称兑，不伪造刻度。",
+      "explicit": "遇赦、归来、天平兑百两、另五两、交二十。",
+      "inference": "武松沿30回右幅，87回称更胖且长胡茬，本图增体量与短须；具体年岁未明。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 contains separate portraits: ONLY WU SONG at FAR RIGHT, tall strongly built mature adult with thick straight brows and angular face, now somewhat HEAVIER and with more short rough beard stubble per chapter; ONLY WANG PO elderly woman at FAR LEFT, not middle man. Reference2 ONLY painted gongbi medium. TWO fully clothed adults at a plain mill-house table. Wu Song in dark charcoal full travel robe, plain dark cloth headwrap and belt stands stern and restrained, places a cloth silver packet beside a SMALL TRADITIONAL TWO-PAN BALANCE. Elderly Wang Po in closed brown full robe reaches to examine silver with pleased practical attention, no knowing fear. Silver represented by several dull pieces with no exact weight or readable numbers. No drawn weapon, threat, wedding smile or bride visible, simple grain sieve at wall, fine ink mineral pigment and cold winter light, no text.",
+      "references": [
+        "old-people-030右（武松）、左（王婆）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/087-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 contains separate portraits: ONLY WU SONG at FAR RIGHT, tall strongly built mature adult with thick straight brows and angular face, now somewhat HEAVIER and with more short rough beard stubble per chapter; ONLY WANG PO elderly woman at FAR LEFT, not middle man. Reference2 ONLY painted gongbi medium. TWO fully clothed adults at a plain mill-house table. Wu Song in dark charcoal full travel robe, plain dark cloth headwrap and belt stands stern and restrained, places a cloth silver packet beside a SMALL TRADITIONAL TWO-PAN BALANCE. Elderly Wang Po in closed brown full robe reaches to examine silver with pleased practical attention, no knowing fear. Silver represented by several dull pieces with no exact weight or readable numbers. No drawn weapon, threat, wedding smile or bride visible, simple grain sieve at wall, fine ink mineral pigment and cold winter light, no text."
+    },
+    {
+      "id": "087-03",
+      "chapter": 87,
+      "title": "红衣走到灵前",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 15,
+          "quote": "武大灵牌供养在上面"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 15,
+          "quote": "先自有些疑忌"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "王婆",
+        "武松"
+      ],
+      "place": "武家明间门口，刚入门",
+      "event": "金莲红衣过门，却见武大灵牌，开始疑惧。",
+      "why": "同一个过门动作，在眼前出现的灵位照见下改变了意味。",
+      "composition": "红衣背侧与素色香案相对，客人刚踏门槛，刀不出现。",
+      "summary": "王婆领金莲晚上到武家，金莲已换红衣、搭盖头。明间灯亮，武大灵牌在上，她先疑忌。图止于刚看见灵位，不画刀、裸体或伤害；后来逼问与杀害在文字交代，避免借喜庆构图美化暴力。",
+      "psychology": "明写：她发疑、惊惧，武松安排酒食。解释：她先前听接回管家而愿意来，到这里才感到布置不同；不能把后来的结局反说成她早已全知。",
+      "social": "这是以聘接名义把人带来的具体事件，不应作为古代婚礼通常如何的制度图。",
+      "explicit": "红衣盖头、明灯、武大灵牌、入门疑惧。",
+      "inference": "灵位不写字，红衣花样与门槛位置补足；完整服装，无肉体威胁画面。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow natural face age32; reference2 ONLY elderly Wang Po FAR LEFT and tall strongly built Wu Song FAR RIGHT with added rough short beard, not middle man; reference3 ONLY fine gongbi narrative medium. THREE fully clothed adults in a tense NON-GRAPHIC evening arrival at modest home. Pan in closed deep RED full jacket and long red skirt with a red cloth veil partially lifted by her own hand has just stepped across doorway, looks toward a small simple ANCESTRAL MEMORIAL TABLET on plain altar at opposite wall, eyes begin to show doubt, not seductive. Wang Po stands behind near door in brown robe, practical neutral expression. Wu Song farther to side in closed dark full robe quietly waits near untouched food table, NO WEAPON or threatening touch. Candles illuminate ordinary wood, tablet entirely UNREADABLE, no corpse, blood, future omen or wedding glamour. Fine ink mineral pigment, focus visual axis red clothing to memorial.",
+      "references": [
+        "pan-solo-030（金莲）",
+        "087-02左王婆、右武松",
+        "065-01（媒介）"
+      ],
+      "image": "assets/087-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow natural face age32; reference2 ONLY elderly Wang Po FAR LEFT and tall strongly built Wu Song FAR RIGHT with added rough short beard, not middle man; reference3 ONLY fine gongbi narrative medium. THREE fully clothed adults in a tense NON-GRAPHIC evening arrival at modest home. Pan in closed deep RED full jacket and long red skirt with a red cloth veil partially lifted by her own hand has just stepped across doorway, looks toward a small simple ANCESTRAL MEMORIAL TABLET on plain altar at opposite wall, eyes begin to show doubt, not seductive. Wang Po stands behind near door in brown robe, practical neutral expression. Wu Song farther to side in closed dark full robe quietly waits near untouched food table, NO WEAPON or threatening touch. Candles illuminate ordinary wood, tablet entirely UNREADABLE, no corpse, blood, future omen or wedding glamour. Fine ink mineral pigment, focus visual axis red clothing to memorial.\nAdditional reference clarification: the first file is the only face for Pan, a woman, no facial hair. The second file shows Wang Po on the left and Wu Song on the right, use those two faces directly. Three distinct people total, Pan and Wang Po are women and Wu Song is the only man. Show a quiet fully clothed arrival, just the moment she sees the memorial table."
+    },
+    {
+      "id": "087-04",
+      "chapter": 87,
+      "title": "迎儿掩住了脸",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 16,
+          "quote": "迎儿小女在旁看见，唬的只掩了脸"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 23,
+          "quote": "叔叔，我也害怕"
+        }
+      ],
+      "people": [
+        "迎儿"
+      ],
+      "place": "武家房内，暴力事件的旁观位置",
+      "event": "武松杀害金莲与王婆，迎儿被迫目睹并惊惧，后来又被锁在房内。",
+      "why": "报仇叙事之外，还留下一个在自己家里害怕得遮住脸的人。",
+      "composition": "十九岁迎儿单人近景，双手遮脸，画外事件完全不呈现。",
+      "summary": "武松以酒席逼问，随后杀害金莲和王婆。迎儿当场遮脸，后来被倒扣屋内，仍说自己害怕。图只取遮脸的反应，不展示受害者身体、刀刃、鲜血或遗骸，也不把报仇等同于所有在场者都感到解脱。",
+      "psychology": "明写：迎儿惊惧、说害怕。解释：这是一个独立可见的经历，不能被报仇成功的一句话覆盖；她没有说出的想法仍不补造。",
+      "social": "本回12段明确迎儿十九岁，图按成年普通女子表现，非早年十二岁的年龄。叙述者报应判断与本馆对暴力后果的观察分开。",
+      "explicit": "十九岁、旁观掩脸、后来被关房、说害怕。",
+      "inference": "沿早年右幅面貌做成年调整；衣色与镜头位置补足。事件发生在画外，只画恐惧反应。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying'er at FAR RIGHT independent portrait, NOT left man or middle boy; she is now NINETEEN YEARS OLD ADULT, preserve recognizably similar natural face but mature to adult, not child. Reference2 ONLY fine painted gongbi narrative medium. ONE fully clothed nineteen-year-old adult Chinese woman in plain CLOSED gray-blue padded jacket and full dark long skirt, ordinary tied hair, no glamour. Tight quiet medium close framing: she turns face away and COVERS HER OWN EYES with both hands, shoulders trembling and bent slightly, frightened dignified human reaction. Single candle and plain opaque wooden wall behind, ALL VIOLENCE is OFFSCREEN and NOT depicted, NO weapon, blood, body, gore, shadow assault, severed parts or reflected violence anywhere. No sexualization or exposed skin beyond hands/face. Muted ochre and gray, fine delicate ink, restrained emotional realism, no text.",
+      "references": [
+        "young-people-030右（迎儿，成年调整）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/087-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying'er at FAR RIGHT independent portrait, NOT left man or middle boy; she is now NINETEEN YEARS OLD ADULT, preserve recognizably similar natural face but mature to adult, not child. Reference2 ONLY fine painted gongbi narrative medium. ONE fully clothed nineteen-year-old adult Chinese woman in plain CLOSED gray-blue padded jacket and full dark long skirt, ordinary tied hair, no glamour. Tight quiet medium close framing: she turns face away and COVERS HER OWN EYES with both hands, shoulders trembling and bent slightly, frightened dignified human reaction. Single candle and plain opaque wooden wall behind, ALL VIOLENCE is OFFSCREEN and NOT depicted, NO weapon, blood, body, gore, shadow assault, severed parts or reflected violence anywhere. No sexualization or exposed skin beyond hands/face. Muted ochre and gray, fine delicate ink, restrained emotional realism, no text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "听来的指控，不自动变成新增事实",
+      "text": "娇儿向张家说金莲害死瓶儿母子，这是本回她的说法。不能把转述直接当作经过独立核验的因果，尤其不靠这个指控重画此前疾病与死亡。",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 8,
+          "quote": "又听见李娇儿说"
+        }
+      ]
+    },
+    {
+      "title": "接回去的理由与实际盘算",
+      "text": "武松口称接嫂看迎儿、成家过日子，12段却先明写旧仇在心。读者此刻已能辨认话与意不同，不用后回结果解释这次客气。",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 12,
+          "quote": "旧仇在心"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 13,
+          "quote": "娶得嫂子家去，看管迎儿"
+        }
+      ]
+    },
+    {
+      "title": "留在屋内的人没有被一同带走",
+      "text": "武松之后出走，迎儿被锁房内。她的处境只按本回止点记录，既不预测之后去向，也不凭英雄报仇的叙事替她写放心。",
+      "evidence": [
+        {
+          "chapter": 87,
+          "paragraph": 23,
+          "quote": "倒扣迎儿在屋里"
+        }
+      ]
+    }
+  ]
+}

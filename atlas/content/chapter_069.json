@@ -1,0 +1,262 @@
+{
+  "number": 69,
+  "title": "第六十九回文嫂通情林太太　王三官中诈求奸",
+  "intro": "一笔银、一张名单、一份拜帖：同一件事在不同人口中，呈现出不同的来由。",
+  "scenes": [
+    {
+      "id": "069-01",
+      "chapter": 69,
+      "title": "暖帘外的耳朵",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 5,
+          "quote": "只玳安儿影在帘儿外边听说话儿"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 5,
+          "quote": "向袖中取出五两一锭银子与他"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "文嫂",
+        "帘外的玳安"
+      ],
+      "place": "对门房子小客位，暖帘内外",
+      "event": "西门庆付五两给文嫂，请她设法与林氏会面；玳安留在帘外听。",
+      "why": "主人的秘密并未因遣走左右而只剩两人知道。",
+      "composition": "暖帘切开画面，内侧交银，外侧玳安侧耳；不是两个时间的拼图。",
+      "summary": "玳安带来文嫂，西门庆令左右退出，谈起王招宣家。文嫂接了五两，也指出不能把林氏约到自己窄小的住处。她离开时，玳安提出自己也要一两。图取帘内交银、帘外仍有人听的一刻，要求分银发生在随后。",
+      "psychology": "原文明写：西门庆坚持让文嫂收银，玳安偷听并在事后讨银。推测：被排除在私谈之外的跑腿人，也想从经手消息中分得利益；不能说他已经拿到一两。",
+      "social": "五两是一笔已经交出的银；玳安索一两尚未成账。保密的命令与仆人掌握的信息并不重合。",
+      "explicit": "小客位、暖帘、遣左右出、帘外玳安、五两一锭银。",
+      "inference": "文嫂本回无面容衣装详述，设为方脸、深色头巾的中年妇人；具体帘色、房间布局、交银手势为构图补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing, long adult face, straight brows, natural narrow eyes. Reference2 locks ONLY Daian, the young ADULT servant in the FAR LEFT panel, not either other figure. Reference3 is ONLY silk-pigment gongbi painted medium, no people. Exactly THREE adults in ONE continuous winter reception room, landscape. A thick warm curtain divides the view diagonally. INSIDE at left, Ximen in a fully closed dark blue-green everyday robe draws a single plain SILVER INGOT from his sleeve toward Wen, a distinct middle-aged Chinese broker woman with a broad square face, alert creased eyes, plain dark cloth headwrap, muted brown padded jacket and dark skirt, who receives it cautiously. OUTSIDE at right, half hidden behind the curtain, Daian in simple indigo servant clothes tilts his ear toward the conversation. The curtain does not conceal any nude body: all fully clothed nonsexual business. Close hands around ONE ingot are legible, not piles of treasure. A small tea table and a cold glimpse of courtyard; no text, no imagined woman of Wang household, no coin given to Daian in this frame.",
+      "references": [
+        "ximen（面貌）",
+        "young-people-030左幅（玳安）",
+        "065-01（绘画媒介）"
+      ],
+      "image": "assets/069-01.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing, long adult face, straight brows, natural narrow eyes. Reference2 locks ONLY Daian, the young ADULT servant in the FAR LEFT panel, not either other figure. Reference3 is ONLY silk-pigment gongbi painted medium, no people. Exactly THREE adults in ONE continuous winter reception room, landscape. A thick warm curtain divides the view diagonally. INSIDE at left, Ximen in a fully closed dark blue-green everyday robe draws a single plain SILVER INGOT from his sleeve toward Wen, a distinct middle-aged Chinese broker woman with a broad square face, alert creased eyes, plain dark cloth headwrap, muted brown padded jacket and dark skirt, who receives it cautiously. OUTSIDE at right, half hidden behind the curtain, Daian in simple indigo servant clothes tilts his ear toward the conversation. The curtain does not conceal any nude body: all fully clothed nonsexual business. Close hands around ONE ingot are legible, not piles of treasure. A small tea table and a cold glimpse of courtyard; no text, no imagined woman of Wang household, no coin given to Daian in this frame."
+    },
+    {
+      "id": "069-02",
+      "chapter": 69,
+      "title": "影身图前的来客",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 10,
+          "quote": "正面供养着他祖爷太原节度邠阳郡王王景崇的影身图"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 10,
+          "quote": "不想林氏悄悄従房门帘里望外观看"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "文嫂",
+        "帘后窥看的林氏"
+      ],
+      "place": "王招宣宅后堂，进入内房以前",
+      "event": "文嫂引西门庆过后门、夹道到后堂；林氏在帘后看他。",
+      "why": "夜间后门进入的秘密会面，落在一间陈列家世与节义的厅堂。",
+      "composition": "较远室内景，以祖像、来客、侧帘后的半张脸形成三个层次。",
+      "summary": "西门庆蒙眼纱到后门，文嫂引入，关门上栓，再转过群房到后堂。他看祖像与陈设时，林氏从房帘后悄悄打量，问起他所戴的孝。她随后请他进内室。图停在后堂，只用视线和门帘表现不公开的进入。",
+      "psychology": "原文明写：林氏观看后欢喜，文嫂解释白冠是为第六房戴孝。解释：家世陈设与两人的实际来意并置，形成同一空间中的张力；不把牌匾的道德用语当作人物必然遵行的准则。",
+      "social": "这幅祖像与兵器陈设在原文明确出现；它们表达家门所展示的身份，不证明王家此时仍有祖辈的权力。",
+      "explicit": "祖像红团龙蟒衣、玉带、虎皮交椅，坐看兵书，旁列枪刀弓矢；西门庆白缎忠靖冠、貂鼠暖耳、紫羊绒鹤氅。林氏帘内观看。",
+      "inference": "祖像与兵器位置仅作关系式安排，不是宅院精确复原。林氏三十五岁出自文嫂介绍；面貌设为成熟丰润、宽额，区别于年轻女眷。画中不生成匾额联语。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY locks Ximen Qing face. Reference2 ONLY locks painted gongbi silk medium. A deep, atmospheric NIGHT rear hall in a wealthy hereditary military household. One large ANCESTRAL PORTRAIT on the rear wall depicts an OLDER MAN with short beard in a RED python-pattern robe and jade belt, seated on a tiger-skin covered folding chair READING A CLOSED-LETTERLESS BOOK; stylized painted portrait, clearly not a live person. A few upright spears and bow beside it. NO writing on plaques, walls or book. Foreground Ximen, recognizable long face, wears WHITE silk Zhongjing cloth cap, dark small fur ear warmers, a PURPLE wool outer cloak, black boots with pale soles; he pauses looking toward the portrait. Wen, the SAME broad square-faced middle-aged broker woman with plain dark headwrap and brown jacket, stands a step behind with covered tea cup. At the extreme right through a gap in an interior curtain, Lin, a DISTINCT mature woman about 35 with broad forehead, fuller cheeks and calmly appraising eyes, looks out unnoticed; only head and shoulder visible, gold-wire leaf hair crown and white collar with incense-brown patterned cloak. All fully clothed. Perspective layers, warm small candles against deep blue night, no bedroom intimacy, no servants or soldiers added, no readable plaque, no split panels.",
+      "references": [
+        "ximen（面貌）",
+        "065-01（绘画媒介）"
+      ],
+      "image": "assets/069-02.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY locks Ximen Qing face. Reference2 ONLY locks painted gongbi silk medium. A deep, atmospheric NIGHT rear hall in a wealthy hereditary military household. One large ANCESTRAL PORTRAIT on the rear wall depicts an OLDER MAN with short beard in a RED python-pattern robe and jade belt, seated on a tiger-skin covered folding chair READING A CLOSED-LETTERLESS BOOK; stylized painted portrait, clearly not a live person. A few upright spears and bow beside it. NO writing on plaques, walls or book. Foreground Ximen, recognizable long face, wears WHITE silk Zhongjing cloth cap, dark small fur ear warmers, a PURPLE wool outer cloak, black boots with pale soles; he pauses looking toward the portrait. Wen, the SAME broad square-faced middle-aged broker woman with plain dark headwrap and brown jacket, stands a step behind with covered tea cup. At the extreme right through a gap in an interior curtain, Lin, a DISTINCT mature woman about 35 with broad forehead, fuller cheeks and calmly appraising eyes, looks out unnoticed; only head and shoulder visible, gold-wire leaf hair crown and white collar with incense-brown patterned cloak. All fully clothed. Perspective layers, warm small candles against deep blue night, no bedroom intimacy, no servants or soldiers added, no readable plaque, no split panels. Additional reference3 locks ONLY Wen, the middle-aged broker woman at CENTER in brown jacket and dark headwrap; preserve her face. IMPORTANT use visibly hand-drawn fine ink contours and brushed mineral pigment rather than photographic smooth rendering. Wide architectural staging."
+    },
+    {
+      "id": "069-03",
+      "chapter": 69,
+      "title": "笔下留下谁",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 21,
+          "quote": "西门庆取过笔来，把李桂姐、秦玉芝儿，并老孙祝日念名字都抹了"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 21,
+          "quote": "只动这小张闲等五个光棍"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "呈递名单的公人"
+      ],
+      "place": "西门家中，公人查访呈递揭帖时",
+      "event": "名单查来后，西门庆亲笔划掉部分名字，只令拿五人。",
+      "why": "决定谁被抓，不只发生在公堂的口令，也发生在私人宅中的笔下。",
+      "composition": "近景从纸与笔越过桌面看人；名字不实际画成文字，人物动作成为主体。",
+      "summary": "西门庆先让缉捕查王三官在何处与谁往来。公人到家呈上名单后，他将李桂姐、秦玉芝、孙寡嘴与祝日念划去，只拿其余五人。后来的夜间抓捕、拷打，是这次筛选的结果。图取未出动前的决定，不画行刑。",
+      "psychology": "原文明写：他选择涂去名字，给出只拿五人的命令。解释：这不是公人偶然漏抓的全部故事。伯爵后来称赞他的计策，是伯爵的奉承与解读，不据此证明一切细节都出自完整预谋。",
+      "social": "查访、公人、名单与宅中批示连成执行链。私交对象被移出名单，其他人承受刑罚；本图用一支笔表现选择权，不用血腥场面代替解释。",
+      "explicit": "后晌在西门宅呈递揭帖，取笔涂名字，吩咐只拿五人。",
+      "inference": "具体书桌、光线、官人的衣色、持纸姿势未写；揭帖画为不含可读文字的纸面，不声称展示原件。此时服饰为谨慎日常补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing long adult face. Reference2 is ONLY painted gongbi silk medium. Intimate oblique over-table composition in a winter afternoon PRIVATE HOUSE reception room, NOT a courtroom. Ximen in a modest rich blue-green fully closed robe and black bound cap leans forward, calm concentrated expression, his RIGHT HAND uses a black ink brush to strike through a few short ABSTRACT INK STROKES on a folded paper. Make no legible characters, names, letters or captions. ONE plain-clothed adult male enforcement messenger stands opposite holding the paper edge respectfully, distinct face, gray-brown coat and simple dark cap. A small inkstone, brush rest and covered tea cup, worn lustrous timber. The visual event is selective marking, not signing a contract or handing money. Low camera makes the hand, paper and restrained authority legible with both faces partially visible; cool courtyard light, muted mineral colors. No prisoners, no weapons being used, no gore or threat display.",
+      "references": [
+        "ximen（面貌）",
+        "065-01（绘画媒介）"
+      ],
+      "image": "assets/069-03.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing long adult face. Reference2 is ONLY painted gongbi silk medium. Intimate oblique over-table composition in a winter afternoon PRIVATE HOUSE reception room, NOT a courtroom. Ximen in a modest rich blue-green fully closed robe and black bound cap leans forward, calm concentrated expression, his RIGHT HAND uses a black ink brush to strike through a few short ABSTRACT INK STROKES on a folded paper. Make no legible characters, names, letters or captions. ONE plain-clothed adult male enforcement messenger stands opposite holding the paper edge respectfully, distinct face, gray-brown coat and simple dark cap. A small inkstone, brush rest and covered tea cup, worn lustrous timber. The visual event is selective marking, not signing a contract or handing money. Low camera makes the hand, paper and restrained authority legible with both faces partially visible; cool courtyard light, muted mineral colors. No prisoners, no weapons being used, no gore or threat display."
+    },
+    {
+      "id": "069-04",
+      "chapter": 69,
+      "title": "一声老伯",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 27,
+          "quote": "因向袖中取出揭帖递上，随即离席跪下"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 27,
+          "quote": "被西门庆一手拉住"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 27,
+          "quote": "把礼帖还与王三官收了"
+        }
+      ],
+      "people": [
+        "王三官",
+        "西门庆",
+        "文嫂"
+      ],
+      "place": "西门家大厅",
+      "event": "王三官带揭帖求免出官，离席欲跪，西门庆伸手拦住并退礼帖。",
+      "why": "王三官以为在求一个救助者，却不知道此人此前怎样参与了事情。",
+      "composition": "略低双人中景，欲跪与伸手拦的身体高差，文嫂在后，黄铜屏暗亮。",
+      "summary": "前厅有人催逼，文嫂先安排酒肉稳住他们，悄悄带三官从后门出来。三官穿青衣、儒巾到西门家，自称小侄，递揭帖求老伯饶恕。他带来的五十两是礼帖所列，西门庆退回，并命人再拿那几人。图不把礼帖画成五十两现银交付。",
+      "psychology": "原文明写：三官惶恐求援，西门庆拉住他、允处置滋扰者。解释：读者已知的名单筛选，与三官此刻所知不同；不能把他的谢意解释成他知道全部经过后的认同。",
+      "social": "来客的揭帖要经过门房通报，文嫂先要二钱打点；大厅内却以亲热的老伯、贤契称呼办理。礼貌、门槛与依赖同时存在。",
+      "explicit": "三官儒巾青衣；西门庆忠靖冠便衣；递揭帖、欲跪被拉；金碧山水四轴、绿锦貂鼠椅座、地毯、黄铜方屏。",
+      "inference": "三官本回称不上二十岁，画为十八九岁的非性化青年；脸、衣纹、地毯纹样为美术补足。只截局部陈设，不拼成可测量大厅。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY painted gongbi medium. ONE dramatic medium-wide moment in a wealthy Chinese private reception hall, three fully clothed people. Wang Sanguan is a DISTINCT 18-to-19-year-old young man, clean youthful rounder face, worried wide eyes, a dark scholar cloth cap and plain BLUE robe. At LEFT he begins lowering one knee from his chair, holding a FOLDED petition paper in his left hand. At RIGHT Ximen in a dark cloth Zhongjing cap and fully closed restrained brown-green indoor robe reaches forward with ONE hand to stop the kneeling gesture, the other lightly returning a small closed letterless gift note, NOT an ingot. Maintain coherent anatomy. Wen, the broad square-faced middle-aged woman in brown jacket and plain dark headwrap established previously, watches a few paces behind. A polished square brass screen catches low light at back, partial green brocade chair cover and floor carpet, cropped landscape wall paintings with no characters, wealth shown through material not palace gold. Strong difference in confidence and body height, not a sentimental embrace, no money handed over, no sexual content, no text.",
+      "references": [
+        "ximen（面貌）",
+        "065-01（绘画媒介）"
+      ],
+      "image": "assets/069-04.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY painted gongbi medium. ONE dramatic medium-wide moment in a wealthy Chinese private reception hall, three fully clothed people. Wang Sanguan is a DISTINCT 18-to-19-year-old young man, clean youthful rounder face, worried wide eyes, a dark scholar cloth cap and plain BLUE robe. At LEFT he begins lowering one knee from his chair, holding a FOLDED petition paper in his left hand. At RIGHT Ximen in a dark cloth Zhongjing cap and fully closed restrained brown-green indoor robe reaches forward with ONE hand to stop the kneeling gesture, the other lightly returning a small closed letterless gift note, NOT an ingot. Maintain coherent anatomy. Wen, the broad square-faced middle-aged woman in brown jacket and plain dark headwrap established previously, watches a few paces behind. A polished square brass screen catches low light at back, partial green brocade chair cover and floor carpet, cropped landscape wall paintings with no characters, wealth shown through material not palace gold. Strong difference in confidence and body height, not a sentimental embrace, no money handed over, no sexual content, no text. Additional reference3 locks ONLY Wen, the brown-jacketed middle-aged broker woman at CENTER with dark headwrap, preserve her face. Draw this frame as fine ink contour with mineral pigment wash; face identities should not turn the scene into a modern photograph. One coherent instant of beginning to kneel and being stopped, NOT already kneeling and standing simultaneously."
+    },
+    {
+      "id": "069-05",
+      "chapter": 69,
+      "title": "灯台照不到自己",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 29,
+          "quote": "老鸦笑话猪儿黑，原来灯台不照自"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 29,
+          "quote": "几句说的西门庆不言语了"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "西门庆"
+      ],
+      "place": "后房，摆饭以前",
+      "event": "西门庆批评三官不成器，月娘反问他何尝清洁，说得他沉默。",
+      "why": "同一个人的道德训话，在换一个听者之后失去顺畅的出口。",
+      "composition": "家庭近中景，月娘平视发问，西门庆话停在嘴边；留出两人之间安静的桌面。",
+      "summary": "处置过五人，西门庆回后房向月娘讲三官求情，转而责三官丢着妻子、耗费家财、只顾院中嫖弄。月娘用乌鸦、猪与灯台的俗语，把他的话转回他身上。原文紧接着写他不言语，随后才摆饭、报伯爵来访。图停在这一瞬，不画还没端来的整桌酒饭。",
+      "psychology": "原文明写：月娘责他也同样行事，西门庆不言语。推测：沉默可表示一时无从反驳，但不能就此说他已经认错、悔改或心中有确定计划。",
+      "social": "公堂上可训诫他人的权势，回家后并不能自动使每句话都占理。月娘借日常俗语指出双重标准，而非发表一套抽象制度理论。",
+      "explicit": "后房二人对话；月娘反问；西门庆沉默；接着才摆饭。",
+      "inference": "月娘衣饰、桌椅、灯具与两人姿势未详。灯台是俗语喻意，不在画面添加乌鸦或猪，避免把比喻实体化。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY Wu Yueniang face: a mature adult woman with a full round face, broad gentle but firm brow, small composed mouth. Do not copy its prayer scene or props. Reference2 is ONLY Ximen Qing face, long face straight brows. Reference3 ONLY painted gongbi silk style. A restrained two-person household interior medium shot, winter twilight. At LEFT Yueniang wears a fully closed muted russet padded jacket, dark long skirt, practical bound hair with modest pins, sitting upright and looking directly at her husband with a calm pointed questioning expression, one open hand making a small ordinary gesture. At RIGHT Ximen, same man in dark Zhongjing cap and brown-green everyday robe as preceding hall moment, has stopped speaking, mouth closed, gaze slightly lowered, hands resting still. A simple table edge between them with one covered tea cup but NO laid dinner yet. Plain timber screen and a small oil lamp give warm low light against cool gray room. No shouting caricature, no remorse tears, no crow, pig or other literal embodiment of a proverb, no moral allegory figures, no extra servants, no text. The psychological event is a confident judgment interrupted by a familiar counter-question.",
+      "references": [
+        "moon-030（月娘面貌）",
+        "ximen（面貌）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/069-05.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY Wu Yueniang face: a mature adult woman with a full round face, broad gentle but firm brow, small composed mouth. Do not copy its prayer scene or props. Reference2 is ONLY Ximen Qing face, long face straight brows. Reference3 ONLY painted gongbi silk style. A restrained two-person household interior medium shot, winter twilight. At LEFT Yueniang wears a fully closed muted russet padded jacket, dark long skirt, practical bound hair with modest pins, sitting upright and looking directly at her husband with a calm pointed questioning expression, one open hand making a small ordinary gesture. At RIGHT Ximen, same man in dark Zhongjing cap and brown-green everyday robe as preceding hall moment, has stopped speaking, mouth closed, gaze slightly lowered, hands resting still. A simple table edge between them with one covered tea cup but NO laid dinner yet. Plain timber screen and a small oil lamp give warm low light against cool gray room. No shouting caricature, no remorse tears, no crow, pig or other literal embodiment of a proverb, no moral allegory figures, no extra servants, no text. The psychological event is a confident judgment interrupted by a familiar counter-question. Visibly hand-painted ink contour and mineral pigment brushwork; do not use a glossy photograph."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "日期与名单，不强行抹平",
+      "text": "本回先按相会后次日查访来叙，末段对话又说初八夜抓人，与前面初九相会的日序存在抵牾；末段西门庆还说抹去了三官之名，前面呈帖段没有这样列出。展馆保留说话位置，不据后一句悄悄重写前一段。",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 14,
+          "quote": "今日初九日"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 30,
+          "quote": "初八日晚夕在李桂姐屋里都拿的去了"
+        }
+      ]
+    },
+    {
+      "title": "两次求门路，不是同一种知道",
+      "text": "林氏与文嫂已商量用求情作会面的由头；三官后来真的因外面人的催逼而求助。他不知道母亲与西门庆的私会，求援的诚惶诚恐不能替他补出这份知识。",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 7,
+          "quote": "预先私请老爹来，私下先会一会"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 25,
+          "quote": "好歹说个人情救我"
+        }
+      ]
+    },
+    {
+      "title": "赞计策的是伯爵",
+      "text": "伯爵从漏掉的熟人推断西门庆有意拿捏，又称赞其智谋。西门庆笑后才承认划名、说起三官上门。读者可注意奉承如何推动谈话，但不把伯爵每一句揣测都当成全知叙述。",
+      "evidence": [
+        {
+          "chapter": 69,
+          "paragraph": 30,
+          "quote": "休怪我说，哥这一着做的絶了"
+        }
+      ]
+    }
+  ]
+}

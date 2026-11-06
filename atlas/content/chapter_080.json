@@ -1,0 +1,301 @@
+{
+  "number": 80,
+  "title": "第八十回陈经济窃玉偷香　李娇儿盗财归院",
+  "intro": "同是吊丧，有人盘算回礼，有人被晾在灵前，也有人来还旧债。分开看这些动作，比一句人情冷暖更具体。",
+  "scenes": [
+    {
+      "id": "080-01",
+      "chapter": 80,
+      "title": "七钱银子的祭奠",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 7,
+          "quote": "每人各出一钱银子，七人共凑上七钱"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 7,
+          "quote": "咱还吃他一阵"
+        }
+      ],
+      "people": [
+        "应伯爵",
+        "谢希大",
+        "花子由",
+        "祝日念",
+        "孙天化",
+        "常时节",
+        "白来创"
+      ],
+      "place": "七位朋友筹备祭奠的会坐处",
+      "event": "伯爵提议凑钱祭奠，同时细算回礼、吃席等所得。",
+      "why": "悼念与占便宜在同一段话中说出，不需要由读者凭空猜测动机。",
+      "composition": "七人不齐排，围着几枚碎银与空祭轴商议，伯爵掰指算。",
+      "summary": "七位朋友相约祭西门，伯爵先算每人一钱，又细数祭物花用和可以领回的孝绢、吃到的席面。图取筹办，不画他们已经拿到回礼。原话所列费用也不另凑成一张无误总账，重点是悼友时同时盘算实惠的说话方式。",
+      "psychology": "明写：他承认过去吃用借使，也说此次可讨便宜。解释：祭奠不是全无悼念，却被一串预期所得重新安排了重心。",
+      "social": "一钱是每人的出资，孝绢七分是他对回礼价值的说法；不要把这些口头估算当市场价目表。",
+      "explicit": "七人聚坐、凑钱、筹祭轴与祭物、伯爵讲算。",
+      "inference": "会面处、座次、衣色补足；纸上不生成伪祭文。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying Bojue lean middle-aged short-mustached face at RIGHT in old image; reference2 ONLY Xie Xida heavier round-faced adult man at RIGHT panel; reference3 ONLY painted gongbi medium. SEVEN fully clothed ADULT male friends sit irregularly around two joined plain tables in a modest meeting room, not a royal feast. Ying Bojue foreground left in faded purple robe counts on his fingers while explaining, Xie Xida across from him in dull brown robe listens with practical interest. FIVE other adult men vary clearly in age, face and body, simple winter robes and caps. A few small silver pieces in a cloth on table, one rolled blank ceremonial scroll and empty cup, no piles of gold, no already delivered funeral gifts. Faces believable and restrained, diagonal group narrative, matte mineral pigment on silk, no text, caricature or modern coins.",
+      "references": [
+        "067-01右（伯爵）",
+        "guests-030右（谢希大）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying Bojue lean middle-aged short-mustached face at RIGHT in old image; reference2 ONLY Xie Xida heavier round-faced adult man at RIGHT panel; reference3 ONLY painted gongbi medium. SEVEN fully clothed ADULT male friends sit irregularly around two joined plain tables in a modest meeting room, not a royal feast. Ying Bojue foreground left in faded purple robe counts on his fingers while explaining, Xie Xida across from him in dull brown robe listens with practical interest. FIVE other adult men vary clearly in age, face and body, simple winter robes and caps. A few small silver pieces in a cloth on table, one rolled blank ceremonial scroll and empty cup, no piles of gold, no already delivered funeral gifts. Faces believable and restrained, diagonal group narrative, matte mineral pigment on silk, no text, caricature or modern coins."
+    },
+    {
+      "id": "080-02",
+      "chapter": 80,
+      "title": "灵前站了半日",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 11,
+          "quote": "站了半日，白没个人儿出来陪待"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 11,
+          "quote": "人恶礼不恶"
+        }
+      ],
+      "people": [
+        "王六儿",
+        "孟玉楼"
+      ],
+      "place": "西门宅灵前",
+      "event": "王六儿来吊，久无人接待；吴铠劝过月娘后，玉楼出来还礼。",
+      "why": "礼数怎样给或不给，会让个人怨恨在众目下显出形状。",
+      "composition": "空的客位突出等待，玉楼从侧门来，吊客手悬在香案边。",
+      "summary": "王六儿备祭桌来，月娘仍气恼而不愿见。小厮不敢报，来安受骂，大舅则提醒韩道国手中还有本钱，劝勿失礼。后来玉楼陪坐，一杯茶后她离去。图取玉楼刚出来的片刻，不把全家沉默说成所有人同一想法。",
+      "psychology": "明写：王六儿省得处境、坐不住。解释：她的尴尬既来自久候，也来自这份勉强补上的接待；玉楼还礼不等于替任何一方认可全部行为。",
+      "social": "大舅以礼与尚在外头的资金劝说，两种理由在原话中并存。",
+      "explicit": "素装吊孝、久站、后来玉楼还礼陪坐、一钟茶。",
+      "inference": "素衣色、来客座位与门位为艺术补足，灵位不写字，不绘逝者遗体。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yulou tall slim adult face with slight pockmarks; reference2 ONLY painted gongbi medium. Wang Liuer is a new gallery face, a distinct tall broad-shouldered mature adult woman, long face, fuller mouth, ordinary natural skin, NOT the same as Yulou. TWO fully clothed adult women in a quiet funeral side hall. Wang Liuer at left wears modest unadorned pale gray mourning visitor clothes, bound hair with no glitter, stands near an offering table with a small covered food tray, looking restrained and embarrassed after waiting. Empty guest chair and untouched tea cup occupy foreground center. Yulou in plain WHITE mourning outer robe over long muted ochre skirt emerges from side door at right, gently returning a formal greeting, no warm embrace. Distant closed draped memorial setting, NO body, no readable tablet inscription, soft cold daylight, social distance in negative space, no erotic gesture.",
+      "references": [
+        "yulou（玉楼）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yulou tall slim adult face with slight pockmarks; reference2 ONLY painted gongbi medium. Wang Liuer is a new gallery face, a distinct tall broad-shouldered mature adult woman, long face, fuller mouth, ordinary natural skin, NOT the same as Yulou. TWO fully clothed adult women in a quiet funeral side hall. Wang Liuer at left wears modest unadorned pale gray mourning visitor clothes, bound hair with no glitter, stands near an offering table with a small covered food tray, looking restrained and embarrassed after waiting. Empty guest chair and untouched tea cup occupy foreground center. Yulou in plain WHITE mourning outer robe over long muted ochre skirt emerges from side door at right, gently returning a formal greeting, no warm embrace. Distant closed draped memorial setting, NO body, no readable tablet inscription, soft cold daylight, social distance in negative space, no erotic gesture."
+    },
+    {
+      "id": "080-03",
+      "chapter": 80,
+      "title": "窗边交出的钥匙",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 15,
+          "quote": "且拿钥匙出来与我"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 15,
+          "quote": "妇人连忙教春梅拿钥匙与经济"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "陈经济"
+      ],
+      "place": "金莲房外窗边",
+      "event": "经济以搬祭物为由索钥匙，两人在治丧事务间继续私下亲近。",
+      "why": "公开的差事与隐秘关系在同一扇窗边重叠。",
+      "composition": "只画钥匙交接与目光，窗格把两人分在内外，完整着衣。",
+      "summary": "卷棚伴宿散后，金莲与经济有了私情。次晨经济到窗前，要开库房搬祭物的钥匙。图用成人之间的眼神和递物表现已经发生的关系，不画身体接触或床上场面；春梅随后开楼门，不虚构她此刻同谋的一段对白。",
+      "psychology": "明写：两人前夜私会、次晨仍亲昵。解释：索钥匙是具体差事，也给接近提供机会；不能因此把每个搬祭物的人都列为知情者。",
+      "social": "库房管理与治丧接待仍在运作，不能因私情出现就省掉这些日常职责。",
+      "explicit": "窗前索钥匙、春梅拿钥匙、要搬祭桌、随后开楼。",
+      "inference": "镜头把原文对春梅的口头交代概括为窗边递物，不声称亲手交钥匙动作逐字明写；两人均成年，完整服装、不性化。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow natural face. Reference2 ONLY Chen Jingji in solo portrait, young ADULT smooth oval face fine straight brows, preserve recognizable face NOT clothes. Reference3 ONLY fine gongbi painted medium. A NONSEXUAL two-adult window-side scene in mourning household, daytime. Pan fully clothed in closed plain pale gray winter jacket and long muted skirt stands INSIDE a wooden latticed window, composed half-smile, merely extends ONE SMALL KEY through an open lower window panel. Chen stands OUTSIDE in full WHITE mourning robe and white headcloth, looks toward her with private attentive expression and reaches only for key, hands separate except object, bodies one window apart. No kissing, bed, nudity or sensual posture. Closed storeroom door in background hints ordinary task without exact layout. Restrained gray/brown palette, fine pigment and clear narrative negative space, no text.",
+      "references": [
+        "pan-solo-030（金莲）",
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow natural face. Reference2 ONLY Chen Jingji in solo portrait, young ADULT smooth oval face fine straight brows, preserve recognizable face NOT clothes. Reference3 ONLY fine gongbi painted medium. A NONSEXUAL two-adult window-side scene in mourning household, daytime. Pan fully clothed in closed plain pale gray winter jacket and long muted skirt stands INSIDE a wooden latticed window, composed half-smile, merely extends ONE SMALL KEY through an open lower window panel. Chen stands OUTSIDE in full WHITE mourning robe and white headcloth, looks toward her with private attentive expression and reaches only for key, hands separate except object, bodies one window apart. No kissing, bed, nudity or sensual posture. Closed storeroom door in background hints ordinary task without exact layout. Restrained gray/brown palette, fine pigment and clear narrative negative space, no text."
+    },
+    {
+      "id": "080-04",
+      "chapter": 80,
+      "title": "箱笼出门，丫鬟留下",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 29,
+          "quote": "把他房中衣服首饰箱笼床帐家活尽与他"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 29,
+          "quote": "只不与他元宵绣春两个丫鬟去"
+        }
+      ],
+      "people": [
+        "李娇儿",
+        "吴月娘",
+        "李家母亲",
+        "元宵",
+        "绣春"
+      ],
+      "place": "商议离宅后，李娇儿出门处",
+      "event": "娇儿争执后离开，衣物家什随走，月娘坚持不让两个丫鬟跟去。",
+      "why": "离开的不止一个人，哪些东西和哪些人能被带走也要经过争执。",
+      "composition": "前景箱笼与侧旁留站的两名少女，娇儿走向轿，月娘留门内。",
+      "summary": "李家劝娇儿谋离，私转东西后又与月娘争闹。议定衣饰床帐家什让她带走，月娘不许元宵、绣春随行。图取决定后的离宅，不画自伤威胁。娇儿在此回明确三十四岁，原文肥体线索继续保留，不变成纤瘦新娘。",
+      "psychology": "明写：娇儿恼怒、索要丫鬟，月娘拒绝，李家母亲收口。解释：去留谈判包含人身控制；不把叙述者对院中人的概论当作所有人天生如此的事实。",
+      "social": "衣物归属与丫鬟去留分开；月娘用买良为娼反驳，涉及身份处境，不能把少女画成可供展示的财物。",
+      "explicit": "议定箱笼家活、娇儿坐轿、两个丫鬟不随、34岁。",
+      "inference": "出门具体站位与服饰补足，两名少女完整宽松衣装、不性化、面貌不套用成年女子。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Li Jiaoer at LEFT panel, HEAVY full body and round broad cheeks, age34 not slim beauty; reference2 ONLY mature round-faced Yueniang; reference3 ONLY fine painted medium. WIDE household departure scene with FIVE fully clothed female figures. Li Jiaoer full-bodied in closed muted plum padded robe and dark long skirt stands beside two packed wooden chests near a waiting covered sedan, looking outward firmly. Elderly Li household mother in brown padded robe stands near her. Yueniang in plain white mourning robe remains just inside the gate, controlled tired expression. TWO modest adolescent female attendants in loose gray-green full jackets and long skirts stand BESIDE YUENIANG inside, NOT in luggage or being led away, dignified and NONSEXUAL, one clasping her own hands quietly. No suicide, restraint, fetish, wedding ceremony or gold crown. Chests imply movable belongings without exact inventory, early spring muted daylight, matte pigments and subtle ink, no readable words.",
+      "references": [
+        "wives-030左（娇儿）",
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Li Jiaoer at LEFT panel, HEAVY full body and round broad cheeks, age34 not slim beauty; reference2 ONLY mature round-faced Yueniang; reference3 ONLY fine painted medium. WIDE household departure scene with FIVE fully clothed female figures. Li Jiaoer full-bodied in closed muted plum padded robe and dark long skirt stands beside two packed wooden chests near a waiting covered sedan, looking outward firmly. Elderly Li household mother in brown padded robe stands near her. Yueniang in plain white mourning robe remains just inside the gate, controlled tired expression. TWO modest adolescent female attendants in loose gray-green full jackets and long skirts stand BESIDE YUENIANG inside, NOT in luggage or being led away, dignified and NONSEXUAL, one clasping her own hands quietly. No suicide, restraint, fetish, wedding ceremony or gold crown. Chests imply movable belongings without exact inventory, early spring muted daylight, matte pigments and subtle ink, no readable words."
+    },
+    {
+      "id": "080-05",
+      "chapter": 80,
+      "title": "还来的五十两",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 36,
+          "quote": "今积了些俸资奉偿"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 36,
+          "quote": "心中又是那欢喜，又是那惨切"
+        }
+      ],
+      "people": [
+        "蔡御史",
+        "吴月娘",
+        "陈经济",
+        "蔡家人"
+      ],
+      "place": "上房灵前至前厅",
+      "event": "蔡御史任满回京途中来吊，并归还此前借贷的五十两。",
+      "why": "与冷落并行，仍有人来还欠款；钱使月娘同时想起从前的接待。",
+      "composition": "还银的包与回礼的袖，来客将走，主人之间留空席。",
+      "summary": "巡盐蔡御史不知西门已亡，来到才知，仍往灵前拜。他送祭礼，又说以前受过厚惠，拿出五十两归还。月娘得银欢喜，却想若丈夫在，必留客饮酒到晚。图取归还，不把这笔借款误写为额外赏赐，也不替他补造一篇悼文。",
+      "psychology": "明写：月娘喜且悲，蔡说全始终之交。解释：钱的用途和情义记忆在此相遇，不能简单以还款数额评定全部交情。",
+      "social": "两绢、袜、白鲞、蜜饯属祭礼；五十两另是还贷，分项保存，不合成行情。",
+      "explicit": "蔡任满来谢吊孝、封银五十两、祭礼、月娘回礼与回忆。",
+      "inference": "蔡的面貌与官服式样为艺术设定，不借用影视；不画遗像中的人活着在场。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY Chen Jingji solo portrait face, slim young ADULT smooth oval face, NOT Ximen; reference3 ONLY painted gongbi medium. FOUR fully clothed adults in a quiet mourning reception hall. A NEW middle-aged visiting scholar-official Cai, angular broad forehead, short graying beard, dark muted green official robe and black cap, formally extends ONE CLOSED SILVER packet toward Chen Jingji in white full mourning robe who receives with both hands. Yueniang in white mourning robe stands beside them, tired face with mixed relief and grief, eyes toward the packet. Cai's plain-clothed male attendant holds a simple tray with two folded silk bolts and closed food jars, not huge tribute. One EMPTY guest chair by tea table, curtained memorial behind without readable tablet or corpse. Guest looks ready to depart rather than settle for feast. Restrained spring daylight, fine painted ink and matte pigments, no text.",
+      "references": [
+        "moon-030（月娘）",
+        "chen-030（经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-05.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Yueniang mature round face; reference2 ONLY Chen Jingji solo portrait face, slim young ADULT smooth oval face, NOT Ximen; reference3 ONLY painted gongbi medium. FOUR fully clothed adults in a quiet mourning reception hall. A NEW middle-aged visiting scholar-official Cai, angular broad forehead, short graying beard, dark muted green official robe and black cap, formally extends ONE CLOSED SILVER packet toward Chen Jingji in white full mourning robe who receives with both hands. Yueniang in white mourning robe stands beside them, tired face with mixed relief and grief, eyes toward the packet. Cai's plain-clothed male attendant holds a simple tray with two folded silk bolts and closed food jars, not huge tribute. One EMPTY guest chair by tea table, curtained memorial behind without readable tablet or corpse. Guest looks ready to depart rather than settle for feast. Restrained spring daylight, fine painted ink and matte pigments, no text."
+    },
+    {
+      "id": "080-06",
+      "chapter": 80,
+      "title": "另一家的座上客",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 39,
+          "quote": "张二官出了五千两，做了东平府古器这批钱粮"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 39,
+          "quote": "应伯爵无日不在他那边趋奉"
+        }
+      ],
+      "people": [
+        "张二官",
+        "应伯爵"
+      ],
+      "place": "张二官处",
+      "event": "张二官与伯爵等做采购生意，伯爵转在新主家频繁往来并谈西门家内事。",
+      "why": "先前争取的批文已有新的承办者，连熟悉内宅消息的人也转向新的桌旁。",
+      "composition": "两人中景，伯爵侧身低语，张二官听，文书边压小件古器示意不夸张堆满。",
+      "summary": "娇儿后来嫁张二官，伯爵等借资，张出五千两做采购。他又谋求西门原先的官缺，伯爵常去奉承，把西门家事告诉他。图画交谈，不画官缺已经取得，也不把他打听金莲的念头变为已发生的婚事。",
+      "psychology": "明写：伯爵趋奉并告内情，张听后起意。解释：伯爵把熟知的人与消息也带进新的交游；判断依据是本回这些动作，不用之后结果证明。",
+      "social": "借徐内相五千、张出五千是本回的出资叙述，不等于净赚一万；谋官所备千两仍是打点，不是任命。",
+      "explicit": "张32岁、婚娶娇儿、古器钱粮合资、伯爵频来、打听内宅。",
+      "inference": "张无可靠相貌描述，设短宽脸平眉薄短须，与西门长脸不同；无精确古器订单内容。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying Bojue lean mustached face at RIGHT of old image; reference2 ONLY painted gongbi narrative medium. TWO fully clothed ADULT men at a prosperous but ordinary Chinese reception table. NEW Zhang Erguan, age32, short broad face with straight low brows and a thin short mustache, sturdy medium build, clearly DIFFERENT from Ximen long face, wears rich muted teal brocade full robe and plain black cap. He sits listening attentively. Ying Bojue in faded purple full robe leans toward him speaking quietly, a small knowing social smile, not demonic caricature. Table has one folded unreadable procurement paper and one small bronze vessel only as a trade sample, NOT heaps of purchased antiquities. Courtyard construction timber dimly seen beyond suggests his stated building plans without completed new garden. No woman present, no future marriage or achieved official appointment, no text. Matte mineral pigment, fine silk contour and lived-in wood, diagonal medium framing.",
+      "references": [
+        "067-01右（伯爵）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/080-06.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ying Bojue lean mustached face at RIGHT of old image; reference2 ONLY painted gongbi narrative medium. TWO fully clothed ADULT men at a prosperous but ordinary Chinese reception table. NEW Zhang Erguan, age32, short broad face with straight low brows and a thin short mustache, sturdy medium build, clearly DIFFERENT from Ximen long face, wears rich muted teal brocade full robe and plain black cap. He sits listening attentively. Ying Bojue in faded purple full robe leans toward him speaking quietly, a small knowing social smile, not demonic caricature. Table has one folded unreadable procurement paper and one small bronze vessel only as a trade sample, NOT heaps of purchased antiquities. Courtyard construction timber dimly seen beyond suggests his stated building plans without completed new garden. No woman present, no future marriage or achieved official appointment, no text. Matte mineral pigment, fine silk contour and lived-in wood, diagonal medium framing."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "一句骂语，旁听的人也坐不住",
+      "text": "桂姐与银儿听月娘骂王六儿，虽不是直接受骂，也想离席。原文以砍一枝损百林形容这层波及。不能把对一人的责骂当作只在两人之间发生。",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 12,
+          "quote": "砍一枝，损百林，两个就有些坐不住"
+        }
+      ]
+    },
+    {
+      "title": "屋子锁了，人另作安置",
+      "text": "月娘令焚瓶儿灵床与影，把箱笼搬到上房；如意儿迎春到后边，绣春拨给娇儿。正文写的是一次具体重整，不据此自行补绘全部宅院改造。",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 18,
+          "quote": "将李瓶儿那边房门一把锁锁了"
+        }
+      ]
+    },
+    {
+      "title": "说的聘金与实际娶资",
+      "text": "李家转述张愿出五百两，39段实际记三百两娶娇儿。两处数字所处环节不同；本页保留差异，不悄悄统一成一数。年龄本回明记三十四，被李家隐去六岁，也与画像年龄感分别注明。",
+      "evidence": [
+        {
+          "chapter": 80,
+          "paragraph": 29,
+          "quote": "要破五百两金银娶你做二房娘子"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 39,
+          "quote": "使了三百两银子"
+        }
+      ]
+    }
+  ]
+}

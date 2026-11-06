@@ -1,0 +1,238 @@
+{
+  "number": 93,
+  "title": "第九十三回王杏庵仗义赒贫　任道士因财惹祸",
+  "intro": "从雪夜的冷铺到河闸旁的庙，再到酒楼的小阁。陈经济一路遇到给他饭、住处和差事的人，每一处的门槛都不一样。",
+  "scenes": [
+    {
+      "id": "093-01",
+      "chapter": 93,
+      "title": "五更的风雪",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 6,
+          "quote": "手提铃串了几条街巷"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 6,
+          "quote": "冻得耸肩缩背，战战兢兢"
+        }
+      ],
+      "people": [
+        "陈经济"
+      ],
+      "place": "清河县冷铺外街巷",
+      "event": "陈经济替人支更，提铃走过雪中街巷。",
+      "why": "铃与梆是这时他能换来一点吃食的活计。",
+      "composition": "近处结冰石板，人物微缩肩，单人置于窄巷纵深。",
+      "summary": "屋子和家什相继变卖，陈经济最后借冷铺栖身。在那里有人分他烧饼，也有人让他顶火夫巡夜。图取大风雪里提铃穿巷的时候，墙下病人和梦醒是随后的事。",
+      "psychology": "缩肩、寒颤是原文明写；此刻不画梦中的人物。",
+      "social": "冷铺在这一段既是临时栖身处，也是夜里支更的人聚集的地方。",
+      "explicit": "腊月、风雪、寒冰、梆子、铃串。",
+      "inference": "铃制和巷道方向未写；改用磨损布衣，仍保留陈经济清瘦的面相。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen Jingji face only, age 24, youthful oval face, leaner unshaven from hardship, ref2 painting medium only. A lone fully clothed Chinese young man trudges through a late-imperial narrow brick alley at night in thick blowing snow, shoulders hunched, one hand holding a small cluster of bronze hand bells, wearing a threadbare gray-brown cotton coat and cloth cap. Low angle with black ice and crusted snow, buildings recede into flurries, dim warm distant window. No bystanders, no fire drama; bells clear, hands believable.",
+      "references": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/093-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 衣服破损与铃串尺寸为美术处理；图只见铃，原文另写打梆。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen Jingji face only, age 24, youthful oval face, leaner unshaven from hardship, ref2 painting medium only. A lone fully clothed Chinese young man trudges through a late-imperial narrow brick alley at night in thick blowing snow, shoulders hunched, one hand holding a small cluster of bronze hand bells, wearing a threadbare gray-brown cotton coat and cloth cap. Low angle with black ice and crusted snow, buildings recede into flurries, dim warm distant window. No bystanders, no fire drama; bells clear, hands believable.",
+      "knownDeviation": "衣服破损与铃串尺寸为美术处理；图只见铃，原文另写打梆。"
+    },
+    {
+      "id": "093-02",
+      "chapter": 93,
+      "title": "衣袍之外还有盘缠",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 23,
+          "quote": "青布绵道袍儿"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 23,
+          "quote": "又秤一两银子、五百铜钱"
+        }
+      ],
+      "people": [
+        "王杏庵",
+        "陈经济"
+      ],
+      "place": "王宅客位",
+      "event": "王杏庵在门前认出故人之子，将他请进来给饭、衣和钱。",
+      "why": "同一次帮扶分别处理饥寒、住处和谋生。",
+      "composition": "两人隔桌，旧袖与叠好的新布袍相对，另见银钱。",
+      "summary": "王杏庵与陈经济的父亲相识。见他衣服褴褛，便让人备饭，给他衣鞋和两样钱：铜钱用作盘缠和租屋，另给一两银子做小买卖，还愿意补房钱。",
+      "psychology": "杏庵说起故交与眼下的可怜；经济当时受领，不能从受领推知他的决心。",
+      "social": "一两银与五百文是两笔用途不同的给付，不在此作精确折算。",
+      "explicit": "水合道服、重檐幅巾、青布绵道袍、毡帽、铜钱与银。",
+      "inference": "桌上陈设与称具样式仅作示意。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 face of adult Chen Jingji only; ref2 paint only. Exactly two adult Chinese men at a modest furnished reception table: affluent yet plainspoken Wang Xuan aged 60+, gentle squared weathered face with short gray beard, layered black kerchief and muted pale blue Dao-style robe; exhausted young Chen in worn charcoal cotton receives a folded indigo padded robe across the table. Small strings of cash, a silver lump, a cup, simple cold winter daylight, no elaborate gold, no text, medium side shot focused on handoff.",
+      "references": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/093-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 铜钱串数、银块大小按画面需要处理；数额看原文，不按成图估算。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 face of adult Chen Jingji only; ref2 paint only. Exactly two adult Chinese men at a modest furnished reception table: affluent yet plainspoken Wang Xuan aged 60+, gentle squared weathered face with short gray beard, layered black kerchief and muted pale blue Dao-style robe; exhausted young Chen in worn charcoal cotton receives a folded indigo padded robe across the table. Small strings of cash, a silver lump, a cup, simple cold winter daylight, no elaborate gold, no text, medium side shot focused on handoff.",
+      "knownDeviation": "铜钱串数、银块大小按画面需要处理；数额看原文，不按成图估算。"
+    },
+    {
+      "id": "093-03",
+      "chapter": 93,
+      "title": "暮到晏公庙",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 28,
+          "quote": "过了广济闸大桥"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 28,
+          "quote": "两边八字红墙，正面三间朱户"
+        }
+      ],
+      "people": [
+        "王杏庵",
+        "陈经济",
+        "抬盒人"
+      ],
+      "place": "临清广济闸旁晏公庙山门",
+      "event": "一行人抵达河闸旁的晏公庙，正要下马、入庙。",
+      "why": "庙与来往的船、人和货相接，陈经济的落脚处就在码头边。",
+      "composition": "斜向大远景，庙门在前、泊船在远，不画未经证实的精确相对方位。",
+      "summary": "王杏庵两次资助之后，替陈经济备了道衣，把他送到任道士主持的庙。他骑马，陈经济骑雇来的驴，随行两人抬盒担。过闸桥时已晚，河下停着许多船。",
+      "psychology": "画只表现抵达；入庙收徒和赐法名另在室内发生。",
+      "social": "这座庙也接待过闸船户。其余粮米怎样处理，本回随后才交代。",
+      "explicit": "大桥、泊船、松柏、八字红墙、三间朱户、暮色。",
+      "inference": "压缩水岸和山门为叙事示意，不能据此复原历史建筑平面。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use only older man Wang from the gift scene as face and kerchief reference; ref2 painted medium. Wide dusk exterior, historic Chinese canal temple near Linqing: flaring red walls at a splayed angle on either side of three dark vermilion doors, tall old pines and cypresses. In lower corner older Wang by his horse and young Chen in a new muted teal Dao robe by a smaller donkey, plus two adult attendants with a shared shoulder pole and covered gift boxes. At distance below, many modest wooden canal boats moored, reflected sunset and a suggestion of a low bridge. No exact plan or readable signs. Focus on geographic connection to working canal and modest scale of travelers.",
+      "references": [
+        "093-02（王杏庵）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/093-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 只示意山门、河闸与泊船之间的联系；成图不作可定位的测绘。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use only older man Wang from the gift scene as face and kerchief reference; ref2 painted medium. Wide dusk exterior, historic Chinese canal temple near Linqing: flaring red walls at a splayed angle on either side of three dark vermilion doors, tall old pines and cypresses. In lower corner older Wang by his horse and young Chen in a new muted teal Dao robe by a smaller donkey, plus two adult attendants with a shared shoulder pole and covered gift boxes. At distance below, many modest wooden canal boats moored, reflected sunset and a suggestion of a low bridge. No exact plan or readable signs. Focus on geographic connection to working canal and modest scale of travelers.",
+      "knownDeviation": "只示意山门、河闸与泊船之间的联系；成图不作可定位的测绘。"
+    },
+    {
+      "id": "093-04",
+      "chapter": 93,
+      "title": "黄铜旋里舀的是什么",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 34,
+          "quote": "那房内几缸黄米酒"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 34,
+          "quote": "把缸内酒用旋子舀出来"
+        }
+      ],
+      "people": [
+        "陈经济"
+      ],
+      "place": "晏公庙看家时",
+      "event": "陈经济舀出黄米酒加热，灶边已备鸡和蒜醋。",
+      "why": "道士用两个假名字试他；他识破了，还用同一套说辞答话。",
+      "composition": "低机位取灶面和手，黄铜旋是画眼。",
+      "summary": "任道士出门前把鸡叫成凤凰，把酒称作毒汁，想试试这个新徒弟。陈经济一听便知，舀酒温热，吃鸡蘸蒜醋。等任道士回来，他仍用那两个称呼辩说，师徒听了反笑。",
+      "psychology": "明写陈经济知道这套说法不是真的。道士的赞语不能据为品行结论。",
+      "social": "庙里也有酒缸、家禽和看家的差事；这一段把住庙的生活落到灶边。",
+      "explicit": "黄米酒、旋子、火上筛热、鸡肉、蒜醋。",
+      "inference": "旋作浅铜器示意，不把诗中比喻画成景物。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 Chen adult male face, ref2 painted medium. One young adult Chinese novice in closed plain teal Dao robe at a used temple kitchen stove. Hands tipping a shallow brass long-handled scoop of warmed pale rice wine toward a plain small ceramic bowl beside one large glazed brown jar. At far side cooked pieces of chicken on a dish with a small dish of garlic vinegar, no raw or graphic remains. Low close tabletop, human face visible behind action; orange ember glow restrained, dark wood, no phoenix or symbols, no writing.",
+      "references": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/093-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 Chen adult male face, ref2 painted medium. One young adult Chinese novice in closed plain teal Dao robe at a used temple kitchen stove. Hands tipping a shallow brass long-handled scoop of warmed pale rice wine toward a plain small ceramic bowl beside one large glazed brown jar. At far side cooked pieces of chicken on a dish with a small dish of garlic vinegar, no raw or graphic remains. Low close tabletop, human face visible behind action; orange ember glow restrained, dark wood, no phoenix or symbols, no writing."
+    },
+    {
+      "id": "093-05",
+      "chapter": 93,
+      "title": "厮锣还在手上",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 40,
+          "quote": "乌木春台，红漆凳子"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 40,
+          "quote": "手中拿着个厮锣儿"
+        }
+      ],
+      "people": [
+        "冯金宝",
+        "陈经济"
+      ],
+      "place": "临清谢家酒楼阁儿",
+      "event": "冯金宝上楼认出陈经济，手持厮锣行礼。",
+      "why": "在场的人把这次相见同时看成旧识重逢和一次酒楼营生。",
+      "composition": "门口短暂停步，桌面酒果、红凳和小锣各在其位。",
+      "summary": "陈三儿引陈经济到谢家酒楼。冯金宝提着厮锣上楼，认出他便落泪；两人说起各自打官司之后的经历。图只取相认。稍后才饮酒弹唱，不把两种乐器放在同一动作里。",
+      "psychology": "落泪有原文；双方的感情不能只凭叙述者一句评诗定性。",
+      "social": "金宝在各酒楼赶趁，酒钱、给她的银子和给引路人的铜钱分开付。",
+      "explicit": "厮锣、乌木春台、红漆凳、万福、酒果。",
+      "inference": "金宝固定为成年、长颊、略挑眉、深红闭襟衣；具体容貌与小锣尺寸属美术约定。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face only; ref2 painting medium. Exactly TWO fully dressed adults. Moment of recognition at the top of wood stairs in a canal-side inn private alcove. A mature adult Chinese performer Feng Jinbao with long cheeks, slightly arched brows, restrained dark brick red closed jacket and tied hair holds a palm-size bronze hand gong by a short cord and has stopped as she recognizes a lean young Chinese man in a plain teal Dao outer robe across a small ebony table. Red lacquer stool, simple wine and fruit, green rail, quiet eye contact and a moist eye, warm inside light cool outside. No embrace, no lute or other people, no text.",
+      "references": [
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/093-05.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face only; ref2 painting medium. Exactly TWO fully dressed adults. Moment of recognition at the top of wood stairs in a canal-side inn private alcove. A mature adult Chinese performer Feng Jinbao with long cheeks, slightly arched brows, restrained dark brick red closed jacket and tied hair holds a palm-size bronze hand gong by a short cord and has stopped as she recognizes a lean young Chinese man in a plain teal Dao outer robe across a small ebony table. Red lacquer stool, simple wine and fruit, green rail, quiet eye contact and a moist eye, warm inside light cool outside. No embrace, no lute or other people, no text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "钱米铺为何设在码头",
+      "text": "原文把船到闸、进庙求福以及布施钱米写在一处。多出的粮钱再由徒弟处理，连起了庙中事务与码头买卖。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 32,
+          "quote": "都来庙里或求神福"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 32,
+          "quote": "在马头上开设钱米铺"
+        }
+      ]
+    },
+    {
+      "title": "杏庵所说的年纪",
+      "text": "任道士问年纪时，陈经济自己也说交新春二十四；这与杏庵入庙介绍的年岁相合。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 30,
+          "quote": "交新春二十四岁了"
+        }
+      ]
+    }
+  ]
+}

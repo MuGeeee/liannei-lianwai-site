@@ -1,0 +1,205 @@
+{
+  "number": 90,
+  "title": "第九十回来旺盗拐孙雪娥　雪娥官卖守备府",
+  "intro": "从清明高坡移到门内担箱，再到五更的街角与灶前。每一幅只画这回已经发生的一刻。",
+  "scenes": [
+    {
+      "id": "090-01",
+      "chapter": 90,
+      "title": "高坡下的马技",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 5,
+          "quote": "看见人山人海围着，都看敎师走马耍解的"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 6,
+          "quote": "坐下银鬃马，手执朱红杆明鎗"
+        }
+      ],
+      "people": [
+        "李贵",
+        "李拱璧",
+        "吴月娘等",
+        "围观者"
+      ],
+      "place": "杏花村酒楼下",
+      "event": "李贵骑马卖解，高坡上是饮酒观演的月娘一行。",
+      "why": "一家人刚扫完墓，转眼汇入踏青看热闹的人群，叙事也从家事转到公共街场。",
+      "composition": "坡上席面只露一角，视线越过人群落到白鬃马和红杆。",
+      "summary": "玳安在高处安排酒肴。坡下李贵表演骑术，说唱自夸夹着自嘲。李拱璧也来看，随后遣人去问坡上的妇人是谁。画取表演，不把打听的话画成两人已经结识。",
+      "psychology": "明写李拱璧心动并打听。玉楼此时不知道那边的心思，画里不给她安排对望。",
+      "social": "卖解在这里是当众表演以求赏钱，诗中夸张不能当作绝技实测。",
+      "explicit": "高阜、酒楼、围观人群、银鬃马、紫窄衫、红杆。",
+      "inference": "表演者的脸、马具、观众站位为艺术处理。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Image 1 is style only. Wide spring outdoor public riding performance in an old Chinese market below a green slope. Central adult professional rider Li Gui in fitted dark purple traditional jacket, black cloth headwrap, muted yellow boots, riding a sturdy silver-maned gray horse and holding one red-shafted performance spear upright at safe distance. Spectators in a wide arc, no injury or combat. Up on the slope a small cropped outdoor table and a few distant women in pale robes watch without reciprocal romantic gaze. Earthy colored ink, crowd depth, horse anatomy, everyday lived-in space; no signage text.",
+      "references": [
+        "065-01（媒介）"
+      ],
+      "image": "assets/090-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Image 1 is style only. Wide spring outdoor public riding performance in an old Chinese market below a green slope. Central adult professional rider Li Gui in fitted dark purple traditional jacket, black cloth headwrap, muted yellow boots, riding a sturdy silver-maned gray horse and holding one red-shafted performance spear upright at safe distance. Spectators in a wide arc, no injury or combat. Up on the slope a small cropped outdoor table and a few distant women in pale robes watch without reciprocal romantic gaze. Earthy colored ink, crowd depth, horse anatomy, everyday lived-in space; no signage text."
+    },
+    {
+      "id": "090-02",
+      "chapter": 90,
+      "title": "担箱打开才认人",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 26,
+          "quote": "我是爹手里出去的来旺儿"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 28,
+          "quote": "欠他一两二钱银子"
+        }
+      ],
+      "people": [
+        "来旺儿",
+        "孙雪娥",
+        "西门大姐"
+      ],
+      "place": "西门宅门内小院",
+      "event": "门口叫来磨镜人，却遇见如今挑担卖饰的来旺。",
+      "why": "认出旧人靠他说出身份，新手艺和新体态已让熟人一时认不出来。",
+      "composition": "首饰匣与旧铜镜同框，人的目光由商品转向对方。",
+      "summary": "大姐以为摇惊闺的是磨镜人，叫住后才知他卖首饰。来旺说自己学了银匠活，挑担卖些零碎。雪娥选翠凤与柳穿金鱼，约改日付银。图只取开匣，不画之后的私约。",
+      "psychology": "明写大姐眼熟、雪娥觉得他胖了。来旺的学艺经历来自他自述。",
+      "social": "同一种响器可以招不同营生，听见声音未必知道来的是什么人。",
+      "explicit": "担箱、首饰花翠、镜昏、雪娥两件欠一两二钱。",
+      "inference": "来旺沿早期长相，按本回加宽身形；大姐脸与衣色属美术约定。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 Laiwang male face only, now noticeably stouter, middle-aged artisan in brown working coat; ref 2 ONLY the RIGHT woman, Sun Xue'e with the short small build and mature face, not left woman; ref 3 paint only. Three fully clothed adults in a small entry court. Laiwang lifts one open small tray from a pair of shoulder-pole boxes, showing tiny phoenix-shaped blue-green hair ornaments and a gold fish-shaped ornament. Xue'e in muted green examines the tray, the young adult daughter in pale clothes holds a dull bronze mirror at a distance. Observe everyday buying gestures, modest silk texture, worn baskets and wood, no branded writing.",
+      "references": [
+        "laiwang-030（来旺）",
+        "wives-030右（雪娥）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/090-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 Laiwang male face only, now noticeably stouter, middle-aged artisan in brown working coat; ref 2 ONLY the RIGHT woman, Sun Xue'e with the short small build and mature face, not left woman; ref 3 paint only. Three fully clothed adults in a small entry court. Laiwang lifts one open small tray from a pair of shoulder-pole boxes, showing tiny phoenix-shaped blue-green hair ornaments and a gold fish-shaped ornament. Xue'e in muted green examines the tray, the young adult daughter in pale clothes holds a dull bronze mirror at a distance. Observe everyday buying gestures, modest silk texture, worn baskets and wood, no branded writing."
+    },
+    {
+      "id": "090-03-v2",
+      "chapter": 90,
+      "title": "十字口问包袱",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 38,
+          "quote": "每人拿着一根香"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 38,
+          "quote": "俺是夫妇二人，前往城外岳庙里烧香"
+        }
+      ],
+      "people": [
+        "来旺儿",
+        "孙雪娥",
+        "巡捕"
+      ],
+      "place": "城内十字路口",
+      "event": "两人翻房离宅后遇夜巡，来旺称夫妇早起去烧香，被放过。",
+      "why": "两根香与一句寻常说辞，暂时遮住包内实物和来意。",
+      "composition": "破晓街口侧景，人物保持距离；包袱仍系紧。",
+      "summary": "来昭夫妇送酒相助，二人从房上出去，踩坏了瓦。路口被盘问，来旺说包内是香烛纸马，巡捕放行。图画问话片刻，不展开包袱，不把说辞当作真的行程。",
+      "psychology": "原文明写雪娥慌、来旺不慌；不能从放行推知巡捕已看清包中物。",
+      "social": "来昭担心守门责任，叫两人留下翻房痕迹；月娘后来确见碎瓦。",
+      "explicit": "五更、香、包袱、路口盘问。",
+      "inference": "巡捕服制与街角轮廓为示意，无完整街巷地图。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Painted Chinese gongbi narrative on silk, 3:2. Only three people total, EXACTLY TWO MEN AND ONE WOMAN. Ref1 is the prior jewelry scene: use the LEFT man, Laiwang, adult thickset male with a man's headwrap, short stubble and broad nose; and MIDDLE woman Sun Xue'e, short slender adult with a muted green jacket. IGNORE the far right woman. Ref2 is style only. At a predawn old Chinese crossroads, Laiwang (male, closed brown robe, dark male headwrap, visibly male face and short stubble) holds up a thin stick of incense to a different watchman (male, lean, dark cap, carrying traditional paper lantern). Sun Xue'e (the ONLY woman, a short adult with pinned bun and closed green cotton robe and full skirt) stands just behind Laiwang clutching a second incense stick and a closed travel bundle. Exactly three bodies, no bystanders, no visible contents, no text, no fight. Blue predawn stone street, warm small lantern, worn roof tiles, subtle mineral pigment and clear quiet gestures.",
+      "references": [
+        "090-02左及中（来旺、雪娥）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/090-03-v2.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 原稿人物身份辨识有误，网页改用重新生成的版本；街巷、衣纹与器物为示意。",
+      "knownDeviation": "原稿人物身份辨识有误，网页改用重新生成的版本；街巷、衣纹与器物为示意。",
+      "actualPrompt": "Painted Chinese gongbi narrative on silk, 3:2. Only three people total, EXACTLY TWO MEN AND ONE WOMAN. Ref1 is the prior jewelry scene: use the LEFT man, Laiwang, adult thickset male with a man's headwrap, short stubble and broad nose; and MIDDLE woman Sun Xue'e, short slender adult with a muted green jacket. IGNORE the far right woman. Ref2 is style only. At a predawn old Chinese crossroads, Laiwang (male, closed brown robe, dark male headwrap, visibly male face and short stubble) holds up a thin stick of incense to a different watchman (male, lean, dark cap, carrying traditional paper lantern). Sun Xue'e (the ONLY woman, a short adult with pinned bun and closed green cotton robe and full skirt) stands just behind Laiwang clutching a second incense stick and a closed travel bundle. Exactly three bodies, no bystanders, no visible contents, no text, no fight. Blue predawn stone street, warm small lantern, worn roof tiles, subtle mineral pigment and clear quiet gestures."
+    },
+    {
+      "id": "090-04",
+      "chapter": 90,
+      "title": "从上房到灶前",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 41,
+          "quote": "只要八两银子官价"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 41,
+          "quote": "满脸悲恸，往厨下去了"
+        }
+      ],
+      "people": [
+        "孙雪娥"
+      ],
+      "place": "守备府厨下入口",
+      "event": "西门家不领雪娥，官卖后春梅令她到厨房烧火做饭。",
+      "why": "同样会做饭，重新进灶房却是在一场买卖和命令之后。",
+      "composition": "换过衣裳的雪娥独立门内，空灶与低窗给她留出空间。",
+      "summary": "屈镗偷财事发，官府查出物件，月娘拒绝领回雪娥。守备派人交八两领进府，春梅以她会茶饭为理由，又借机报旧怨。图取雪娥已经换好朴素衣裳、走到厨门的一刻。",
+      "psychology": "明写雪娥悲恸。春梅报旧怨来自叙述者交代，不从图中表情推断。",
+      "social": "八两是当次官价；失物、官府处置和买人的费用是不同事项。",
+      "explicit": "拒领、官卖、八两、摘髻换衣、往厨下。",
+      "inference": "灶、薪柴与朴衣色为补足；只画事后，不画强行脱衣或拷打。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY right woman Sun Xue'e, short petite adult woman with naturally individual face, NOT the woman at left. Ref2 painted style only. One fully clothed adult Chinese woman in a closed plain gray-green cotton jacket and full dark skirt, simple pinned hair without ornaments, pauses at a working kitchen doorway after changing clothes. Small clay stove, stacked dry wood, one covered pot, early daylight from small opening. Her face grief-stricken but dignified, not posing; gentle ink texture and human-scale space. No other figure, abuse, disrobing, or text.",
+      "references": [
+        "wives-030右（雪娥）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/090-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY right woman Sun Xue'e, short petite adult woman with naturally individual face, NOT the woman at left. Ref2 painted style only. One fully clothed adult Chinese woman in a closed plain gray-green cotton jacket and full dark skirt, simple pinned hair without ornaments, pauses at a working kitchen doorway after changing clothes. Small clay stove, stacked dry wood, one covered pot, early daylight from small opening. Her face grief-stricken but dignified, not posing; gentle ink texture and human-scale space. No other figure, abuse, disrobing, or text."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "同样的物件不是同一笔账",
+      "text": "雪娥留下花翠欠一两二钱；次日月娘另拣首饰，以等子称三两二钱。不能拿前一笔的欠款证明后一笔已经结清。",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 28,
+          "quote": "欠他一两二钱银子"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 31,
+          "quote": "该还他三两二钱银子"
+        }
+      ]
+    },
+    {
+      "title": "孩子病因是人物的解释",
+      "text": "月娘先怪轿中受冷，又怪抱去坟上；如意不同意。正文记了病状与慌乱，画页不据此确认病因或提供药方。",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 30,
+          "quote": "只是昏睡不醒"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 30,
+          "quote": "我拿小被儿裹的严严的"
+        }
+      ]
+    }
+  ]
+}

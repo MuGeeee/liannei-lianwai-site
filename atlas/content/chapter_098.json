@@ -1,0 +1,261 @@
+{
+  "number": 98,
+  "title": "第九十八回陈经济临清开大店　韩爱姐翠馆遇情郎",
+  "intro": "公文、柜账、箱笼、花笺，在这回都有人经手。它们分别给陈经济带来官身、买卖、来客与一段不愿让家里知道的往来。",
+  "scenes": [
+    {
+      "id": "098-01",
+      "chapter": 98,
+      "title": "新换了大红员领",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 5,
+          "quote": "升为参谋之职，月给米二石"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 5,
+          "quote": "就穿大红员领"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "葛翠屏",
+        "周守备"
+      ],
+      "place": "周府后堂",
+      "event": "周秀归家，陈经济和葛翠屏来拜见。",
+      "why": "上一回还只见他经手文书；这回才有明写的参谋之职。",
+      "composition": "取换装后见礼，朱袍与青色常服对照；不画阵仗或战场。",
+      "summary": "周秀出巡征剿后获升，陈经济因名列军门，也获参谋之职、月给米二石。周秀回来，陈经济换上大红员领，与妻子葛翠屏一道拜见。画表现后堂见礼，不替他补写亲自立过什么功。",
+      "psychology": "书中写春梅欢喜。陈经济的冠带在这刻是已发生的变化，具体心绪不从一身衣推出来。",
+      "social": "周秀带得他的名字与有无亲自出战是两回事，原文未写陈经济上阵。",
+      "explicit": "红员领、冠帽、皂靴、角带、夫妇拜见。",
+      "inference": "葛翠屏据先前的瓜子脸和五短身材取小个、尖颏、深紫常衣；色彩为美术约定。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chen face, ref2 only right broad adult man Zhou beard and face, ref3 paint. Three fully clothed adults in a Chinese household reception room. Chen in clearly round-collared deep scarlet robe, plain dark official cap, dark horn belt bows respectfully beside his petite adult wife Ge Cuiping with tapered face and an understated muted violet closed jacket; broad older bearded Zhou receives them in ordinary dark blue. All at social distance, warm afternoon, no rank badge or martial exploits, no children or writing.",
+      "references": [
+        "chen-030（陈经济）",
+        "095-03（周秀）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/098-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chen face, ref2 only right broad adult man Zhou beard and face, ref3 paint. Three fully clothed adults in a Chinese household reception room. Chen in clearly round-collared deep scarlet robe, plain dark official cap, dark horn belt bows respectfully beside his petite adult wife Ge Cuiping with tapered face and an understated muted violet closed jacket; broad older bearded Zhou receives them in ordinary dark blue. All at social distance, warm afternoon, no rank badge or martial exploits, no children or writing."
+    },
+    {
+      "id": "098-02",
+      "chapter": 98,
+      "title": "同一封里，两种纸",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 8,
+          "quote": "拿守备拜帖，弥封停当"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 8,
+          "quote": "见了拜帖、状子，自恁要做分上"
+        }
+      ],
+      "people": [
+        "周忠",
+        "何永寿",
+        "张懋德"
+      ],
+      "place": "提刑院厅",
+      "event": "周忠送来封套，两位官看见状子与拜帖后准行。",
+      "why": "状子陈述纠纷，守备拜帖给它另带一层关系。",
+      "composition": "从周忠身后看两位官拆开小纸封，一窄帖一宽状。",
+      "summary": "陆秉义建议追讨货款并接过酒店。周忠把状子与周秀拜帖同封送到提刑院。两位官拆开来看，当即批行拿人；这里只画拆封，不画后面的逼问，也不把所有结算写成一次准确平账。",
+      "psychology": "叙述者说要做分上，可作为他们为何立刻准行的文本线索。",
+      "social": "有人投诉、有人递关系帖，两种文书同时进了衙门。",
+      "explicit": "两纸同封、周忠送信、何张两官在堂。",
+      "inference": "纸张大小不详，图不展示文字；人物面貌为美术补足。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Exactly three adult Chinese men in a restrained legal receiving room. Foreground rear three-quarter view of elderly household courier Zhou Zhong in subdued gray carrying a hand-size paper sleeve, with two different adult officers at the receiving desk inspecting TWO separate modest folded paper items, one narrower. A little inkstone, muted daylight, Chinese timber, no red wax, no giant envelope, no force, weapons, text or elaborate banners.",
+      "references": [
+        "065-01（媒介）"
+      ],
+      "image": "assets/098-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 官员手上两件分别示意状与帖，周忠手中是外封。成图不复原纸面及外封具体式样。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Exactly three adult Chinese men in a restrained legal receiving room. Foreground rear three-quarter view of elderly household courier Zhou Zhong in subdued gray carrying a hand-size paper sleeve, with two different adult officers at the receiving desk inspecting TWO separate modest folded paper items, one narrower. A little inkstone, muted daylight, Chinese timber, no red wax, no giant envelope, no force, weapons, text or elaborate banners.",
+      "knownDeviation": "官员手上两件分别示意状与帖，周忠手中是外封。成图不复原纸面及外封具体式样。"
+    },
+    {
+      "id": "098-03",
+      "chapter": 98,
+      "title": "绿栏杆下，酒楼重开",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 10,
+          "quote": "従新把酒楼妆修"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 10,
+          "quote": "都是谢胖子和主管陆秉义眼同经手"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "陆秉义",
+        "谢三郎",
+        "客商"
+      ],
+      "place": "临清码头谢家大酒楼",
+      "event": "酒楼重新开张，柜上两人同经手，来客进出。",
+      "why": "酒楼的热闹下面还有出资、合伙、经手和查账。",
+      "composition": "由柜面望向绿栏和河岸，近处两名柜上人，远处楼梯及来客。",
+      "summary": "陈经济接过酒楼，与谢三郎合伙，春梅添出五百两；合凑一千两，交陆秉义做主管。油漆重修后开张。两位掌柜眼同经手，陈经济隔几日来算一次账。",
+      "psychology": "来客热闹是叙述者的铺陈，不把景物夸饰认作地理实测。",
+      "social": "一日发卖三五十两是叙述所报营业额，不等于净利润。陆此前说的月利也只是他的估计。",
+      "explicit": "绿栏、推窗、重修、柜上同经手。",
+      "inference": "不把四望名山等铺陈当真实可见的地平线；省去祭祀过程。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 canal inn only, no reference people. Ref2 painted medium. Wide layered scene of a newly refurbished working Chinese canal wine house, fresh green timber rail and open lattice windows with canal at a distance, several adult patrons on stairs and by tables. In front, exactly two prominent adult shopkeepers at plain wood counter, plump middle-aged Xie in brown, slim alert Lu in blue, checking one open register together. Early year daylight, restrained vermilion and green, no lettered signs, no violence, no stage dance and no fantasy landmark.",
+      "references": [
+        "093-05（同一酒楼空间用色）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/098-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 canal inn only, no reference people. Ref2 painted medium. Wide layered scene of a newly refurbished working Chinese canal wine house, fresh green timber rail and open lattice windows with canal at a distance, several adult patrons on stairs and by tables. In front, exactly two prominent adult shopkeepers at plain wood counter, plump middle-aged Xie in brown, slim alert Lu in blue, checking one open register together. Early year daylight, restrained vermilion and green, no lettered signs, no violence, no stage dance and no fantasy landmark."
+    },
+    {
+      "id": "098-04-v2",
+      "chapter": 98,
+      "title": "两只船把箱笼送上岸",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 16,
+          "quote": "泊着两只剥船"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 16,
+          "quote": "四五个人尽搬入楼下空屋里来"
+        }
+      ],
+      "people": [
+        "陈经济",
+        "韩爱姐",
+        "王六儿",
+        "搬运人"
+      ],
+      "place": "谢家楼下河岸",
+      "event": "两船搬行李，陈经济问房客来历，王六儿先认出他。",
+      "why": "先起的是谁许住进空屋的争执，随后才转成旧识相认。",
+      "composition": "从二层窗沿向下，构图兼见窄舟、箱笼与母女；男子在上缘背侧。",
+      "summary": "陈经济看见两只船卸下箱笼家具，问谢主管为何没通报。年轻妇人先道歉，请容数日；王六儿认出陈经济，说明身边是女儿韩爱姐。韩道国起初还在船上看行李，后被请来。",
+      "psychology": "先开口赔礼的是爱姐，认出来的是王六儿。把两步留清楚，不提前写成谁一眼就全知道。",
+      "social": "暂借房屋先通过邻人和主管。认出旧识后，陈经济才许他们继续住。",
+      "explicit": "两只剥船、箱笼桌櫈、年长妇人长挑紫膛。",
+      "inference": "船型仅示浅水货船；爱姐设为成年、长眉、白净脸、粉黛与靛青衣，保持与母亲有区别。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Wang Liu'er, long tall profile and reddish-brown complexion, ref2 adult young man Chen if visible, ref3 paint. High view from wooden river inn window into loading scene with exactly TWO separate low flat wooden cargo skiffs at stone landing, several small adult carriers unloading wooden chests and a stool. Two distinct fully dressed adult women stand near lower doorway: tall reddish-complexioned mature mother with vivid red lip, and adult daughter Han Aijie around 26 with fair oval face, long brows and muted indigo closed jacket. Young Chen seen from behind at upper corner. Spring air, clear spatial separation, no modern objects or words.",
+      "references": [
+        "098-04（前稿，局部修正）",
+        "081-02（王六儿）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/098-04-v2.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版移除了初稿在窗边误画的玻璃罩灯；泊位和人物相隔的距离为取景示意。",
+      "actualPrompt": "Edit ONLY the glass chimney lamp on the lower-left foreground table. Remove it entirely, revealing the wood beneath; do not replace with another lamp, since it is daytime. Preserve faces, two boats, carrier positions, boxes, windows, room and colors. No lettering or any other changes.",
+      "baselineReferences": [
+        "081-02（王六儿）",
+        "chen-030（陈经济）",
+        "065-01（媒介）"
+      ],
+      "knownDeviation": "修正版移除了初稿在窗边误画的玻璃罩灯；泊位和人物相隔的距离为取景示意。"
+    },
+    {
+      "id": "098-05-v2",
+      "chapter": 98,
+      "title": "花笺上落笔",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 25,
+          "quote": "在楼上磨墨挥笔，拂开花笺"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 29,
+          "quote": "外具锦绣鸳鸯香囊一个，青丝一缕"
+        }
+      ],
+      "people": [
+        "韩爱姐"
+      ],
+      "place": "临清楼上",
+      "event": "韩爱姐磨墨写帖，请八老把信与礼亲交陈经济。",
+      "why": "原文让爱姐亲手写信，信里既有挂念，也有对他家中处境的判断。",
+      "composition": "俯侧近景，爱姐独坐。花笺、砚、双口香囊分开放。",
+      "summary": "陈经济多日不来，韩爱姐托人探问，随后备礼写信，要八老见他亲收并讨回帖。信外另附鸳鸯香囊与一缕青丝。画取写信，尚未递给八老，也不在图上生成书信文字。",
+      "psychology": "挂念由叙述和书信互证；她关于陈经济为何不来，写的是她自己的猜度。",
+      "social": "托人捎礼和自己执笔同时发生，书信与货品由同一个经手人带走。",
+      "explicit": "磨墨、花笺、鸳鸯香囊、青丝。",
+      "inference": "香囊未展内里；双口的具体缝法与纹样仅作示意。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use ONLY the fair-skinned younger adult Chinese woman Han Aijie, not her older mother and not the male; ref2 paint. One fully clothed woman at a small window desk in a canal loft, dark indigo modest silk with pale cuff, long brows and adult oval face; hold brush poised over one blank pale floral stationery leaf. At the desk's far corner a little soft embroidered silk twin-opening sachet with two subtle duck motifs. Tight high oblique angle, off-white sun through lattice, no readable writing, no other person or nudity.",
+      "references": [
+        "098-05（前稿，局部修正）",
+        "098-04（韩爱姐）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/098-05-v2.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版将香囊表现为一件相连的双口物，并把窗外改为夏叶；内藏青丝和扣绣文字均未画。",
+      "actualPrompt": "Edit ONLY the sachet on the far-right tabletop: replace the two visibly separate tied sacks with ONE hand-sized integrated embroidered fabric object, paired symmetrical pouch lobes sewn together across a shared central fabric join, still two tiny openings, birds face inward. Replace spring pink outdoor blossoms by full green summer leaves. Preserve woman's identity, hand, brush, blank floral paper, room and general composition. No text.",
+      "baselineReferences": [
+        "098-04（韩爱姐）",
+        "065-01（媒介）"
+      ],
+      "knownDeviation": "修正版将香囊表现为一件相连的双口物，并把窗外改为夏叶；内藏青丝和扣绣文字均未画。"
+    }
+  ],
+  "supplements": [
+    {
+      "title": "报给家里的礼物换了来路",
+      "text": "陈经济嘱人称礼是谢家送的。葛翠屏信了，又分一部分给春梅。爱姐寄来的信和香囊，留在陈经济自己袖中。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 31,
+          "quote": "只说河下店主人谢家送的礼物"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 31,
+          "quote": "翠屏亦信其实"
+        }
+      ]
+    },
+    {
+      "title": "两人的年岁是怎样报的",
+      "text": "在这里两人彼此都报二十六岁；陈经济较早报二十四。图鉴照录各处原话，不用未明年月强行算平。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 21,
+          "quote": "虚度二十六岁"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 21,
+          "quote": "也是二十六岁"
+        }
+      ]
+    }
+  ]
+}

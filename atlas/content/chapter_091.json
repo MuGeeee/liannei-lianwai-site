@@ -1,0 +1,193 @@
+{
+  "number": 91,
+  "title": "第九十一回孟玉楼爱嫁李衙内　李衙内怒打玉簪儿",
+  "intro": "婚帖、离席和一盏被喝退的茶，分别把新关系怎样谈成、旧关系怎样松开写在了手边。",
+  "scenes": [
+    {
+      "id": "091-01",
+      "chapter": 91,
+      "title": "让保山一项项说清",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 9,
+          "quote": "原娶过妻小来没有？房中有人也无？"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 9,
+          "quote": "奴也吃人哄怕了"
+        }
+      ],
+      "people": [
+        "孟玉楼",
+        "陶妈妈"
+      ],
+      "place": "玉楼房中",
+      "event": "陶妈妈来说亲，玉楼追问家中情形与任满后去处。",
+      "why": "有意嫁娶不等于把所有判断交给媒人。",
+      "composition": "玉楼直坐，茶盏靠边，来客听她问完。",
+      "summary": "官媒陶妈妈进来后，玉楼问李衙内的年龄、曾否成婚、房中有无人、籍贯和有无儿女，也问离任后要不要远行。陶妈妈夸了许多，玉楼最后同意递帖；她先说明自己不信空口漂亮话。",
+      "psychology": "原文明写她既欢喜又羞愧，也自说怕受哄。她的每个问题都关系到成婚以后怎样过日子。",
+      "social": "李衙内还未做官。免差役等是媒人带来的说法，不能写成已落实的条件。",
+      "explicit": "官媒来问、玉楼盘问、茶食与婚帖。",
+      "inference": "陶妈妈样貌未详，设为中年、宽脸、灰蓝棉衣，与薛嫂区分。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only Meng Yulou, tall slim mature WOMAN around 37, narrow oval face, retain sparse pale pockmarks, not flawless skin. Ref2 painted medium only. Exactly two adult Chinese women in a simple household room: Yulou seated upright in closed muted ochre jacket and long skirt, looking directly across a small table as she quietly questions a middle-aged matchmaker with a distinctive broad face and gray-blue closed cotton jacket. Matchmaker listening, no wedding ornaments yet. Small untouched tea cup near edge, believable hands, window light, subtle ink and silk texture. No men, facial hair or lettering.",
+      "references": [
+        "yulou（玉楼）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/091-01.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only Meng Yulou, tall slim mature WOMAN around 37, narrow oval face, retain sparse pale pockmarks, not flawless skin. Ref2 painted medium only. Exactly two adult Chinese women in a simple household room: Yulou seated upright in closed muted ochre jacket and long skirt, looking directly across a small table as she quietly questions a middle-aged matchmaker with a distinctive broad face and gray-blue closed cotton jacket. Matchmaker listening, no wedding ornaments yet. Small untouched tea cup near edge, believable hands, window light, subtle ink and silk texture. No men, facial hair or lettering."
+    },
+    {
+      "id": "091-02",
+      "chapter": 91,
+      "title": "一张帖上的三岁",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 10,
+          "quote": "女命三十七岁"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 15,
+          "quote": "当下改做三十四岁"
+        }
+      ],
+      "people": [
+        "陶妈妈",
+        "薛嫂",
+        "算命先生"
+      ],
+      "place": "路南青布卦肆",
+      "event": "两位媒人拿婚帖问合婚，请先生把三十七改作三十四。",
+      "why": "男方看到的年龄，已经由两个经手人改过。",
+      "composition": "青帘下的文书近景，手指与笔在纸旁，不生成字。",
+      "summary": "原帖写三十七，两个媒人怕男方嫌大，在青布卦肆请人改成三十四。李衙内收到的是改过的帖，还说大三两岁无妨。画只取改帖，不显示批命内容，也不把推算当成人物的命运。",
+      "psychology": "媒人担心亲事因年龄受阻，这是她们自己的判断。李衙内的应允只对应自己实际看见的帖。",
+      "social": "三分是算命酬金；后来每人一两脚步钱、成婚后另得谢礼，是不同环节。",
+      "explicit": "青帐、婚帖、三分命金、两媒人、改岁数。",
+      "inference": "笔纸和站位为补足，原帖数字由页外文字列出。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY left mature WOMAN Xue Sao in plum; ignore right portrait. Ref2 painted medium. Exactly two adult WOMEN matchmakers and one elderly male fortune-teller in a small roadside stall under a faded teal cloth canopy. Xue Sao in closed plum jacket, Tao Mama distinctly broader-faced in gray-blue, seated side by side; one indicates a folded pale marriage note while the man holds brush above the paper. Tight oblique framing from table corner with focus on hands and cloth. No readable text, signs, diagrams, visions, mystical symbols, or extra people. Daylight, quiet matter-of-fact transaction.",
+      "references": [
+        "matchmakers-030左（薛嫂）",
+        "091-01右（陶妈妈）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/091-02.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY left mature WOMAN Xue Sao in plum; ignore right portrait. Ref2 painted medium. Exactly two adult WOMEN matchmakers and one elderly male fortune-teller in a small roadside stall under a faded teal cloth canopy. Xue Sao in closed plum jacket, Tao Mama distinctly broader-faced in gray-blue, seated side by side; one indicates a folded pale marriage note while the man holds brush above the paper. Tight oblique framing from table corner with focus on hands and cloth. No readable text, signs, diagrams, visions, mystical symbols, or extra people. Daylight, quiet matter-of-fact transaction.\nRef 3: Tao Mama is the broad older woman on the RIGHT in blue-gray; ignore left seated woman. Three people exactly, two women and one elderly man."
+    },
+    {
+      "id": "091-03",
+      "chapter": 91,
+      "title": "轿到门前，先握一握手",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 17,
+          "quote": "先辞拜西门庆灵位，然后拜月娘"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 17,
+          "quote": "和谁做伴儿？"
+        }
+      ],
+      "people": [
+        "孟玉楼",
+        "吴月娘"
+      ],
+      "place": "西门宅送亲前",
+      "event": "玉楼成婚出门前先辞灵，再拜月娘，二人牵手哭。",
+      "why": "同一个出门时刻，一人向新家去，一人说的是旧家无人陪伴。",
+      "composition": "二人手相握，后景灵位与门外红灯形成不同景深。",
+      "summary": "四月初八下茶，十五日来迎娶。月娘让玉楼把屋中之物带走，玉楼留下银壶给孝哥作念想。临出门，二人拜别牵手，月娘说往后少了伴。画取室内辞别，不把街坊议论画成两人的想法。",
+      "psychology": "明写二人同哭。愿意再嫁和难舍旧伴可以同时成立。",
+      "social": "礼钱、搬出的妆奁与给孩子的留念物是不同种类的财物。",
+      "explicit": "金梁冠、红通袖袍、玛瑙带、柳黄百花裙、晚夕迎娶前辞别灵位、握手哭。",
+      "inference": "红灯与远景为迎娶空间的示意，画面只见两位女主。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only WOMAN Yulou tall slim face with sparse pale pockmarks; ref2 only WOMAN Yueniang mature round face; ref3 paint medium. Exactly TWO ADULT WOMEN and no man. Yulou wears a closed long scarlet wedding robe with woven broad sleeves, muted yellow floral long skirt, agate belt and modest gold beam crown. Yueniang wears pale full mourning layers. In a simple hall by an unreadable small memorial tablet, the two women clasp hands, sorrowful, before one leaves. Door edge reveals distant red lanterns, no procession inside, no ghost, no words, believable hands, cinematic side light and delicate ink.",
+      "references": [
+        "yulou（玉楼）",
+        "moon-030（月娘）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/091-03.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only WOMAN Yulou tall slim face with sparse pale pockmarks; ref2 only WOMAN Yueniang mature round face; ref3 paint medium. Exactly TWO ADULT WOMEN and no man. Yulou wears a closed long scarlet wedding robe with woven broad sleeves, muted yellow floral long skirt, agate belt and modest gold beam crown. Yueniang wears pale full mourning layers. In a simple hall by an unreadable small memorial tablet, the two women clasp hands, sorrowful, before one leaves. Door edge reveals distant red lanterns, no procession inside, no ghost, no words, believable hands, cinematic side light and delicate ink."
+    },
+    {
+      "id": "091-04",
+      "chapter": 91,
+      "title": "茶送到书桌，人被喝退",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 23,
+          "quote": "双手用盘儿托来"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 23,
+          "quote": "把茶放下，与我过一边里去"
+        }
+      ],
+      "people": [
+        "玉簪儿",
+        "李拱璧"
+      ],
+      "place": "李衙内书房",
+      "event": "玉簪儿送热茶，刚醒的李衙内让她放下就走。",
+      "why": "她试着用熟悉的照料方式挽回从前的位置，得到的却是一句喝退。",
+      "composition": "茶盘刚放在案边，玉簪儿挺身停住，李衙内手压着书。",
+      "summary": "玉簪儿送泡茶到书房，李衙内打盹醒后喝她走开。她的抱怨后来引出踢打；另一次冲突后，衙内叫陶妈妈把她领出去变卖。图只画茶被搁下，不画任何殴打。",
+      "psychology": "明写她羞红而生气。她后来陈说曾管油盐和曾有许诺，属当面申辩；不能用叙述者的嘲讽说明她理当受打。",
+      "social": "变卖命令在本回末提出，尚不画成成交。",
+      "explicit": "约三十、盘头髻、甜瓜坠、泡茶、书桌、喝退。",
+      "inference": "把讽刺性的红绿衣饰处理为闭合朴衣，不画比喻中的动物；衙内本回媒人报三十一。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Two fully clothed adults in a modest late-Ming-style study. Yuzan'er is a Chinese adult WOMAN around 30 with broad natural cheeks, uneven faint rouge, ordinary pinned coil hair with cloth band, small melon-shaped earrings, closed muted green jacket and dark russet full skirt. She has just placed a covered teacup on plain wooden tray at the desk, hurt and defiant. Li Gongbi is a distinctly adult MAN around 31, lean long face, short neat moustache, soft dark cap, understated blue full robe, awake and gesturing for the tray to stay, hand on open unlettered book. No contact or abuse shown. Quiet morning light and fine colored ink.",
+      "references": [
+        "065-01（媒介）"
+      ],
+      "image": "assets/091-04.png",
+      "status": "generated",
+      "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Two fully clothed adults in a modest late-Ming-style study. Yuzan'er is a Chinese adult WOMAN around 30 with broad natural cheeks, uneven faint rouge, ordinary pinned coil hair with cloth band, small melon-shaped earrings, closed muted green jacket and dark russet full skirt. She has just placed a covered teacup on plain wooden tray at the desk, hurt and defiant. Li Gongbi is a distinctly adult MAN around 31, lean long face, short neat moustache, soft dark cap, understated blue full robe, awake and gesturing for the tray to stay, hand on open unlettered book. No contact or abuse shown. Quiet morning light and fine colored ink."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "县里的便利是谁许的",
+      "text": "陶妈妈转述若成亲可免差徭钱粮，还说遇欺负可来县里。文字保留她的口气，不当作一份已签发的官文。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 9,
+          "quote": "一例尽行蠲免"
+        }
+      ]
+    },
+    {
+      "title": "两处床帐的交接",
+      "text": "玉楼旧床此前陪给大姐，月娘这次用金莲房的螺钿床赔给她。这里只记录物件换手，不给床附会后文象征。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "paragraph": 17,
+          "quote": "那张螺钿床赔了他"
+        }
+      ]
+    }
+  ]
+}

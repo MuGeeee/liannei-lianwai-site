@@ -1,6 +1,12 @@
 name: Deploy reading exhibit, garden and visual atlas
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'atlas/**'
+      - 'index.html'
+      - '.github/workflows/pages.yml'
 permissions:
   contents: read
 concurrency:
@@ -10,28 +16,42 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Download preserved exhibit and garden
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: gh release download online-030-r2012 --pattern online-site.zip --dir package
-      - name: Download reviewed visual atlas 65 to 67
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-        run: gh release download atlas-065-067-v1 --pattern atlas-065-067.zip --dir additions
       - name: Verify and compose website
         run: |
           echo "ff6d47b95a5ec0296e4af5b99a52b2659bfffe3931f857b8b0502772269596f1  package/online-site.zip" | sha256sum --check
-          echo "abe2cc2c171e1a23ca6c60cb073f8555f772a8368add8a063ba6f6438cc4fef7  additions/atlas-065-067.zip" | sha256sum --check
           python -m zipfile -e package/online-site.zip _site
-          python -m zipfile -e additions/atlas-065-067.zip _site
+          cp index.html _site/index.html
+          cp -R atlas _site/atlas
           test -f _site/index.html
           test -f _site/atlas/index.html
           test -f _site/atlas/content/chapter_065.js
           test -f _site/atlas/content/chapter_066.js
           test -f _site/atlas/content/chapter_067.js
+          test -f _site/atlas/content/chapter_100.js
           test -f _site/garden/outputs/garden_020.glb
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path('_site/atlas')
+          manifest = json.loads((root/'MANIFEST.json').read_text())
+          assert manifest['productionThrough'] == 100 and manifest['images'] == 186
+          assert manifest['readThrough'] == 64
+          scenes = []
+          for n in manifest['chapters']:
+              chapter = json.loads((root/f'content/chapter_{n:03d}.json').read_text())
+              scenes.extend(chapter['scenes'])
+          assert len(scenes) == 186
+          assert all((root/s['image']).is_file() for s in scenes)
+          size = sum(p.stat().st_size for p in Path('_site').rglob('*') if p.is_file())
+          assert size < 1024**3, size
+          print(f'Published site: {size} bytes, {len(scenes)} selected atlas images')
+          PY
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

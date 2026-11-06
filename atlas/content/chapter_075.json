@@ -1,0 +1,321 @@
+{
+  "number": 75,
+  "title": "第七十五回春梅毁骂申二姐　玉箫愬言潘金莲",
+  "intro": "外面递手本、送器物，里面递话、叫人、劝架、理衣。不同的门路，都要经过具体的人。",
+  "scenes": [
+    {
+      "id": "075-01",
+      "chapter": 75,
+      "title": "从卷棚抬向察院",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 10,
+          "quote": "把卷棚正面放的流金八僊鼎，写帖儿抬送到宋御史老爹察院内交付明白，讨回帖来"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 21,
+          "quote": "小的送到察院内，宋老爹说明日还奉价过来"
+        }
+      ],
+      "people": [
+        "玳安",
+        "两名抬鼎排军"
+      ],
+      "place": "西门家卷棚外，早晨送鼎启程时",
+      "event": "西门命将鼎送宋御史察院，玳安后来带回帖与口信。",
+      "why": "上一回的赞赏在此转成具体搬运与回帖，不再只是话里的同类物。",
+      "composition": "器物与劳动主导的庭院宽景，鼎稳放抬架，两人抬出，玳安拿封帖引路。",
+      "summary": "西门早起吩咐送鼎，写帖、交付、讨回帖都有明确要求。晚归后玳安回报送到，宋说次日奉价。本图取出发一刻，采用上一回图的器物外观作美术连续性；不画已经收价，也不凭一句口信确定日后是否真付。",
+      "psychology": "此处只有命令与回报，无抬者内心。解释：礼物流动需要人役搬抬、书帖和回执，不是两名主人一句话便无成本地换位。",
+      "social": "75明确写送宋察院，是新证据。74赏者称谓疑处仍留在74，不回头改旧卡。奉价是宋的承诺，本回没有实收数目。",
+      "explicit": "卷棚八仙鼎、两排军、写帖、察院、讨回帖；宋奉价口信。",
+      "inference": "出门路线、抬架、绑带与鼎细部为艺术补足；原文要求两名，画面只画两名抬者及玳安，不声称整个运输过程均被记录。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Daian at FAR LEFT of three independent portraits, young male servant with narrow attentive face, modest full indigo robe, no sexual content. Reference2 ONLY gongbi painted medium. A wide winter courtyard departure, EXACTLY TWO adult uniformed household guards in simple blue-gray coats carefully LIFT A LOW WOODEN CARRYING FRAME with ONE ornate GILT BRONZE INCENSE DING strapped safely on it; it is NOT a giant cauldron and NOT held by its fragile ornaments. Daian walks one step ahead at left holding ONE CLOSED letterless visiting-note envelope, looking back to guide the men. The vessel has eight small immortal reliefs and turtle/crane/deer ornamental vent motifs, no actual animals, no smoke needed while in transit. Garden hall and winding court behind, no exact city map or modern road. Show the physical weight through bent knees and separate grounded feet, coherent two carrying poles, no silver being paid, no receiving official yet, no writing on plaque or packet, tactile painted mineral color on silk.",
+      "references": [
+        "young-people-030左幅（玳安）",
+        "074-03（鼎的美术造型）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-01.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Daian at FAR LEFT of three independent portraits, young male servant with narrow attentive face, modest full indigo robe, no sexual content. Reference2 ONLY gongbi painted medium. A wide winter courtyard departure, EXACTLY TWO adult uniformed household guards in simple blue-gray coats carefully LIFT A LOW WOODEN CARRYING FRAME with ONE ornate GILT BRONZE INCENSE DING strapped safely on it; it is NOT a giant cauldron and NOT held by its fragile ornaments. Daian walks one step ahead at left holding ONE CLOSED letterless visiting-note envelope, looking back to guide the men. The vessel has eight small immortal reliefs and turtle/crane/deer ornamental vent motifs, no actual animals, no smoke needed while in transit. Garden hall and winding court behind, no exact city map or modern road. Show the physical weight through bent knees and separate grounded feet, coherent two carrying poles, no silver being paid, no receiving official yet, no writing on plaque or packet, tactile painted mineral color on silk. Additional reference3 locks ONLY the exact gilt incense vessel design: rounded body, immortal reliefs, crane/deer handles and turtle vent at front; preserve recognizable silhouette and metal ornament, but NO smoke while traveling. Move it safely onto a carry-frame rather than copying the display table or pointing hands."
+    },
+    {
+      "id": "075-02",
+      "chapter": 75,
+      "title": "手本递上来",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 11,
+          "quote": "望乞四泉借重与他一说"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 11,
+          "quote": "白米二百石"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 11,
+          "quote": "学生暂且收下"
+        }
+      ],
+      "people": [
+        "荆都监荆忠",
+        "西门庆",
+        "呈手本的家役"
+      ],
+      "place": "西门家厅上，荆来请说情",
+      "event": "荆递履历，托西门向宋巡按说升转，又递写白米二百石的礼帖。",
+      "why": "一份履历如何进入考核者的眼前，在这里取决于另一层人情。",
+      "composition": "履历纸与礼帖在两人之间，荆躬身递上，西门推辞的手尚未完全收回。",
+      "summary": "荆怕年终举劾，知宋在西门家吃席，便请他借重进言。履历写荆三十二、祖役与武举升职；礼帖写白米二百石。西门先说相交不应如此，推辞后暂收。画面只画递帖，不擅自画满院米袋或已付二百两。",
+      "psychology": "原文明写：荆托请、躬谢、坚持收礼，西门推阻后收。解释：亲厚的表述与办事请求同时成立，不以一句不敢领抹掉随后的动作。",
+      "social": "后面又有猪酒、四包银，西门向月娘回说二百两。它们在原文不同位置出现，本馆逐项保留，不把二百石米直接换算成二百两，或编出完整抵价账。",
+      "explicit": "荆三十二、补服圆领、暖耳、金带；履历手本；白米二百石礼帖；暂收。",
+      "inference": "荆脸形设方下颌、短须、壮实体态，未以军职画成盔甲武将；纸上不生文字。家役仅作呈帖辅助，米不实物堆陈。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face, straight brows. Reference2 ONLY painted gongbi medium. THREE fully clothed adult men in a formal private household reception room. At LEFT Jing Zhong is a DISTINCT military official about 32, sturdy body, square jaw, small neat moustache and serious cautious eyes, wearing a dark round-collared official robe with modest embroidered badge, GOLD belt, black cap with dark FUR EAR WARMERS, NOT armor. He bows from the waist and presents an opened folded SERVICE RECORD and a smaller closed GIFT NOTE with both hands. At RIGHT Ximen in dark blue-green official robe and black cap sits listening, one open hand in a polite hesitation gesture while the note nears him. A plain adult household clerk stands partly behind Jing with a document box. Focus on paper and unequal dependence, NO readable script or numerals on records, no rice sacks, ingot piles or promise already fulfilled. Winter daylight on worn dark table and porcelain cup, fine painted ink contour and mineral pigment, no text.",
+      "references": [
+        "ximen（西门庆）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-02.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face, straight brows. Reference2 ONLY painted gongbi medium. THREE fully clothed adult men in a formal private household reception room. At LEFT Jing Zhong is a DISTINCT military official about 32, sturdy body, square jaw, small neat moustache and serious cautious eyes, wearing a dark round-collared official robe with modest embroidered badge, GOLD belt, black cap with dark FUR EAR WARMERS, NOT armor. He bows from the waist and presents an opened folded SERVICE RECORD and a smaller closed GIFT NOTE with both hands. At RIGHT Ximen in dark blue-green official robe and black cap sits listening, one open hand in a polite hesitation gesture while the note nears him. A plain adult household clerk stands partly behind Jing with a document box. Focus on paper and unequal dependence, NO readable script or numerals on records, no rice sacks, ingot piles or promise already fulfilled. Winter daylight on worn dark table and porcelain cup, fine painted ink contour and mineral pigment, no text."
+    },
+    {
+      "id": "075-03",
+      "chapter": 75,
+      "title": "这一声“大姑娘”",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 14,
+          "quote": "你大姑娘在这里，又有个大姑娘出来了"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 15,
+          "quote": "一面哭哭啼啼下炕来，拜辞了大妗子，收拾衣裳包子"
+        }
+      ],
+      "people": [
+        "春梅",
+        "申二姐",
+        "吴大妗子"
+      ],
+      "place": "上房，春梅赶来斥骂时",
+      "event": "申未应春梅召唱，称呼的争执经春鸿传回，春梅赶来辱骂，迫其离去。",
+      "why": "谁能把人叫来、谁能拒绝，成为一场关于身份的冲突。",
+      "composition": "门边站立的春梅与炕边收包的申对峙，大妗子居中伸手拦劝。",
+      "summary": "春梅在前边席上想听申唱，派春鸿来叫。申正在陪大妗子，反问又有哪个大姑娘，未动身。春鸿带话回去，春梅赶来大骂，申哭着收包，也未等来轿子。图取将离未离，不画殴打；原文并没有春梅真的打下她所说的耳光。",
+      "psychology": "原文明写：春梅怒，申敢怒不敢言后哭。解释：申的拒绝有眼前另一场差事，不只是故意逞强；春梅把称呼的不认领听成轻视。",
+      "social": "辱骂用残障和求衣食羞人，这是人物的攻击语言，不采用为展馆对艺人的称呼。绘图不用失明外貌作夸张笑料，也不以称呼给春梅编造新主籍。",
+      "explicit": "派春鸿召唱、申不去、转述大姑娘、春梅骂、大妗劝、申收包离开。",
+      "inference": "春梅未核定当前年龄，保留年轻普通面貌、宽松完整衣装、非性化；申沿74新设圆脸中年形象，不把骂语当视觉诊断。大妗设更年长妇人。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young maid identity, straight brows and natural face, precise age not assumed, FULLY MODEST loose white padded blouse, simple blue vest and long muted pink skirt, no sexualization or intimate context. Reference2 ONLY gongbi painted medium. THREE fully clothed women in a household sitting room in daylight. At open door LEFT Chunmei stands angry, one emphatic pointing hand at a safe distance, NO contact or hitting. At RIGHT Shen Erjie, a middle-aged rounder-faced woman in muted deep teal jacket and dark skirt, sits at kang edge tearfully gathering a CLOTH CLOTHING BUNDLE, shoulders drawn in, a pipa leans near wall. Between them Wu Dajinzi, a distinctly older relative with broad lined face in plain muted brown formal jacket and charcoal skirt, stretches one open palm toward Chunmei asking restraint. Respect Shen human dignity; no caricature of blindness or disability, no physical violence or forced stripping. A small tea table and curtain, winter light, departure anxiety, no words or captions, fine painted contours and textile texture.",
+      "references": [
+        "chun-030（春梅）",
+        "074-05右侧（申二姐）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-03.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young maid identity, straight brows and natural face, precise age not assumed, FULLY MODEST loose white padded blouse, simple blue vest and long muted pink skirt, no sexualization or intimate context. Reference2 ONLY gongbi painted medium. THREE fully clothed women in a household sitting room in daylight. At open door LEFT Chunmei stands angry, one emphatic pointing hand at a safe distance, NO contact or hitting. At RIGHT Shen Erjie, a middle-aged rounder-faced woman in muted deep teal jacket and dark skirt, sits at kang edge tearfully gathering a CLOTH CLOTHING BUNDLE, shoulders drawn in, a pipa leans near wall. Between them Wu Dajinzi, a distinctly older relative with broad lined face in plain muted brown formal jacket and charcoal skirt, stretches one open palm toward Chunmei asking restraint. Respect Shen human dignity; no caricature of blindness or disability, no physical violence or forced stripping. A small tea table and curtain, winter light, departure anxiety, no words or captions, fine painted contours and textile texture. Additional reference3 locks ONLY Shen Erjie, rounder-faced middle-aged woman at FAR RIGHT in dark teal holding the pipa. Preserve her face, hair and ordinary clothes, not the other two performers or instrument handoff. No additional people."
+    },
+    {
+      "id": "075-04",
+      "chapter": 75,
+      "title": "放在心里，别说是我",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 12,
+          "quote": "娘只放在心里，休要说出我来"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 30,
+          "quote": "一五一十，说了一遍"
+        }
+      ],
+      "people": [
+        "玉箫",
+        "潘金莲"
+      ],
+      "place": "金莲房内，玉箫来请吃茶并传话",
+      "event": "玉箫转述月娘对金莲的抱怨，又要求不说出消息来自自己。",
+      "why": "一间屋里的话怎样走进另一间屋，改变的不只是消息的距离。",
+      "composition": "镜台旁双人中近景，玉箫压低声，金莲停下整妆侧耳；镜不映多余人。",
+      "summary": "玉箫先告诉金莲月娘对讨皮袄和拦住西门的意见，要求保密；次晨来请吃茶，又补述前夜对春梅与金莲的议论。图为传话的综合示意，只用二人说话与镜台，不声称两次话在同一个时刻讲完。",
+      "psychology": "原文写金莲听记在心、玉箫求不露名。解释：她既执行请人的差事，也提供房内消息。不能据此断定全部为某项未写的阴谋，更不预判消息会怎样发展。",
+      "social": "此图明确是本回两次传话的生活示意，事实依据按两个段号列出。完整直接引语也经过玉箫的转述，不当成全屋同步录音。",
+      "explicit": "玉箫到金莲房、转述月娘话、请保密、请去吃茶。",
+      "inference": "玉箫面貌本段无细写，设圆下颌、较短脸年轻侍女，与春梅直眉窄脸分开；完整宽松衣装，不核定年龄。金莲整妆动作取本回13段，不声称两次传话都是梳妆现场。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow oval face. Reference2 ONLY painted gongbi silk medium. NONSEXUAL household-message illustration, TWO entirely fully clothed female figures in a small sitting/dressing room, no bed. At right adult Pan in fully closed indigo padded jacket and rose long skirt pauses with a small comb near a simple mirror, turns to listen, alert controlled face. At left Yuxiao is a NEW distinct youthful maid, rounder shorter face and soft curved brows unlike Chunmei, wearing a loose plain pale gray-green padded jacket and dark full skirt, modest bound hair, no glamour, precise age unspecified. Yuxiao leans only slightly closer to speak quietly and holds one small hand low as a discretion gesture, not whispering into an ear erotically. Mirror reflects only dark wall, no extra person. Covered tea cup and a closed ordinary snack container, cool morning light, painted fine ink contours, no letters, gossip speech bubbles, future symbols or secret lover. This is a clearly labeled literary COMPOSITE of two message visits, not one verbatim reconstructed instant.",
+      "references": [
+        "pan-solo-030（金莲）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-04.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow oval face. Reference2 ONLY painted gongbi silk medium. NONSEXUAL household-message illustration, TWO entirely fully clothed female figures in a small sitting/dressing room, no bed. At right adult Pan in fully closed indigo padded jacket and rose long skirt pauses with a small comb near a simple mirror, turns to listen, alert controlled face. At left Yuxiao is a NEW distinct youthful maid, rounder shorter face and soft curved brows unlike Chunmei, wearing a loose plain pale gray-green padded jacket and dark full skirt, modest bound hair, no glamour, precise age unspecified. Yuxiao leans only slightly closer to speak quietly and holds one small hand low as a discretion gesture, not whispering into an ear erotically. Mirror reflects only dark wall, no extra person. Covered tea cup and a closed ordinary snack container, cool morning light, painted fine ink contours, no letters, gossip speech bubbles, future symbols or secret lover. This is a clearly labeled literary COMPOSITE of two message visits, not one verbatim reconstructed instant."
+    },
+    {
+      "id": "075-05",
+      "chapter": 75,
+      "title": "先离开这间屋",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 31,
+          "quote": "玉楼和玉箫一齐扯起来，送他前边去了"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "孟玉楼",
+        "玉箫",
+        "房内的吴月娘"
+      ],
+      "place": "月娘上房到前边房间的门槛",
+      "event": "金莲月娘争执升级，玉楼和玉箫拉起金莲，送她离开。",
+      "why": "没有人说服谁，隔开身体与房间先成为止争的方法。",
+      "composition": "门槛横景，玉楼与玉箫从两侧扶起金莲，月娘留在较远炕边。",
+      "summary": "金莲在帘下听话后开口，争执从拦人、皮袄、春梅骂人扩大到婚姻出身和彼此的指控。亲戚劝不住，金莲坐地哭闹，最后玉楼与玉箫拉起她送往前边。图取搀扶离开，不重演自打与撞头，也不把争吵里的致死指控写作展馆事实。",
+      "psychology": "原文写大怒、哭闹、拦劝和送开。解释：玉楼既制止月娘的话连累旁人，也劝金莲让一句；她的劝法包含保护场面，不能简单归为固定站哪一边。",
+      "social": "女眷来自不同婚姻经历，争吵把身份差异变作武器。展馆保留语言伤害与权势差别，不重复人物用出身划分高低的价值判断。",
+      "explicit": "帘下听、当面争执、金莲坐地哭、玉楼玉箫拉起送出。",
+      "inference": "图中扶臂和迈门槛是拉起后的连续动作，衣色、距离与月娘背景位置为艺术补足；全身衣装完整，无殴打或伤痕细描。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow face; reference2 ONLY Meng Yulou tall slim mature woman with subtle pockmarks; reference3 ONLY round-faced Wu Yueniang; reference4 ONLY painted gongbi medium. FOUR fully clothed female figures in one indoor threshold moment, nonsexual. Center Pan in indigo padded jacket and rose full skirt has just been helped up, eyes tearful and hair slightly disordered but NO exposed skin or torn clothes. At her left Yulou in muted ochre padded jacket and dark red skirt holds her forearm supportively, at her right Yuxiao, a youthful rounder short-faced maid in loose pale gray-green jacket and dark full skirt, supports the other arm, guiding her through a plain doorway. Far inside room Yueniang in muted russet jacket sits tense at kang edge, not striking anyone; visibly fuller pregnant torso under roomy clothes only as current text, no body focus. The two women are GUIDING, not pinning or dragging violently. No self-harm, head-banging, wounds, violence or blame-labels. Cold doorway and warm brazier room contrast, human-scale cloth and wood, no text, painted contours.",
+      "references": [
+        "pan-solo-030（金莲）",
+        "yulou（玉楼）",
+        "moon-030（月娘）",
+        "075-04（玉箫）",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-05.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow face; reference2 ONLY Meng Yulou tall slim mature woman with subtle pockmarks; reference3 ONLY round-faced Wu Yueniang; reference4 ONLY painted gongbi medium. FOUR fully clothed female figures in one indoor threshold moment, nonsexual. Center Pan in indigo padded jacket and rose full skirt has just been helped up, eyes tearful and hair slightly disordered but NO exposed skin or torn clothes. At her left Yulou in muted ochre padded jacket and dark red skirt holds her forearm supportively, at her right Yuxiao, a youthful rounder short-faced maid in loose pale gray-green jacket and dark full skirt, supports the other arm, guiding her through a plain doorway. Far inside room Yueniang in muted russet jacket sits tense at kang edge, not striking anyone; visibly fuller pregnant torso under roomy clothes only as current text, no body focus. The two women are GUIDING, not pinning or dragging violently. No self-harm, head-banging, wounds, violence or blame-labels. Cold doorway and warm brazier room contrast, human-scale cloth and wood, no text, painted contours. Additional reference5 locks ONLY Yuxiao, the young rounder short-faced maid at LEFT in pale gray-green clothes, NOT Pan seated right. Preserve that face, hair and modest clothing in the supportive guiding role; copy no mirror or comb into this moment."
+    },
+    {
+      "id": "075-06",
+      "chapter": 75,
+      "title": "梳好头，再出去",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 38,
+          "quote": "孟玉楼跳上炕去，替他拿抿子掠后鬓；李娇儿替他勒钿儿，孙雪娥预备拿衣裳"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 38,
+          "quote": "月娘方动身梳头儿，戴上冠儿"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "孟玉楼",
+        "李娇儿",
+        "孙雪娥"
+      ],
+      "place": "月娘房中，准备去明间候任医官",
+      "event": "月娘不愿见男医，经劝说后动身，几位姊妹各自替她整理衣冠。",
+      "why": "刚经争执的屋内，也有互相照料的实际动作；人物不能被一个标签装完。",
+      "composition": "四人近中景，月娘坐、玉楼在后梳鬓、娇儿整头饰、雪娥捧衣，手势各有分工。",
+      "summary": "任医官次晨来，月娘仍不肯出去，大妗与玉楼劝她看脉，才开始梳头。玉楼掠鬓，娇儿整钿，雪娥备衣。图取穿戴准备，不画已搭脉、开方或病愈。原文这一回到衣冠描写便结束，本轮不越过这里取诊治信息。",
+      "psychology": "原文明写：月娘抗拒陌生男子看脉，后来动身。解释：病中顾虑与身份礼法相连；画面中的配合不等于她的疑虑已经完全消除。",
+      "social": "这是小说所呈现的请医过程及女性顾虑，不用本段自行提供医学诊断、药效或现代治疗建议。姊妹分担梳妆，不能据此宣称家中已重新和睦。",
+      "explicit": "掠鬓、勒钿、备衣；月娘六金簪、卧兔、金丁香、金蟾分心、白绫袄、柳黄绣裙、钥匙香囊。",
+      "inference": "月娘孕腹轮廓含蓄，镜头不聚焦身体；玉楼保留微麻，娇儿保留丰肥，雪娥矮小。梳具、饰纹与位置补足；医官未在此房画出。",
+      "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
+      "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY round-faced adult Wu Yueniang; reference2 ONLY mature tall slim Yulou with slight pockmarks, retain them; reference3 is TWO INDEPENDENT women: LEFT Li Jiaoer with a FULL HEAVY BODY and full cheeks, RIGHT Sun Xuee noticeably SHORT and light-built with shorter face, do not make them same-size internet beauties. Reference4 ONLY painted gongbi medium. Exactly FOUR fully clothed adult women in an intimate care-and-dressing moment in winter household room. Yueniang center sits upright tired but composed in CLOSED WHITE paired-front padded silk jacket and pale YELLOW embroidered long skirt, broad modest pregnant silhouette under loose layers, no body exposure. Yulou behind her in muted ochre jacket uses a small hair-smoothing comb to arrange back hair. At left full-bodied Jiaoer in subdued plum jacket and long skirt gently adjusts a head ornament. At right short Xuee in dark green jacket carries folded outer clothes. Yueniang modest gold hairpins, dark fur forehead warmer, tiny gold earrings and a small toad-like gold forehead ornament, key and small sachet at waist only subtle, no exact tiny-count claim. Natural human solidarity without smiling group pose, no doctor in room yet, no medicine use, nude body, pulse-taking, text or future infant, fine painted contours and silk grain.",
+      "references": [
+        "moon-030（月娘）",
+        "yulou（玉楼）",
+        "wives-030左娇儿右雪娥",
+        "065-01（媒介）"
+      ],
+      "image": "assets/075-06.png",
+      "status": "generated",
+      "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY round-faced adult Wu Yueniang; reference2 ONLY mature tall slim Yulou with slight pockmarks, retain them; reference3 is TWO INDEPENDENT women: LEFT Li Jiaoer with a FULL HEAVY BODY and full cheeks, RIGHT Sun Xuee noticeably SHORT and light-built with shorter face, do not make them same-size internet beauties. Reference4 ONLY painted gongbi medium. Exactly FOUR fully clothed adult women in an intimate care-and-dressing moment in winter household room. Yueniang center sits upright tired but composed in CLOSED WHITE paired-front padded silk jacket and pale YELLOW embroidered long skirt, broad modest pregnant silhouette under loose layers, no body exposure. Yulou behind her in muted ochre jacket uses a small hair-smoothing comb to arrange back hair. At left full-bodied Jiaoer in subdued plum jacket and long skirt gently adjusts a head ornament. At right short Xuee in dark green jacket carries folded outer clothes. Yueniang modest gold hairpins, dark fur forehead warmer, tiny gold earrings and a small toad-like gold forehead ornament, key and small sachet at waist only subtle, no exact tiny-count claim. Natural human solidarity without smiling group pose, no doctor in room yet, no medicine use, nude body, pulse-taking, text or future infant, fine painted contours and silk grain."
+    }
+  ],
+  "supplements": [
+    {
+      "title": "两百石与两百两，分别留账",
+      "text": "荆来访礼帖写白米二百石，晚间报猪酒与四封银，西门随后说四包为二百两。原文没有交代二者折算或替代的全程，本馆不编货币兑换表，也不画二百石已实物入仓。",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 11,
+          "quote": "白米二百石"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 25,
+          "quote": "是荆都监送来干事的二百两银子"
+        }
+      ]
+    },
+    {
+      "title": "管家务为什么会怨",
+      "text": "玉楼病中说清早梳头时还不断有人来要秤银换钱，费心却没人说好。西门想等几席宴办完再交别人；她马上指出这等于把眼前重活仍留给自己。这里把具体劳动看清，不靠给人物加一种永久性格来解释。",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 27,
+          "quote": "小厮你来我去，秤银子换钱，把气也掏干了"
+        }
+      ]
+    },
+    {
+      "title": "传话可以核到哪一步",
+      "text": "春鸿转述申二姐的话，春梅据此发怒；玉箫又分两次转述月娘的抱怨。小说把传递过程写给读者，展馆不把每次转述都当成未剪接的原声，也不凭保密要求断定全部是阴谋。",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 15,
+          "quote": "你说我呌他，他就来了"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 12,
+          "quote": "休要说出我来"
+        }
+      ]
+    },
+    {
+      "title": "身体不适不替谁作判决",
+      "text": "月娘自己叙述不适，大妗提她临月，西门请医；这些都已在本回。争吵里的责怪、人物的药效说法与医学因果不能混同。当前页只记请医与准备，不提供诊断、药方或未发生的结果。",
+      "evidence": [
+        {
+          "chapter": 75,
+          "paragraph": 36,
+          "quote": "任老爹早就来了"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 38,
+          "quote": "月娘方动身梳头儿"
+        }
+      ]
+    }
+  ]
+}
