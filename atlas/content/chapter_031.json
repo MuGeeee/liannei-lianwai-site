@@ -1,0 +1,604 @@
+{
+  "number": 31,
+  "title": "第三十一回琴童藏壶觑玉箫　西门庆开宴吃喜酒",
+  "intro": "本回把新官所需的银钱、内宅一把银壶的转移、官哥儿满月相看与筵前院本放在同一段喜庆时日中。五图只画已经发生的片刻；不采用正文第7段插叙的后回预告，人物猜测、夸辞、贺语和未兑现许诺均另作区别。",
+  "supplements": [
+    {
+      "title": "上任成本与腰带话术",
+      "text": "吴典恩原说七八十两，应伯爵建议写一百两；免息借银后，吴又另付伯爵十两保头钱。西门庆说犀角带用七十两购来，卖家原要一百两；伯爵所谓入水分流、夜照千里是人物夸耀，不画为器物物理性质。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 3,
+          "quote": "少说也得七八十两银子"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 3,
+          "quote": "取笔来写上一百两"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 4,
+          "quote": "我着贲四拿了七十两银子，再三回了他这条带来。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 4,
+          "quote": "分水为两处"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 4,
+          "quote": "火光通宵不灭。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 8,
+          "quote": "吴典恩又早封下十两保头钱"
+        }
+      ]
+    },
+    {
+      "title": "十六岁的书童与十四岁的棋童",
+      "text": "本县送来小张松，明写十六岁，被改名书童，专管书房礼帖和花园门钥匙；祝日念举保的十四岁男孩改名棋童。身份与识字、歌唱能力不证明成年。书童与玉箫的逗弄及香袋拉扯仅存非露骨文字说明，本次不配亲密图；不改变年龄，也不把琴童后来所作指控当已发生性行为。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 9,
+          "quote": "年方一十六岁"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 9,
+          "quote": "改换了名字，呌做书童儿。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 9,
+          "quote": "教他专管书房收礼帖，拿花园门钥匙。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 9,
+          "quote": "一个十四岁小厮"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 15,
+          "quote": "把两个香袋子等不的解，都揪断系儿放在袖子内。"
+        }
+      ]
+    },
+    {
+      "title": "七月初二的新官出行",
+      "text": "徐先生择七月初二辰时到任，西门庆实际到任后乘白马、穿猱头狮子补子员领等衣饰、排军喝道出行。此处记录小说写法，不据图臆造精确官服制度或把伯爵的带饰赞语转为史料。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 6,
+          "quote": "七月初二日"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 6,
+          "quote": "宜辰时到任"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 10,
+          "quote": "每日骑着大白马，头戴乌纱，身穿五彩洒线猱头狮子补子员领"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 10,
+          "quote": "排军喝道"
+        }
+      ]
+    },
+    {
+      "title": "两场酒宴、两处日数照存",
+      "text": "女眷弥月宴与后来的官客宴分开；西门庆先吩咐二十二日请官客，后来留桂姐银儿时又说二十八日，均按原文保存，不自行统一为单一日历。七百两是往乔大户家成房所抬银数，本回没有工程完工事实。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 13,
+          "quote": "请堂客饮酒"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 16,
+          "quote": "二十二日请官客吃庆官哥儿酒"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 16,
+          "quote": "抬了七百两银子，往对门乔大户家成房子去了。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 20,
+          "quote": "到二十八日我请你帅府周老爹和提刑夏老爹"
+        }
+      ]
+    },
+    {
+      "title": "银壶的责任与偏爱的话语",
+      "text": "玉箫送酒、琴童转移、迎春代收都由叙述给出；李瓶儿得知即催还。金莲把满月失壶说作不吉，把琴童的代收归作瞒昧，均只作当时讥刺或推测；她听春梅说西门庆去六娘房后发怒，不能据此把咒语或后果画成发生。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 18,
+          "quote": "你趂早还不快替他送进去哩"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "想必要瞒昧这把壶的意思。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 21,
+          "quote": "爹往六娘房裏去了。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 21,
+          "quote": "心上如撺上一把火相似"
+        }
+      ]
+    },
+    {
+      "title": "官客的坐次、赏银与挑曲",
+      "text": "刘薛二内相居首，刘左薛右，厅设十二桌。薛内相看院本赏一两银子，与首道烧鹅刘内相赏五钱分开。二人点曲因叹世、陈琳故事、离别等被席间官员说不合喜庆；夏提刑定唱三十腔。刘薛说次日补贺礼只是许诺，本回未写送达。",
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 23,
+          "quote": "刘内相居左，薛内相居右"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 23,
+          "quote": "厅正面设十二张桌席"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 23,
+          "quote": "先首位刘内相，赏了五钱银子。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 28,
+          "quote": "薛内相大喜，呌上来赏了一两银子"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 28,
+          "quote": "你唱套〈三十腔〉。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 28,
+          "quote": "咱们明日都补礼来庆贺。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "031-01",
+      "chapter": 31,
+      "title": "借券上的五分，落笔抹去",
+      "excerpt": {
+        "chapter": 31,
+        "paragraph": 5,
+        "quote": "见上面借一百两银子，中人就是应伯爵，每月行利五分。西门庆取笔把利钱抹了，说道：「旣是应二哥作保，你明日只还我一百两本钱就是了。我料你上下也得这些银子搅缠。」"
+      },
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 3,
+          "quote": "于是把文书上填写了一百两之数。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 4,
+          "quote": "西门庆带着小帽锦衣，和陈经济在穿廊下看着写见官手本谒帖。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 5,
+          "quote": "中人就是应伯爵，每月行利五分。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 5,
+          "quote": "西门庆取笔把利钱抹了"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 7,
+          "quote": "只见陈经济拿着一百两银子出来"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 8,
+          "quote": "吴典恩又早封下十两保头钱，双手递与伯爵"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "吴典恩"
+      ],
+      "place": "卷棚、穿廊之间的近桌构图",
+      "event": "吴典恩请应伯爵作中人借一百两，西门庆看借券后抹去月利，只留归还本钱的条件。",
+      "why": "官职之外，衣马、见官和摆酒仍须银钱；一笔删改把担保、人情与债务放在同一张纸上。",
+      "composition": "左西门庆坐案边执笔，右吴典恩俯身等候，中后应伯爵观察；只画三人，尚未取出的银子不入图。",
+      "summary": "吴典恩先说少说需七八十两，应伯爵认为仍不够，劝他把借数写成一百两，再到西门家说合。借券原列月利五分，西门庆因伯爵作保，将利息抹去。图定在删改借券的一刻，银子稍后才由陈经济取来。伯爵后来另收十两保头钱，不能混作借款减少或西门庆已知的条件。",
+      "psychology": {
+        "明写": "吴典恩再三央求；伯爵极力替他说项，西门庆免息并留下借券。",
+        "推断": "吴典恩双手相合的等候姿态、伯爵注视笔尖的表情，是据说项和审券安排，不把他们的面相当品行证据。"
+      },
+      "social": "“不要利钱”没有取消债权；中人随后所得十两保头钱另有实际给付。数额只据小说记载，不换算现代币值。",
+      "explicit": [
+        "借数为一百两，券上原写月利五分。",
+        "西门庆亲自抹去利钱，承诺只还一百两本钱；稍后实际交银。",
+        "十两保头钱由吴典恩另给应伯爵，不画在免息当下。"
+      ],
+      "inference": {
+        "推断": "将卷棚谈话压缩为近桌三人构图；陈经济和匠人裁在画外，不声称实际现场仅三人。",
+        "美术补足": "纸面留白仅为避免伪造文字，图中笔触不呈现真实借券字样；桌椅、帽袍颜色、手势与笔砚形制未考定。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第31回隔离正文，必要前情只据第30回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png",
+        "assets/030-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow eyes and long torso. Reference 2 locks ONLY Ying Bojue, the thin long-faced older man at LEFT with fine short mustache and narrow beard; ignore the center and right men. Reference 3 locks ONLY Wu Dianen, the kneeling man BEHIND LEFT in grey-green, broad square face, fuller cheeks, short neat mustache and short pointed chin beard; ignore the elderly red-robed official and the front kneeling man. Exactly THREE clothed adult men in a shaded household covered passage beside the pavilion. LEFT Ximen in a plain small black cap and light muted jade patterned summer robe, seated at a plain wooden writing table, one hand holding an unlettered cream loan paper flat and the other making a short brush stroke on it. RIGHT Wu Dianen standing and leaning forward respectfully, hands held together at his own waist, plain grey-brown robe and black cloth cap. MIDDLE BACK Ying Bojue seated slightly behind, brown summer robe, watching the brush with attentive subtle expression. Their three faces must be distinct and resemble the assigned references. Modest inkstone and brush rest, one tea cup, no money, no gold, no coins, no banquet, no gift piles. Capture the precise quiet moment of removing the interest clause, but paper contains NO readable marks or numerals. Warm courtyard daylight filtered through a rolled bamboo blind, candid asymmetrical composition; three people only, natural separate hands.",
+      "actualPrompt": "Edit target: reference image 1 is the existing loan-paper illustration. Make ONLY ONE targeted identity correction: replace the face and visible hair of the MIDDLE BACK brown-robed seated man, Ying Bojue, using the adult mustached man on the LEFT of reference image 2 as the sole face identity source. He must be a mature but NOT elderly thin long-faced man, natural black eyebrows, black hair in a compact topknot, a fine short black mustache and small narrow black chin beard, smile creases around the eyes but no deep elderly cheek furrows and no grey hair. Keep his attentive mild expression and the same head angle, size, brown robe, seated body and hands. He is NOT Lai Bao; do not use the deeply weathered elderly envoy face. Preserve EVERYTHING else: Ximen Qing at left writing on the unlettered paper, Wu Dianen at right standing, the three-person count, all clothes and bodies, brush hands, inkstone, cup, paper, table, pavilion and summer daylight. Preserve the Chinese gongbi ink-and-mineral-pigment painting style, 3:2 composition and fine paper texture. Do not add text, people or objects. Reference image 2 is for the LEFT man's facial identity only, not for clothes, actions, food or setting.",
+      "image": "assets/031-01.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地初稿及修订采用图。初稿中间应伯爵误近来保老年脸，已保留未公开参考〔unpublished-reference-41ec6d7ff3de；过程图或旧参考不随本包发布〕，并以内置图像编辑只换中间人物面貌。修订图恰三男：左庆执笔触纸、另手按纸；右吴典恩宽方脸短髭俯身等候；中后伯爵恢复成熟瘦长脸、黑短髭小尖须与笑纹，区别来保的深老纹。其余构图和动作保留，无银子提前入画，无可读借券文字，无多肢。笔触位置只示意删改，纸面不复原真实借券；帽衣、器物、空间和表情为美术补足。身份、人数与动作已可采用。",
+      "initialPrompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow eyes and long torso. Reference 2 locks ONLY Ying Bojue, the thin long-faced older man at LEFT with fine short mustache and narrow beard; ignore the center and right men. Reference 3 locks ONLY Wu Dianen, the kneeling man BEHIND LEFT in grey-green, broad square face, fuller cheeks, short neat mustache and short pointed chin beard; ignore the elderly red-robed official and the front kneeling man. Exactly THREE clothed adult men in a shaded household covered passage beside the pavilion. LEFT Ximen in a plain small black cap and light muted jade patterned summer robe, seated at a plain wooden writing table, one hand holding an unlettered cream loan paper flat and the other making a short brush stroke on it. RIGHT Wu Dianen standing and leaning forward respectfully, hands held together at his own waist, plain grey-brown robe and black cloth cap. MIDDLE BACK Ying Bojue seated slightly behind, brown summer robe, watching the brush with attentive subtle expression. Their three faces must be distinct and resemble the assigned references. Modest inkstone and brush rest, one tea cup, no money, no gold, no coins, no banquet, no gift piles. Capture the precise quiet moment of removing the interest clause, but paper contains NO readable marks or numerals. Warm courtyard daylight filtered through a rolled bamboo blind, candid asymmetrical composition; three people only, natural separate hands.",
+      "memoryPoint": "借一百两只还本金，五分月利被抹，十两保头钱另付。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "031-02",
+      "chapter": 31,
+      "title": "床底一把银壶，被琴童提起",
+      "excerpt": {
+        "chapter": 31,
+        "paragraph": 17,
+        "quote": "不想书童儿外边去，不曾进来。一壶热酒和菓子还放在床底下。这琴童连忙把菓子藏袖裏，将那一壶酒影着身子一直提到李瓶儿房裏。"
+      },
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 14,
+          "quote": "新近收拾大厅西厢房一间做书房，内安床几、桌椅、屏帏、笔砚、琴书之类。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 17,
+          "quote": "玉箫拿下一银执壶酒，并四个梨、一个柑子"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 17,
+          "quote": "推开门，不想书童儿不在裏面。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 17,
+          "quote": "一壶热酒和菓子还放在床底下。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 17,
+          "quote": "这琴童连忙把菓子藏袖裏，将那一壶酒影着身子一直提到李瓶儿房裏。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 17,
+          "quote": "迎春把壶藏放在裏间桌上不题。"
+        }
+      ],
+      "people": [
+        "琴童"
+      ],
+      "place": "大厅西厢书房",
+      "event": "琴童发现书童不在，取走玉箫留在床底的酒与果子，再把酒壶托迎春收着。",
+      "why": "读者看见壶如何转移，随后席散寻壶时，宅内众人却只知各自的一小段经过。",
+      "composition": "一人侧蹲床边，右手提起银色执壶，左臂袖口收着果子；留出空房和门口的明亮缝隙。",
+      "summary": "玉箫送一壶酒和四梨一柑到书房，发现书童不在，怕人看见，连壶留下便走。琴童从席上看见她进出，闯入才发现空房，便把果子藏袖、执壶提去李瓶儿房。图只截取他从床底提壶的一刻，不画书童在场，也不把琴童所说的男女关系指控当成已证事实。",
+      "psychology": {
+        "明写": "玉箫恐被看见而匆匆退出；琴童把果子藏袖，后来明说要“拾个白财儿”。",
+        "推断": "琴童向门缝侧看的谨慎神态来自遮掩动作；本刻具体目光与面色未明写。"
+      },
+      "social": "同一把侍酒器先经过赠送、藏取和代收，最后又牵动管银器、看茶与斟酒的责任分配；不把下人的辱骂复述作事实。",
+      "explicit": [
+        "书童不在书房；酒壶与果子在床底。",
+        "琴童把果子藏袖，提壶去了李瓶儿房，随后托迎春收壶并到狮子街上宿。",
+        "四梨一柑是玉箫带来的数量，取壶画面不强求袖中物可逐件点数。"
+      ],
+      "inference": {
+        "推断": "提壶与收果凝成连续动作的一个片刻，未添加玉箫与书童同场。",
+        "美术补足": "琴童本回未明年龄和具体五官，画为普通清瘦年轻男仆的非性化艺术形象；宽松衣服、壶的曲流提柄、床台高低、书案与光线未考定。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第31回隔离正文，必要前情只据第30回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节均属美术补足，生成图不作史证。",
+      "references": [
+        "assets/030-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. The reference is ONLY a style sample for fine ink and pigment, worn timber and paper texture. Do NOT copy any face, robe, official, kneeling envoy or scene from it. Exactly ONE fully clothed ordinary young male household servant, Qintong, no exact age claimed. NEW face: lean slightly triangular face with a short rounded chin, straight natural brows, dark alert eyes, no facial hair, black hair tied in a simple compact topknot; unglamorized, no makeup. Loose opaque dusty brown summer tunic, plain dark trousers and cloth shoes, fully covered. In the recently furnished west-side study, he crouches naturally on the floor NEXT TO a low wooden bed platform. With his RIGHT hand he lifts ONE small SILVER METAL wine ewer from beneath the bed; the ewer has a distinct curved spout, a handle and fitted lid, no engraving. His LEFT forearm holds his own loose sleeve closed near his waist, concealing fruit with only the rounded outline of a pear barely visible; no fruit spilling, no open basket. He glances toward a partly open wooden door, subtly secretive but not caricatured. One body, two arms, two hands, both hands attached naturally; do not place him on the bed. Room clearly empty of other people. Plain folded bedding above, simple writing desk deeper in room with inkstone, closed book and horizontal wrapped qin, unlettered screen; no official insignia, no money, no modern mirror, no large treasure chest. Daylight from the doorway crosses the empty floor while under-bed shadow stays legible. Narrative close-wide composition, ewer easy to recognize, no text.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. The reference is ONLY a style sample for fine ink and pigment, worn timber and paper texture. Do NOT copy any face, robe, official, kneeling envoy or scene from it. Exactly ONE fully clothed ordinary young male household servant, Qintong, no exact age claimed. NEW face: lean slightly triangular face with a short rounded chin, straight natural brows, dark alert eyes, no facial hair, black hair tied in a simple compact topknot; unglamorized, no makeup. Loose opaque dusty brown summer tunic, plain dark trousers and cloth shoes, fully covered. In the recently furnished west-side study, he crouches naturally on the floor NEXT TO a low wooden bed platform. With his RIGHT hand he lifts ONE small SILVER METAL wine ewer from beneath the bed; the ewer has a distinct curved spout, a handle and fitted lid, no engraving. His LEFT forearm holds his own loose sleeve closed near his waist, concealing fruit with only the rounded outline of a pear barely visible; no fruit spilling, no open basket. He glances toward a partly open wooden door, subtly secretive but not caricatured. One body, two arms, two hands, both hands attached naturally; do not place him on the bed. Room clearly empty of other people. Plain folded bedding above, simple writing desk deeper in room with inkstone, closed book and horizontal wrapped qin, unlettered screen; no official insignia, no money, no modern mirror, no large treasure chest. Daylight from the doorway crosses the empty floor while under-bed shadow stays legible. Narrative close-wide composition, ewer easy to recognize, no text.",
+      "image": "assets/031-02.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰一位清瘦年轻男仆侧蹲床边，右手抓银色执壶柄，左手收着自身袖口，袖中仅见梨的上部，未强把五果摊陈。壶有曲流、盖钮、提柄，床底取壶与回头望门动作可辨；书房无人，无书童或玉箫同场。手脚各自清楚，没有多肢；床几、屏帏、书与琴呼应本回布置，但其形制、包裹状态与位置均非考据。男仆新脸为普通年轻面貌、无须，不赋确岁，不作性化表现。右手刚提住壶，壶身仍近床板，属取起前一刻，可采用。",
+      "memoryPoint": "书童不在；壶在床底，先被琴童取走。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "031-03",
+      "chapter": 31,
+      "title": "银壶既还，话锋仍未收住",
+      "excerpt": {
+        "chapter": 31,
+        "paragraph": 19,
+        "quote": "西门庆听了，心中大怒，睁眼看着金莲说道：「看着你恁说起来，莫不李大姐他爱这把壷？旣有了，丢开手就是了，只管乱甚么！」"
+      },
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 18,
+          "quote": "玉箫推小玉，小玉推玉箫"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "只见迎春送壶进来。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "琴童从外边拿到俺娘屋裏收着，不知在那裏来。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "他今日该狮子街房子差，上宿去了。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "想必要瞒昧这把壶的意思。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "西门庆听了，心中大怒，睁眼看着金莲"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 19,
+          "quote": "那金莲把脸羞的飞红了"
+        }
+      ],
+      "people": [
+        "迎春",
+        "吴月娘",
+        "西门庆",
+        "潘金莲"
+      ],
+      "place": "后边厅内，归壶与争言的近景",
+      "event": "迎春送还酒壶后，金莲仍把藏壶归为李瓶儿房中人的瞒昧；西门庆动怒回护，金莲羞红了脸。",
+      "why": "失物已经寻回，关于谁有资格管束、谁受偏护的争执却继续；物的下落与人的指控必须分开。",
+      "composition": "左前迎春捧银壶，中后月娘坐着问来源；右侧西门庆怒视金莲，金莲红着脸别身。",
+      "summary": "查收银器时少了一壶，玉箫与小玉互相推责。李瓶儿得知后催迎春送还，真相的一段才进入众人视野。金莲又说琴童存心瞒昧，要求叫来打问；西门庆却把话听成对李瓶儿的指摘，动怒叫她放手。图停在壶已归来而脸色仍僵的一刻，不画尚未执行的打人。",
+      "psychology": {
+        "明写": "西门庆心中大怒、睁眼看金莲；金莲羞得脸红，随后使性离开。",
+        "推断": "月娘在后方审视来人、迎春收紧手势，是依据问壶来处与送壶动作的美术安排。"
+      },
+      "social": "金莲把家人归属和藏匿动机连在一起，但“想必”仍是猜测。失物归还没有自动结束内宅的管辖与偏爱之争。",
+      "explicit": [
+        "迎春确实送壶，转述琴童拿到李瓶儿房中托收。",
+        "琴童已经去狮子街上宿，不在本图。",
+        "金莲要求捉回打问只是提议，本回此处未执行；李瓶儿觊觎银壶没有事实证明。"
+      ],
+      "inference": {
+        "推断": "将四名人物压入近景，玉箫、小玉、玳安等裁在画外，不声称实际现场仅四人。",
+        "美术补足": "迎春年龄、具体五官本回未明，普通年轻女仆非性化形象为新面貌；壶、衣色、厅内座次、暮光和手势为美术安排。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第31回隔离正文，必要前情只据第30回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/pan-solo-030.png",
+        "assets/020-02.webp",
+        "assets/031-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight eyebrows, narrow eyes and long torso; reference 2 ONLY Pan Jinlian narrow oval face; reference 3 ONLY Wu Yueniang, the round-faced fuller-bodied woman at RIGHT, not the woman on left. Exactly FOUR fully clothed people in an inner household hall after a banquet has ended. FAR LEFT FOREGROUND Yingchun, NEW face: ordinary young female servant, rounded oval face, a slightly broad nose, straight natural eyebrows, black hair in a small tidy practical bun, no exact age assumed. Plain loose pale grey-green tunic and dark skirt, non-glamorized. She stands holding ONE small silver metal ewer with fitted lid, curved spout and handle carefully with both hands at waist level. CENTER BACK seated Wu Yueniang, round face and steady fuller build, muted russet-brown summer robe with small ordinary floral border, looking at the returned ewer. RIGHT CENTER Ximen in loose dark teal summer robe and plain small black cap, standing, eyes widened in anger, mouth just open addressing Pan, one hand open at his own waist; no pointing finger touching anyone. FAR RIGHT Pan in pale lilac fully opaque summer top and dark plum skirt, recognizable narrow oval face slightly flushed, turning her head and shoulders away with embarrassed tense lips. Keep all four faces readable, no stereotypical evil grin. Nobody hits anyone, no weapons, no baby, no other people. The ewer is the clear narrative link, not a treasure object. Evening light through timber lattice, plain table with two cups, quiet domestic worn surfaces; no banquet crowd or rank badges. Natural anatomically separate bodies and hands. Reference 4 locks ONLY the small silver wine ewer shape from the previous study scene: rounded pear-like body, slender curved spout, fitted lid with round finial, and side handle. Do not copy the male servant, bed, study, fruit, kneeling pose or other objects from reference 4; he is NOT present in this scene. The returned ewer held by Yingchun should remain the same modest silver utensil.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight eyebrows, narrow eyes and long torso; reference 2 ONLY Pan Jinlian narrow oval face; reference 3 ONLY Wu Yueniang, the round-faced fuller-bodied woman at RIGHT, not the woman on left. Exactly FOUR fully clothed people in an inner household hall after a banquet has ended. FAR LEFT FOREGROUND Yingchun, NEW face: ordinary young female servant, rounded oval face, a slightly broad nose, straight natural eyebrows, black hair in a small tidy practical bun, no exact age assumed. Plain loose pale grey-green tunic and dark skirt, non-glamorized. She stands holding ONE small silver metal ewer with fitted lid, curved spout and handle carefully with both hands at waist level. CENTER BACK seated Wu Yueniang, round face and steady fuller build, muted russet-brown summer robe with small ordinary floral border, looking at the returned ewer. RIGHT CENTER Ximen in loose dark teal summer robe and plain small black cap, standing, eyes widened in anger, mouth just open addressing Pan, one hand open at his own waist; no pointing finger touching anyone. FAR RIGHT Pan in pale lilac fully opaque summer top and dark plum skirt, recognizable narrow oval face slightly flushed, turning her head and shoulders away with embarrassed tense lips. Keep all four faces readable, no stereotypical evil grin. Nobody hits anyone, no weapons, no baby, no other people. The ewer is the clear narrative link, not a treasure object. Evening light through timber lattice, plain table with two cups, quiet domestic worn surfaces; no banquet crowd or rank badges. Natural anatomically separate bodies and hands. Reference 4 locks ONLY the small silver wine ewer shape from the previous study scene: rounded pear-like body, slender curved spout, fitted lid with round finial, and side handle. Do not copy the male servant, bed, study, fruit, kneeling pose or other objects from reference 4; he is NOT present in this scene. The returned ewer held by Yingchun should remain the same modest silver utensil.",
+      "image": "assets/031-03.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰四人：左迎春双手捧一把银色执壶，圆椭圆脸与普通年轻非性化形象新建；中后月娘圆脸稳重坐着看壶；右中庆长脸窄眼怒视金莲，手开在自身腰前；最右金莲窄鹅蛋脸微红、别身低眼。四人各自身体手臂清楚，无多肢，琴童、李瓶儿和婴儿均未误入。壶的梨形身、曲流、圆盖钮与031-02相连，方向反转只是持法不同，不把物形认作考据。原文中的怒、羞可辨，未画提议中的打问。衣色、厅中座位、傍晚光线、迎春面貌与收紧双手属美术补足。人物、人数和关键持壶动作均可采用。",
+      "memoryPoint": "壶已经找回，争言仍让两人的脸色同时收紧。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "031-04",
+      "chapter": 31,
+      "title": "红绫小被里，众人看官哥",
+      "excerpt": {
+        "chapter": 31,
+        "paragraph": 22,
+        "quote": "月娘教奶子如意儿用红绫小被儿裹的紧紧的，送到卷棚角门首，玳安儿接抱到卷棚内。众人睁眼观看，官哥儿穿着大红缎毛衫儿，生的面白红唇，甚是富态，都喝采夸奖不已。"
+      },
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "慢慢抱哥儿出来，休要唬着他。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "玳安儿接抱到卷棚内。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "官哥儿穿着大红缎毛衫儿"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "伯爵与希大，每人袖中掏出一方锦缎兜肚，上着一个小银坠儿。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "惟应伯爵与一柳五色线，上穿着十数文长命钱。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "相貌端正，天生的就是个戴纱帽胚胞儿！"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 22,
+          "quote": "西门庆大喜，作揖谢了他二人重礼。"
+        }
+      ],
+      "people": [
+        "玳安",
+        "官哥儿",
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "卷棚内，官客尚未齐到",
+      "event": "如意儿送孩子到角门，玳安接抱入卷棚，众人夸赞；伯爵、希大随后各赠兜肚，伯爵另赠长命钱。",
+      "why": "被包裹的婴儿成为亲友与新官共同观看、祝贺的中心；“戴纱帽”是宾客的贺语，不是孩子未来。",
+      "composition": "左玳安双臂稳托红绫襁褓，中后伯爵与右侧西门庆俯看；只聚焦三男一婴，不声称其他客人未在。",
+      "summary": "官客未到齐，应伯爵请西门庆把满月的孩子抱来一看。月娘使如意儿用红绫小被包裹，玳安从角门接入卷棚。众人夸相貌，伯爵与希大随后送锦缎兜肚、银坠，伯爵另添五色线长命钱。图先取凝神相看的片刻；对身体与前途的赞词均作为宾客的话记录，不赋予婴儿命定意味。",
+      "psychology": {
+        "明写": "众人喝采夸奖，西门庆听重礼与贺语后大喜。",
+        "推断": "伯爵倾身、父亲含笑与玳安专注低眼为相看动作的视觉安排。"
+      },
+      "social": "衣物、银坠与长命钱把祝寿习俗和交往礼物并在婴儿身边；宾客用官帽表达祝愿，只证明当时话语里的价值取向。",
+      "explicit": [
+        "婴儿由如意儿送至角门，玳安接抱进入卷棚。",
+        "红绫小被和大红缎毛衫是明写，面白红唇是叙述用语。",
+        "谢希大、吴大舅二舅等在场而未纳入本近景；礼物发生在相看后，本图不并置赠礼。"
+      ],
+      "inference": {
+        "推断": "将众人观看裁为三男一婴的近景，完整托抱姿态只为清楚组织动作。",
+        "美术补足": "婴儿具体五官、红被的包法、成年男子衣色、卷棚角度与扶托手势未考定；图不作为婴儿照护示范。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第31回隔离正文，必要前情只据第30回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png",
+        "references/young-people-030.png"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face and narrow eyes. Reference 2 locks ONLY Ying Bojue, the thin-faced mustached man on LEFT, not the others. Reference 3 locks ONLY Daian, the narrow-faced male servant in the LEFT panel, not the boy center or girl right. Exactly THREE fully clothed male figures and ONE small one-month infant in a shaded domestic pavilion before the formal officials feast. LEFT FOREGROUND Daian, ordinary youthful male servant with recognizable narrow face and compact black topknot, in loose plain slate-blue summer robe, stands securely supporting a small red-wrapped baby in BOTH forearms, head and torso fully supported, held close to his body. The infant is modestly and completely wrapped in a red silk small quilt; ONLY small face visible above an edge of red satin undershirt, pale natural baby cheeks and pink lips, realistic newborn proportions, no exposed torso or limbs. CENTER BACK Ying Bojue, brown robe, leans slightly forward to look with an ordinary cheerful smile, both hands resting together at his waist. RIGHT Ximen in muted jade patterned summer robe and plain black small cap, looking down with delight at his child, hands loosely together; he does NOT touch the baby or take him from Daian. Three faces naturally distinct and recognizable. The infant is the quiet visual focus; absolutely no miniature adult face, no halo, no tiny official cap, no prophecy symbols. No silver gifts, no coins, no cords near the baby, no breast feeding, no attendants or extra babies. Rolled bamboo shade, worn timber pillars, a simple tea table behind, soft summer daylight. Other guests are outside this tight crop.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face and narrow eyes. Reference 2 locks ONLY Ying Bojue, the thin-faced mustached man on LEFT, not the others. Reference 3 locks ONLY Daian, the narrow-faced male servant in the LEFT panel, not the boy center or girl right. Exactly THREE fully clothed male figures and ONE small one-month infant in a shaded domestic pavilion before the formal officials feast. LEFT FOREGROUND Daian, ordinary youthful male servant with recognizable narrow face and compact black topknot, in loose plain slate-blue summer robe, stands securely supporting a small red-wrapped baby in BOTH forearms, head and torso fully supported, held close to his body. The infant is modestly and completely wrapped in a red silk small quilt; ONLY small face visible above an edge of red satin undershirt, pale natural baby cheeks and pink lips, realistic newborn proportions, no exposed torso or limbs. CENTER BACK Ying Bojue, brown robe, leans slightly forward to look with an ordinary cheerful smile, both hands resting together at his waist. RIGHT Ximen in muted jade patterned summer robe and plain black small cap, looking down with delight at his child, hands loosely together; he does NOT touch the baby or take him from Daian. Three faces naturally distinct and recognizable. The infant is the quiet visual focus; absolutely no miniature adult face, no halo, no tiny official cap, no prophecy symbols. No silver gifts, no coins, no cords near the baby, no breast feeding, no attendants or extra babies. Rolled bamboo shade, worn timber pillars, a simple tea table behind, soft summer daylight. Other guests are outside this tight crop.",
+      "image": "assets/031-04.webp",
+      "status": "generated",
+      "review": "已实际view_image打开复制到本章assets的本地采用图。恰三男一婴：左玳安窄脸与旧参考一致，双臂稳托完整红绫包裹；中应伯爵瘦长脸短髭与旧参考相符，右庆长脸窄眼欢喜俯看，三人无多手、多肢。婴儿小脸比例自然，仅脸可见，未添官帽、光环、未来象征或赠礼同时入镜。红色缎衫大部被包裹遮住，不能据图核其精确裁制；托抱、纹样、衣色和卷棚尺度为美术补足，不作婴儿照护示范。身份、人数与关键动作可采用。",
+      "memoryPoint": "红绫小被包着官哥儿，戴纱帽是宾客的贺语。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "031-05",
+      "chapter": 31,
+      "title": "小板凳未到，筵前先起笑声",
+      "excerpt": {
+        "chapter": 31,
+        "paragraph": 28,
+        "quote": "筵前递酒，席上众官都笑了。薛内相大喜，呌上来赏了一两银子，磕头谢了。须臾，李铭吴惠两个小优儿上来弹唱了。"
+      },
+      "evidence": [
+        {
+          "chapter": 31,
+          "paragraph": 23,
+          "quote": "厅正面设十二张桌席"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 24,
+          "quote": "教坊司俳官跪呈上大红纸手本，下边簇拥一段笑乐的院本"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 25,
+          "quote": "我就是那王勃殿试，滕王阁的诗是我做的。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 25,
+          "quote": "小板凳在那裏？"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 25,
+          "quote": "末躲过一边去了。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 28,
+          "quote": "席上众官都笑了。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 28,
+          "quote": "薛内相大喜，呌上来赏了一两银子"
+        }
+      ],
+      "people": [
+        "院本演员",
+        "西门庆",
+        "筵席宾客（局部）"
+      ],
+      "place": "大厅筵前的院本表演区",
+      "event": "院本中演员冒充王勃，弯身装矮又等不到小板凳；席上众官发笑，薛内相赏一两银子。",
+      "why": "将故事里的热闹再分出一层：画中是西门家筵前演戏，不是王勃真正来到此时，也不是现实的见官。",
+      "composition": "左演员扮节级俯身作揖，中间假王勃弯膝缩身呼凳，副末后退到旁；右后留西门庆笑看和局部席桌。",
+      "summary": "官员入席后反复谦让座次，随后乐工与俳官承应。院本让不知时代的节级执意寻王勃，又让冒名者缩身配样，见面时一再等不到小板凳，笑话就从礼貌失措处生出。图把喜剧留在表演层。薛内相赏银、后来挑曲屡不合喜庆，都按本回事实另记，不将演员的虚构身份混入小说现实。",
+      "psychology": {
+        "明写": "席上众官都笑，薛内相大喜，随即赏银。",
+        "推断": "假王勃一手求凳、节级继续礼拜和副末退开的姿态，来自戏文的动作提示，是表演瞬间的凝合。"
+      },
+      "social": "酒席兼作等级礼仪与娱乐空间：座次要反复推让，曲词又要契合加官、生子与生日。这里记录小说的表演场景，不据一场院本复原真实戏曲舞台。",
+      "explicit": [
+        "此为教坊司俳官在筵前演院本，王勃是演员冒充的戏中身份。",
+        "戏文写缩身合样、反复找小板凳、副末躲开；不把演员画成实际只有三尺。",
+        "笑声之后薛内相才赏一两，图内没有同时交银；十二桌只作文字事实，近景不逐桌复原。"
+      ],
+      "inference": {
+        "推断": "以三个演员和局部宾席压缩院本最后的笑点；表演动作与观众反应合在一幅，未加未来象征。",
+        "美术补足": "三名演员的脸、服色与戏服简装是艺术设计，不入小说人物面貌索引；表演区没有本回未交代的高台、幕布或现代灯具。部分宾客只见背影，不新建刘、薛等面貌。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第31回隔离正文，必要前情只据第30回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "assets/030-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, narrow eyes and long torso. Reference 2 is ONLY a painting-style sample for fine contours, mineral pigment and worn wood; do not copy its faces, the red official, kneeling envoys, writing table or their actions. A lively satirical comic interlude performed by THREE ordinary ADULT male actors at floor level BEFORE a household banquet, clearly a play within the story, not a real historical audience with poet Wang Bo. Exactly three actors fully visible in foreground. LEFT an actor in a plain dark-red theatrical official robe and simple black cap makes a very deep formal greeting bow toward the scholar. CENTER another ordinary full-height adult actor playing a false scholar, grey-blue loose scholar robe and simple black cloth cap, intentionally bending knees and hunching his back to pretend to be short; he is visibly a normal man crouching, not an actual child or a person with a growth condition. His face strained from the awkward pose, one open hand appealing for a missing small stool, other hand on his OWN thigh. RIGHT BACK the third actor playing an assistant in plain olive-brown robe backs away a step, arms held close to his own body, looking toward the scholar with a restrained sly smile. NO stool anywhere, no weapon, no aggressive grabbing or striking. Their three human faces distinct, simple stage makeup only, no masks, no elaborate opera crowns. At FAR RIGHT background, Ximen sits in a dark teal formal summer robe and simple black cap, laughing naturally with a small wine cup at table; retain his reference identity. Only two anonymous guests seen from behind at adjoining table edge, no new important guest portrait, cropped shoulders and backs. Six men total: three actors, Ximen and two backs. A handful of refined dishes, one gilt flower vase and pale cloth table cover, timber hall pillars and warm side light establish an elegant crowded feast beyond the crop. Keep actor performance area readable with generous open floor. No elevated theatre stage, curtain, modern lighting or photographic effects. No Tang palace, no actual Wang Bo, no written poem, no comic text or subtitles.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer in the seventh lunar month. This is a novel illustration, not an authenticated architectural, monetary or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, narrow eyes and long torso. Reference 2 is ONLY a painting-style sample for fine contours, mineral pigment and worn wood; do not copy its faces, the red official, kneeling envoys, writing table or their actions. A lively satirical comic interlude performed by THREE ordinary ADULT male actors at floor level BEFORE a household banquet, clearly a play within the story, not a real historical audience with poet Wang Bo. Exactly three actors fully visible in foreground. LEFT an actor in a plain dark-red theatrical official robe and simple black cap makes a very deep formal greeting bow toward the scholar. CENTER another ordinary full-height adult actor playing a false scholar, grey-blue loose scholar robe and simple black cloth cap, intentionally bending knees and hunching his back to pretend to be short; he is visibly a normal man crouching, not an actual child or a person with a growth condition. His face strained from the awkward pose, one open hand appealing for a missing small stool, other hand on his OWN thigh. RIGHT BACK the third actor playing an assistant in plain olive-brown robe backs away a step, arms held close to his own body, looking toward the scholar with a restrained sly smile. NO stool anywhere, no weapon, no aggressive grabbing or striking. Their three human faces distinct, simple stage makeup only, no masks, no elaborate opera crowns. At FAR RIGHT background, Ximen sits in a dark teal formal summer robe and simple black cap, laughing naturally with a small wine cup at table; retain his reference identity. Only two anonymous guests seen from behind at adjoining table edge, no new important guest portrait, cropped shoulders and backs. Six men total: three actors, Ximen and two backs. A handful of refined dishes, one gilt flower vase and pale cloth table cover, timber hall pillars and warm side light establish an elegant crowded feast beyond the crop. Keep actor performance area readable with generous open floor. No elevated theatre stage, curtain, modern lighting or photographic effects. No Tang palace, no actual Wang Bo, no written poem, no comic text or subtitles.",
+      "image": "assets/031-05.webp",
+      "status": "generated",
+      "review": "已实际view_image打开复制后的本地采用图。前景恰三名成年演员：左红衣扮节级深躬作礼，中灰蓝衣假王勃以正常成年体量弯膝缩身、一手求凳一手支自身腿，后副末退开；没有凳子，没有真唐人或真实小人国。右后庆旧脸笑看持杯，前右两位宾客仅见背头，合六男，未立刘薛新面貌。手脚自然，戏服与演员喜剧表情可读，未画动武或交银；地面表演区无高台、现代灯、文字。原戏文重复磕头，图用一刻深躬凝合礼拜动作，并未精确复刻整场动作；戏服、座次局部与金色瓶花均美术补足。可采用。",
+      "memoryPoint": "唤小板凳的是戏中人，发笑的是筵前众客。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "number": 30,
+  "title": "第三十回来保押送生辰担　西门庆生子喜加官",
+  "intro": "本回从府门银包到厅中札付，又从檐下冷语到房内初生孩儿，最后由西门庆把官文书拿给月娘看。五图只取已经发生的时刻；人物的质疑、讨好与时运解释各归其话语，不用后回印证。未配图的重要雇役、购婢、分娩照料与乳母处境另存文字依据。",
+  "supplements": [
+    {
+      "title": "赵寡妇庄子仍在议价，园景只是设想",
+      "text": "张安来报隔壁庄地求售。西门庆说对方要三百两，自己还二百五十两，若成才教贲四和陈姐夫兑银；井亭、卷棚、打球场等是他口中的收拾计划，本回不能据此画成已成交或已完工。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 6,
+          "quote": "价钱三百两银子，我只还他二百五十两银子"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 6,
+          "quote": "若成了，我敎贲四和陈姐夫去兑银子。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 6,
+          "quote": "裏面一眼井，四个井圈打水。"
+        }
+      ]
+    },
+    {
+      "title": "秋菊受罚与十五岁夏花儿被买入",
+      "text": "秋菊仍顶石跪着，后又被金莲命琴童打板。实际打到十板，被瓶儿劝住，剩十板饶免；磕头谢过后才得放起。接着冯妈妈领十五岁的女孩来，先说要七两五钱，最终李娇儿以七两买下，改名夏花儿。两事不配伤害图或交易庆贺图；主人的辱称不是本馆的人格认定。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 5,
+          "quote": "秋菊顶着石头跪在院内"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 7,
+          "quote": "那琴童纔打到十板子上，多亏了李瓶儿笑嘻嘻走过来劝住了，饶了他十板。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 7,
+          "quote": "老冯领了个十五岁的丫头"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 7,
+          "quote": "要七两五钱银子"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 7,
+          "quote": "用七两银子买了，丫头改名夏花儿"
+        }
+      ]
+    },
+    {
+      "title": "管家礼、私托与文书通关",
+      "text": "来保另给翟管家南京尺头与三十两白金，再交太师寿礼帖。饭后翟谦自说将近四十、妻病无子，央寻十五六岁上下女子；这段涉及未成年求妾，只存准确非露骨说明，不配性化图。太师所赏十两路费、翟谦另给五两与来保给办事官李中友三两分别记账；翌日两部挂号取勘合，不把礼物全算成同一笔。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 9,
+          "quote": "脚下人捧着一对南京尺头，三十两白金"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "讨十两银子，与他二人做路费。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 14,
+          "quote": "我年也将及四十"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 14,
+          "quote": "不拘十五六上下，替我寻一个送来。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 14,
+          "quote": "又体己送二人五两盘缠"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 14,
+          "quote": "又与了李中友三两银子"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 14,
+          "quote": "不消两日，把事情干得完备。"
+        }
+      ]
+    },
+    {
+      "title": "酒宴中疼痛，照料与分娩",
+      "text": "聚景堂避暑席间瓶儿皱眉离席，月娘担心，请蔡老娘来。月娘起初劝热酒、后来劝起身等是小说人物当时说法，不作医疗建议。蔡老娘到后查摸，问绷褯草纸，月娘令小玉拿来；随后生下男孩，月娘报喜，庆洗手焚香许醮。老娘的自夸和讽刺唱词不据为可取的技术，更不画刺激细节。金莲听报后回房闭门哭，也是本回当下反应。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 18,
+          "quote": "只是把眉头忔皱着，也没等的唱完了，回房中去了。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 18,
+          "quote": "大娘，我只心口连小肚子往下憋坠着疼。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 31,
+          "quote": "预备下绷褯草纸不曾？"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 31,
+          "quote": "往我房中快取去。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 33,
+          "quote": "分娩了一位哥儿。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 33,
+          "quote": "天地祖先位下满炉降香"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 33,
+          "quote": "走去了房裏，自闭门户，向床上哭去了。"
+        }
+      ]
+    },
+    {
+      "title": "喜面、乳母与暗房照护",
+      "text": "次日庆用十副方盒分送喜面，伯爵、希大来贺并留吃面。薛嫂领来三十岁的乳母，其近期丧子、丈夫当军及生计困难均由本回交代；月娘以六两留下，名如意儿。冯妈妈被叫来暗房使唤，每月五钱并管衣服。记这些照护劳动及其处境，不把交易当人物自愿已获证明，也不画哺乳。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "拿十副方盒，使小厮各亲戚邻友处分投送喜面。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "年三十岁，新近丢了孩儿，不上一个月。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "男子汉当军，过不的，恐出征去无人养赡"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "兑了六两银子留下，起名如意儿"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "每月与他五钱银子，管顾他衣服。"
+        }
+      ]
+    },
+    {
+      "title": "文书用字与人物归因分层",
+      "text": "任命段写“金吾卫衣左所副千户、山东等处提刑所理刑”，返家转述又说“金吾卫副千户”和“铁铃卫校尉”，末段庆贺泛称千户。保留本回各处写法，未以外部制度替原文改字。吴典恩自称舅子；庆说五品、月娘做夫人、相师应验及孩子脚硬，均分明标成话语。图只表现已收文书，不画预言、未来象征或未发生的结果。",
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "金吾卫衣左所副千户、山东等处提刑所理刑"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "小的是西门庆舅子，名唤吴典恩。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "把小的做了铁铃卫校尉"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "居五品大夫之职。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "不上半月，两桩喜事都应验了。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "030-01",
+      "chapter": 30,
+      "title": "一两银包，府门转出笑容",
+      "excerpt": {
+        "chapter": 30,
+        "paragraph": 8,
+        "quote": "来保连忙拿出三包银子来，每人一两，都打发了。那官吏纔有些笑容儿，说道：「你旣是清河县来的，且畧候候，等我领你先见翟管家。老爷纔従上清寳箓宫进了香回来，书房内睡。」"
+      },
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 8,
+          "quote": "来保教吴主管押着礼物，他穿上青衣，径向守门官吏唱了个喏。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 8,
+          "quote": "来保连忙拿出三包银子来，每人一两，都打发了。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 8,
+          "quote": "那官吏纔有些笑容儿"
+        }
+      ],
+      "people": [
+        "来保",
+        "守门官吏三人"
+      ],
+      "place": "东京天汉桥蔡太师府门前",
+      "event": "来保报出主人名号遭斥，熟识他的守门人指点分送银子；每人一两后，门吏改了态度。",
+      "why": "第一次阻隔发生在府门。银包先让求见变得可行，献寿礼尚未真正进厅。",
+      "composition": "恰四人：左来保递一只小银包，近门吏伸手接，旁两门吏各已有一包；吴主管与寿礼在画外。",
+      "summary": "暑热途中，来保同吴主管把生辰担押到东京。府门并不因“西门员外”的称呼便放行，新来的官吏先出言斥责。熟人提醒他再添两份，来保按每人一两打发三人，才换来笑容和引见管家的许诺。图停在银包递出的当下，不替礼物、关说或官位省去这道门槛。",
+      "psychology": {
+        "明写": "来保被新门吏斥责，后来拿出三包银子，每人一两；官吏才有笑容。",
+        "推断": "来保谨慎前倾、接银者缓和面色，是按出入受阻及转变态度组织的表情。"
+      },
+      "social": "门禁、称呼和小额分润共同构成接近权门的手续；本回明确写出每人一两，不据此推算整个社会的固定行情。",
+      "explicit": [
+        "来保穿青衣；吴主管在旁押礼。",
+        "门前共打发三包银子，每人一两；官吏同意先领见翟管家，非已见太师。"
+      ],
+      "inference": {
+        "推断": "图将三次给付压缩为最后一包正在交接、前两包已在手的同一时刻。",
+        "美术补足": "门吏面貌、布帽便服、银包色泽与包扎、门槛和柱门布局为美术设定；包裹不能据图量成一两，身份不靠未经考定的制服或徽章。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第30回隔离正文，必要前情仅第29回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；空间、衣物及文书精确形制未考定处均属美术补足，生成图不作史证。",
+      "references": [
+        "assets/018-01.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY the angular weathered face of Lai Bao, the man KNEELING FRONT LEFT in brown, high cheekbones and sparse short mustache, NOT the other men, old clothes, kneeling pose or setting. Exactly FOUR clothed adult men at a shaded grand household gate during an oppressive summer afternoon. LEFT Lai Bao now wears a loose plain muted BLUE summer robe and simple cloth headwrap, standing with a careful slight bow; he offers one small closed pale cloth money packet with two hands to the nearest gate official. RIGHT three gate officials in plain grey and brown robes and plain black cloth caps, no rank emblems, no armor: the nearest accepts the third packet, the two behind already each hold one separate small packet. All THREE packets must be distinct; no loose coins, gold bars or bags of treasure. The nearest official has only a slight softened smile, not theatrical villainy. Lai Bao focused and wary, all faces natural and visible. Four people only, no servants, no guard weapons. The other envoy and birthday gifts are outside this narrow composition and NOT shown. Rough stone threshold, dark wooden gate leaf and unlabelled plaster wall; sunlit hot street beyond and cool shade at entrance. Clear separate fingers naturally attached. Do not copy the red-robed seated official from the reference. No written signs, no magical symbolism, no future appointment or child.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY the angular weathered face of Lai Bao, the man KNEELING FRONT LEFT in brown, high cheekbones and sparse short mustache, NOT the other men, old clothes, kneeling pose or setting. Exactly FOUR clothed adult men at a shaded grand household gate during an oppressive summer afternoon. LEFT Lai Bao now wears a loose plain muted BLUE summer robe and simple cloth headwrap, standing with a careful slight bow; he offers one small closed pale cloth money packet with two hands to the nearest gate official. RIGHT three gate officials in plain grey and brown robes and plain black cloth caps, no rank emblems, no armor: the nearest accepts the third packet, the two behind already each hold one separate small packet. All THREE packets must be distinct; no loose coins, gold bars or bags of treasure. The nearest official has only a slight softened smile, not theatrical villainy. Lai Bao focused and wary, all faces natural and visible. Four people only, no servants, no guard weapons. The other envoy and birthday gifts are outside this narrow composition and NOT shown. Rough stone threshold, dark wooden gate leaf and unlabelled plaster wall; sunlit hot street beyond and cool shade at entrance. Clear separate fingers naturally attached. Do not copy the red-robed seated official from the reference. No written signs, no magical symbolism, no future appointment or child.",
+      "image": "assets/030-01.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰四名男子：左来保延续瘦长颧骨短髭面貌，穿青衣双手递小包；右近门吏双手接，后面两门吏各持一包，三包分明，无多余银锭。手部自然，门吏面色缓和，来保谨慎前倾，身份、人数与关键交易动作可辨。吴主管及寿礼在画外，未把门前给付画成已获官。包裹容量、一两重量、门吏便服帽形、柱门与花木均属美术安排，不据图量重或作制度、建筑复原；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "030-02",
+      "chapter": 30,
+      "title": "空名札付，当厅填上姓名",
+      "excerpt": {
+        "chapter": 30,
+        "paragraph": 12,
+        "quote": "太师道：「旣无官役，昨日朝廷钦赐了我几张空名告身札付，我安你主人在你那山东提刑所做个理刑副千户，顶补千户贺金的员缺，好不好？」来保慌的叩头谢道：「蒙老爷莫大之恩，小的家主举家粉首碎身，莫能报答。」于是唤堂候官抬书案过来，实时佥押了一道空名告身札付，把西门庆名字填注上面，列衔「金吾卫衣左所副千户、山东等处提刑所理刑」。"
+      },
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 10,
+          "quote": "太师然后令来保吴主管进见，跪于阶下。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "傍边左右祇应人等，把礼物尽行收下去。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "实时佥押了一道空名告身札付，把西门庆名字填注上面"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "小的是西门庆舅子，名唤吴典恩。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "我安你在本处清河县做个驲丞"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 12,
+          "quote": "把来保名字填写山东郓王府，做了一名校尉。"
+        }
+      ],
+      "people": [
+        "蔡太师",
+        "来保",
+        "吴典恩"
+      ],
+      "place": "蔡太师府厅阶前",
+      "event": "收下寿礼后，太师问西门庆有无官役，随即在空名告身札付上填注姓名，并接着给两名来使职位。",
+      "why": "主角本人并不在场，权门中的一纸填注便改变了他的身份；进献与授职在本回紧接发生。",
+      "composition": "右上太师案后执笔填纸，左前来保、左后吴典恩跪在阶下；已收走的礼物不堆回画面。",
+      "summary": "太师先推辞寿礼，随后吩咐收下，问起西门庆原有的官役。来保答主人是一介乡民，太师便提出补理刑副千户之缺，当场命抬书案、填注姓名。图选择笔落纸面的片刻。吴主管后来以“舅子”自报，亦获驿丞之职；这层亲属关系只按人物的话呈现，不在此额外验真。",
+      "psychology": {
+        "明写": "来保闻授职而慌忙叩头致谢，吴典恩受职时亦连连磕头。",
+        "推断": "太师神情从容、来保仰视，是据执笔与跪谢的动作安排；不据面相判断操守。"
+      },
+      "social": "寿礼、旧日盐客关说和空名官文书在同一次接见中相连。小说具体职位及衔名存在前后写法差异，保留原文而不自行校成一套真实制度。",
+      "explicit": [
+        "来保与吴主管跪阶下，西门庆不在场。",
+        "太师填注西门庆姓名；来保授郓王府校尉，吴典恩获清河县驲丞。",
+        "吴典恩向太师自称西门庆舅子；本卡只报告他的自称。"
+      ],
+      "inference": {
+        "推断": "画中纸面留白是为了避免伪造衔名和印信，不声称历史文书本来无字。",
+        "美术补足": "太师宽椭圆老年脸、灰长须和吴典恩宽方脸短髭为新面貌约定；官袍颜色、帽式、案椅、纸张尺寸、笔架和厅阶是未考定的视觉安排，无精确制度复原之意。堂候官及祇应人裁在画外。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第30回隔离正文，必要前情仅第29回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；空间、衣物及文书精确形制未考定处均属美术补足，生成图不作史证。",
+      "references": [
+        "assets/018-01.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Lai Bao: the kneeling FRONT LEFT brown-robed man with an angular weathered face, high cheekbones and sparse short mustache. Do NOT copy the reference red-robed seated official: that is a DIFFERENT man. Exactly THREE adult men in a summer reception hall. RIGHT elevated behind a simple substantial wooden writing table: NEW identity CAI TAISHI, elderly broad oval face, heavy natural upper eyelids, grey eyebrows, a thin long grey beard and mustache, composed ordinary human expression, muted dark wine-red official robe with no dragon or rank badge, plain black official cap, seated and writing with a brush on one unlettered cream paper. His hand visibly meets paper, inkstone and brush rest at hand. LOWER LEFT two kneeling envoys: in front Lai Bao in loose blue summer robe and plain cloth headwrap with hands together in thankful salute; behind him NEW identity Wu Dianen, mature broad square face, fuller cheeks, straight brows, short neat black mustache and small chin beard, plain grey-green summer robe and simple dark cap, kneeling attentively. Keep two distinct kneeling bodies and four distinct hands, no one touching another. All THREE faces clear. Gifts have already been taken away, so NO heap of gifts or treasure in the frame. Attendants and the clerk who carried the desk are outside the crop. Quiet light across stone steps, timber pillars and plain screen. No emperor, throne, court assembly, ornate dragon symbols, readable characters, fantasy glow or future visions.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Lai Bao: the kneeling FRONT LEFT brown-robed man with an angular weathered face, high cheekbones and sparse short mustache. Do NOT copy the reference red-robed seated official: that is a DIFFERENT man. Exactly THREE adult men in a summer reception hall. RIGHT elevated behind a simple substantial wooden writing table: NEW identity CAI TAISHI, elderly broad oval face, heavy natural upper eyelids, grey eyebrows, a thin long grey beard and mustache, composed ordinary human expression, muted dark wine-red official robe with no dragon or rank badge, plain black official cap, seated and writing with a brush on one unlettered cream paper. His hand visibly meets paper, inkstone and brush rest at hand. LOWER LEFT two kneeling envoys: in front Lai Bao in loose blue summer robe and plain cloth headwrap with hands together in thankful salute; behind him NEW identity Wu Dianen, mature broad square face, fuller cheeks, straight brows, short neat black mustache and small chin beard, plain grey-green summer robe and simple dark cap, kneeling attentively. Keep two distinct kneeling bodies and four distinct hands, no one touching another. All THREE faces clear. Gifts have already been taken away, so NO heap of gifts or treasure in the frame. Attendants and the clerk who carried the desk are outside the crop. Quiet light across stone steps, timber pillars and plain screen. No emperor, throne, court assembly, ornate dragon symbols, readable characters, fantasy glow or future visions.",
+      "image": "assets/030-02.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰三名男子：右上新太师灰长须、宽椭圆老年脸，案后执笔触纸；左前青衣来保保留旧脸，后灰绿衣吴典恩为较宽方脸短髭下颏须新设定，二人跪在阶下，手各自相合，无多肢。太师面貌已区别于旧参考的年轻案后男子；纸面留白，没有假造衔名和字样。礼物已收走不再堆陈。红袍帽式、案椅、青花瓶花木、阶级及空间近似旧画风，均属美术设定，非蔡府或任命文书的精确复原；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "030-03",
+      "chapter": 30,
+      "title": "檐柱底下，瓜子与冷语",
+      "excerpt": {
+        "chapter": 30,
+        "paragraph": 32,
+        "quote": "玉楼道：「五姐是甚么话！」以后见他说话儿出来有些不防头脑，只低着头弄裙子，并不作声应答他。潘金莲用手扶着庭柱儿，一只脚跐着门坎儿，口裏嗑着瓜子儿。"
+      },
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 19,
+          "quote": "那潘金莲见李瓶儿待养孩子，心中未免有几分气。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 19,
+          "quote": "把孟玉楼拉出来，两个站在西稍间檐柱儿底下那裏歇凉"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 32,
+          "quote": "只低着头弄裙子，并不作声应答他。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 32,
+          "quote": "潘金莲用手扶着庭柱儿，一只脚跐着门坎儿，口裏嗑着瓜子儿。"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "孟玉楼"
+      ],
+      "place": "西稍间檐柱底下",
+      "event": "临产房内忙碌，金莲拉玉楼到檐下歇凉，继续以月数、亲子和分娩作讥刺；玉楼终于不再应答。",
+      "why": "两人的距离并未拉远，回应却收住了；一只扶柱的手、一只弄裙的手让语言造成的分歧可见。",
+      "composition": "恰两人：左金莲扶柱、脚在门槛上嗑瓜子；右玉楼低头轻捻裙边，门内产房不直接展示。",
+      "summary": "蔡老娘已进房，檐下金莲仍在算月份，说李瓶儿得时运，又把生育说成宅内高下之争。玉楼起先邀她回屋，后来听见越说越不成话，只低头弄裙，不再应声。画面只据当下冷语与沉默组织神情；那些关于孩子来源的刻薄猜测不被图鉴认证，也不借后事判人物。",
+      "psychology": {
+        "明写": "叙述明写金莲有几分气；玉楼听她出言失当后，低头弄裙并不答话。",
+        "推断": "金莲紧绷嘴角与玉楼回避目光，分别取自说话和停答的动作，不作永久性格。"
+      },
+      "social": "生育被金莲用作比较妻妾时运的尺度；玉楼的停答显示同场闲谈并不等于接受每句指控。",
+      "explicit": [
+        "金莲与玉楼在西稍间檐柱下歇凉。",
+        "金莲扶柱、脚跐门槛、嗑瓜子；玉楼低头弄裙不再应答。",
+        "亲子质疑与月份推算属于金莲的话，没有独立证据证明。"
+      ],
+      "inference": {
+        "推断": "取两人相隔半步并列的构图，将争言停顿凝成同一瞬间。",
+        "美术补足": "两人夏衣颜色、瓜子壳小碟、发饰与檐廊尺度为美术安排；玉楼衣用普通细花枝，不沿用参考上的龙形圆章。孙雪娥和小玉此刻不画入，避免把不同动作机械堆作群像。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第30回隔离正文，必要前情仅第29回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；空间、衣物及文书精确形制未考定处均属美术补足，生成图不作史证。",
+      "references": [
+        "references/pan-solo-030.png",
+        "references/yulou.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Pan Jinlian narrow oval face; reference 2 ONLY Meng Yulou slightly pockmarked oval face and taller slender build. Do not copy clothes, old props or any dragon medallion. Exactly TWO fully clothed women beneath the deep eaves beside a wooden courtyard column in an oppressive summer. LEFT Pan in loose plain pale-ivory summer blouse and muted aubergine skirt, one hand resting naturally on the vertical column, one shod foot lightly on the plain low wooden threshold, the other hand lifting a small melon seed to her mouth. She speaks with a tense edged expression, natural not cartoon villainy. Small few seed shells in a plain dish on a narrow ledge, no overflowing seeds. RIGHT Meng Yulou in loose faded blue-grey robe with a tiny ordinary floral-vine border and dark muted skirt, faint visible pockmarks, head lowered, one hand absently pinching her OWN outer skirt cloth lightly near waist-to-thigh level, other hand resting at her side, lips closed, no longer replying. Keep their eyes and brows recognizable, distinct body proportions. Feet covered and inconspicuous, ordinary standing poses. No one tugging anyone else, no touch, no pregnancy emphasis. Shaded eaves contrast with hot courtyard light, closed wooden door in background; NO visible birthing scene, no other people, no baby, no weapons. No rank badge, dragon or phoenix symbols. Composition intimate but emotionally separated, candid narrative moment.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Pan Jinlian narrow oval face; reference 2 ONLY Meng Yulou slightly pockmarked oval face and taller slender build. Do not copy clothes, old props or any dragon medallion. Exactly TWO fully clothed women beneath the deep eaves beside a wooden courtyard column in an oppressive summer. LEFT Pan in loose plain pale-ivory summer blouse and muted aubergine skirt, one hand resting naturally on the vertical column, one shod foot lightly on the plain low wooden threshold, the other hand lifting a small melon seed to her mouth. She speaks with a tense edged expression, natural not cartoon villainy. Small few seed shells in a plain dish on a narrow ledge, no overflowing seeds. RIGHT Meng Yulou in loose faded blue-grey robe with a tiny ordinary floral-vine border and dark muted skirt, faint visible pockmarks, head lowered, one hand absently pinching her OWN outer skirt cloth lightly near waist-to-thigh level, other hand resting at her side, lips closed, no longer replying. Keep their eyes and brows recognizable, distinct body proportions. Feet covered and inconspicuous, ordinary standing poses. No one tugging anyone else, no touch, no pregnancy emphasis. Shaded eaves contrast with hot courtyard light, closed wooden door in background; NO visible birthing scene, no other people, no baby, no weapons. No rank badge, dragon or phoenix symbols. Composition intimate but emotionally separated, candid narrative moment.",
+      "image": "assets/030-03.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰两人，左金莲延续窄鹅蛋脸，扶柱、持一粒瓜子到嘴边，一只包鞋脚落低门槛；右玉楼微麻脸可辨，低眼闭口，一手轻弄裙衣边。两人手指与衣褶自然，无拉扯、额外人影或产房展示。玉楼普通花枝衣缘无龙形圆章。金莲的紧绷神情据当下气恼，玉楼停答据本回动作；未把亲子质疑当事实。瓜子小碟、夏衣色、发饰与廊柱空间属美术补足；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "030-04",
+      "chapter": 30,
+      "title": "满抱孩儿，初次入房相看",
+      "excerpt": {
+        "chapter": 30,
+        "paragraph": 34,
+        "quote": "当日西门庆进房去，见一个满抱的孩子，生的甚是白净，心中十分欢喜，合家无不欣悦。"
+      },
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 33,
+          "quote": "分娩了一位哥儿。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 33,
+          "quote": "安顿孩儿停当。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "当日西门庆进房去，见一个满抱的孩子，生的甚是白净，心中十分欢喜，合家无不欣悦。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 34,
+          "quote": "晚夕就在李瓶儿床房中歇了，不住来看孩儿。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "李瓶儿",
+        "初生孩儿"
+      ],
+      "place": "李瓶儿床房",
+      "event": "孩儿已被收拾安顿，西门庆入房看见初生男婴，心中十分欢喜。",
+      "why": "把生子的事实落在一次近距离相看上；家庭的欢喜在此真实发生，不借孩子画任何未来命运。",
+      "composition": "左父亲弯身看孩子，右母亲着完整衣坐卧床边，襁褓安放在床上软褥，两名成人与一个婴儿。",
+      "summary": "蔡老娘报生男孩，月娘把消息告诉西门庆，家中随即忙着降香、安顿产妇与孩子。图取照料已毕的当日，西门庆进房看见白净、满抱的初生孩儿，十分欢喜。母亲在近旁歇息与襁褓安放的位置是美术组织，不把此时的欢欣解释成孩子带来官运的证据，也不代人物预测以后。",
+      "psychology": {
+        "明写": "西门庆看见孩儿，心中十分欢喜，晚间仍不住来看。",
+        "推断": "李瓶儿产后略有倦意、父亲俯身柔和地看，是据分娩后与探看情境所作的克制推断。"
+      },
+      "social": "生子消息带来亲邻贺喜，也立刻需要照料劳动。母婴身旁的宁静，只是宅内热闹中的一个截面。",
+      "explicit": [
+        "本回已实际分娩男孩；蔡老娘先安顿孩儿，西门庆当日入房探看。",
+        "“满抱”“白净”及父亲十分欢喜有据；不画分娩或身体暴露。"
+      ],
+      "inference": {
+        "推断": "正文未逐一写探看当下各人站位，图将母亲留在床内、父亲俯身看襁褓。",
+        "美术补足": "母亲浅杏衣、父亲青绿夏袍、婴儿无纹米色襁褓、软褥、净布、水碗与床帐均为美术安排，不据图推定新生儿体重、照护方式或器物形制。无胎盘、脐带处理及医疗操作图示。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第30回隔离正文，必要前情仅第29回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；空间、衣物及文书精确形制未考定处均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and lean long-waisted build. Reference 2 locks ONLY Li Ping er small white-complexioned oval face and delicate curved brows, NOT old outfit or old body state. Exactly TWO fully clothed adults and ONE newborn baby in a quiet shaded domestic bedroom after childbirth is already finished and all care completed. LEFT Ximen in loose muted green summer robe and plain black cloth cap, seated close to the bedside leaning slightly forward with a sincere small delighted smile, hands relaxed separately on his own lap and the bed rail, looking at the baby. RIGHT Li rests upright against a pillow on the bed, fully dressed in loose opaque pale apricot high-collared summer garments, shoulders and chest entirely covered, gentle tired calm, one hand lightly resting on the outer blanket beside the baby. ONE small newborn boy lies securely on a thick plain folded cushion ON THE BED between the parents, fully wrapped up to the neck in simple ivory swaddling cloth; only the small natural face visible, no exposed body. Baby has normal newborn proportions, not a toddler. Calm ordinary family moment, no adult intimacy, no breastfeeding, no medical procedure, no blood, no birthing action. Keep recognizably different parent faces, natural fingers, no extra limbs. Simple wooden bed, folded clean cloth and small plain water bowl on bedside stool as restrained care cues, open light gauze curtain, filtered summer daylight, no luxuriant throne-like furniture, no flowers required. No attendant, no second child, no halo, omen, future visions, crown, official clothing or documents in this scene.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and lean long-waisted build. Reference 2 locks ONLY Li Ping er small white-complexioned oval face and delicate curved brows, NOT old outfit or old body state. Exactly TWO fully clothed adults and ONE newborn baby in a quiet shaded domestic bedroom after childbirth is already finished and all care completed. LEFT Ximen in loose muted green summer robe and plain black cloth cap, seated close to the bedside leaning slightly forward with a sincere small delighted smile, hands relaxed separately on his own lap and the bed rail, looking at the baby. RIGHT Li rests upright against a pillow on the bed, fully dressed in loose opaque pale apricot high-collared summer garments, shoulders and chest entirely covered, gentle tired calm, one hand lightly resting on the outer blanket beside the baby. ONE small newborn boy lies securely on a thick plain folded cushion ON THE BED between the parents, fully wrapped up to the neck in simple ivory swaddling cloth; only the small natural face visible, no exposed body. Baby has normal newborn proportions, not a toddler. Calm ordinary family moment, no adult intimacy, no breastfeeding, no medical procedure, no blood, no birthing action. Keep recognizably different parent faces, natural fingers, no extra limbs. Simple wooden bed, folded clean cloth and small plain water bowl on bedside stool as restrained care cues, open light gauze curtain, filtered summer daylight, no luxuriant throne-like furniture, no flowers required. No attendant, no second child, no halo, omen, future visions, crown, official clothing or documents in this scene.",
+      "image": "assets/030-04.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰两名成人与一个初生婴儿，左西门庆长脸直眉窄眼，右瓶儿小瓜子脸细弯眉，均延续参考，父亲俯身看孩儿而喜，母亲完整衣装靠枕歇息。婴儿在床上软褥中完整包裹，仅脸可见，尺寸近新生儿，无第二孩儿、身体暴露、哺乳、血迹、分娩或医疗操作。父亲双手分落自己膝上和床栏，母亲一手覆外被，手脚无明显失真。母亲具体姿态、产后略倦而安静表情、床帐、净布水碗、衣色及包裹摆位为美术安排，不作为具体照护方法或考证；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "030-05",
+      "chapter": 30,
+      "title": "拿到后边，月娘同看官诰",
+      "excerpt": {
+        "chapter": 30,
+        "paragraph": 35,
+        "quote": "又对月娘说：「李大姐养的这孩儿，甚是脚硬，到三日洗了三，就起名呌做官哥儿罢。」把朝廷明降与月娘看了。来保进来与月娘众人磕头，说了回话。"
+      },
+      "evidence": [
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "于是把一样三张印信札付并吏兵二部勘合，并诰身都取出来放在桌上，与西门庆观看。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "不觉欢従额角眉尖出，喜向腮边笑脸生。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "便把朝廷明降，拿到后边与吴月娘众人观看"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 35,
+          "quote": "李大姐养的这孩儿，甚是脚硬，到三日洗了三，就起名呌做官哥儿罢。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 36,
+          "quote": "到次日洗三毕"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "吴月娘"
+      ],
+      "place": "后宅房中",
+      "event": "来保、吴主管返家报喜并出示文书，西门庆欢喜拿到后边给月娘看，提议孩儿洗三后名官哥儿。",
+      "why": "两桩喜事在主人自己的话里被连为应验；文书从京城书案来到宅内手中，权力也进入夫妻对话。",
+      "composition": "恰两人：左西门庆笑着展开一纸文书，右圆脸月娘坐着俯目相看；其他妇女及来保在画外。",
+      "summary": "来保与吴主管把三张印信札付、勘合和诰身取出，西门庆看到自己得了副千户之职，喜形于色。他随即拿到后宅给月娘众人看，说她也做了夫人，又把生子与加官并称为近日两桩喜事。图停在月娘看文书的当下；孩子“脚硬”和相师说中都是西门庆的归因，不当作图鉴的因果判断。",
+      "psychology": {
+        "明写": "西门庆喜形于色，自说两桩喜事应验，并提议孩子名官哥儿。",
+        "推断": "月娘目光停在纸上、神态专注为观看动作的美术推断，正文未写她此时具体面色。"
+      },
+      "social": "由私人进献换来的官文书，回家后又被说成家门时运与孩子的福力。叙事的手续与人物的解释应同时保留。",
+      "explicit": [
+        "三张印信札付、吏兵二部勘合及诰身已带回；图只取其中一份，其他文书裁在画外。",
+        "西门庆拿到后宅给月娘众人观看；官哥儿的命名建议与次日洗三均为本回已写。",
+        "未据本图画新任官服、冠车实物，月娘“做夫人”只按庆的说法说明。"
+      ],
+      "inference": {
+        "推断": "其他在场者留画外，聚焦夫妻看纸这一真实动作；不以两人特写声称当时只有二人在屋中。",
+        "美术补足": "一纸展开方向、几处模糊红色印形、纸幅、桌椅、衣色与头饰为视觉安排，纸面无可读衔名，不作诰敕或品秩考证。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第30回隔离正文，必要前情仅第29回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；空间、衣物及文书精确形制未考定处均属美术补足，生成图不作史证。",
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes, lean long-waisted build. Reference 2 locks ONLY the woman on the RIGHT, Wu Yueniang rounder full face and steady fuller build; do not copy the left woman, old argument, clothing or seasonal scenery. Exactly TWO clothed people in a shaded rear domestic room in SUMMER: LEFT Ximen wears an ordinary loose muted green summer robe and simple plain black cap, delighted natural smile, seated and holding the two outer corners of ONE opened cream paper document with both hands, angled so Wu can view it. RIGHT Wu Yueniang round full face, neatly arranged dark bun, composed focused eyes lowered to the paper, wears a loose opaque muted warm ochre summer robe with subtle ordinary floral pattern and dark skirt, no official crown or rank medallion. One of her hands rests at the near paper edge and the other rests on her own lap, clearly separated from his fingers. The paper has several diffuse plain red square seal SHAPES ONLY, no legible text, no imitation heraldry or writing. A low substantial wooden table between them, plain tea cup, simple screen and courtyard summer light, no other documents required because the image crops to this one item. Other household women and Lai Bao are OUTSIDE the crop, no extra people visible. No baby, no magical glow, fortune-teller, imagined future scene, official robes on Ximen or crown on Wu, no dragon decorations, no seven-scent carriage, no piles of silver. Candid household viewing, not ceremonial imperial audience.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper; naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Summer heat. This is a novel illustration, not an authenticated architectural or costume reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes, lean long-waisted build. Reference 2 locks ONLY the woman on the RIGHT, Wu Yueniang rounder full face and steady fuller build; do not copy the left woman, old argument, clothing or seasonal scenery. Exactly TWO clothed people in a shaded rear domestic room in SUMMER: LEFT Ximen wears an ordinary loose muted green summer robe and simple plain black cap, delighted natural smile, seated and holding the two outer corners of ONE opened cream paper document with both hands, angled so Wu can view it. RIGHT Wu Yueniang round full face, neatly arranged dark bun, composed focused eyes lowered to the paper, wears a loose opaque muted warm ochre summer robe with subtle ordinary floral pattern and dark skirt, no official crown or rank medallion. One of her hands rests at the near paper edge and the other rests on her own lap, clearly separated from his fingers. The paper has several diffuse plain red square seal SHAPES ONLY, no legible text, no imitation heraldry or writing. A low substantial wooden table between them, plain tea cup, simple screen and courtyard summer light, no other documents required because the image crops to this one item. Other household women and Lai Bao are OUTSIDE the crop, no extra people visible. No baby, no magical glow, fortune-teller, imagined future scene, official robes on Ximen or crown on Wu, no dragon decorations, no seven-scent carriage, no piles of silver. Candid household viewing, not ceremonial imperial audience.",
+      "image": "assets/030-05.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰两人，左西门庆长脸直眉窄眼而笑，右月娘圆润脸、稳重体态与原参考一致，目光落纸。庆双手持纸两边，月娘一手触近纸缘、另一手在膝上，四手分清且自然。仅一纸、三处模糊红方印形，无可读衔名，无假造符文；并未把本回三份札付总数误画成三份都拿给月娘。庆仍普通夏袍，月娘无诰命冠服、凤冠、车与未来象征。头饰、暖赭衣色、花枝织纹、几案茶杯、纸幅与红印形为美术设定，不作官文书和品秩复原。月娘略敛眉只是专注的艺术表情，正文未写她此刻面色，不据此说她反对或喜悦；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

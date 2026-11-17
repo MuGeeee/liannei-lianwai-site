@@ -2,6 +2,40 @@
   "number": 98,
   "title": "第九十八回陈经济临清开大店　韩爱姐翠馆遇情郎",
   "intro": "公文、柜账、箱笼、花笺，在这回都有人经手。它们分别给陈经济带来官身、买卖、来客与一段不愿让家里知道的往来。",
+  "supplements": [
+    {
+      "title": "报给家里的礼物换了来路",
+      "text": "陈经济嘱人称礼是谢家送的。葛翠屏信了，又分一部分给春梅。爱姐寄来的信和香囊，留在陈经济自己袖中。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 31,
+          "quote": "只说河下店主人谢家送的礼物"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 31,
+          "quote": "翠屏亦信其实"
+        }
+      ]
+    },
+    {
+      "title": "两人的年岁是怎样报的",
+      "text": "在这里两人彼此都报二十六岁；陈经济较早报二十四。图鉴照录各处原话，不用未明年月强行算平。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "paragraph": 21,
+          "quote": "虚度二十六岁"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 21,
+          "quote": "也是二十六岁"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "098-01",
@@ -36,14 +70,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chen face, ref2 only right broad adult man Zhou beard and face, ref3 paint. Three fully clothed adults in a Chinese household reception room. Chen in clearly round-collared deep scarlet robe, plain dark official cap, dark horn belt bows respectfully beside his petite adult wife Ge Cuiping with tapered face and an understated muted violet closed jacket; broad older bearded Zhou receives them in ordinary dark blue. All at social distance, warm afternoon, no rank badge or martial exploits, no children or writing.",
       "references": [
-        "chen-030（陈经济）",
-        "095-03（周秀）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/095-03.webp（原说明：095-03（周秀））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/098-01.png",
+      "image": "assets/098-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chen face, ref2 only right broad adult man Zhou beard and face, ref3 paint. Three fully clothed adults in a Chinese household reception room. Chen in clearly round-collared deep scarlet robe, plain dark official cap, dark horn belt bows respectfully beside his petite adult wife Ge Cuiping with tapered face and an understated muted violet closed jacket; broad older bearded Zhou receives them in ordinary dark blue. All at social distance, warm afternoon, no rank badge or martial exploits, no children or writing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chen face, ref2 only right broad adult man Zhou beard and face, ref3 paint. Three fully clothed adults in a Chinese household reception room. Chen in clearly round-collared deep scarlet robe, plain dark official cap, dark horn belt bows respectfully beside his petite adult wife Ge Cuiping with tapered face and an understated muted violet closed jacket; broad older bearded Zhou receives them in ordinary dark blue. All at social distance, warm afternoon, no rank badge or martial exploits, no children or writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "098-02",
@@ -78,13 +114,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Exactly three adult Chinese men in a restrained legal receiving room. Foreground rear three-quarter view of elderly household courier Zhou Zhong in subdued gray carrying a hand-size paper sleeve, with two different adult officers at the receiving desk inspecting TWO separate modest folded paper items, one narrower. A little inkstone, muted daylight, Chinese timber, no red wax, no giant envelope, no force, weapons, text or elaborate banners.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/098-02.png",
+      "image": "assets/098-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 官员手上两件分别示意状与帖，周忠手中是外封。成图不复原纸面及外封具体式样。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Exactly three adult Chinese men in a restrained legal receiving room. Foreground rear three-quarter view of elderly household courier Zhou Zhong in subdued gray carrying a hand-size paper sleeve, with two different adult officers at the receiving desk inspecting TWO separate modest folded paper items, one narrower. A little inkstone, muted daylight, Chinese timber, no red wax, no giant envelope, no force, weapons, text or elaborate banners.",
-      "knownDeviation": "官员手上两件分别示意状与帖，周忠手中是外封。成图不复原纸面及外封具体式样。"
+      "knownDeviation": "官员手上两件分别示意状与帖，周忠手中是外封。成图不复原纸面及外封具体式样。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "098-03",
@@ -120,13 +158,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 canal inn only, no reference people. Ref2 painted medium. Wide layered scene of a newly refurbished working Chinese canal wine house, fresh green timber rail and open lattice windows with canal at a distance, several adult patrons on stairs and by tables. In front, exactly two prominent adult shopkeepers at plain wood counter, plump middle-aged Xie in brown, slim alert Lu in blue, checking one open register together. Early year daylight, restrained vermilion and green, no lettered signs, no violence, no stage dance and no fantasy landmark.",
       "references": [
-        "093-05（同一酒楼空间用色）",
-        "065-01（媒介）"
+        "assets/093-05.webp（原说明：093-05（同一酒楼空间用色））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/098-03.png",
+      "image": "assets/098-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 canal inn only, no reference people. Ref2 painted medium. Wide layered scene of a newly refurbished working Chinese canal wine house, fresh green timber rail and open lattice windows with canal at a distance, several adult patrons on stairs and by tables. In front, exactly two prominent adult shopkeepers at plain wood counter, plump middle-aged Xie in brown, slim alert Lu in blue, checking one open register together. Early year daylight, restrained vermilion and green, no lettered signs, no violence, no stage dance and no fantasy landmark."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 canal inn only, no reference people. Ref2 painted medium. Wide layered scene of a newly refurbished working Chinese canal wine house, fresh green timber rail and open lattice windows with canal at a distance, several adult patrons on stairs and by tables. In front, exactly two prominent adult shopkeepers at plain wood counter, plump middle-aged Xie in brown, slim alert Lu in blue, checking one open register together. Early year daylight, restrained vermilion and green, no lettered signs, no violence, no stage dance and no fantasy landmark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "098-04-v2",
@@ -163,20 +203,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Wang Liu'er, long tall profile and reddish-brown complexion, ref2 adult young man Chen if visible, ref3 paint. High view from wooden river inn window into loading scene with exactly TWO separate low flat wooden cargo skiffs at stone landing, several small adult carriers unloading wooden chests and a stool. Two distinct fully dressed adult women stand near lower doorway: tall reddish-complexioned mature mother with vivid red lip, and adult daughter Han Aijie around 26 with fair oval face, long brows and muted indigo closed jacket. Young Chen seen from behind at upper corner. Spring air, clear spatial separation, no modern objects or words.",
       "references": [
         "098-04（前稿，局部修正）",
-        "081-02（王六儿）",
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "assets/081-02.webp（原说明：081-02（王六儿））",
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/098-04-v2.png",
+      "image": "assets/098-04-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版移除了初稿在窗边误画的玻璃罩灯；泊位和人物相隔的距离为取景示意。",
       "actualPrompt": "Edit ONLY the glass chimney lamp on the lower-left foreground table. Remove it entirely, revealing the wood beneath; do not replace with another lamp, since it is daytime. Preserve faces, two boats, carrier positions, boxes, windows, room and colors. No lettering or any other changes.",
-      "baselineReferences": [
-        "081-02（王六儿）",
-        "chen-030（陈经济）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正版移除了初稿在窗边误画的玻璃罩灯；泊位和人物相隔的距离为取景示意。"
+      "knownDeviation": "修正版移除了初稿在窗边误画的玻璃罩灯；泊位和人物相隔的距离为取景示意。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "098-05-v2",
@@ -211,51 +248,15 @@
       "references": [
         "098-05（前稿，局部修正）",
         "098-04（韩爱姐）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/098-05-v2.png",
+      "image": "assets/098-05-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版将香囊表现为一件相连的双口物，并把窗外改为夏叶；内藏青丝和扣绣文字均未画。",
       "actualPrompt": "Edit ONLY the sachet on the far-right tabletop: replace the two visibly separate tied sacks with ONE hand-sized integrated embroidered fabric object, paired symmetrical pouch lobes sewn together across a shared central fabric join, still two tiny openings, birds face inward. Replace spring pink outdoor blossoms by full green summer leaves. Preserve woman's identity, hand, brush, blank floral paper, room and general composition. No text.",
-      "baselineReferences": [
-        "098-04（韩爱姐）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正版将香囊表现为一件相连的双口物，并把窗外改为夏叶；内藏青丝和扣绣文字均未画。"
-    }
-  ],
-  "supplements": [
-    {
-      "title": "报给家里的礼物换了来路",
-      "text": "陈经济嘱人称礼是谢家送的。葛翠屏信了，又分一部分给春梅。爱姐寄来的信和香囊，留在陈经济自己袖中。",
-      "evidence": [
-        {
-          "chapter": 98,
-          "paragraph": 31,
-          "quote": "只说河下店主人谢家送的礼物"
-        },
-        {
-          "chapter": 98,
-          "paragraph": 31,
-          "quote": "翠屏亦信其实"
-        }
-      ]
-    },
-    {
-      "title": "两人的年岁是怎样报的",
-      "text": "在这里两人彼此都报二十六岁；陈经济较早报二十四。图鉴照录各处原话，不用未明年月强行算平。",
-      "evidence": [
-        {
-          "chapter": 98,
-          "paragraph": 21,
-          "quote": "虚度二十六岁"
-        },
-        {
-          "chapter": 98,
-          "paragraph": 21,
-          "quote": "也是二十六岁"
-        }
-      ]
+      "knownDeviation": "修正版将香囊表现为一件相连的双口物，并把窗外改为夏叶；内藏青丝和扣绣文字均未画。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

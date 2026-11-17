@@ -1,0 +1,333 @@
+{
+  "number": 5,
+  "title": "第五回郓哥帮捉骂王婆　淫妇薬酖武大郎",
+  "intro": "从街上问讯到茶坊里的踢打，再到病床和夜半药盏，这一回的事情迅速变得不可挽回。图像不把受害者只当作案情中的名字：也留下他求水、求救和愿意不再追究的话。",
+  "supplements": [
+    {
+      "title": "谁在建议，谁在动手",
+      "text": "本回把提议、供物、实施、清理分给不同的人：王婆提出并指导，西门庆提供，金莲下手，王婆再来收拾。不能因为画面只画某一双手，就把其余已经写明的参与抹掉。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 12,
+          "quote": "我却有这条妙计"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 19,
+          "quote": "我帮你便了"
+        }
+      ]
+    },
+    {
+      "title": "“一笔都勾”是一句求救的话",
+      "text": "武大说只要救活便不再提起，首先是在伤病无援时争取照料。它不能被轻易包装成宽厚天性的完整证明，更不能被读作他同意别人继续伤害自己。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 16,
+          "quote": "你救得我活，无事了"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 16,
+          "quote": "一笔都勾，并不记怀"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "005-01",
+      "chapter": 5,
+      "title": "摸一摸头上的疙瘩",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 6,
+          "quote": "把手来摸我头上的疙瘩"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 6,
+          "quote": "赚得三五十文钱使"
+        }
+      ],
+      "people": [
+        "武大",
+        "郓哥"
+      ],
+      "place": "街边小酒店",
+      "event": "武大请郓哥吃酒肉，郓哥让他摸自己被打的疙瘩，说明茶坊里的事。",
+      "why": "消息不是凭空送来，带着郓哥受打的身体证据，也带着双方此刻的诉求。",
+      "composition": "炊饼担靠墙，碟肉与空杯在桌角；郓哥低头指伤，武大伸手，脸上困惑转为惊惧。",
+      "summary": "武大以炊饼、酒肉请郓哥说明白。郓哥让他摸头上的疙瘩，讲自己为何去寻西门庆、又怎样被赶出茶坊。武大从原有疑心转为相信，想立刻去捉；郓哥拦下，指出对方的力气、钱势和反告风险。",
+      "psychology": "受打与请求摸头明确写出；武大的表情转折是把疑问和随后行动转为画面，不说明他此刻已知道室内一切。",
+      "social": "郓哥把官司风险与财势放在一起谈。这是人物在当前处境里的判断，不是本馆替所有诉讼作普遍结论。",
+      "explicit": "两人在小酒店，炊饼担、肉、酒；摸头上伤处。",
+      "inference": "少年容貌沿用前回美术约定；不夸大伤口，不画酒醉或成人私密背景。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "武大旧像",
+        "本回郓哥梨篮图",
+        "工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 identifies ONLY the short adult man Wu Da on the right, not the woman or autumn setting; image 2 identifies ONLY the boy Yun Ge and the fine textured painting style, not the pear-picking action. New scene: exactly two people at a poor modest roadside tavern. Wu Da is a distinctly short stocky middle-aged adult man, weathered wide face, sparse moustache and goatee, brown wrapped cap and patched brown robe. Beside him a slim fifteen-to-sixteen-year-old pear-selling boy, narrow oval face, thick straight brows, no beard, dark hair topknot bound in brown cloth, faded gray-brown coarse tunic. The boy lowers and tilts his head, points with one finger toward a small raised bruise at his hairline; Wu Da leans forward and gently touches the boy's scalp with fingertips while listening, confused and alarmed. This is urgent sharing of news, not a playful haircut. Boy is ordinary and fully clothed, non-sexual context. Basket of pears beside boy, bamboo steamed-bun carrying pole with stacked wicker food carriers against plaster wall. Rough wooden table with small plate sliced meat and a few steamed flat buns; an empty cup pushed aside. Tight medium narrative frame, daylight on touching hand and two worried faces. No other people, no severe injury, no blood, no exaggerated swelling, no comedy caricature.",
+      "image": "assets/005-01.webp",
+      "status": "generated",
+      "review": "已实际核看：两人于小酒店说事，郓哥指额边伤处，武大伸手触摸头部；酒肉、炊饼与梨篮在场，武大矮小、短须面貌和少年无须面貌延续。伤处仅轻微红起，触手较靠近头顶，属动作瞬间的小幅补足，不夸大伤害。无成人私密背景；器物与店面为美术补足。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 identifies ONLY the short adult man Wu Da on the right, not the woman or autumn setting; image 2 identifies ONLY the boy Yun Ge and the fine textured painting style, not the pear-picking action. New scene: exactly two people at a poor modest roadside tavern. Wu Da is a distinctly short stocky middle-aged adult man, weathered wide face, sparse moustache and goatee, brown wrapped cap and patched brown robe. Beside him a slim fifteen-to-sixteen-year-old pear-selling boy, narrow oval face, thick straight brows, no beard, dark hair topknot bound in brown cloth, faded gray-brown coarse tunic. The boy lowers and tilts his head, points with one finger toward a small raised bruise at his hairline; Wu Da leans forward and gently touches the boy's scalp with fingertips while listening, confused and alarmed. This is urgent sharing of news, not a playful haircut. Boy is ordinary and fully clothed, non-sexual context. Basket of pears beside boy, bamboo steamed-bun carrying pole with stacked wicker food carriers against plaster wall. Rough wooden table with small plate sliced meat and a few steamed flat buns; an empty cup pushed aside. Tight medium narrative frame, daylight on touching hand and two worried faces. No other people, no severe injury, no blood, no exaggerated swelling, no comedy caricature.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 6,
+        "quote": "「你要得知，把手来摸我头上的疙瘩。」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "005-02",
+      "chapter": 5,
+      "title": "篮子抛出，门口被顶住",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 10,
+          "quote": "把那手中篮儿丢出当街上来"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 10,
+          "quote": "武大従外裸起衣裳，大踏步直抢入茶坊裏来"
+        }
+      ],
+      "people": [
+        "郓哥",
+        "王婆",
+        "武大"
+      ],
+      "place": "王婆茶坊外间",
+      "event": "郓哥按约抛篮作信号，顶住王婆，武大趁机抢入。",
+      "why": "这一场闯门依靠配合和时机，不是武大独自猛撞；门口的争执与内室同时发生。",
+      "composition": "从茶坊门里向外看，篮在街面，郓哥顶住王婆腰腹，武大束起长衣跨入，三角动线。",
+      "summary": "郓哥再次到茶坊挑起争执，挨揪打时将篮子抛到街上，按约顶住王婆。武大看见信号，抢身进门。镜头停在外间，明确门口是谁牵制谁；不把内室里还未看见的动作同时摊成一幅全知剖面。",
+      "psychology": "郓哥要出气、武大要捉奸都有前文支持。画中的急促动作据原文；不存在原文未写的刀、棍或预谋杀人武器。",
+      "social": "篮子原是做生意的器物，此刻改作联络信号。两个弱势人物靠配合穿过王婆守着的门口。",
+      "explicit": "三人、抛篮、顶住、抢入；“裸起衣裳”按提起衣摆理解，不画裸体。",
+      "inference": "门口方向与两人碰撞的瞬间为可读构图，不复原精确平面。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "王婆茶坊图",
+        "武大旧像",
+        "前回郓哥"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY Wu Da, the short adult man on right; image 2 ONLY slim fifteen-to-sixteen-year-old Yun Ge; image 3 elderly Wang Po and tea-shop material texture. New continuous action at tea-shop entrance, exactly these THREE people. Wide 3:2 diagonal narrative view from inside toward open street. At left side of entrance Yun Ge in faded gray-brown clothes bends his upper body sharply forward, presses his HEAD AND SHOULDER against elderly Wang Po's lower abdomen and waist to pin her back against a plaster wall; he holds her about the waist, determined, no punching. Elderly Wang Po, deep natural wrinkles, gray-black high bun and old dark brown robe, braces her back against wall and grips boy's sleeves, trying to break free. At right Wu Da, distinctly SHORT stocky adult man, broad weathered face, sparse moustache and goatee, brown cloth cap and patched robe, rushes from the bright street past them toward interior, one hand lifts his long robe hem above knee to run, fully covered trousers beneath; this does not mean nudity. Outside foreground EMPTY wicker pear basket lies on its side, already tossed as signal. Movement is urgent, awkward, believable bodies and foot contact. No weapons, no blood, no lovers visible, no interior couple, no extra people. Unseen inner room remains out of frame. Early spring street daylight, no theatrical heroic pose.",
+      "image": "assets/005-02.webp",
+      "status": "generated",
+      "review": "已实际核看：仅王婆、郓哥、武大三人，少年以头肩和双臂顶住王婆腰腹，王婆背抵壁；武大提衣摆抢入，裤装完整，空篮倒在街上。动作关系、人物脸部与日常质感清楚，没有把内室二人拉到门口，没有武器、血腥或裸体。未见影响叙事的显著错误。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY Wu Da, the short adult man on right; image 2 ONLY slim fifteen-to-sixteen-year-old Yun Ge; image 3 elderly Wang Po and tea-shop material texture. New continuous action at tea-shop entrance, exactly these THREE people. Wide 3:2 diagonal narrative view from inside toward open street. At left side of entrance Yun Ge in faded gray-brown clothes bends his upper body sharply forward, presses his HEAD AND SHOULDER against elderly Wang Po's lower abdomen and waist to pin her back against a plaster wall; he holds her about the waist, determined, no punching. Elderly Wang Po, deep natural wrinkles, gray-black high bun and old dark brown robe, braces her back against wall and grips boy's sleeves, trying to break free. At right Wu Da, distinctly SHORT stocky adult man, broad weathered face, sparse moustache and goatee, brown cloth cap and patched robe, rushes from the bright street past them toward interior, one hand lifts his long robe hem above knee to run, fully covered trousers beneath; this does not mean nudity. Outside foreground EMPTY wicker pear basket lies on its side, already tossed as signal. Movement is urgent, awkward, believable bodies and foot contact. No weapons, no blood, no lovers visible, no interior couple, no extra people. Unseen inner room remains out of frame. Early spring street daylight, no theatrical heroic pose.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 10,
+        "quote": "郓哥叫一声「你打我」，把那手中篮儿丢出当街上来。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "005-03",
+      "chapter": 5,
+      "title": "踢中的是心窝",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 10,
+          "quote": "早飞起脚来"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 10,
+          "quote": "正踢中心窝，拨地望后便倒了"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "武大",
+        "潘金莲"
+      ],
+      "place": "茶坊内室门口",
+      "event": "西门庆打开门，踢中武大心窝，趁乱夺路离开。",
+      "why": "高矮与力气的悬殊成为真实伤害；不要把这场踢打画成双方势均力敌的武戏。",
+      "composition": "横向动作镜头，西门庆的腿击向武大上腹胸口，武大后倒失衡，金莲在门内一侧。",
+      "summary": "武大推不开被顶住的门。金莲言语激西门庆出手，他从床下出来开门，一脚踢中武大的心窝，乘乱离开。画面保留打击与倒地，不把受害者画成勇武反击的对手；这一脚造成的病痛，是本回接下来无法起身的身体前提。",
+      "psychology": "原文明写金莲的话提醒西门庆打人夺路，继而踢中、吐血、被搀回。人物具体表情是美术补足，不在动作中额外增添得意大笑。",
+      "social": "在场街邻知道西门庆了得，不敢多管。暴力不仅来自身体优势，也有旁人退让形成的环境；图只截取门内，不虚构围观者参与。",
+      "explicit": "三名成年人物，开门踢胸心窝，武大倒地，西门庆逃离。",
+      "inference": "画踢中即将倒下的一刻；伤势不加断骨飞血，服饰整理为覆盖完整。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "西门庆旧像",
+        "武大旧像",
+        "潘金莲旧像",
+        "本回茶坊"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY the tall young adult Ximen Qing's long face, straight eyebrows, narrow eyes and body identity, not his smiling pose or fan; image 2 ONLY the distinctly short adult Wu Da on right, not the woman or autumn setting; image 3 ONLY young adult Pan Jinlian at left and the fine painted texture, not the other two people or sewing scene. New scene, serious non-graphic assault at small tea-room inner doorway, NOT a heroic duel. EXACTLY THREE FULLY CLOTHED ADULTS. Ximen Qing in green outer robe and black cap stands at right side, body tall, left foot firmly grounded, right leg thrust horizontally forward so sole contacts Wu Da's upper abdomen/lower chest. Wu Da is distinctly short stocky adult, weathered broad face, sparse moustache and goatee, brown wrapped cap and patched brown robe, and is already recoiling backwards toward left: torso thrown back, arms spread involuntarily, both feet losing balance, agonized shocked expression. He does NOT punch, kick, or counterattack. The kick's cruel size advantage is central; credible single kick, two legs per man, no acrobatics. Pan Jinlian, slender young adult woman with pinned black hair, fully dressed white long-sleeved shirt, blue vest and dusty rose skirt, stands off to side just inside doorway behind attacker, tense and alarmed; no seductive look. Door has just opened inward, modest table and dim plain room behind. Wide horizontal impact composition with full bodies and clear foot-to-chest contact; no weapons, no flying blood or exposed injuries, no spectators, no nudity, no beautified romance.",
+      "image": "assets/005-03.webp",
+      "status": "generated",
+      "review": "已实际核看：仅西门庆、武大、金莲三名完整着衣成年人；鞋底正接武大心窝附近，武大后仰失衡、没有对打或反击，身量与力量差异清楚，金莲在门内侧。人物脸部延续，肢体数量与受力方向可读，无飞血、武器或美化暴力的笑容。踢腿方向和门位为美术补足。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY the tall young adult Ximen Qing's long face, straight eyebrows, narrow eyes and body identity, not his smiling pose or fan; image 2 ONLY the distinctly short adult Wu Da on right, not the woman or autumn setting; image 3 ONLY young adult Pan Jinlian at left and the fine painted texture, not the other two people or sewing scene. New scene, serious non-graphic assault at small tea-room inner doorway, NOT a heroic duel. EXACTLY THREE FULLY CLOTHED ADULTS. Ximen Qing in green outer robe and black cap stands at right side, body tall, left foot firmly grounded, right leg thrust horizontally forward so sole contacts Wu Da's upper abdomen/lower chest. Wu Da is distinctly short stocky adult, weathered broad face, sparse moustache and goatee, brown wrapped cap and patched brown robe, and is already recoiling backwards toward left: torso thrown back, arms spread involuntarily, both feet losing balance, agonized shocked expression. He does NOT punch, kick, or counterattack. The kick's cruel size advantage is central; credible single kick, two legs per man, no acrobatics. Pan Jinlian, slender young adult woman with pinned black hair, fully dressed white long-sleeved shirt, blue vest and dusty rose skirt, stands off to side just inside doorway behind attacker, tense and alarmed; no seductive look. Door has just opened inward, modest table and dim plain room behind. Wide horizontal impact composition with full bodies and clear foot-to-chest contact; no weapons, no flying blood or exposed injuries, no spectators, no nudity, no beautified romance.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 10,
+        "quote": "武大却待揪他，被西门庆早飞起脚来，武大矮短，正踢中心窝，拨地望后便倒了。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "005-04",
+      "chapter": 5,
+      "title": "喊水的人，在楼上",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 12,
+          "quote": "一病五日，不能够起"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 12,
+          "quote": "要汤不见，要水不见"
+        }
+      ],
+      "people": [
+        "武大",
+        "潘金莲",
+        "迎儿"
+      ],
+      "place": "武大家楼上及楼梯口",
+      "event": "受伤五日的武大求汤水无人照料，迎儿也被金莲禁止上前。",
+      "why": "身体被打伤之后，照料仍可以被控制；迎儿的沉默不能被误看成不关心父亲。",
+      "composition": "病床近景武大伸手向空盏；金莲背身下楼，迎儿停在楼梯口，手空着，不敢上前。",
+      "summary": "武大躺了五日，叫汤叫水都没有人应。金莲每日妆饰出去，还不许迎儿给父亲水喝。图中孩子与病床之间留着一段不能走近的距离：原文明确写的是她受威吓，不能因此把她归为冷眼旁观的家人。",
+      "psychology": "武大的无助、气昏和迎儿不敢上前由原文支持；两人的目光相接是镜头补足。金莲背身离开据本段反复出入的描述综合。",
+      "social": "这里的权力细到一口水：谁能照料、谁能靠近床边，都受同住者支配。该图为五日困境的综合示意，不冒称某次求水的精确现场。",
+      "explicit": "武大伤病不起、无人应、迎儿受禁。",
+      "inference": "空盏、楼梯位置、床样与迎儿便服未明；迎儿约十二依第一回，全部非性化家内照料场景。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "武大旧像",
+        "潘金莲旧像"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY Wu Da, the short stocky adult man on right, weathered broad face, sparse moustache and goatee, NOT his healthy state, cap, autumn leaves, or the woman; image 2 ONLY Pan Jinlian at left, slender adult face and black pinned hair, not clothing or other people. New sober domestic neglect scene, entirely non-sexual, exactly THREE people in a poor upstairs room by a stair opening. Foreground left: Wu Da lies on low plain wooden sickbed, face pale exhausted and cheeks slightly sunken after five days ill, fully covering plain cream and brown sickbed clothes, lower body covered by worn quilt. He weakly extends one hand toward an EMPTY small ceramic water cup on stool out of reach, brows pinched and thirsty. Middle distance right: a TWELVE-year-old girl Ying Er, clearly a CHILD not an adult woman, short preteen stature, round young face, dark hair in two simple small knots, worried eyes, modest loose long-sleeved gray-brown cotton tunic, long skirt and cloth shoes, stops with EMPTY hands at the stair threshold, afraid to move toward father. Behind and slightly to her side Pan Jinlian fully dressed in a muted red outer jacket and long plain skirt turns away to descend stairs, her posture blocks the route, cold inattentive glance toward child. No glamorous clothing, no exposed shoulders, no sensuality, no adult intimacy. Use physical distance and the obstructed path to show forbidden care, NOT a child indifferent to illness. Cool daylight through lattice, cracked plaster, humble stool, worn bedding. Bed, stairs and precise room layout are imaginative reconstruction. No blood, no extra people, no split-panel composition.",
+      "image": "assets/005-04.webp",
+      "status": "generated",
+      "review": "已实际核看：武大苍白病卧并伸手向空盏，金莲在楼梯口转身离开，迎儿是体量与面貌清楚的普通女孩，双手空着、忧惧停步。三人间距离说明照料被阻，没有把女孩画成成人或冷漠看客；无情色或裸露。病床、空杯、楼梯、衣色及病中仍戴布帽为美术补足，非原文明写。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Early spring, no autumn foliage. References: image 1 ONLY Wu Da, the short stocky adult man on right, weathered broad face, sparse moustache and goatee, NOT his healthy state, cap, autumn leaves, or the woman; image 2 ONLY Pan Jinlian at left, slender adult face and black pinned hair, not clothing or other people. New sober domestic neglect scene, entirely non-sexual, exactly THREE people in a poor upstairs room by a stair opening. Foreground left: Wu Da lies on low plain wooden sickbed, face pale exhausted and cheeks slightly sunken after five days ill, fully covering plain cream and brown sickbed clothes, lower body covered by worn quilt. He weakly extends one hand toward an EMPTY small ceramic water cup on stool out of reach, brows pinched and thirsty. Middle distance right: a TWELVE-year-old girl Ying Er, clearly a CHILD not an adult woman, short preteen stature, round young face, dark hair in two simple small knots, worried eyes, modest loose long-sleeved gray-brown cotton tunic, long skirt and cloth shoes, stops with EMPTY hands at the stair threshold, afraid to move toward father. Behind and slightly to her side Pan Jinlian fully dressed in a muted red outer jacket and long plain skirt turns away to descend stairs, her posture blocks the route, cold inattentive glance toward child. No glamorous clothing, no exposed shoulders, no sensuality, no adult intimacy. Use physical distance and the obstructed path to show forbidden care, NOT a child indifferent to illness. Cool daylight through lattice, cracked plaster, humble stool, worn bedding. Bed, stairs and precise room layout are imaginative reconstruction. No blood, no extra people, no split-panel composition.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 12,
+        "quote": "武大一病五日，不能够起。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "005-05",
+      "chapter": 5,
+      "title": "药盏被灌了下去",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 17,
+          "quote": "大嫂，这药好难吃"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 17,
+          "quote": "一盏药都灌下喉咙去了"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "武大"
+      ],
+      "place": "武大家楼上病床",
+      "event": "夜半金莲扶起武大，将被动过手脚的药灌下；武大仍以为是治病。",
+      "why": "药盏原应意味着照料，这一刻却成为双方信息差最大的物品；武大的求生信任没有换来救助。",
+      "composition": "灯下双人近景，金莲一手扶肩、一手倾盏，武大皱眉想停；身体完整覆盖，不画药物制作。",
+      "summary": "金莲白日说有好药，武大允诺病好便不再提起，夜里还催她调来。喝第一口时他说难吃，接着整盏便被灌下。图像选这一刻：他所理解的是治病，她实施的却是加害；让药碗与扶人的手同时进入视线。",
+      "psychology": "原文给出武大想活、愿不追究的话，也明写她的计划和强灌。画中迟疑与施力依据这些动作，不把这一夜美化成体贴照护。",
+      "social": "照料的姿势和加害的动作可以外观相似。说明这一点，是为了回到此处的欺骗，不把虚构情节转成现实用药知识。",
+      "explicit": "夜半灯下、扶身、药盏、强灌；武大喝后腹痛。",
+      "inference": "不展示毒物、配方或制作步骤；只画文学事件中的喂药与抗拒，具体灯具、床位为补足。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "武大旧像",
+        "潘金莲旧像",
+        "本回病床"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Reference image 1 identifies ONLY Wu Da, the short stocky adult man on right, broad weathered face, sparse moustache and goatee, NOT the woman, autumn setting or healthy condition. Reference image 2 identifies ONLY Pan Jinlian at left, young adult slender face and black pinned hair, not clothing, other people, or sewing scene. New scene: grave literary betrayal in a poor upstairs sickroom at night, exactly TWO FULLY CLOTHED ADULTS. Wu Da is visibly short and frail, pale and exhausted on simple low wooden bed, plain cream long-sleeved clothes, worn quilt over lower body. Pan Jinlian in modest fully covering plain dark blue jacket sits upright beside bed, her LEFT hand supports his shoulder and upper back and her RIGHT hand tightly controls an ordinary ceramic medicine BOWL at his lips, tilting the liquid into his mouth against hesitation. His upper body has been lifted uncomfortably, eyebrows drawn in pain, one hand raised weakly trying to stop or push away the bowl; she leans in with rigid concentration, firm wrist, no tenderness, no smile. The clear asymmetry and forced tilt make this an act of harm, not a gentle family-care portrait. Medium-close diagonal composition, both faces and hands and tilted bowl readable. Single humble open-flame oil-wick lamp on side stool, warm small flame against cold night shadows, plain rough bedding and cracked plaster. No modern lamps, no glass chimney, no ingredients, no preparation or dosing instructions, no weapons, no blood, no exposed injuries, no sensual posing, no romantic light, no child, no other people. Keep bodily anatomy credible with exactly two hands per person.\n",
+      "image": "assets/005-05.webp",
+      "status": "generated",
+      "review": "已实际核看：仅两名完整着衣成年人，金莲一手扶住肩背、一手强倾药盏；武大皱眉、闭眼、抬手抗拒，动作没有被画成温柔照料。病态、脸部、油盏与粗旧床被清楚，无毒物制备、配方、血腥、情色或儿童。窗外少量残叶为景物补足，不据此判定时令；布帽、衣色与床位亦非原文明写。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Reference image 1 identifies ONLY Wu Da, the short stocky adult man on right, broad weathered face, sparse moustache and goatee, NOT the woman, autumn setting or healthy condition. Reference image 2 identifies ONLY Pan Jinlian at left, young adult slender face and black pinned hair, not clothing, other people, or sewing scene. New scene: grave literary betrayal in a poor upstairs sickroom at night, exactly TWO FULLY CLOTHED ADULTS. Wu Da is visibly short and frail, pale and exhausted on simple low wooden bed, plain cream long-sleeved clothes, worn quilt over lower body. Pan Jinlian in modest fully covering plain dark blue jacket sits upright beside bed, her LEFT hand supports his shoulder and upper back and her RIGHT hand tightly controls an ordinary ceramic medicine BOWL at his lips, tilting the liquid into his mouth against hesitation. His upper body has been lifted uncomfortably, eyebrows drawn in pain, one hand raised weakly trying to stop or push away the bowl; she leans in with rigid concentration, firm wrist, no tenderness, no smile. The clear asymmetry and forced tilt make this an act of harm, not a gentle family-care portrait. Medium-close diagonal composition, both faces and hands and tilted bowl readable. Single humble open-flame oil-wick lamp on side stool, warm small flame against cold night shadows, plain rough bedding and cracked plaster. No modern lamps, no glass chimney, no ingredients, no preparation or dosing instructions, no weapons, no blood, no exposed injuries, no sensual posing, no romantic light, no child, no other people. Keep bodily anatomy credible with exactly two hands per person.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 17,
+        "quote": "「大嫂，这药好难吃！」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "005-06",
+      "chapter": 5,
+      "title": "旧门板上，盖住一张脸",
+      "evidence": [
+        {
+          "chapter": 5,
+          "paragraph": 19,
+          "quote": "将扇旧门停了"
+        },
+        {
+          "chapter": 5,
+          "paragraph": 19,
+          "quote": "将片白绢盖了脸"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "王婆",
+        "武大"
+      ],
+      "place": "武大家楼下",
+      "event": "武大已死，二人清理后把遗体移到楼下旧门板上，穿戴并覆面。",
+      "why": "死亡不是一句转场；普通家里的旧门和白绢，成为这个人此刻的安放之所。",
+      "composition": "白绢完全覆盖遗体面部，旧门板平放前景且铰链可见；王婆卷袖在桶上绞布，金莲穿深靛衣立楼梯旁，夜深。",
+      "summary": "武大死后，金莲敲壁叫王婆来。二人收拾血迹，将他一步一步抬下楼，放在卸下的旧门上，穿衣戴巾、覆上白绢。画面不增加伤口，只保留原文明确写下的临时停放方式与清理动作，让谋害留下物质后果。",
+      "psychology": "原文明写金莲手脚软、王婆帮扶。她此刻害怕如何处理尸身，不能自动解释为已经悔悟；其后哭声的叙述也需另辨。",
+      "social": "一扇日常隔门变成停尸板，家用品进入丧事。这不是正式棺殓：棺材的筹办在次日另说，不提前放进此图。",
+      "explicit": "遗体在楼下旧门板，着衣戴巾、白绢覆面、被覆身体；王婆参与清理。",
+      "inference": "门板架放、桶与楼梯位置、衣色均为补足；桶边绞布将收拾动作综合入画，不宣称与门板停放严格同一瞬间。不画次日未买到的棺材。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "武大旧像",
+        "潘金莲旧像",
+        "王婆旧像"
+      ],
+      "prompt": "Initial generation:\nComplete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with layered mineral pigment, realistic varied human faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Clearly painted, not a photograph, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Reference image 1 identifies ONLY Pan Jinlian at left, slender young adult face and pinned black hair; reference image 2 identifies elderly Wang Po, deeply wrinkled face and gray-black high bun, and the weathered painted material style. Their expressions and actions must change for this new scene. New serious restrained aftermath of a literary murder inside a poor ground-floor house at NIGHT. In foreground a deceased SHORT adult man Wu Da, body completely dressed with clean worn dark robe and simple socks and cloth shoes, lies horizontally supported on a REMOVED OLD WOODEN DOOR PANEL used as a makeshift bier. Show the entire unmistakably rectangular weathered panel with cross battens and an old iron HINGE still attached at one edge; it is flat and open, NOT a coffin, NOT a bed. Body is small, a modest worn quilt covers torso and legs; a separate small plain WHITE SILK CLOTH completely covers the head and FACE, so no facial features or injuries visible. Beside panel left, elderly Wang Po in old brown robe, sleeves rolled up, lowers a damp cleaning cloth into a plain wooden water bucket; purposeful tired expression, not triumphant. To right at foot of wooden stair stands young adult Pan Jinlian in same plain fully covering dark blue jacket, long skirt, hands stiff, pale shaken face, no glamour or beautiful theatrical weeping. Exactly two living adult women plus covered body; no child or others. Single open-flame oil lamp on stool, dark shuttered window, deep quiet shadows and everyday rough plaster and wood. Composition holds the covered human figure and mundane old door as the central irreversible loss. No blood, no exposed wounds, no corpse facial detail, no coffin, no later funeral or officials, no sexual content, no readable text.\n\nClothing continuity revision:\nUse case: precise-object-edit. EDIT TARGET is image 1, the night scene of two women and a fully covered deceased short adult man on an old removed wooden door panel. Image 2 is only a supporting clothing continuity reference for the adult woman Pan Jinlian. Change ONLY the clothing of the young adult woman standing on the RIGHT beside stairs in image 1: replace her blue sleeveless vest, light sleeves and pink skirt with the SAME PLAIN FULLY COVERING DARK INDIGO LONG-SLEEVED JACKET as image 2, with a modest dark gray-brown long skirt. Keep her face, hair, age, hands, posture and shaken expression unchanged. Preserve everything else in image 1 exactly: elderly Wang Po wringing cloth above bucket, covered body, white silk completely over face, corpse size, worn quilt, visible old door hinge and flat panel, oil lamp, night lighting, stair, framing, fine gongbi lines and mineral colors. Do not add people or objects, do not remove white face covering, do not make a coffin, no text. 3:2 landscape.\n",
+      "image": "assets/005-06.webp",
+      "status": "generated",
+      "review": "已实际核看修正版：金莲已换为与强灌图连续的深靛长袖衣，王婆卷袖在桶上绞布，覆面遗体停在明显有横档与旧铰链的卸下门板上；完整覆面白绢、鞋袜和被子可辨，无棺材、裸露伤处或血。初稿衣装回落为茶坊配色，已单独保留且不用作采用图。桶边绞布为清理动作的综合示意，不宣称与门板停放严格同一瞬间；未发现其余显著叙事错误。",
+      "actualPrompt": "Use case: precise-object-edit. EDIT TARGET is image 1, the night scene of two women and a fully covered deceased short adult man on an old removed wooden door panel. Image 2 is only a supporting clothing continuity reference for the adult woman Pan Jinlian. Change ONLY the clothing of the young adult woman standing on the RIGHT beside stairs in image 1: replace her blue sleeveless vest, light sleeves and pink skirt with the SAME PLAIN FULLY COVERING DARK INDIGO LONG-SLEEVED JACKET as image 2, with a modest dark gray-brown long skirt. Keep her face, hair, age, hands, posture and shaken expression unchanged. Preserve everything else in image 1 exactly: elderly Wang Po wringing cloth above bucket, covered body, white silk completely over face, corpse size, worn quilt, visible old door hinge and flat panel, oil lamp, night lighting, stair, framing, fine gongbi lines and mineral colors. Do not add people or objects, do not remove white face covering, do not make a coffin, no text. 3:2 landscape.",
+      "excerpt": {
+        "chapter": 5,
+        "paragraph": 19,
+        "quote": "两个従楼上一步一掇，扛将下来，就楼下将扇旧门停了。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "number": 16,
+  "title": "第十六回西门庆谋财娶妇　应伯爵庆喜追欢",
+  "intro": "本回从生日夜的求娶与牌局，转入财物变卖、盖房和内宅劝阻，再到除服日的席上庆喜与回杯。所有分析止于本回；婚议、催娶和承诺不改写为已经过门。阅读确认仍为64，制作授权为1—100。",
+  "supplements": [
+    {
+      "title": "递酒求婚与承诺的边界",
+      "text": "生日席上李瓶儿含泪请求与众娘子作姊妹，西门庆说待她孝服满时安排。随后她提出以箱中香蜡细货折银助建房，婚议与财物由此相连。床帐中的露骨行为未绘；迎春前情为十七岁，本回有关侍女的性关系叙述仅以非露骨文学说明保留，绝不升龄或性化作图。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 5,
+          "quote": "妇人递与西门庆酒，磕下头去"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 5,
+          "quote": "待你孝服满时，我自有处，不劳你费心。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 6,
+          "quote": "你明日都搬出来，替我卖了银子，凑着你盖房子使。"
+        }
+      ]
+    },
+    {
+      "title": "从货物到工地，不拼来源总账",
+      "text": "原文记香蜡等卖三百八十两，瓶儿留一百八十两，其余交出；随后另记五百两委付来昭、贲四管工计账。数字并列不表示足以复原五百两的全部来源。二月初八择日动土，先拆旧房、开墙、筑地脚；这些施工与后文已近完工分阶段记，不拼成一张同时落成图。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 12,
+          "quote": "五百两银子委付大家人来昭并主管贲四，卸砖瓦木石，管工计帐。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 12,
+          "quote": "先拆毁花家那边旧房，打开墙垣，筑起地脚"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 16,
+          "quote": "三间玩花楼装修将完，只少卷棚还未安磉。"
+        }
+      ]
+    },
+    {
+      "title": "催娶、缓期与时间记载",
+      "text": "三月上旬段落先称花子虚百日，瓶儿又说三月初十念经烧灵；后文五月佳节才商议五月十五烧灵。保留本回这些时间层次，不推算统一死亡日期或擅补守丧期限。月娘劝阻后，金莲建议以楼上堆药、等待新房为说辞；西门庆照此去劝，瓶儿同意等到五月头上。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 13,
+          "quote": "却是三月上旬，乃花子虚百日。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 13,
+          "quote": "这三月初十日是他百日，我好念经烧灵。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 15,
+          "quote": "奴情愿等着到那时候也罢。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 16,
+          "quote": "择五月十五日，先请僧人念经烧灵，然后西门庆这边择娶妇人过门。"
+        }
+      ]
+    },
+    {
+      "title": "商货、传话与异说",
+      "text": "玳安先报家中有三个川广客人，西门庆回家时叙述为四五个客人等候；不强行认定是同一组人数，也不修改原数字。玳安对月娘隐瞒去处、对金莲另说狮子街花二娘，显示传话因听者而异。本章不配勉铃及露骨行为图，其产地、价钱和功效属于西门庆说法与诗赋，不当器物史实。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 7,
+          "quote": "家中有三个川广客人，在家中坐着。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 8,
+          "quote": "铺子裏有四五个客人等候。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 8,
+          "quote": "爹在狮子街花二娘那裏哩。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 11,
+          "quote": "名唤做勉铃，南方勉甸国出产的。好的也值四五两银子。"
+        }
+      ]
+    },
+    {
+      "title": "赠礼消息与朋友的许诺",
+      "text": "玳安报花大妻获十两银、两套衣服，随后瓶儿又转述两口子乐意受赠；两次报告主体不同，不能合成全知目击。应伯爵偷听后将婚议公开，朋友许诺帮忙并索喜酒，最后又挽留、灌酒。生日人情三钱、给玳安置酒五两、赏两小优各二钱，分属不同用途，不合并为婚事总支出。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 18,
+          "quote": "与了他十两银子，两套衣服。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 19,
+          "quote": "奴与他十两银子，两套衣服，两口子喜欢的了不的。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 17,
+          "quote": "封了三钱银子人情"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 17,
+          "quote": "早晨拿了五两银子与玳安"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 17,
+          "quote": "每人赏二钱银子。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "016-01",
+      "chapter": 16,
+      "title": "红毡上的象牙牌",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 6,
+          "quote": "桌上铺茜红毡条，两个灯下抹牌饮酒。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 5,
+          "quote": "待你孝服满时，我自有处，不劳你费心。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 16,
+        "paragraph": 6,
+        "quote": "李瓶儿同西门庆猜枚吃了一回，又拿一副三十二扇象牙牌儿，桌上铺茜红毡条，两个灯下抹牌饮酒。"
+      },
+      "people": [
+        "李瓶儿",
+        "西门庆"
+      ],
+      "place": "李瓶儿家堂中，灯下牌桌",
+      "event": "生日酒后，两人铺红毡抹牌。",
+      "why": "把婚事承诺之后的亲近日常落到牌、酒和灯上。",
+      "composition": "恰两人在桌两边；桌面红毡、象牙色牌和酒杯为中心，卧房在画外。",
+      "summary": "李瓶儿此前含泪请求与众娘子作姊妹，西门庆把答复系于孝服满时。酒席继续，两人移到茜红毡条前抹象牙牌。画面停在堂中全衣游戏的一刻，不把随后床帐里的情节提前混入；亲近与尚未兑现的婚议同时留在这一桌灯光里。",
+      "psychology": {
+        "明写": "李瓶儿求娶时落泪；西门庆说待孝服满时再作安排。",
+        "推断": "抹牌使婚事谈话暂时转入共同消遣；牌局本身不能证明婚期已经确定。"
+      },
+      "social": "亲密往来、守丧身份与婚姻承诺在同一家庭空间中交叠；不由此推算守丧制度的精确期限。",
+      "explicit": {
+        "原文明示": [
+          "一副三十二扇象牙牌",
+          "茜红毡条",
+          "灯下抹牌饮酒",
+          "本回入门时李瓶儿花冠齐整、素服轻盈"
+        ],
+        "人物话语": "西门庆答应待孝服满时再安排；属于当时承诺，非已履行结果。"
+      },
+      "inference": {
+        "推断": "把牌局地点沿用为堂中桌前，未画成寝具上的牌局。",
+        "艺术补足": [
+          "人物坐姿与出牌手势",
+          "素服的灰白色阶及简化花冠",
+          "牌面点纹和牌叠排法",
+          "桌椅、烛台与暖帘位置"
+        ]
+      },
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回与指定前情；宋代故事设定和宽泛晚明视觉参考分开。器物、衣色与空间未考定处均属美术补足，不作为制度或建筑复原证据。",
+      "references": [
+        "references/ximen.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first is Ximen Qing identity only (long face, straight brows, narrow eyes, long-waisted body); second is Li Ping er identity only (small build, pale melon-seed face, fine curved brows). Do not copy reference courtyard, fan, pink clothing or outdoor daylight. Scene: early-year winter evening inside Li Ping er household hall, immediately after a birthday dinner. EXACTLY TWO figures, both completely clothed, naturally playing a small Chinese ivory domino game at a wooden table, not posing. Li Ping er wears modest gray-white mourning clothing with closed collar and a restrained tidy floral hair ornament. Ximen wears a muted dark blue-gray long robe and black cloth cap. A clear madder-red felt runner covers the playing area; ivory-colored rectangular Chinese domino tiles with simple red/black pips, some face-up and the rest in small stacks, representing one 32-tile set without forcing every tile visible. One hand reaches toward a tile, the other player studies it; hands natural, no extra limbs. Two small wine cups and a wine pot to one side. Warm candles and a lowered fabric curtain, ordinary worn wood. Keep both faces recognizable and not smiling at camera. No bed, bedding, undressing, romance pose or servants. This is a quiet tabletop game, no sexual content.",
+      "image": "assets/016-01.webp",
+      "status": "generated",
+      "review": "已打开工作区采用图核看：恰李瓶儿、西门庆两人，参考脸可辨，素服、红毡、象牙色点纹牌与杯壶清楚；两人全衣抹牌，无床帐及侍女。人物手部无显著畸形。牌叠含遮挡，不能从画面精确数出32扇；牌纹与排法为宽泛美术补足，非赌法复原。背景梅枝、器物与暖帘位置为补足。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first is Ximen Qing identity only (long face, straight brows, narrow eyes, long-waisted body); second is Li Ping er identity only (small build, pale melon-seed face, fine curved brows). Do not copy reference courtyard, fan, pink clothing or outdoor daylight. Scene: early-year winter evening inside Li Ping er household hall, immediately after a birthday dinner. EXACTLY TWO figures, both completely clothed, naturally playing a small Chinese ivory domino game at a wooden table, not posing. Li Ping er wears modest gray-white mourning clothing with closed collar and a restrained tidy floral hair ornament. Ximen wears a muted dark blue-gray long robe and black cloth cap. A clear madder-red felt runner covers the playing area; ivory-colored rectangular Chinese domino tiles with simple red/black pips, some face-up and the rest in small stacks, representing one 32-tile set without forcing every tile visible. One hand reaches toward a tile, the other player studies it; hands natural, no extra limbs. Two small wine cups and a wine pot to one side. Warm candles and a lowered fabric curtain, ordinary worn wood. Keep both faces recognizable and not smiling at camera. No bed, bedding, undressing, romance pose or servants. This is a quiet tabletop game, no sexual content.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "016-02",
+      "chapter": 16,
+      "title": "香蜡过秤，银子另留",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 12,
+          "quote": "把李瓶儿床后茶叶箱内堆放的香蜡等物，都秤了斤两，共卖了三百八十两银子。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 12,
+          "quote": "李瓶儿只留下一百八十两盘缠，其余都付与西门庆收了，凑着盖房。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 16,
+        "paragraph": 12,
+        "quote": "一日西门庆会了经纪，把李瓶儿床后茶叶箱内堆放的香蜡等物，都秤了斤两，共卖了三百八十两银子。李瓶儿只留下一百八十两盘缠，其余都付与西门庆收了，凑着盖房。"
+      },
+      "people": [
+        "西门庆",
+        "未具名经纪"
+      ],
+      "place": "李瓶儿家货物旁；具体房间未明",
+      "event": "西门庆会经纪，将香蜡等物称量变卖。",
+      "why": "婚议进入可称量、可转交的钱物关系。",
+      "composition": "西门庆侧看，经纪背侧提杆秤；箱、蜡与散货置于画前，不画未发生的建筑落成。",
+      "summary": "床后茶叶箱中所藏的香蜡等物，经西门庆会经纪称量，共卖得三百八十两。李瓶儿留下其中一百八十两盘缠，其余交给西门庆用于盖房。本幅只画过秤这一环节，不将三百八十两、她交出的余款和后来委付工程的五百两拼成一笔来源完整的总账。",
+      "psychology": {
+        "明写": "本段没有逐一写称量时各人的心语。",
+        "推断": "把存货交人经手使婚议与盖房资金联系起来；不可仅从画面断定双方已完成婚姻安排。"
+      },
+      "social": "经纪、称量、白银和工程委付连成私人财产的流转链；交易数量依小说记载，不作现代币值换算。",
+      "explicit": {
+        "原文明示": [
+          "西门庆会经纪称货",
+          "共卖三百八十两",
+          "李瓶儿留一百八十两盘缠，余款交出"
+        ],
+        "人物话语": "更早李瓶儿说茶叶箱内有沉香、白蜡、水银和胡椒；本幅不精确复原全部重量与容器尺寸。"
+      },
+      "inference": {
+        "推断": "称量发生于货物附近，具体房间和操秤者原文未定。",
+        "艺术补足": [
+          "无名经纪背侧衣貌",
+          "杆秤、茶叶箱和蜡块宽泛形制",
+          "货包的摆法",
+          "日光与门窗方向"
+        ]
+      },
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回与指定前情；宋代故事设定和宽泛晚明视觉参考分开。器物、衣色与空间未考定处均属美术补足，不作为制度或建筑复原证据。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "初始实际提示词：\nUse case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input image is Ximen Qing facial and body identity only: long face, straight brows, narrow eyes, long-waisted build. New complete narrative painting, not reference reenactment. A practical indoor storeroom of a prosperous household in early spring. EXACTLY TWO visible figures: Ximen in sober slate-blue long robe and black cloth cap on the left, watching attentively, and an unnamed ordinary merchandise broker on the right seen mostly from back/three-quarter profile, in brown working clothes. The broker raises a traditional simple wooden steelyard with one hand and balances a small bundle of pale wax on its hanging shallow pan with the other; correct suspended pan, counterweight and single straight rod, believable anatomy and gravity. Nearby an opened worn wooden tea-storage chest holds bundles of pale wax, fragrant dark wood pieces, and a closed sack of pepper, only sample amounts not an inventory diagram. A few closed glazed jars may sit in shadow, no open mercury or spilled liquid. Nothing is labeled. No piles of exactly counted silver, no written accounts, no construction plans. Ximen does not touch the scale. Li Ping er is absent, her attendance at this transaction is not stated. Simple interior with textured plaster and worn wood, cool daylight and warm earth/ivory pigments; action and weight are the focus.\n\n采用修订图的实际提示词：\nUse case: precise-object-edit. Edit the supplied historical painted scene. Preserve exactly the two men, Ximen's face and clothing, broker's face and clothing, opened tea chest, wax/wood/sack, room, composition, spring light, 3:2 gongbi mineral-pigment painted style and lack of lettering. Correct ONLY the steelyard and the broker's two arms/hands so the act of weighing is physically legible. A traditional steelyard is an unequal-arm lever. The wax pan hangs freely from the LEFT END of one straight wooden beam. A SHORT SUSPENSION LOOP is attached to the beam at about one third of beam length from the left, close to the pan. The broker's raised hand holds THIS LOOP, NOT THE FAR RIGHT END OF THE BEAM. The small sliding counterweight hangs well to the RIGHT of that loop on the long arm. Thus pan and counterweight are on opposite sides of the actual suspension point. Beam nearly horizontal, suspension cords and gravity believable. His other hand is removed from beneath pan and held relaxed near chest, so the wax pan hangs unsupported. Both hands anatomically clear. Keep the faces, all other scene details and no visible written text unchanged. No extra people or limbs.",
+      "image": "assets/016-02.webp",
+      "status": "generated",
+      "review": "已打开工作区修订采用图核看：恰西门庆与背侧无名经纪两人，西门庆参考脸保持；箱内蜡、深色木片和货包明确。提环在秤盘与秤砣之间，经纪持环，盘已脱离另一只手而自由悬挂，修正初稿支点问题。无流汞、文字、伪造精确银数或李瓶儿在场。秤杆、秤盘、蜡包和窗外花枝仅为宽泛美术补足，未校定计量形制。",
+      "actualPrompt": "Use case: precise-object-edit. Edit the supplied historical painted scene. Preserve exactly the two men, Ximen's face and clothing, broker's face and clothing, opened tea chest, wax/wood/sack, room, composition, spring light, 3:2 gongbi mineral-pigment painted style and lack of lettering. Correct ONLY the steelyard and the broker's two arms/hands so the act of weighing is physically legible. A traditional steelyard is an unequal-arm lever. The wax pan hangs freely from the LEFT END of one straight wooden beam. A SHORT SUSPENSION LOOP is attached to the beam at about one third of beam length from the left, close to the pan. The broker's raised hand holds THIS LOOP, NOT THE FAR RIGHT END OF THE BEAM. The small sliding counterweight hangs well to the RIGHT of that loop on the long arm. Thus pan and counterweight are on opposite sides of the actual suspension point. Beam nearly horizontal, suspension cords and gravity believable. His other hand is removed from beneath pan and held relaxed near chest, so the wax pan hangs unsupported. Both hands anatomically clear. Keep the faces, all other scene details and no visible written text unchanged. No extra people or limbs.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "016-03",
+      "chapter": 16,
+      "title": "梳头时说出的三件事",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 14,
+          "quote": "月娘正梳头。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 14,
+          "quote": "他头一件，孝服不满；第二件，你当初和他男子汉相交；第三件，你又和他老婆有连手，买了他房子，收着他寄放的许多东西。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 14,
+          "quote": "几句说的西门庆闭口无言。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 16,
+        "paragraph": 14,
+        "quote": "这西门庆一直走到月娘房裏来，月娘正梳头。西门庆把李瓶儿要嫁一节，従头至尾诉说一遍。"
+      },
+      "people": [
+        "吴月娘",
+        "西门庆"
+      ],
+      "place": "吴月娘房内，梳妆处",
+      "event": "西门庆谈婚事，月娘以三层顾虑劝阻。",
+      "why": "家内不同意使婚议停顿，财产与人情风险不再只在两人之间讨论。",
+      "composition": "月娘坐在梳妆处握梳，转身说话；西门庆站在侧后，闭口倾听。",
+      "summary": "李瓶儿想在新房未成时先搬到金莲楼上。金莲让西门庆先问月娘，月娘正在梳头，却把孝服、旧友关系、收房收物三件事逐层说出，又提出花大可能生事的顾虑。西门庆被说得闭口无言，随后才转去向金莲求办法；画面不把后来借口提前塞进这次谈话。",
+      "psychology": {
+        "明写": "月娘说“奴说的是好话”，西门庆被说得闭口无言。",
+        "推断": "月娘在权衡家内伦理、财产牵连与对外口舌；这种权衡不等于可用一张表情判她永久性情。"
+      },
+      "social": "婚事由内宅谈话显露出守丧、旧友关系和财产往来的牵连；花大会生事是月娘听闻后的担忧，并非已发生的诉讼。",
+      "explicit": {
+        "原文明示": [
+          "月娘正在梳头",
+          "西门庆陈述婚议",
+          "月娘列举三件事",
+          "西门庆闭口无言"
+        ],
+        "人物话语": "花大是刁徒泼皮出自月娘“闻得人说”，本幅不将此传闻画成花大作恶的实景。"
+      },
+      "inference": {
+        "推断": "画为月娘暂缓梳头转头讲话的一刻。",
+        "艺术补足": [
+          "梳具和不映人脸的铜镜",
+          "月娘灰绿衣色与半整发髻",
+          "西门庆站位",
+          "室内晨光及陈设"
+        ]
+      },
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回与指定前情；宋代故事设定和宽泛晚明视觉参考分开。器物、衣色与空间未考定处均属美术补足，不作为制度或建筑复原证据。",
+      "references": [
+        "references/moon-030.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Wu Yue niang face and sturdy rounded body identity only (woman in older reference); second Ximen Qing identity only. Do not import snow, prayer, fur collar, old courtyard, fan or reference costumes. Scene: early spring daytime in Wu Yue niang private sitting/dressing room. EXACTLY TWO figures. Wu Yue niang sits left at a plain wooden dressing table, modest fully closed sage-green robe and dark skirt, round fleshy face and composed sturdy figure, hair partly combed and gathered, one wooden comb held beside her head as she pauses and turns toward Ximen to speak seriously. She is neither shouting nor theatrically furious. Ximen stands at right in muted indigo robe and black cloth cap, lips closed, hands quietly together before waist, listening without an answer, recognizable long face and narrow eyes. Plain oval bronze mirror angled away so it shows no additional face, small box and hairpin on table. No maid, no other people, no writing, no symbolic ghosts. Soft cool window daylight; mundane lived-in room and diagonal gap between figures give the conversation weight.",
+      "image": "assets/016-03.webp",
+      "status": "generated",
+      "review": "已打开工作区采用图核看：恰月娘和西门庆两人，圆润月娘与长脸西门庆可辨；月娘握梳拢发转头讲话，西门庆闭口静听，铜镜无额外倒影人物，双手无显著畸形。服色、梳具与室内位置属补足，未画花大实际生事、后来的金莲建议或祈祷雪景。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Wu Yue niang face and sturdy rounded body identity only (woman in older reference); second Ximen Qing identity only. Do not import snow, prayer, fur collar, old courtyard, fan or reference costumes. Scene: early spring daytime in Wu Yue niang private sitting/dressing room. EXACTLY TWO figures. Wu Yue niang sits left at a plain wooden dressing table, modest fully closed sage-green robe and dark skirt, round fleshy face and composed sturdy figure, hair partly combed and gathered, one wooden comb held beside her head as she pauses and turns toward Ximen to speak seriously. She is neither shouting nor theatrically furious. Ximen stands at right in muted indigo robe and black cloth cap, lips closed, hands quietly together before waist, listening without an answer, recognizable long face and narrow eyes. Plain oval bronze mirror angled away so it shows no additional face, small box and hairpin on table. No maid, no other people, no writing, no symbolic ghosts. Soft cool window daylight; mundane lived-in room and diagonal gap between figures give the conversation weight.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "016-04",
+      "chapter": 16,
+      "title": "生日席上先庆了喜",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 18,
+          "quote": "于是叫伯爵把酒，谢希大执壶，祝日念捧菜，其余都陪跪。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 18,
+          "quote": "一连把西门庆灌了三四锺酒。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 16,
+        "paragraph": 18,
+        "quote": "祝日念道：「比是明日与哥庆喜，不如咱如今替哥把一杯儿酒，先庆了喜罢。」于是叫伯爵把酒，谢希大执壶，祝日念捧菜，其余都陪跪。"
+      },
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "谢希大",
+        "祝日念；其余席客与吴惠、郑奉均在画外"
+      ],
+      "place": "应伯爵生日酒席的一侧，暮前",
+      "event": "婚议被应伯爵听见，众人先向西门庆敬酒庆喜。",
+      "why": "生日的东道席转成借婚议讨喜酒、结交与施压的场所。",
+      "composition": "近取主宾和执杯、执壶、捧菜三人；其余陪跪与弹唱者均裁在画外，不伪称全席群像。",
+      "summary": "玳安来催西门庆早去李瓶儿家，应伯爵偷听到消息，回席便向众人说开。朋友们要求日后设喜酒，又当场执杯、持壶、捧菜，陪跪庆喜，连灌三四锺。本幅取局部四人，保留这份热闹中对主客的牵扯：此时只是先庆婚议，还没有发生迎娶过门。",
+      "psychology": {
+        "明写": "西门庆笑说亲事已定当；后来急于离席，应伯爵还拦门。",
+        "推断": "朋友把助力表态、索喜酒与劝酒连在一起；热闹的同盟同时使西门庆难以脱身。"
+      },
+      "social": "兄弟义气以言语、作陪和宴饮表演出来；席上许诺火里火去并非已经实践的行动。称呼、座序和陪跪不扩为精确礼制图。",
+      "explicit": {
+        "原文明示": [
+          "应伯爵把酒",
+          "谢希大执壶",
+          "祝日念捧菜",
+          "其余陪跪、两个小优跪着弹唱",
+          "西门庆被灌三四锺"
+        ],
+        "人物话语": "众人说可替西门庆对付花大，又索日后喜酒；不是花大已经阻婚的证据。"
+      },
+      "inference": {
+        "推断": "以局部取景呈现全席动作，画外仍有其他陪跪者。",
+        "艺术补足": [
+          "谢、祝侧后脸和衣色，未建立稳定外貌",
+          "酒器与菜盘形状",
+          "四人相对位置",
+          "暮光及席面陈设"
+        ]
+      },
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回与指定前情；宋代故事设定和宽泛晚明视觉参考分开。器物、衣色与空间未考定处均属美术补足，不作为制度或建筑复原证据。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Ximen Qing identity only. Second image is a group portrait; ONLY the slim man at the FAR LEFT is Ying Bojue: narrow longer face, fine short moustache/goatee, eye-corner wrinkles. Do not copy the central man or the heavy man at right as Ying. New scene: an ordinary household birthday banquet in late spring/early summer, approaching dusk. This is a TIGHT PARTIAL VIEW, exactly FOUR visible men, with the rest of the banquet outside the crop, not a full-table group portrait. Ximen Qing seated at upper right in dark teal long robe and black cloth cap, receiving congratulations with a restrained awkward smile. Ying Bojue at center-front kneels toward him, offering one small wine cup with both hands, recognizable left-reference face, brown robe. Xie Xida kneels left-back, shown three-quarter rear so identity facial design is not asserted, holds a small ceramic wine ewer upright at chest level. Zhu Rinian kneels lower-left in rear/side view, holding a shallow dish of food carefully with both hands. Exactly one cup offering, one ewer, one dish; separate hands and objects, no fused fingers. All three congratu­lating men truly kneel on floor, not sitting on stools. A corner of the food table at right; remaining seven friends and two young musicians are entirely outside frame, no crowd silhouettes to miscount. No wedding couple, bride, bridal red decorations, readable birthday text or writing. This is male social pressure and convivial ceremony, not a wedding ceremony.",
+      "image": "assets/016-04.webp",
+      "status": "generated",
+      "review": "已打开工作区采用图核看：恰四名男子；西门庆坐右，应伯爵跪前执杯、谢希大侧后执壶、祝日念前侧捧菜，手与器物分离清楚。应伯爵取旧合像左侧的细须瘦脸，无误借右侧胖脸；谢、祝侧后取景不建立脸谱。其余宾客与两小优均画外，本图不是全席人数复原。无婚礼新娘或预成亲场景。室外花枝、地席、盘壶和衣色属补足。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Ximen Qing identity only. Second image is a group portrait; ONLY the slim man at the FAR LEFT is Ying Bojue: narrow longer face, fine short moustache/goatee, eye-corner wrinkles. Do not copy the central man or the heavy man at right as Ying. New scene: an ordinary household birthday banquet in late spring/early summer, approaching dusk. This is a TIGHT PARTIAL VIEW, exactly FOUR visible men, with the rest of the banquet outside the crop, not a full-table group portrait. Ximen Qing seated at upper right in dark teal long robe and black cloth cap, receiving congratulations with a restrained awkward smile. Ying Bojue at center-front kneels toward him, offering one small wine cup with both hands, recognizable left-reference face, brown robe. Xie Xida kneels left-back, shown three-quarter rear so identity facial design is not asserted, holds a small ceramic wine ewer upright at chest level. Zhu Rinian kneels lower-left in rear/side view, holding a shallow dish of food carefully with both hands. Exactly one cup offering, one ewer, one dish; separate hands and objects, no fused fingers. All three congratu­lating men truly kneel on floor, not sitting on stools. A corner of the food table at right; remaining seven friends and two young musicians are entirely outside frame, no crowd silhouettes to miscount. No wedding couple, bride, bridal red decorations, readable birthday text or writing. This is male social pressure and convivial ceremony, not a wedding ceremony.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "016-05",
+      "chapter": 16,
+      "title": "除服夜的回杯",
+      "evidence": [
+        {
+          "chapter": 16,
+          "paragraph": 19,
+          "quote": "李瓶儿摘去孝䯼髻，换了一身艳服。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 19,
+          "quote": "西门庆下席来，亦回递妇人一杯，方纔坐下。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 16,
+        "paragraph": 19,
+        "quote": "西门庆下席来，亦回递妇人一杯，方纔坐下。"
+      },
+      "people": [
+        "李瓶儿",
+        "西门庆"
+      ],
+      "place": "李瓶儿家灯烛照耀的堂中",
+      "event": "除服酒席上，李瓶儿行礼递酒后，西门庆下席回敬。",
+      "why": "素服换成艳服，婚议似乎更近，过门却仍在等待。",
+      "composition": "西门庆离开上首独椅递回一杯，李瓶儿立在桌侧接杯；恰两名可见人物。",
+      "summary": "五月十五日烧灵之后，李瓶儿换去孝髻素服，在灯烛明亮的堂上独设上首交椅，向西门庆递酒行礼。画面取西门庆下席回杯的一刻。她随后说自己久候，催他早娶；本回并未写成迎亲过门，故不画喜轿、新房合卺或已经正式成婚的结果。",
+      "psychology": {
+        "明写": "李瓶儿因过门日子近了而欢喜，后来请求趁早迎娶；西门庆回敬一杯。",
+        "推断": "服饰和席位改变使她把婚议体验为更接近实现，但她仍在催促，不能把愿望写成既成结果。"
+      },
+      "social": "烧灵、除服、私席行礼与正式过门分别发生；私人承诺和公开婚姻程序不可凭一杯酒合并。花大两口子受赠十两、两套衣服的说法分属玳安报告和瓶儿转述。",
+      "explicit": {
+        "原文明示": [
+          "李瓶儿去孝髻、换艳服",
+          "堂中灯烛荧煌",
+          "上面独安一张交椅",
+          "西门庆下席回递一杯"
+        ],
+        "人物话语": "李瓶儿说花大两口子满口说好，并接受十两银子、两套衣服；不画为亲历的赠礼场面。"
+      },
+      "inference": {
+        "推断": "取回杯交接瞬间，侍者不入镜但未否定其在场。",
+        "艺术补足": [
+          "艳服选赭红绣边而非大婚装束",
+          "杯、交椅和席面的宽泛形制",
+          "两人站位与烛光方向",
+          "器物花纹"
+        ]
+      },
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回与指定前情；宋代故事设定和宽泛晚明视觉参考分开。器物、衣色与空间未考定处均属美术补足，不作为制度或建筑复原证据。",
+      "references": [
+        "references/ping-013.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Li Ping er facial identity only, second Ximen Qing facial/body identity only. New painted narrative scene: early-summer night in Li Ping er own household hall, brightly lit with plain candles, after she has changed out of mourning clothes. EXACTLY TWO visible fully clothed people; attendants are outside crop. Li Ping er stands at left wearing a rich but modest dark vermilion/ochre-red long robe with narrow embroidered edging and a closed collar, a tidy ornamented black hair bun, no white mourning headband and no bridal veil. Small build, pale melon-seed face, fine curved brows, warm pleased expression directed at Ximen. Ximen stands at right, having just stepped away from the single wooden armchair at the upper end of the dinner table, long face straight brows narrow eyes, dark blue-green long robe and black cloth cap. He offers ONE small filled wine cup toward Li with both hands; her open hands receive it, simple clear hand anatomy with visible gap before touching the cup. Behind him one and only one prominent upper-place armchair. Table has a neat small dinner, wine jar and a plain wine pot; servants not visible, no extra hands. Focus on reciprocal courteous cup-giving, not kneeling now. No wedding ceremony, bridal sedan, red double-happiness signs, dragon-phoenix nuptial bed, sexual pose, bedroom, readable text or modern items. Warm candles pick out clothes and faces, with a quiet dark doorway deep in hall.",
+      "image": "assets/016-05.webp",
+      "status": "generated",
+      "review": "已打开工作区采用图核看：恰李瓶儿、西门庆两人，参考脸相符；西门庆离上首独椅站立回递一杯，李瓶儿伸手待接，手与杯交接自然无显著畸形。艳服为赭红绣边宽袍，未画孝服、喜帕、花轿或新房；灯烛与席面可辨。只有这一杯正在交接，碗盘不是额外人物。衣服细节、交椅、席面和室内装饰为美术补足，不能据此判定已正式过门。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash on subtle paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Input images: first Li Ping er facial identity only, second Ximen Qing facial/body identity only. New painted narrative scene: early-summer night in Li Ping er own household hall, brightly lit with plain candles, after she has changed out of mourning clothes. EXACTLY TWO visible fully clothed people; attendants are outside crop. Li Ping er stands at left wearing a rich but modest dark vermilion/ochre-red long robe with narrow embroidered edging and a closed collar, a tidy ornamented black hair bun, no white mourning headband and no bridal veil. Small build, pale melon-seed face, fine curved brows, warm pleased expression directed at Ximen. Ximen stands at right, having just stepped away from the single wooden armchair at the upper end of the dinner table, long face straight brows narrow eyes, dark blue-green long robe and black cloth cap. He offers ONE small filled wine cup toward Li with both hands; her open hands receive it, simple clear hand anatomy with visible gap before touching the cup. Behind him one and only one prominent upper-place armchair. Table has a neat small dinner, wine jar and a plain wine pot; servants not visible, no extra hands. Focus on reciprocal courteous cup-giving, not kneeling now. No wedding ceremony, bridal sedan, red double-happiness signs, dragon-phoenix nuptial bed, sexual pose, bedroom, readable text or modern items. Warm candles pick out clothes and faces, with a quiet dark doorway deep in hall.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

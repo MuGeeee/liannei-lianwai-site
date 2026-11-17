@@ -1,0 +1,449 @@
+{
+  "number": 64,
+  "title": "第六十四回玉箫跪央潘金莲　合卫官祭富室娘",
+  "intro": "下人的夜谈、玉箫的求饶与书童离去，连到丧祭中的木料估价和合卫仪式。五图只取本回已经发生之事，人物评价、推断与美术补足分别标明。",
+  "supplements": [
+    {
+      "title": "私会、揭破与控制",
+      "text": "清早玉箫与书童私会，被来索孝绢的金莲撞见；二人跪求。此事件仅以非露骨文字和准确短引保留，未绘亲密行为。金莲随后利用保密条件要求玉箫通报月娘房中大小事并捎出物件。年龄不明，不因职业或关系推定成年。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "唬得两个做手脚不迭，齐跪在地下哀告。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "旣要我饶恕你，你要依我三件事。"
+        }
+      ]
+    },
+    {
+      "title": "符药之说不当作医疗事实",
+      "text": "玉箫说月娘吃了薛姑子的衣胞符药便有孕。这是角色的因果叙述，不能据此认证药效或说明生理机制，也不复现配制方法。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "不瞒五娘说，俺娘如此这般，吃了薛姑子的衣胞符薬，便有了。"
+        }
+      ]
+    },
+    {
+      "title": "钥匙与不见的物件",
+      "text": "打发孝绢时找不到书童，傅伙计说明取银的说辞；西门庆否认吩咐。开书房查看，库房钥匙仍挂墙上，橱柜却少了巾帕、书礼银子、挑牙纽扣等物。随后叫管役访缉，本回没有写抓获。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "我并没吩咐他，如何问你要银子？"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "见库房里钥匙挂在墙上"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "各处三瓦两巷，与我访缉！"
+        }
+      ]
+    },
+    {
+      "title": "两内相上香与娱乐选择",
+      "text": "薛、刘两内相合送祭桌、伴宿银，各一两，又安排唱道情者。二人正式上香、献三锺酒、两拜。席间先点戏而后不耐，改听道情；温秀才与薛内相关于南戏和士大夫的笑语仍是人物交锋，不替任何腔调判高下。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "又每人送了一两银子伴宿分资"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 11,
+          "quote": "两个内相上了香，递了三锺酒，拜下去。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 11,
+          "quote": "唱了还未几折，心下不耐烦"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 11,
+          "quote": "于是打起渔鼓，两个并肩朝上高声唱了一套「韩文公雪拥蓝关」故事，下去。"
+        }
+      ]
+    },
+    {
+      "title": "席间朝事，谈罢仍饮",
+      "text": "薛内相在酒席上讲雷灾、边事、童掌事与朝中议论，刘内相说朝里事不干他们，叫继续吃酒。只记录此刻的席间话语；其中历日、传闻和朝局不擅自校正为史实，更不借后回解释其预兆。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 12,
+          "quote": "那朝里事也不干咱们。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 12,
+          "quote": "王十九，咱们只吃酒！"
+        }
+      ]
+    },
+    {
+      "title": "留客续戏与合卫盛宴",
+      "text": "两内相离去后，西门庆又留原客并请伙计等复坐，将昨日玉环记未完折数演完；给戏子四两银。次日官客祭后宴饮更盛，伙计主管按例打发跟随人役盒担钱。祭文颂辞与结尾诗不作人物终身事实或未来暗示。",
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 13,
+          "quote": "将昨日〈玉环记〉做不完的折数，一一紧做慢唱，都搬演出来。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 13,
+          "quote": "与了戏子四两银子，打发出门。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 17,
+          "quote": "三道五割，酒肴比前两日更丰盛齐整。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 17,
+          "quote": "都照例打发银子停当。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "064-01",
+      "chapter": 64,
+      "title": "铺中夜谈，下人的记忆",
+      "excerpt": {
+        "chapter": 64,
+        "paragraph": 5,
+        "quote": "玳安一面关上铺子门，上炕和傅伙计两个通厮脚儿睡下。傅伙计闲中因话提起，向玳安说道：「你六娘没了，这等样棺椁祭祀，念经发送，也够他了。」"
+      },
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 5,
+          "quote": "这玳安柜上点着夜烛"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 5,
+          "quote": "又有谦让，又和气，见了人只是一面儿笑。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 5,
+          "quote": "只是五娘快戳无路儿"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 5,
+          "quote": "两个说了一回，那傅伙计在枕上齁齁就睡着了。"
+        }
+      ],
+      "people": [
+        "玳安",
+        "傅伙计"
+      ],
+      "place": "前边铺子里的炕上，鸡唱前后",
+      "event": "玳安收过酒具，与傅伙计躺下闲谈，称说李瓶儿待下人的和气，也谈各房差别。",
+      "why": "在盛大祭礼之外，下人的日常得失给出另一种人物记忆。",
+      "composition": "二人在一张长炕的相隔两端斜倚，夜烛残短；酒具已移到柜台边，画面没有生前瓶儿的幻影。",
+      "summary": "众人散后，玳安和平安吃完柜上的酒。关铺躺下，傅伙计谈起六娘的丧事，玳安却从买东西、借钱、替下人说情这些琐事，讲到她与各房主母的不同。图取两人仍在说话的一刻，不把玳安“疼钱”的评语当作叙述者已证明的内心事实。",
+      "psychology": {
+        "明写": "傅伙计引起话头，玳安追念六娘宽和，又抱怨五娘动辄告状；傅伙计随后入睡。",
+        "推断": "玳安侧身压低声音、傅伙计疲惫半卧，是深夜闲谈的动作解释。"
+      },
+      "social": "丧仪费用并不等于下人的经验。买办时称银、扣数与代为说情，显示家内权力如何进入微小日常；这些比较是人物的话，不代替完整财务或品德结论。",
+      "explicit": [
+        "前铺夜烛、酒具收边、共炕闲谈均有据。",
+        "李瓶儿性情与西门庆疼钱的说法均出自玳安评价，未画成全知事实。"
+      ],
+      "inference": [
+        "铺面、炕床结构、铺盖、烛台、两人姿态与衣色是补足；不声称复原通厮脚儿的精确体位。",
+        "傅伙计本回明称老头子，沿用旧脸并增加适度灰须和皱纹；玳安精确年龄未核，不据图判定成年。",
+        "采用图傅伙计眼已闭，定位闲谈将尽而将睡的一瞬，不断言他全程闭眼听。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第64回隔离包及第63回必要连续性；宋代故事设定与宽泛晚明视觉参考分开。生成图不是历史证据，服饰、器物和空间未作精确复原。",
+      "references": [
+        "references/young-people-030.png",
+        "assets/043-05.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Dai An, the narrow-faced young male servant in the FAR LEFT panel; do not use the middle boy or right woman. His exact age is unspecified: preserve the reference youthful appearance, no sexualization or adult recasting. Input image 2 locks ONLY merchant assistant Fu, the mature angular-faced man at the FAR LEFT of the far row, dark grey-blue robe, short moustache and chin beard, NOT any other diner. This chapter explicitly calls Fu an old man: subtly grey his existing short beard, add tired eye creases while retaining identity. Exactly TWO visible men fully clothed in closed simple slate-grey and faded brown everyday robes, on a long broad raised kang sleeping platform in the rear of a merchant shop at deep night approaching cockcrow. A close oblique view, Dai An near LEFT reclining on one elbow with a small pillow behind shoulder, his youthful narrow face quietly talking and one hand making a small open gesture. Old Fu at RIGHT farther back reclines against another pillow, head turned to listen, heavy eyelids, weary rather than smiling. Their lower bodies are under separate plain modest quilts; no bare skin except faces and hands, no intimacy. Show a long shared platform and distance, not a modern bed. A single short night candle on the merchant counter behind them makes a warm restrained pool, shutters closed with only a thin cool pre-dawn seam, absolutely no sunrise. Wine pot and small cups already gathered to one side of counter, not held in hands. Worn wood drawers and folded plain cloth in dim shadows. No other person, ghost, coffin, dream insert, readable text or modern lamp. Clearly distinct faces and anatomically sound hands.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Dai An, the narrow-faced young male servant in the FAR LEFT panel; do not use the middle boy or right woman. His exact age is unspecified: preserve the reference youthful appearance, no sexualization or adult recasting. Input image 2 locks ONLY merchant assistant Fu, the mature angular-faced man at the FAR LEFT of the far row, dark grey-blue robe, short moustache and chin beard, NOT any other diner. This chapter explicitly calls Fu an old man: subtly grey his existing short beard, add tired eye creases while retaining identity. Exactly TWO visible men fully clothed in closed simple slate-grey and faded brown everyday robes, on a long broad raised kang sleeping platform in the rear of a merchant shop at deep night approaching cockcrow. A close oblique view, Dai An near LEFT reclining on one elbow with a small pillow behind shoulder, his youthful narrow face quietly talking and one hand making a small open gesture. Old Fu at RIGHT farther back reclines against another pillow, head turned to listen, heavy eyelids, weary rather than smiling. Their lower bodies are under separate plain modest quilts; no bare skin except faces and hands, no intimacy. Show a long shared platform and distance, not a modern bed. A single short night candle on the merchant counter behind them makes a warm restrained pool, shutters closed with only a thin cool pre-dawn seam, absolutely no sunrise. Wine pot and small cups already gathered to one side of counter, not held in hands. Worn wood drawers and folded plain cloth in dim shadows. No other person, ghost, coffin, dream insert, readable text or modern lamp. Clearly distinct faces and anatomically sound hands.",
+      "image": "assets/064-01.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰二人，左玳安窄脸束发、右傅伙计较老有须，实际传入合像中各自指定旧脸，没有误用中幅少年或其他伙计。二人完整着衣半卧于同一长炕的相隔两处，分盖素被；玳安举掌说话，傅伙计闭眼疲倦，画取说话将尽、老人将睡的一瞬。无身体裸露、亲密动作或幻影。柜后夜烛与已收边的酒壶杯具清楚，窗外仅深暗冷色，不是日出。手脸与床面关系没有明显失真。图未精确复原通厮脚儿的体位，炕、被褥、折布、旧木及衣色为补足，不据陈旧纹理断定人物贫困。采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "064-02",
+      "chapter": 64,
+      "title": "玉箫跪央，三件条件",
+      "excerpt": {
+        "chapter": 64,
+        "paragraph": 6,
+        "quote": "金莲道：「旣要我饶恕你，你要依我三件事。」玉箫道：「娘饶了我，随问几件事我也依娘。」"
+      },
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "那玉箫跟到房中，打旋磨儿跪在地下，央及：「五娘，千万休对爹说。」"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "一件，你娘房里但凡大小事儿，就来告我说。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "第二件，我但问你要甚么，你就捎出来与我。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 6,
+          "quote": "第三件，你娘向来没有身孕，如今他怎生便有了？"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "玉箫"
+      ],
+      "place": "潘金莲房内，清早",
+      "event": "玉箫跟到房中跪求保密，金莲以三件条件交换不说。",
+      "why": "一次求饶被转化为日后窥探与索取的支配关系。",
+      "composition": "右侧金莲端坐，左下玉箫跪地仰望，两人视线形成高低差；桌角仅放两匹已取来的素白布绢。",
+      "summary": "金莲撞见玉箫与书童私会后，先叫书童拿孝绢和布，随后回房。玉箫跟来跪求不要告诉西门庆，金莲提出三件条件：通报月娘房中大小事、替她捎东西，以及说明月娘何以有孕。图中两人衣装完整，只表现胁迫式谈判，不以先前私会作噱头。",
+      "psychology": {
+        "明写": "玉箫跪央保密，并答应条件；金莲听取后记在心里，才不向西门庆说。",
+        "推断": "玉箫收紧双手、金莲抬掌停住求饶，是权力高低的视觉解释，不断言其未说出的全部心理。"
+      },
+      "social": "婢女对惩罚和告发的恐惧，使信息成为可以交换的资源。条件涉及主母私事与物品，不把这场求饶描成平等承诺，也不美化控制。",
+      "explicit": [
+        "跟到房中、跪央、三项条件与两匹孝绢布有据。",
+        "玉箫年龄不明，画面不呈现亲密行为或凌乱身体。"
+      ],
+      "inference": [
+        "金莲坐姿、两匹布在桌角、具体室内布局和素灰衣裙为补足。",
+        "不沿用参考图的白衫蓝比甲桃红裙场景制服；本回发饰简素与服色为艺术处理。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第64回隔离包及第63回必要连续性；宋代故事设定与宽泛晚明视觉参考分开。生成图不是历史证据，服饰、器物和空间未作精确复原。",
+      "references": [
+        "references/pan-solo-030.png",
+        "assets/022-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Pan Jinlian narrow oval face and clear brows; ignore her blue vest, pink skirt and basket. Input image 2 locks ONLY Yuxiao, the young female servant STANDING ON LEFT supporting cloth, small narrow oval face, natural straight brows, compact black bun and short rounded chin. NOT the seated red-robed woman. Yuxiao exact age is unknown: preserve youthful appearance, no aging up, no sexuality whatsoever. Exactly TWO fully and modestly clothed women in a sober domestic room in early autumn morning. RIGHT Pan Jinlian sits upright on a plain wooden chair wearing a closed pale ash-grey jacket, muted slate skirt, small plain hairpin in tidy black updo, restrained stern listening expression, not a villainous grin. One hand rests on chair arm and the other is lifted with an understated palm toward the servant as she states conditions. LEFT FOREGROUND Yuxiao kneels on both knees on floor, closed plain faded grey-blue jacket and dark long skirt completely covering her body, tidy bun and secure collar. She clasps both hands at upper chest in supplication and looks up anxiously at Pan; no grabbing, touching or physical punishment, no bruises or tears exaggerated. Two modest rolls of PLAIN WHITE mourning silk and cloth are set at a small side table corner, unobtrusive but distinct, no embroidery. Pale cool daylight through high lattice; empty doorway behind. Quiet tense asymmetry and clear gaze connection, not posed portraits. No bed visible, no male, no intimate act or suggestive clothing, no modern furnishing, no text. Keep both recognizable natural faces distinct and hands plausible.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Pan Jinlian narrow oval face and clear brows; ignore her blue vest, pink skirt and basket. Input image 2 locks ONLY Yuxiao, the young female servant STANDING ON LEFT supporting cloth, small narrow oval face, natural straight brows, compact black bun and short rounded chin. NOT the seated red-robed woman. Yuxiao exact age is unknown: preserve youthful appearance, no aging up, no sexuality whatsoever. Exactly TWO fully and modestly clothed women in a sober domestic room in early autumn morning. RIGHT Pan Jinlian sits upright on a plain wooden chair wearing a closed pale ash-grey jacket, muted slate skirt, small plain hairpin in tidy black updo, restrained stern listening expression, not a villainous grin. One hand rests on chair arm and the other is lifted with an understated palm toward the servant as she states conditions. LEFT FOREGROUND Yuxiao kneels on both knees on floor, closed plain faded grey-blue jacket and dark long skirt completely covering her body, tidy bun and secure collar. She clasps both hands at upper chest in supplication and looks up anxiously at Pan; no grabbing, touching or physical punishment, no bruises or tears exaggerated. Two modest rolls of PLAIN WHITE mourning silk and cloth are set at a small side table corner, unobtrusive but distinct, no embroidery. Pale cool daylight through high lattice; empty doorway behind. Quiet tense asymmetry and clear gaze connection, not posed portraits. No bed visible, no male, no intimate act or suggestive clothing, no modern furnishing, no text. Keep both recognizable natural faces distinct and hands plausible.",
+      "image": "assets/064-02.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰二名女子：左下玉箫双膝跪地、双手合拢在胸前，仰望右侧端坐的潘金莲；金莲一手掌向玉箫、另一手搭椅，居高发话的关系明确。两张旧参考实际传入，玉箫正确采用022-02左站女子的窄小脸，未改成右侧主母；金莲沿用独照的窄鹅蛋脸眉眼。两人衣领、衣裙完整，未画前面的私会或暗示身体，年龄不明者没有性化。右边桌角恰二卷素白布，早晨光与秋叶可辨，手部没有明显失真。两卷布摆桌角、室内布置、素灰服与发饰为补足，金莲的抬掌不声称复原三指手势。采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "064-03",
+      "chapter": 64,
+      "title": "收拾银物，书童登船",
+      "excerpt": {
+        "chapter": 64,
+        "paragraph": 7,
+        "quote": "向书房厨柜内收拾了许多手帕汗巾、挑牙、簪纽，并收的人情，他自己也攒够十来两银子，又到前边柜上，诓了傅伙计二十两——只说要买孝绢，径出城外，雇了长行头口，到马头上，搭在乡里船上，往苏州原籍家去了。"
+      },
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 7,
+          "quote": "那书童见潘金莲冷笑领进玉箫去了，知此事有几分不谐。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "西门庆道：「我并没吩咐他，如何问你要银子？」"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "quote": "一面使人往门外绢铺找寻他，那里得来？"
+        }
+      ],
+      "people": [
+        "书童"
+      ],
+      "place": "城外马头的乡里船边，白昼",
+      "event": "书童取走银钱物件，以买孝绢为名再诓二十两，出城搭船回苏州。",
+      "why": "内宅的隐情立即连到柜上银钱、主仆信任与实际离去。",
+      "composition": "书童抱一只紧扎布包，从木跳板跨向有低篷的船；脚下板与船缘关系明确，画外不补追兵。",
+      "summary": "书童看见金莲冷笑带走玉箫，自知事情不妙。他收拢巾帕、簪纽和人情，连同积下的十来两银子，又谎称奉命买孝绢，从傅伙计手中诓得二十两。随后出城雇脚力，到马头搭乡船回苏州。本图只画已发生的登船，不把其后遭遇放进远景。",
+      "psychology": {
+        "明写": "书童知道此事不谐，收拾财物并以买孝绢为由取银离去。",
+        "推断": "回望和抱紧布包是对仓促离开的动作解释；原文没有说明出城具体时辰或他是否悔恨。"
+      },
+      "social": "丧务买办给取银提供了可信说辞。此处记下的十来两与二十两各有所指，不混为已核定全部失窃总额，不换算现代币值。",
+      "explicit": [
+        "收拾物件、十来两积银、诓取二十两、出城到马头搭船回苏州有据。",
+        "画中仅有书童，雇用脚力的过程在画外；不画追捕成功。"
+      ],
+      "inference": [
+        "布包、腰间小囊、渡口建筑、乡船与跳板形制、衣色和回望均为补足。",
+        "衣装完整，年龄未核；不因男性仆役身份推定成年。",
+        "采用图抱包和扶柱的左右手与实际提示词相反，原文没有指定左右；事件与肢体关系清楚，因此接受这项小差异。帽上小簪也是美术补足，不由旧参考反推本回有据。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第64回隔离包及第63回必要连续性；宋代故事设定与宽泛晚明视觉参考分开。生成图不是历史证据，服饰、器物和空间未作精确复原。",
+      "references": [
+        "assets/034-03.webp"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Shutong, the youthful male servant on RIGHT in the pale jade robe looking at silver, narrow long oval clean-shaven face, natural straight brows and tapered rounded chin. Do not use older merchant on left. Exact age unknown: preserve reference youthful face without adult recasting or any sexualization. Exactly ONE visible person, Shutong alone on a narrow sturdy wooden boarding plank leading from a modest riverside wharf onto a low dark wooden rural passenger boat with a simple curved woven canopy. Early cool autumn daylight, slightly misty distant river, low tiled riverside roofs and indistinct boats with no people in distance. Three-quarter side view: he has one foot firmly on plank, the leading foot securely on the boat threshold, weight physically believable, bends slightly with a tightly tied medium plain cloth travel bundle cradled in his LEFT arm; right hand touches a boat post for balance. He glances back toward the shore, alert and tense rather than smiling. Fully closed practical muted blue-grey robe, dark cloth belt with one small tied pouch, simple dark folded cloth cap, plain soft shoes. Bundle closed, contents unseen, no exposed piles of silver or invented ledger. Boat remains moored by a visible plain rope, calm water below plank. Clear hand, foot and plank geometry. No soldier, pursuer, other human, horse, dramatic storm, readable sign, map, symbol or future omen. Painted material textures, understated departure, no modern dock.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Shutong, the youthful male servant on RIGHT in the pale jade robe looking at silver, narrow long oval clean-shaven face, natural straight brows and tapered rounded chin. Do not use older merchant on left. Exact age unknown: preserve reference youthful face without adult recasting or any sexualization. Exactly ONE visible person, Shutong alone on a narrow sturdy wooden boarding plank leading from a modest riverside wharf onto a low dark wooden rural passenger boat with a simple curved woven canopy. Early cool autumn daylight, slightly misty distant river, low tiled riverside roofs and indistinct boats with no people in distance. Three-quarter side view: he has one foot firmly on plank, the leading foot securely on the boat threshold, weight physically believable, bends slightly with a tightly tied medium plain cloth travel bundle cradled in his LEFT arm; right hand touches a boat post for balance. He glances back toward the shore, alert and tense rather than smiling. Fully closed practical muted blue-grey robe, dark cloth belt with one small tied pouch, simple dark folded cloth cap, plain soft shoes. Bundle closed, contents unseen, no exposed piles of silver or invented ledger. Boat remains moored by a visible plain rope, calm water below plank. Clear hand, foot and plank geometry. No soldier, pursuer, other human, horse, dramatic storm, readable sign, map, symbol or future omen. Painted material textures, understated departure, no modern dock.",
+      "image": "assets/064-03.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰一名书童，旧034-03右侧无须窄长脸实际传入并可辨；没有混入老商人，人物不成年化或性化。布包紧扎抱于怀中，另一手扶篷船木柱，一脚仍在跳板、一脚踏上船缘，船、板、绳、手脚关系明确，无悬空、额外肢体或追兵。图中扶柱与抱包的左右手同提示词相反，但不影响原文未指定左右的登船事件，因此接受并注明。秋叶与白昼、平静水面清楚。小囊、帽上小簪、包袱形制与渡口舟篷为艺术补足，未把簪帽沿用成原文明示；无裸露银堆、文字或未来暗示。采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "064-04",
+      "chapter": 64,
+      "title": "棺前估价，哀礼论财",
+      "excerpt": {
+        "chapter": 64,
+        "paragraph": 9,
+        "quote": "薛内相仔细看了说：「此板不是建昌，是副镇远。」伯爵道：「就是镇远，也值不多。」"
+      },
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 9,
+          "quote": "西门庆即令左右把两边帐子撩起"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 9,
+          "quote": "此板七尺多长，四寸厚，二尺五宽，还看一半亲家分上，要了三百二十两银子哩。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 9,
+          "quote": "是娘子这等大福，纔享用了这板。"
+        }
+      ],
+      "people": [
+        "薛内相",
+        "应伯爵",
+        "西门庆"
+      ],
+      "place": "灵前棺旁，晌午后",
+      "event": "薛内相看棺材，伯爵与他争论木料名色，并说尺寸、价钱。",
+      "why": "吊唁的赞美转向木料与价格，昂贵器物成为相互说话的凭借。",
+      "composition": "三人分立闭合棺木外侧：左前薛内相俯视，中后伯爵张掌解释，右侧白孝服西门庆陪看；撩开的素帐框住木面。",
+      "summary": "薛内相上香后要看棺木，西门庆叫人撩起两边帐子。内相先称好，又推断木料；应伯爵反驳，再报出桃花洞的名色、尺寸和三百二十两的价格。图中棺盖闭合，无遗体；木纹、价格与“福”的连说属于在场者的话，不据此完成木材鉴定。",
+      "psychology": {
+        "明写": "薛内相极口称赞，伯爵纠正木料名色并报价格；西门庆相陪。",
+        "推断": "薛内相前倾细看、伯爵解释手势和西门庆疲惫凝望是构图解释，不给三人添加未明写的轻蔑或得意。"
+      },
+      "social": "丧中物件也承担身份展示。木料与价钱在应答中抬高死者福分；这些说法可以分析为交际话语，不能直接当作历史木材谱或行情。",
+      "explicit": [
+        "撩帐、看棺、估料、争论与报价有据。",
+        "棺木在第63回已大殓合钉，本幅只画闭合木棺。"
+      ],
+      "inference": [
+        "薛内相面貌、三人局部站位、棺木花纹、素袍帽形和帷帐悬法是补足。",
+        "棺木不按小说尺寸机械制图，不画可读名牌；吴大舅、温秀才与左右在局部之外。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第64回隔离包及第63回必要连续性；宋代故事设定与宽泛晚明视觉参考分开。生成图不是历史证据，服饰、器物和空间未作精确复原。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and long build. Input image 2 locks ONLY Ying Bojue, the THIN long-faced bearded man on FAR LEFT of the group, not the central host or round-faced man on right. Exactly THREE visible men at the SIDE of a CLOSED wooden funeral coffin inside a curtained domestic mourning hall in cool autumn midday. Oblique medium-wide view, the long CLOSED coffin foreshortened across lower frame with an unpainted deep warm-brown thick wooden lid and subtle natural grain, NO corpse, no transparent part, no ornamented fantasy casket. Pale curtains drawn back on BOTH sides and secured simply. LEFT foreground new Xue Neixiang, an older palace eunuch with a broad slightly round face, soft heavy lower eyelids, high cheeks, naturally thin lips, clean-shaven cheeks and chin, no moustache, simple dark folded cloth cap and sober charcoal-grey closed robe, leans a little to inspect wood without touching lid, one hand folded naturally inside other sleeve. Center rear Ying Bojue in plain pale-grey mourning robe with simple pale head cloth, recognizable thin moustache and pointed chin beard, makes a restrained open-handed explaining gesture toward wood grain. RIGHT Ximen Qing in WHITE mourning robe, plain WHITE mourning cloth cap and coarse hemp sash watches quietly with exhausted red eyes, no smile. Other companions and curtain-lifting servants outside this tight local crop. A distant partial offering table and soft thin incense smoke, no portrait visible and no readable writing. Rich timber is material focal point and the conversation should feel socially observant, not happy or macabre. Anatomically sound separated hands and faces, no modern coffin hardware, no corpse, ghost or omen.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and long build. Input image 2 locks ONLY Ying Bojue, the THIN long-faced bearded man on FAR LEFT of the group, not the central host or round-faced man on right. Exactly THREE visible men at the SIDE of a CLOSED wooden funeral coffin inside a curtained domestic mourning hall in cool autumn midday. Oblique medium-wide view, the long CLOSED coffin foreshortened across lower frame with an unpainted deep warm-brown thick wooden lid and subtle natural grain, NO corpse, no transparent part, no ornamented fantasy casket. Pale curtains drawn back on BOTH sides and secured simply. LEFT foreground new Xue Neixiang, an older palace eunuch with a broad slightly round face, soft heavy lower eyelids, high cheeks, naturally thin lips, clean-shaven cheeks and chin, no moustache, simple dark folded cloth cap and sober charcoal-grey closed robe, leans a little to inspect wood without touching lid, one hand folded naturally inside other sleeve. Center rear Ying Bojue in plain pale-grey mourning robe with simple pale head cloth, recognizable thin moustache and pointed chin beard, makes a restrained open-handed explaining gesture toward wood grain. RIGHT Ximen Qing in WHITE mourning robe, plain WHITE mourning cloth cap and coarse hemp sash watches quietly with exhausted red eyes, no smile. Other companions and curtain-lifting servants outside this tight local crop. A distant partial offering table and soft thin incense smoke, no portrait visible and no readable writing. Rich timber is material focal point and the conversation should feel socially observant, not happy or macabre. Anatomically sound separated hands and faces, no modern coffin hardware, no corpse, ghost or omen.",
+      "image": "assets/064-04.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰三名男子：左新薛内相洁面无须、宽脸前俯细看；中应伯爵瘦长脸细须、举掌解释；右西门庆长脸疲惫白孝帽白衣麻绖带。两张指定旧脸实际传入，伯爵正确取guests-030最左者，没有误用圆脸者。闭合木棺横贯前景，两边素帐已撩开，木盖无遗体、透明部件或现代金属件；手脸没有明显失真。伯爵嘴角略带谈话表情为美术处理，非断言其内心欢喜。供果、花、香烟、木纹、内相帽形与站位都是补足，未以图中木纹认证桃花洞材质、尺寸或价钱。棺上无字，吴大舅和温秀才在局部画幅外。采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "064-05",
+      "chapter": 64,
+      "title": "合卫来祭，礼生读祝",
+      "excerpt": {
+        "chapter": 64,
+        "paragraph": 14,
+        "quote": "只见后拥前呼，众官员下马，在前厅换衣服。良久，把祭品摆下。众官齐到灵前，西门庆与陈经济伺候还礼。"
+      },
+      "evidence": [
+        {
+          "chapter": 64,
+          "paragraph": 14,
+          "quote": "到次日，周守备、荆都监、张团炼、夏提刑，合卫许多官员，都合了分资，办了一副猪羊吃桌祭奠，有礼生读祝。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 14,
+          "quote": "礼生喝礼，三献毕，跪在傍边读祝："
+        },
+        {
+          "chapter": 64,
+          "paragraph": 17,
+          "quote": "三道五割，酒肴比前两日更丰盛齐整。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 17,
+          "quote": "外边自有伙计主管，将跟随祭来各项人役盒担钱，都照例打发银子停当。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "陈经济",
+        "礼生",
+        "合卫官员（局部背影）"
+      ],
+      "place": "灵前，次日晌午",
+      "event": "合卫官员合资祭奠，三献后礼生跪在旁边读祝，西门庆与陈经济伺候还礼。",
+      "why": "家中丧事进入官员集体往来的仪式，台前祭奠与台后管待同时展开。",
+      "composition": "左前礼生侧跪持祝文，中央三名官客只见背面代表局部，右后西门庆与陈经济白孝服相候；供案上三杯酒，猪羊祭品仅以普通熟食盘体现，不作器制复原。",
+      "summary": "次日合卫多名官员合了分资，祭礼伴鼓而到。官员先在前厅换衣，祭品排下后到灵前，礼生喝礼、三献、跪读祝文，西门庆与陈经济在旁还礼。本图截取读祝的局部，不以三名背影冒充全体人数。祭后更丰盛的宴席与照例打发人役另留说明。",
+      "psychology": {
+        "明写": "官员合资来祭，礼生跪读祝，西门庆与陈经济伺候还礼；祭后盛宴款待。",
+        "推断": "侧候者低首肃立及读者凝神，是礼仪情境中的动作解释，不能从肃立推断所有来客内心悲痛。"
+      },
+      "social": "官员合资、礼生宣读和人役赏钱，把祭奠组织为一套层次分明的交往。祭文的颂德之辞是仪式话语，不逐句认证为李瓶儿实际品行；不冒称宋明丧服与官仪精确复原。",
+      "explicit": [
+        "次日、晌午、换衣、三献、礼生侧跪读祝及二人还礼有据。",
+        "官员很多，本图只画局部三名背影，不能逐一指认为某位官员。"
+      ],
+      "inference": [
+        "礼生新面貌、祝文纸幅、局部站位、来客浅色外袍和帽形、供案熟食与器形均为补足；文字方向背向观众，无可读字。",
+        "画面裁掉正式肖像与棺木位置，不据此说灵前没有画像或棺木；仅保留供案一角。",
+        "跪垫、供花与香烟疏密为美术补足。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第64回隔离包及第63回必要连续性；宋代故事设定与宽泛晚明视觉参考分开。生成图不是历史证据，服饰、器物和空间未作精确复原。",
+      "references": [
+        "references/ximen.png",
+        "references/chen-030.png"
+      ],
+      "prompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and slender long build. Input image 2 locks ONLY Chen Jingji younger face, straight brows and rounder jaw, clean-shaven; ignore purple robe and blue cap. Exactly SIX people visible, a tightly cropped section of a larger funeral rite at noon the next day. From a side aisle viewing an offering table in a domestic mourning hall: LEFT FOREGROUND a new ordinary middle-aged ritual reader with narrow lined face, short sparse moustache, modest dark cloth cap and plain muted brown-grey closed robe kneels on BOTH knees at the SIDE, holding a wide cream folded paper with both hands and reading it toward altar; the back of the paper faces viewer so NO writing is visible. CENTER exactly THREE visiting officials seen entirely FROM BEHIND from shoulders down to feet, standing in pale simple outer robes and dark modest official cloth hats, slightly bowed heads, hands gathered before bodies unseen; faces never visible, no embroidered rank badges or fantasy armor. They are only a local portion of many guests and must not form a complete symmetrical ceremonial lineup. RIGHT BACKGROUND Ximen Qing and Chen Jingji stand together facing slightly toward the reader and altar, both in simple WHITE mourning robes, plain WHITE mourning cloth caps and coarse hemp waist sashes, hands respectfully gathered, quiet serious distinct recognizable faces, Ximen taller with tired red eyes, Chen younger. Exactly one kneeling reader, three backs, two mourning hosts: six total. Offering table across rear with a plain incense burner, THREE small wine cups, plates of ordinary cooked meat and food; do not depict slaughter or animal heads. Pale hanging mourning cloth and thin incense haze, no text, name banner, corpse, visible coffin, portrait, other face or ghost. Formal stillness, convincing depth, natural fingers, restrained mineral colors and noon light; generic artistic ceremony rather than claims of archaeological reconstruction.",
+      "actualPrompt": "Use case: illustration-story. A complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted surface, realistic varied natural faces, worn everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not photographic, not anime, fantasy or glamorous fashion. Cool autumn. No readable text, lettering, signature or watermark; no modern objects or glass-chimney lamps. Input image 1 locks ONLY Ximen Qing long face, straight brows, narrow long eyes and slender long build. Input image 2 locks ONLY Chen Jingji younger face, straight brows and rounder jaw, clean-shaven; ignore purple robe and blue cap. Exactly SIX people visible, a tightly cropped section of a larger funeral rite at noon the next day. From a side aisle viewing an offering table in a domestic mourning hall: LEFT FOREGROUND a new ordinary middle-aged ritual reader with narrow lined face, short sparse moustache, modest dark cloth cap and plain muted brown-grey closed robe kneels on BOTH knees at the SIDE, holding a wide cream folded paper with both hands and reading it toward altar; the back of the paper faces viewer so NO writing is visible. CENTER exactly THREE visiting officials seen entirely FROM BEHIND from shoulders down to feet, standing in pale simple outer robes and dark modest official cloth hats, slightly bowed heads, hands gathered before bodies unseen; faces never visible, no embroidered rank badges or fantasy armor. They are only a local portion of many guests and must not form a complete symmetrical ceremonial lineup. RIGHT BACKGROUND Ximen Qing and Chen Jingji stand together facing slightly toward the reader and altar, both in simple WHITE mourning robes, plain WHITE mourning cloth caps and coarse hemp waist sashes, hands respectfully gathered, quiet serious distinct recognizable faces, Ximen taller with tired red eyes, Chen younger. Exactly one kneeling reader, three backs, two mourning hosts: six total. Offering table across rear with a plain incense burner, THREE small wine cups, plates of ordinary cooked meat and food; do not depict slaughter or animal heads. Pale hanging mourning cloth and thin incense haze, no text, name banner, corpse, visible coffin, portrait, other face or ghost. Formal stillness, convincing depth, natural fingers, restrained mineral colors and noon light; generic artistic ceremony rather than claims of archaeological reconstruction.",
+      "image": "assets/064-05.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰六人：左前一名礼生双膝跪于侧边读祝，中央恰三名官客背面，右后西门庆与陈经济白孝帽白衣麻绖带相候。两项旧脸实际传入，西门庆长脸较高，陈经济下颌稍圆较年轻，身份没有互换；三名来客只见后脑和背部，不冒指某位官员。纸背朝向观看者，没有可读字；供案恰三只小酒杯，香炉与熟食盘可辨，无动物头或血腥。礼生手持纸、跪姿及两名还礼者双手没有明显失真，素帷和白昼清楚。跪垫、花、纸幅、帽形和局部布局为艺术补足，不当作礼仪器制复原；三名背影只是众官局部。采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

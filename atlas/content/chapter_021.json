@@ -1,0 +1,453 @@
+{
+  "number": 21,
+  "title": "第二十一回吴月娘扫雪烹茶　应伯爵替花勾使",
+  "intro": "雪夜和解、筹银赏雪与寿日候归，家内的亲近和分寸不断被外部人情牵动。仅依据本回及前情，读完确认仍为64。",
+  "supplements": [
+    {
+      "title": "和解后的身体边界",
+      "text": "月娘允庆留宿，却明确说“今日只容你在我床上就够了”；随后叙述写庆“不由分说”。本次不配床内图，不把前面的认错与笑语当作身体行为的概括性许可，也不以结尾欢情笔法消除这处边界。",
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 9,
+          "quote": "今日只容你在我床上就够了；要思想别的事，却不能够。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 9,
+          "quote": "西门庆不由分说"
+        }
+      ]
+    },
+    {
+      "title": "递酒、曲辞与李铭来访",
+      "text": "雪宴里四姊妹依次执盏、壶、菜、陪跪向庆月娘递酒；金莲借瓶儿旧事促其再递，被庆拦住。四婢弹唱《南石榴花》“佳期重会”，玉箫说由五娘吩咐，金莲否认；后来庆向玉楼解说的用意仍属他的判断。李铭来调唱，受茶酒菜食，替李家说情；庆嘱他不说当日曾在此。",
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 17,
+          "quote": "当下李娇儿把盏，孟玉楼执壶，潘金莲捧菜，李瓶儿陪跪"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 18,
+          "quote": "是五娘吩咐唱来。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 18,
+          "quote": "谁敎他唱他来？没的又来缠我。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 23,
+          "quote": "你到那边，休说今日在我这裏。"
+        }
+      ]
+    },
+    {
+      "title": "候归的猜测，不当确证",
+      "text": "家中等到日落，月娘着急；金莲、玉楼、瓶儿到门首候庆并买瓜子。金莲猜他已被应、谢请到李家，且将李铭来访解释为探子；这些幕后串谋之说是金莲的推测。庆实际在李家受赔礼已由叙述交代，不能反过来证明猜测每一环都成立。金莲后来藏粉壁后唬庆。",
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 29,
+          "quote": "看看等到日落时分，不见西门庆来家，急的月娘了不的。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 30,
+          "quote": "我猜他一定往院中李桂儿那淫妇家去了。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 30,
+          "quote": "正说着，只见卖瓜子的过来，两个且在门首买瓜子儿嗑。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 31,
+          "quote": "独有金莲藏在粉壁背后黑影裏。"
+        }
+      ]
+    },
+    {
+      "title": "雪滑、灯笼与房中道谢",
+      "text": "寿酒后众人送庆到玉楼房门首。瓶儿在仪门积雪处滑倒，金莲说扶她反污鞋；庆向玉楼说是金莲绊人，这与金莲说法并列保存，不仅据话语确定动作责任。月娘责小厮未清雪，让小玉提灯送两人。金莲留瓶儿吃茶，说自己曾替她受议论，瓶儿答恩当重报；不将结尾诗句当后事预告。",
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 33,
+          "quote": "刚走到仪门首，不想李瓶儿被地滑了一交。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 33,
+          "quote": "你打个灯笼，送送五娘六娘去。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 34,
+          "quote": "小玉打着灯笼，送二人到花园内。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 34,
+          "quote": "奴知道姐姐费心，恩当重报，不敢有忘。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "021-01",
+      "chapter": 21,
+      "title": "灯前再跪，笑语初开",
+      "excerpt": {
+        "chapter": 21,
+        "paragraph": 8,
+        "quote": "月娘忍不住笑道：「没羞的货，丫头跟前也调个谎儿！」小玉出去，那西门庆又跪下央及。月娘道：「不看世界面上，一百年不理纔好。」"
+      },
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 5,
+          "quote": "保佑夫主早早回心，齐理家事，早生一子，以为终身之计。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 8,
+          "quote": "大红潞紬对衿袄儿，软黄裙子；头上戴着貂鼠卧兔儿，金满池娇分心。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 8,
+          "quote": "小玉出去，那西门庆又跪下央及。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 8,
+          "quote": "说毕，方纔和他坐在一处，敎玉箫来捧茶与他吃了。"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "西门庆"
+      ],
+      "place": "上房灯前，雪夜一更以后",
+      "event": "西门庆听到月娘祈祷，进房赔礼；小玉拆穿收香桌的托词出去后，他再跪央求，月娘终于开笑，随后同坐饮茶。",
+      "why": "原先僵持的夫妻关系在家内祈嗣、认错、回嘴与笑声之间松动；和解仍须保留月娘说出的不满。",
+      "composition": "月娘坐于右侧，红袄黄裙与圆脸清晰；西门庆左侧跪在地上仰面赔笑，门隙冷雪与室内暖灯分开。",
+      "summary": "雪夜归家，西门庆在粉壁前听见月娘为夫主回心、家事与嗣息祈愿，才自认错恼了她。进房赔礼后，他为支走小玉谎称香桌未收，被当场拆穿。图取小玉出去、他再跪央及的一刻：月娘笑了，却没有抹去此前受冷落的怨言；稍后两人才坐在一处饮茶。",
+      "psychology": {
+        "明写": "庆心想错恼月娘，又作揖跪求；月娘先逐客、讥讽，听到谎话后忍不住笑，最终同坐。",
+        "推断": "她嘴角初动、仍略侧身的姿势可承接笑与余怨，不把笑画成全盘认同。"
+      },
+      "social": "祈嗣被月娘明说为终身之计；本馆记录其处境与愿望，不把无子责任归给某一妇人。",
+      "explicit": [
+        "本次祈祷瞒着西门庆，庆在仪门粉壁前听见。",
+        "月娘此时大红对衿袄、软黄裙、貂鼠卧兔与金分心为原文明写。",
+        "小玉出去后庆又跪，月娘随后才同坐饮茶。"
+      ],
+      "inference": [
+        "灯具、椅式、衣纹和金分心具体样式未考定。",
+        "图内不画后接的床内性行为；其间月娘说出限制而庆不由分说的细节另作文字保留，不借和解正当化。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离原文。宋代故事设定与宽泛晚明视觉参考分开；具体五官、未考定名物、衣装与空间为美术设定，不冒充历史实证。",
+      "references": [
+        "assets/020-02.webp",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 is a double portrait: ONLY the woman on the RIGHT is Wu Yueniang, preserve her round face and sturdy composed body; do not copy the woman at left. Input 2 preserves Ximen Qing long face, straight brows, narrow eyes and long-waisted build only. Exactly TWO people. Late eleventh lunar month, deep-snow night, inside a modest wealthy household upper room. Medium-wide oblique candid composition. RIGHT Wu Yueniang sits upright on a wooden chair, fully clothed in a deep bright-red silk FRONT-OPENING jacket with two symmetrical front panels, a soft yellow long skirt; a small dark-brown fur forehead warmer over neat black bun, and a modest golden floral hair ornament. The head fur warmer is a literary item, not a huge crown. Keep her jacket cuffs and front edges silk, no excessive fur. She looks down toward Ximen with the beginnings of an involuntary restrained smile, still maintaining personal distance. LEFT Ximen kneels on the bare floor facing her, his upper body upright and hands clasped pleadingly at his own chest, looking up with rueful coaxing expression. Fully clothed in muted dark olive padded winter robe and black cloth cap, snow still flecking the shoulders. No touching her, no sexual pose. A small ordinary oil flame lamp casts warm light, behind them an ajar timber door reveals blue night and accumulated snow. The maid has already LEFT, do not show a third person. No beds, fans, summer foliage or erotic imagery. The precise furniture and ornament design are artistic approximations.",
+      "image": "assets/021-01.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰两人，庆跪地合手央求、月娘坐右侧微笑而保持距离，长脸与圆润脸沿参考；红色对衿袄、软黄裙、貂鼠卧兔与金色分心可识别，服装无裸露，未带入床内行为。夜雪门景与暖灯分开，手部及跪姿无明显失真。杯、果碟、瓶插梅枝、衣纹、柜物、灯盏和首饰具体形制均为美术补足；双杯不据此前移玉箫捧茶的动作。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 is a double portrait: ONLY the woman on the RIGHT is Wu Yueniang, preserve her round face and sturdy composed body; do not copy the woman at left. Input 2 preserves Ximen Qing long face, straight brows, narrow eyes and long-waisted build only. Exactly TWO people. Late eleventh lunar month, deep-snow night, inside a modest wealthy household upper room. Medium-wide oblique candid composition. RIGHT Wu Yueniang sits upright on a wooden chair, fully clothed in a deep bright-red silk FRONT-OPENING jacket with two symmetrical front panels, a soft yellow long skirt; a small dark-brown fur forehead warmer over neat black bun, and a modest golden floral hair ornament. The head fur warmer is a literary item, not a huge crown. Keep her jacket cuffs and front edges silk, no excessive fur. She looks down toward Ximen with the beginnings of an involuntary restrained smile, still maintaining personal distance. LEFT Ximen kneels on the bare floor facing her, his upper body upright and hands clasped pleadingly at his own chest, looking up with rueful coaxing expression. Fully clothed in muted dark olive padded winter robe and black cloth cap, snow still flecking the shoulders. No touching her, no sexual pose. A small ordinary oil flame lamp casts warm light, behind them an ajar timber door reveals blue night and accumulated snow. The maid has already LEFT, do not show a third person. No beds, fans, summer foliage or erotic imagery. The precise furniture and ornament design are artistic approximations.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "021-02",
+      "chapter": 21,
+      "title": "一根银簪，凑成雪宴",
+      "excerpt": {
+        "chapter": 21,
+        "paragraph": 14,
+        "quote": "金莲取过等子来秤，只重三钱七分。因问：「李娇儿怎的？」"
+      },
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 13,
+          "quote": "你秤出来，俺好往后边问李娇儿孙雪娥要去。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 13,
+          "quote": "拿了一块，金莲上等子秤，重一两二钱五分。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 14,
+          "quote": "只重三钱七分。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 14,
+          "quote": "金莲拿过李娇儿银子来秤了秤，只四钱八分。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 15,
+          "quote": "一面连玉楼金莲共凑了三两一钱"
+        }
+      ],
+      "people": [
+        "孟玉楼",
+        "潘金莲",
+        "李瓶儿"
+      ],
+      "place": "李瓶儿房内，次日雪晨",
+      "event": "玉楼与金莲筹办赏雪和解酒席，瓶儿出银；玉楼取回雪娥银簪和娇儿银子，金莲逐件过秤。",
+      "why": "席面尚未摆开，先见共同家事怎样被分摊、抱怨与逐分计较；银簪使钱的紧张有了可见物。",
+      "composition": "恰三位妇人围桌；金莲中央提小型等子称银簪，玉楼左侧回话，瓶儿右侧已穿好衣坐听。",
+      "summary": "玉楼提出凑钱为西门庆、月娘置酒，并让全家赏雪。瓶儿拿出的银块重一两二钱五分；玉楼又从后边带回雪娥的银簪与娇儿的银子。金莲称簪只得三钱七分，称银又只四钱八分，抱怨未出足数。众人最后合凑三两一钱，交小厮买酒食。图取银簪过秤，不画先前掀被戏弄。",
+      "psychology": {
+        "明写": "玉楼说为大家之事求银惹气；金莲逐件称量并责怪数目不足；瓶儿答应按所教数额出银。",
+        "推断": "三人各看秤、看人和看桌的目光能显出不同态度；不据表情判谁必然更宽厚。"
+      },
+      "social": "共同宴席的费用要向各房筹措；娇儿说经手的是扣数的钱、雪娥说没银，均是经玉楼转述的话语，不据此算完整家计。",
+      "explicit": [
+        "银簪三钱七分、娇儿银四钱八分及合凑三两一钱均据原文。",
+        "图中瓶儿已穿衣，不复现掀被裸露；来往拿银由同一房内的稍后时刻承接。"
+      ],
+      "inference": [
+        "三人同时围桌的具体坐位为叙事压缩；玉楼回房与金莲称量同在本段。",
+        "小秤、银簪、银块形状和数量只作识别；不据图认定等子精确刻度、工艺或一两的现代重量。",
+        "衣色、梳妆器具和室内布置是补足。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离原文。宋代故事设定与宽泛晚明视觉参考分开；具体五官、未考定名物、衣装与空间为美术设定，不冒充历史实证。",
+      "references": [
+        "references/yulou.png",
+        "references/pan-solo-030.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 Meng Yulou face identity only, long oval face, subtle natural small facial pockmarks, tall slim body. Input 2 Pan Jinlian face only, narrow oval face and clear natural brows. Input 3 Li Pinger face only, small pale oval face, fine curved brows, petite build. Do not copy their old clothes, fans, baskets, exposed necklines or summer settings. Exactly THREE fully clothed women. Cold snowy morning in eleventh lunar month, a lived-in timber upper bedroom, no bed visible. At a plain wooden table CENTRAL Pan Jinlian sits, hair now neatly dressed, wearing opaque muted plum padded jacket and dark long skirt; she holds up a delicate small handheld silver-weighing STEELYARD by its short suspension cord with one hand, the other steadying the narrow balance beam. One plain silver hairpin lies in its single shallow hanging pan; a small sliding counterweight on the other side of beam. Clear believable separate hands, no giant merchant scales. LEFT Meng Yulou has just returned and gestures toward the scale, lips slightly parted in irritated explanation, grey-blue padded jacket, closed neckline, rust-colored skirt. RIGHT Li Pinger already completely dressed in a sage padded jacket and dark blue skirt, neat hair, sits quietly following the weighing. A few irregular small silver pieces and an empty little wooden box on the table, no coins spilled or readable accounting. Cool snow daylight from a lattice window. Intimate medium-wide triangular composition, different gaze directions, not posed portraits. No extra people, nudity, dressing or bed scene. Exact scale technology and money amounts cannot be inferred from the painting.",
+      "image": "assets/021-02.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰三名妇人，左玉楼保留微麻、中央金莲窄脸、右瓶儿小脸可区分；金莲提单盘等子，盘上银簪、梁上秤锤可辨，桌有小银块和空匣。手部及秤绳无明显融合，三人均已穿好宽松冬衣，未画先前掀被。玉楼改为站着俯身回话，比预想全坐更符合刚回房的动作。秤梁无可读刻度，不据图核算斤两；衣纹、首饰、银簪花头、盘器、柜物与雪窗为美术补足。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 Meng Yulou face identity only, long oval face, subtle natural small facial pockmarks, tall slim body. Input 2 Pan Jinlian face only, narrow oval face and clear natural brows. Input 3 Li Pinger face only, small pale oval face, fine curved brows, petite build. Do not copy their old clothes, fans, baskets, exposed necklines or summer settings. Exactly THREE fully clothed women. Cold snowy morning in eleventh lunar month, a lived-in timber upper bedroom, no bed visible. At a plain wooden table CENTRAL Pan Jinlian sits, hair now neatly dressed, wearing opaque muted plum padded jacket and dark long skirt; she holds up a delicate small handheld silver-weighing STEELYARD by its short suspension cord with one hand, the other steadying the narrow balance beam. One plain silver hairpin lies in its single shallow hanging pan; a small sliding counterweight on the other side of beam. Clear believable separate hands, no giant merchant scales. LEFT Meng Yulou has just returned and gestures toward the scale, lips slightly parted in irritated explanation, grey-blue padded jacket, closed neckline, rust-colored skirt. RIGHT Li Pinger already completely dressed in a sage padded jacket and dark blue skirt, neat hair, sits quietly following the weighing. A few irregular small silver pieces and an empty little wooden box on the table, no coins spilled or readable accounting. Cool snow daylight from a lattice window. Intimate medium-wide triangular composition, different gaze directions, not posed portraits. No extra people, nudity, dressing or bed scene. Exact scale technology and money amounts cannot be inferred from the painting.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "021-03",
+      "chapter": 21,
+      "title": "粉壁石上，扫雪烹茶",
+      "excerpt": {
+        "chapter": 21,
+        "paragraph": 20,
+        "quote": "吴月娘见雪下在粉壁前太湖石上甚厚，下席来，敎小玉拿着茶罐，亲自扫雪，烹江南凤团雀舌芽茶与众人吃。"
+      },
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 16,
+          "quote": "炉安兽炭，摆列酒筵。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 20,
+          "quote": "敎小玉拿着茶罐，亲自扫雪"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 20,
+          "quote": "烹江南凤团雀舌芽茶与众人吃。"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "小玉"
+      ],
+      "place": "后厅帘外粉壁、太湖石旁，赏雪席间",
+      "event": "月娘看见粉壁前太湖石积雪甚厚，下席亲自扫雪，小玉持茶罐相随，随后用来烹茶供众人。",
+      "why": "主人亲自出席采雪，把席上礼数换成有声息、有寒暖的日常动作，也是本回题眼。",
+      "composition": "月娘居左前向雪石低身，以小扫具拂下洁雪；右边小玉双手持罐候在旁，后厅暖帘与炭火留在远景。",
+      "summary": "姐妹筹置的雪宴上，月娘与西门庆居上坐，众人递酒、弹唱。雪越下越大，粉壁前太湖石已覆厚雪。月娘下席，叫小玉拿茶罐，自己扫雪，烹江南凤团雀舌芽茶给众人吃。画面只取石旁采雪的一刻；烹茶步骤和茶品形制没有被原文逐项交代，不将画中器具当作实物图谱。",
+      "psychology": {
+        "明写": "月娘见积雪厚便下席，亲自扫雪烹茶。",
+        "推断": "专注手上洁雪而不回望席面的神态，用于表现当下料理的投入，不引申为永久贤德性格。"
+      },
+      "social": "宴饮与家务在同一场合交织；扫雪煮茶是本回具体行动，不推广为所有家庭的日常饮水习俗。",
+      "explicit": [
+        "粉壁、太湖石、厚雪、小玉持茶罐、月娘亲自扫雪均明写。",
+        "凤团雀舌芽茶为书中茶名，未认定现代产品、产地等级或冲泡参数。"
+      ],
+      "inference": [
+        "小扫具、茶罐颜色与持罐位置、庭院尺度为美术补足；图中未清楚显示洁雪直接落入罐口，不声称完整采雪流程。",
+        "原文一语连写采雪与烹茶，图仅取采雪，不把未考定的完整制作流程复原。",
+        "小玉具体年龄和五官未考定，普通年轻侍女、不性化；冬衣朴素宽松。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离原文。宋代故事设定与宽泛晚明视觉参考分开；具体五官、未考定名物、衣装与空间为美术设定，不冒充历史实证。",
+      "references": [
+        "assets/020-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 is a double portrait: ONLY the RIGHT woman is Wu Yueniang. Preserve her round face, composed sturdy build and neat bun, not the left woman. Snowy daytime, eleventh lunar month. Exactly TWO people outside the rear reception hall in a walled household courtyard. LEFT FOREGROUND Wu Yueniang bends slightly toward a deeply snow-covered porous Taihu-style garden rock before a plain white plaster wall. Fully clothed in the same deep red symmetrical front-opening winter silk jacket and soft yellow long skirt, a small brown fur forehead warmer and modest gold floral ornament, padded but not oversized fur costume. With a little short-handled soft brush she carefully sweeps clean top snow from the rock into the open wide mouth of a small ceramic tea jar held by a maid to the right. RIGHT Xiao Yu is an ordinary youthful maid, no precisely defined age: natural small oval face, straight brows, dark hair in a plain compact bun, wearing a loose opaque slate-blue padded jacket and long brown skirt. She stands securely, holding the jar with both hands at waist height under the falling snow, watching carefully. The action is collecting snow, NOT shoveling a path, washing feet, gardening or pouring tea. Delicate snow showers, blue-white outdoor daylight, glimpse of the hall behind through a half-raised plain warm paper curtain and warm brazier glow. All banquet guests are outside this tight crop. Natural anatomy, hands separate from vessel; no floating objects. No decorative lettering, no green summer plants, no fan, no modern kettle. The jar and brush are artistic approximations, do not imply exact historical apparatus.",
+      "image": "assets/021-03.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰月娘与小玉二人；月娘圆润脸与稳重体态沿020-02右侧参考，红袄黄裙、头额毛暖带清楚，手持小扫具拂太湖石上厚雪；小玉在旁双手持开口茶罐，粉壁、雪日与后厅暖帘炭火可辨。手部无明显失真。画中罐在石侧，未清楚画出雪直接落入罐内，故文案仅说持罐候在旁，不声称复原完整采雪煮茶流程。罐、扫具、石的孔洞、枝果、冬衣纹与小玉五官均为补足；不作茶器、园林尺度或茶品实物考据。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 is a double portrait: ONLY the RIGHT woman is Wu Yueniang. Preserve her round face, composed sturdy build and neat bun, not the left woman. Snowy daytime, eleventh lunar month. Exactly TWO people outside the rear reception hall in a walled household courtyard. LEFT FOREGROUND Wu Yueniang bends slightly toward a deeply snow-covered porous Taihu-style garden rock before a plain white plaster wall. Fully clothed in the same deep red symmetrical front-opening winter silk jacket and soft yellow long skirt, a small brown fur forehead warmer and modest gold floral ornament, padded but not oversized fur costume. With a little short-handled soft brush she carefully sweeps clean top snow from the rock into the open wide mouth of a small ceramic tea jar held by a maid to the right. RIGHT Xiao Yu is an ordinary youthful maid, no precisely defined age: natural small oval face, straight brows, dark hair in a plain compact bun, wearing a loose opaque slate-blue padded jacket and long brown skirt. She stands securely, holding the jar with both hands at waist height under the falling snow, watching carefully. The action is collecting snow, NOT shoveling a path, washing feet, gardening or pouring tea. Delicate snow showers, blue-white outdoor daylight, glimpse of the hall behind through a half-raised plain warm paper curtain and warm brazier glow. All banquet guests are outside this tight crop. Natural anatomy, hands separate from vessel; no floating objects. No decorative lettering, no green summer plants, no fan, no modern kettle. The jar and brush are artistic approximations, do not imply exact historical apparatus.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "021-04",
+      "chapter": 21,
+      "title": "赌誓之后，二客跪请",
+      "excerpt": {
+        "chapter": 21,
+        "paragraph": 26,
+        "quote": "慌的二人一齐跪下，说道：「哥，甚么话！不争你不去，既他央了俺两个一场，显的我们请哥不的。哥去到那裏，畧坐坐儿，就来也罢！」"
+      },
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 26,
+          "quote": "应伯爵、谢希大，受了李家烧鹅瓶酒"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 26,
+          "quote": "恐怕西门庆动意摆布他家"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 26,
+          "quote": "我已是对房下赌誓，再也不去"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 26,
+          "quote": "慌的二人一齐跪下"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 27,
+          "quote": "当下二人死告活央，说的西门庆肯了。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "谢希大"
+      ],
+      "place": "前厅，雪晴次日早晨",
+      "event": "应伯爵、谢希大受李家托请，替其解释赔礼，西门庆以已向月娘赌誓推拒；二人一齐跪下央求，终于说动他。",
+      "why": "昨夜家中的誓言很快遇到外部人情；中间人把李家的恐惧与自己的请不动面子并在一处。",
+      "composition": "西门庆右侧坐而略退，应伯爵左中跪着仰说，谢希大左近背身同跪；门外雪晴显出时序。",
+      "summary": "雪晴次晨，应、谢二人已收李家的烧鹅瓶酒，来请西门庆去受赔礼。西门庆说已对房下赌誓，再不去。应伯爵所述丁二官与桂卿、陈监生的关系仍归他的解释。两人最后一齐跪求，把此行说成关乎他们能否请动人的颜面。西门庆答应，留二人吃饼后取衣出门，虽月娘提醒玉楼寿日，仍被请走。",
+      "psychology": {
+        "明写": "李家怕庆动意摆布；二客收酒食、下跪死告活央，庆由拒绝转为答应。",
+        "推断": "庆微退的坐姿与伯爵向前央求构成拉扯，不替他编造此时心内独白。"
+      },
+      "social": "礼物、托请和颜面使中间人得以调停；他们声称的“委曲情由”不是独立核验的全貌。",
+      "explicit": [
+        "来请者两人，一齐下跪；庆起初以誓言推拒。",
+        "烧鹅瓶酒是李家给二客的，此图不放在庆面前当作他收礼的证据。"
+      ],
+      "inference": [
+        "谢希大仅背身入画，不新造可继承的清晰面貌。",
+        "座次、厅堂、姿势细部、冬袍与光线为补足；此刻尚未放桌吃饼，图不把后续进食前移。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离原文。宋代故事设定与宽泛晚明视觉参考分开；具体五官、未考定名物、衣装与空间为美术设定，不冒充历史实证。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Ximen Qing long face, straight brows, narrow eyes and long-waisted build only. Input 2 is a three-man reference: ONLY the lean moustached man on LEFT is Ying Bojue. Do not copy central man or right man as him, do not copy meal bowls. Exactly THREE men. A clear snowy morning in the late eleventh lunar month, in the front reception hall. RIGHT Ximen sits on a plain wooden armchair in dark moss-green padded winter robe and black cloth cap, upright but drawing his upper body a little back, one open hand near his own chest while declining. CENTER-LEFT Ying Bojue kneels on both knees on the floor, slender long face, fine moustache and small pointed beard, taupe-brown padded robe, pleading upward with two open hands held near his own chest. NEAR LEFT foreground Xie Xida kneels beside Ying, viewed strictly from behind with his face turned completely away and hidden, muted blue-grey padded robe and ordinary black cloth headwrap. The two kneeling visitors ask him to attend a reconciliation meal elsewhere; no humiliation violence, no grabbing or weapon. No woman present in this crop, no food table yet. White snow outside the open hall, cold clear daylight crossing worn floor, strong diagonal between seated host and two petitioners. No goose, wine gifts, money, steaming dishes, summer foliage or fans. Believable fully clothed anatomy, natural hands, no extra figures. This scene is a respectful but urgent social petition, not a courtroom.",
+      "image": "assets/021-04.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰三人，庆坐右侧抬手推拒，应伯爵正面跪求、谢希大背身同跪，人数及分工清楚；庆长脸、伯爵瘦长脸细须沿参考，谢脸被完全隐去，未另造面貌。雪晴晨光、冬袍与厅堂可见，手部和跪姿无明显失真。桌尚未放、没有鹅酒礼物，未把随后吃饼或李家给二客的礼前移到庆面前；衣色、椅式、厅堂、窗景和姿势细部是美术补足。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Ximen Qing long face, straight brows, narrow eyes and long-waisted build only. Input 2 is a three-man reference: ONLY the lean moustached man on LEFT is Ying Bojue. Do not copy central man or right man as him, do not copy meal bowls. Exactly THREE men. A clear snowy morning in the late eleventh lunar month, in the front reception hall. RIGHT Ximen sits on a plain wooden armchair in dark moss-green padded winter robe and black cloth cap, upright but drawing his upper body a little back, one open hand near his own chest while declining. CENTER-LEFT Ying Bojue kneels on both knees on the floor, slender long face, fine moustache and small pointed beard, taupe-brown padded robe, pleading upward with two open hands held near his own chest. NEAR LEFT foreground Xie Xida kneels beside Ying, viewed strictly from behind with his face turned completely away and hidden, muted blue-grey padded robe and ordinary black cloth headwrap. The two kneeling visitors ask him to attend a reconciliation meal elsewhere; no humiliation violence, no grabbing or weapon. No woman present in this crop, no food table yet. White snow outside the open hall, cold clear daylight crossing worn floor, strong diagonal between seated host and two petitioners. No goose, wine gifts, money, steaming dishes, summer foliage or fans. Believable fully clothed anatomy, natural hands, no extra figures. This scene is a respectful but urgent social petition, not a courtroom.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "021-05",
+      "chapter": 21,
+      "title": "寿席四红沉，玉楼低首",
+      "excerpt": {
+        "chapter": 21,
+        "paragraph": 32,
+        "quote": "正掷个四红沉。月娘满令，叫小玉：「斟酒与你三娘吃。」说道：「你吃三大杯纔好，今晚你该伴新郎宿歇！」"
+      },
+      "evidence": [
+        {
+          "chapter": 21,
+          "paragraph": 27,
+          "quote": "那时十一月廿六日，就是孟玉楼寿日"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 32,
+          "quote": "従新摆上玉楼上寿的酒，并四十样细巧各样的菓碟儿上来。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 32,
+          "quote": "一个牌儿名，两个骨牌，合〈西厢〉一句。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 32,
+          "quote": "正掷个四红沉。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 32,
+          "quote": "把玉楼羞的了不的。"
+        }
+      ],
+      "people": [
+        "吴月娘",
+        "孟玉楼",
+        "西门庆"
+      ],
+      "place": "上房玉楼寿席，起更以后",
+      "event": "庆晚归，家中先回席再为玉楼上寿。众人行令，玉楼说中四红沉；月娘叫斟三杯并提议送庆与玉楼归房，玉楼害羞。",
+      "why": "月娘刚恢复的家内主持位置，在规则、斟酒与送房安排中具体显现；寿席的笑语并未抹去白日等候。",
+      "composition": "紧取三位主要人物的席面局部：左月娘抬手吩咐斟酒，中玉楼垂目微羞，右庆含笑看她；骨牌与杯碟在前景，不复原全席座次。",
+      "summary": "十一月廿六，家里为玉楼备寿酒，西门庆却直到晚间才回。回席后另摆寿酒与四十样果碟，起更后众人掷骰猜枚。月娘定下牌名、骨牌与《西厢》句合令的规矩。玉楼轮到末后，说中四红沉，月娘命斟三杯，笑言当晚送两人归房，玉楼羞起来。图只取这一笑语时刻，不把寿宴画成正式婚礼。",
+      "psychology": {
+        "明写": "月娘提出行令规则并满令，令小玉斟酒；玉楼被送房话说得害羞。",
+        "推断": "月娘伸手示意与玉楼垂目、庆侧望，表现当下应对，不推定各人心底已无芥蒂。"
+      },
+      "social": "行令把曲牌、骨牌与戏文记忆编成席上规则；插画保留文艺活动，不依据零散语句伪造完整牌谱。",
+      "explicit": [
+        "本日为玉楼寿日，四十样果碟为全席数量；图中只见局部，不声称数得全。",
+        "月娘叫小玉斟三杯，众姊妹随后送庆与玉楼到房门首。"
+      ],
+      "inference": [
+        "三人同框为席面局部，其他姊妹、小玉在画外，不表示实际只有三人赴席。",
+        "骨牌、骰子的尺寸点色与排列为泛化补足，不声称还原四红沉的精确牌面。",
+        "衣色和头面、灯具、桌面、杯碟为补足；无凤冠霞帔或婚礼仪式。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离原文。宋代故事设定与宽泛晚明视觉参考分开；具体五官、未考定名物、衣装与空间为美术设定，不冒充历史实证。",
+      "references": [
+        "assets/020-02.webp",
+        "references/yulou.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit the supplied painting with one local correction ONLY. Preserve the entire 3:2 composition, painted gongbi/mineral pigment style, all THREE distinct faces and exact expressions, hair, clothing, room, lighting, table, dishes, cup positions, dominoes, die and all other details. The CENTER woman is Meng Yulou. Her near hand currently has a finger dropping inside her wine cup, which is an anatomy/action mistake. Change ONLY her visible near hand and the tiny adjacent sleeve area: withdraw all fingers completely from the cup and rest her relaxed hand naturally flat on the tabletop just to the LEFT of that cup. Show a believable hand with fingers gently together and all fingertips visibly outside and clear of the cup rim, no finger touching the inside, no gripping or new gesture. Keep the cup intact in the same position and scale, with open rim completely unobstructed. Keep her bashful downward gaze unchanged. Do not alter anyone else's hands or faces, do not add people, objects, writing or watermark.",
+      "image": "assets/021-05.webp",
+      "status": "generated",
+      "review": "已打开修订后的工作区PNG核看：恰月娘、玉楼、庆三人，圆脸、微麻长脸与庆长脸有别；月娘向画外吩咐，玉楼垂目含羞，庆侧望含笑。初稿玉楼手指误入杯口，已内置工具局部修为手自然平放杯旁，再打开确认杯口清楚、手指自然；初稿保留。果碟、杯壶、泛化骨牌骰子可见；此为全席局部，其他姊妹小玉在画外，不据图认定四十碟全数或四红沉精确牌面。夜窗、灯火、衣纹和器皿为美术补足；未画成婚礼或床内场景。",
+      "actualPrompt": "Use case: precise-object-edit. Edit the supplied painting with one local correction ONLY. Preserve the entire 3:2 composition, painted gongbi/mineral pigment style, all THREE distinct faces and exact expressions, hair, clothing, room, lighting, table, dishes, cup positions, dominoes, die and all other details. The CENTER woman is Meng Yulou. Her near hand currently has a finger dropping inside her wine cup, which is an anatomy/action mistake. Change ONLY her visible near hand and the tiny adjacent sleeve area: withdraw all fingers completely from the cup and rest her relaxed hand naturally flat on the tabletop just to the LEFT of that cup. Show a believable hand with fingers gently together and all fingertips visibly outside and clear of the cup rim, no finger touching the inside, no gripping or new gesture. Keep the cup intact in the same position and scale, with open rim completely unobstructed. Keep her bashful downward gaze unchanged. Do not alter anyone else's hands or faces, do not add people, objects, writing or watermark.",
+      "initialPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 is a double portrait: ONLY woman on RIGHT is Wu Yueniang, round face and sturdy composed build. Input 2 locks Meng Yulou long oval face, subtle pockmarks and tall slim form. Input 3 locks Ximen Qing long face, straight brows and narrow eyes only. Exactly THREE visible people in a cropped section of a larger family birthday feast, others are outside frame. Late eleventh lunar month, night in upper room, winter clothing. LEFT Wu Yueniang in deep red silk padded jacket, soft yellow long skirt and small restrained gold floral ornament over neat bun, her round face warm but authoritative, has just finished the drinking game; she raises an open hand toward an unseen maid OFF FRAME to call for wine. CENTER Meng Yulou in muted teal padded jacket and dark brick-red skirt, understated floral hairpin, subtle facial pockmarks preserved, lowering her eyes with a bashful smile and one hand modestly near her small wine cup. RIGHT Ximen Qing in dark olive winter robe and black cloth cap sits looking at Yulou with amused smile. All fully clothed, no touching or romantic embrace. Oblique view across a worn lacquered table, foreground contains a few small fruit and confection dishes, ceramic wine pot and cups, and several small ivory-colored dominoes with tiny indistinct dark or red pips plus a small die in a shallow dish. Keep game pieces understated, no text and no claim of an exact historic winning layout. The full table had many dishes but only this small cropped part is visible, not forty plates crammed into frame. Warm candlelight and subdued winter night at lattice window, no snow indoors. No wedding decorations, no bridal crown, no ceremonial bow, no bed, no fan, no fourth visible person. Candid social scene with three distinct faces and clearly different gaze directions.",
+      "revisionReason": "初稿玉楼手指误落杯口，局部修手自然放杯旁。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -2,6 +2,40 @@
   "number": 86,
   "title": "第八十六回雪娥唆打陈经济　王婆售利嫁金莲",
   "intro": "两端不同的价、只能低声说的计议、出门时的一卷铺盖与一包衣裳：去留既有强制，也有夹在其中的私下援手。",
+  "supplements": [
+    {
+      "title": "枕顶确实有，拿来作另一种解释",
+      "text": "经济确曾替薛嫂取回抵当枕顶，她用这件实物说他只来送枕顶、茶也未吃。读者却看过两人饮酒。她的说明并非从头到尾全假，正靠一项真事遮住另一项真事。",
+      "evidence": [
+        {
+          "chapter": 86,
+          "paragraph": 10,
+          "quote": "还是去年腊月，当了人家两付枕顶"
+        },
+        {
+          "chapter": 86,
+          "paragraph": 10,
+          "quote": "几时进屋里吃酒来？"
+        }
+      ]
+    },
+    {
+      "title": "借存财物仍是争议说法",
+      "text": "经济称娘家寄存金银箱笼，月娘说只是大姐妆奁随身箱笼。当前文本未列出可逐件对验的寄存清单；把双方陈述并存，不由展馆裁成已查明的财产案。",
+      "evidence": [
+        {
+          "chapter": 86,
+          "paragraph": 12,
+          "quote": "你家都收了我许多金银箱笼"
+        },
+        {
+          "chapter": 86,
+          "paragraph": 14,
+          "quote": "也只是大姐几件妆奁，随身箱笼"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "086-01",
@@ -35,12 +69,14 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Xue Sao LEFT portrait mature lined oval face holding flower box, NOT older right woman; reference2 ONLY fine painted gongbi medium. ONE fully clothed mature adult woman in closed faded plum padded jacket and full brown skirt at plain wooden table, daylight. A cloth wrapper holds a LARGE DULL SILVER INGOT with a clearly separated SMALL GROUP of irregular silver pieces beside it; no exact number/weight encoded. Xue Sao quietly folds a second small wrapper around the separated share with practical concentrated expression, not villain grin. Small balance rests aside UNUSED, ordinary flower box closed in corner. This is an EXPLANATORY money-division illustration, not precise documented metalworking or literal sale inspection. NO young woman as commodity, no buyer, no readable price tags or sums, no magical gold glow. Fine ink contours mineral pigment, intimate object-driven framing.",
       "references": [
         "matchmakers-030左（薛嫂）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/086-01.png",
+      "image": "assets/086-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Xue Sao LEFT portrait mature lined oval face holding flower box, NOT older right woman; reference2 ONLY fine painted gongbi medium. ONE fully clothed mature adult woman in closed faded plum padded jacket and full brown skirt at plain wooden table, daylight. A cloth wrapper holds a LARGE DULL SILVER INGOT with a clearly separated SMALL GROUP of irregular silver pieces beside it; no exact number/weight encoded. Xue Sao quietly folds a second small wrapper around the separated share with practical concentrated expression, not villain grin. Small balance rests aside UNUSED, ordinary flower box closed in corner. This is an EXPLANATORY money-division illustration, not precise documented metalworking or literal sale inspection. NO young woman as commodity, no buyer, no readable price tags or sums, no magical gold glow. Fine ink contours mineral pigment, intimate object-driven framing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Xue Sao LEFT portrait mature lined oval face holding flower box, NOT older right woman; reference2 ONLY fine painted gongbi medium. ONE fully clothed mature adult woman in closed faded plum padded jacket and full brown skirt at plain wooden table, daylight. A cloth wrapper holds a LARGE DULL SILVER INGOT with a clearly separated SMALL GROUP of irregular silver pieces beside it; no exact number/weight encoded. Xue Sao quietly folds a second small wrapper around the separated share with practical concentrated expression, not villain grin. Small balance rests aside UNUSED, ordinary flower box closed in corner. This is an EXPLANATORY money-division illustration, not precise documented metalworking or literal sale inspection. NO young woman as commodity, no buyer, no readable price tags or sums, no magical gold glow. Fine ink contours mineral pigment, intimate object-driven framing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "086-02",
@@ -74,14 +110,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Sun Xuee RIGHT independent portrait, short petite adult body and natural face, NOT heavy Jiaoer on left; reference2 ONLY Yueniang mature round face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adult women in a quiet household room after a disturbance. Yueniang in closed white mourning padded robe sits tired upright on kang, face pale and eyes moist, hands resting together, NO unconscious collapse. Sun Xuee in plain muted GREEN full jacket and dark skirt sits close at side, one hand supports Yueniang upper arm and other makes a small quiet firm gesture while speaking privately. Empty doorway behind with no listening figures, small covered warm cup on table, no baby, weapons, beating or nude body. Thoughtful ambiguous care and counsel through expressions, natural low daylight, fine ink mineral colors, no text.",
       "references": [
-        "wives-030右（雪娥）",
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/wives-030.png（原说明：wives-030右（雪娥））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/086-02.png",
+      "image": "assets/086-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Sun Xuee RIGHT independent portrait, short petite adult body and natural face, NOT heavy Jiaoer on left; reference2 ONLY Yueniang mature round face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adult women in a quiet household room after a disturbance. Yueniang in closed white mourning padded robe sits tired upright on kang, face pale and eyes moist, hands resting together, NO unconscious collapse. Sun Xuee in plain muted GREEN full jacket and dark skirt sits close at side, one hand supports Yueniang upper arm and other makes a small quiet firm gesture while speaking privately. Empty doorway behind with no listening figures, small covered warm cup on table, no baby, weapons, beating or nude body. Thoughtful ambiguous care and counsel through expressions, natural low daylight, fine ink mineral colors, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Sun Xuee RIGHT independent portrait, short petite adult body and natural face, NOT heavy Jiaoer on left; reference2 ONLY Yueniang mature round face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adult women in a quiet household room after a disturbance. Yueniang in closed white mourning padded robe sits tired upright on kang, face pale and eyes moist, hands resting together, NO unconscious collapse. Sun Xuee in plain muted GREEN full jacket and dark skirt sits close at side, one hand supports Yueniang upper arm and other makes a small quiet firm gesture while speaking privately. Empty doorway behind with no listening figures, small covered warm cup on table, no baby, weapons, beating or nude body. Thoughtful ambiguous care and counsel through expressions, natural low daylight, fine ink mineral colors, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "086-03",
@@ -114,13 +152,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face straight fine brows; reference2 ONLY fine painted gongbi medium. ONE fully clothed adult man walks OUT of a Chinese household gate in cold early-winter daylight. Chen wears a closed plain dark blue full robe, cap, outer gray coat and cloth shoes, carries a rolled BEDDING bundle tied in coarse cloth over one shoulder and a small garment bag in other hand. Face angry and exhausted, gaze ahead, shoulders stiff, not heroic smile or adventure swagger. A plain closed account bundle remains on small table just inside doorway, no readable ledger. He is entirely dressed and uninjured visually, no nudity, weapons, beaten body, mob or triumph scene. Courtyard gate and quiet lane deep perspective, muted palette, believable ordinary belongings, fine ink mineral pigment, no text.",
       "references": [
-        "chen-030（经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/086-03.png",
+      "image": "assets/086-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face straight fine brows; reference2 ONLY fine painted gongbi medium. ONE fully clothed adult man walks OUT of a Chinese household gate in cold early-winter daylight. Chen wears a closed plain dark blue full robe, cap, outer gray coat and cloth shoes, carries a rolled BEDDING bundle tied in coarse cloth over one shoulder and a small garment bag in other hand. Face angry and exhausted, gaze ahead, shoulders stiff, not heroic smile or adventure swagger. A plain closed account bundle remains on small table just inside doorway, no readable ledger. He is entirely dressed and uninjured visually, no nudity, weapons, beaten body, mob or triumph scene. Courtyard gate and quiet lane deep perspective, muted palette, believable ordinary belongings, fine ink mineral pigment, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chen Jingji young ADULT smooth oval face straight fine brows; reference2 ONLY fine painted gongbi medium. ONE fully clothed adult man walks OUT of a Chinese household gate in cold early-winter daylight. Chen wears a closed plain dark blue full robe, cap, outer gray coat and cloth shoes, carries a rolled BEDDING bundle tied in coarse cloth over one shoulder and a small garment bag in other hand. Face angry and exhausted, gaze ahead, shoulders stiff, not heroic smile or adventure swagger. A plain closed account bundle remains on small table just inside doorway, no readable ledger. He is entirely dressed and uninjured visually, no nudity, weapons, beaten body, mob or triumph scene. Courtyard gate and quiet lane deep perspective, muted palette, believable ordinary belongings, fine ink mineral pigment, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "086-04",
@@ -155,15 +195,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan natural narrow face; reference2 ONLY Yulou tall slim mature face with subtle natural POCKMARKS do not beautify; reference3 ONLY Xiaoyu young maid in GREEN at bundle table, preserve round-square face broad brows, not Chunmei; reference4 ONLY painted gongbi medium. THREE fully clothed female figures in a quiet Chinese household chamber, NONSEXUAL farewell. Yulou in closed muted ochre padded jacket and full skirt gently gives Pan ONE folded CYAN-BLUE silk jacket and RED skirt bundle, a PAIR of small gold bowl-shaped hairpins laid atop. Pan in closed indigo padded jacket and full gray skirt receives with tears and looks toward Yulou. Xiaoyu modestly clothed in loose green jacket and full dark skirt waits quietly at doorway, no spy expression. Sparse half-packed personal things, no bride inspection, no romance body contact or readable farewell words. Soft early-winter window light, fine silk painted line and mineral pigment, humane restrained scene.",
       "references": [
-        "pan-solo-030（金莲）",
-        "yulou（玉楼）",
-        "085-04中小玉",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "assets/085-04.webp（原说明：085-04中小玉）",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/086-04.png",
+      "image": "assets/086-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan natural narrow face; reference2 ONLY Yulou tall slim mature face with subtle natural POCKMARKS do not beautify; reference3 ONLY Xiaoyu young maid in GREEN at bundle table, preserve round-square face broad brows, not Chunmei; reference4 ONLY painted gongbi medium. THREE fully clothed female figures in a quiet Chinese household chamber, NONSEXUAL farewell. Yulou in closed muted ochre padded jacket and full skirt gently gives Pan ONE folded CYAN-BLUE silk jacket and RED skirt bundle, a PAIR of small gold bowl-shaped hairpins laid atop. Pan in closed indigo padded jacket and full gray skirt receives with tears and looks toward Yulou. Xiaoyu modestly clothed in loose green jacket and full dark skirt waits quietly at doorway, no spy expression. Sparse half-packed personal things, no bride inspection, no romance body contact or readable farewell words. Soft early-winter window light, fine silk painted line and mineral pigment, humane restrained scene."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan natural narrow face; reference2 ONLY Yulou tall slim mature face with subtle natural POCKMARKS do not beautify; reference3 ONLY Xiaoyu young maid in GREEN at bundle table, preserve round-square face broad brows, not Chunmei; reference4 ONLY painted gongbi medium. THREE fully clothed female figures in a quiet Chinese household chamber, NONSEXUAL farewell. Yulou in closed muted ochre padded jacket and full skirt gently gives Pan ONE folded CYAN-BLUE silk jacket and RED skirt bundle, a PAIR of small gold bowl-shaped hairpins laid atop. Pan in closed indigo padded jacket and full gray skirt receives with tears and looks toward Yulou. Xiaoyu modestly clothed in loose green jacket and full dark skirt waits quietly at doorway, no spy expression. Sparse half-packed personal things, no bride inspection, no romance body contact or readable farewell words. Soft early-winter window light, fine silk painted line and mineral pigment, humane restrained scene.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "086-05",
@@ -197,48 +239,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wang Po elderly woman at FAR LEFT independent portrait, lined natural face and gray pinned hair, not men in other panels; reference2 ONLY Chen Jingji young ADULT smooth oval face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adults at a modest mill-house reception doorway in daylight. Elderly Wang Po in closed worn dark brown robe and long skirt stands firmly in front of an OPAQUE hanging curtain, one hand resting on doorframe, shrewd practical expression not witch caricature. Chen in plain blue full robe and gray cap leans forward pleading respectfully, places TWO STRINGS of ordinary copper cash and ONE PAIR gold-tipped silver hairpins on small table between them, no readable sums. Behind side door a plain flour sieve and covered grain sack indicate mill household, no flour cloud, no hidden person silhouette. No marriage ceremony or sexual display, monetary access is the visual event, fine ink mineral colors, no text.",
       "references": [
-        "old-people-030左（王婆）",
-        "chen-030（经济）",
-        "065-01（媒介）"
+        "references/old-people-030.png（原说明：old-people-030左（王婆））",
+        "references/chen-030.png（原说明：chen-030（经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/086-05.png",
+      "image": "assets/086-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wang Po elderly woman at FAR LEFT independent portrait, lined natural face and gray pinned hair, not men in other panels; reference2 ONLY Chen Jingji young ADULT smooth oval face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adults at a modest mill-house reception doorway in daylight. Elderly Wang Po in closed worn dark brown robe and long skirt stands firmly in front of an OPAQUE hanging curtain, one hand resting on doorframe, shrewd practical expression not witch caricature. Chen in plain blue full robe and gray cap leans forward pleading respectfully, places TWO STRINGS of ordinary copper cash and ONE PAIR gold-tipped silver hairpins on small table between them, no readable sums. Behind side door a plain flour sieve and covered grain sack indicate mill household, no flour cloud, no hidden person silhouette. No marriage ceremony or sexual display, monetary access is the visual event, fine ink mineral colors, no text."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "枕顶确实有，拿来作另一种解释",
-      "text": "经济确曾替薛嫂取回抵当枕顶，她用这件实物说他只来送枕顶、茶也未吃。读者却看过两人饮酒。她的说明并非从头到尾全假，正靠一项真事遮住另一项真事。",
-      "evidence": [
-        {
-          "chapter": 86,
-          "paragraph": 10,
-          "quote": "还是去年腊月，当了人家两付枕顶"
-        },
-        {
-          "chapter": 86,
-          "paragraph": 10,
-          "quote": "几时进屋里吃酒来？"
-        }
-      ]
-    },
-    {
-      "title": "借存财物仍是争议说法",
-      "text": "经济称娘家寄存金银箱笼，月娘说只是大姐妆奁随身箱笼。当前文本未列出可逐件对验的寄存清单；把双方陈述并存，不由展馆裁成已查明的财产案。",
-      "evidence": [
-        {
-          "chapter": 86,
-          "paragraph": 12,
-          "quote": "你家都收了我许多金银箱笼"
-        },
-        {
-          "chapter": 86,
-          "paragraph": 14,
-          "quote": "也只是大姐几件妆奁，随身箱笼"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wang Po elderly woman at FAR LEFT independent portrait, lined natural face and gray pinned hair, not men in other panels; reference2 ONLY Chen Jingji young ADULT smooth oval face; reference3 ONLY fine painted gongbi medium. TWO fully clothed adults at a modest mill-house reception doorway in daylight. Elderly Wang Po in closed worn dark brown robe and long skirt stands firmly in front of an OPAQUE hanging curtain, one hand resting on doorframe, shrewd practical expression not witch caricature. Chen in plain blue full robe and gray cap leans forward pleading respectfully, places TWO STRINGS of ordinary copper cash and ONE PAIR gold-tipped silver hairpins on small table between them, no readable sums. Behind side door a plain flour sieve and covered grain sack indicate mill household, no flour cloud, no hidden person silhouette. No marriage ceremony or sexual display, monetary access is the visual event, fine ink mineral colors, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

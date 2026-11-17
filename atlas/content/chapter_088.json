@@ -2,6 +2,40 @@
   "number": 88,
   "title": "第八十八回潘金莲托梦守御府　吴月娘布施募缘僧",
   "intro": "官榜、梦、银布和布施物，各有不同的见证人。看一件事怎样从消息变成亲手能做的事。",
+  "supplements": [
+    {
+      "title": "先祭的是谁",
+      "text": "经济受母命带银到寺里给父亲念经，却先到金莲墓上烧纸，再去父亲灵柩前。原文特写先后，不推断他对两个逝者只可能有一种情绪。",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 17,
+          "quote": "且不参见他父亲灵柩"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 17,
+          "quote": "祭毕，然后纔到方丈内"
+        }
+      ]
+    },
+    {
+      "title": "薛嫂的话保留说话人",
+      "text": "她说春梅已有四五个月身孕，雪娥当场质疑时间。此处只记录转述与质疑，不把月份作为已经核定的事实，不用来反推另一个情节。",
+      "evidence": [
+        {
+          "chapter": 88,
+          "paragraph": 24,
+          "quote": "他如今有了四五个月身孕了"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 24,
+          "quote": "一尺水十丈波的"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "088-01",
@@ -35,13 +69,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Chen Jingji young adult man, smooth oval face; reference2 ONLY fine painted medium. WIDE street vignette: Chen in closed dark blue full winter robe and cloth cap stops outside a CLOSED modest mill-house door, raises eyes toward ONE pale public notice attached beside door, surface unreadable. One plainly clothed adult watchman stands partly out of a rough shelter at distance and calls to him, no confrontation or contact. One hanging lantern and shuttered shopfront, bare winter tree, long quiet lane, muted natural light. Chen holds simple tied pouch at waist, understated surprise. No grave, body, injury, weapon, visible text or symbols. Fine ink contours and mineral pigment on silk, everyday street scale.",
       "references": [
-        "chen-030（经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/088-01.png",
+      "image": "assets/088-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Chen Jingji young adult man, smooth oval face; reference2 ONLY fine painted medium. WIDE street vignette: Chen in closed dark blue full winter robe and cloth cap stops outside a CLOSED modest mill-house door, raises eyes toward ONE pale public notice attached beside door, surface unreadable. One plainly clothed adult watchman stands partly out of a rough shelter at distance and calls to him, no confrontation or contact. One hanging lantern and shuttered shopfront, bare winter tree, long quiet lane, muted natural light. Chen holds simple tied pouch at waist, understated surprise. No grave, body, injury, weapon, visible text or symbols. Fine ink contours and mineral pigment on silk, everyday street scale."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Chen Jingji young adult man, smooth oval face; reference2 ONLY fine painted medium. WIDE street vignette: Chen in closed dark blue full winter robe and cloth cap stops outside a CLOSED modest mill-house door, raises eyes toward ONE pale public notice attached beside door, surface unreadable. One plainly clothed adult watchman stands partly out of a rough shelter at distance and calls to him, no confrontation or contact. One hanging lantern and shuttered shopfront, bare winter tree, long quiet lane, muted natural light. Chen holds simple tied pouch at waist, understated surprise. No grave, body, injury, weapon, visible text or symbols. Fine ink contours and mineral pigment on silk, everyday street scale.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "088-02",
@@ -74,13 +110,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 intimate gongbi portrait on silk. Reference1 ONLY Chunmei natural youthful straight-browed face, modest NONSEXUAL; reference2 ONLY painted style. ONE fully clothed young woman in closed muted blue padded jacket and full long yellow skirt sits upright after waking on a covered daybed, grief and uncertainty, one hand gripping folded cover, a tear visible but no melodrama. Plain pillow and small warm lamp, opaque wooden screen, empty dark space beside her. No ghost, blood, body, supernatural apparition or reflection; no revealing clothes or sensual pose. Fine ink contours and muted mineral pigment; humane quiet moment, no lettering.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/088-02.png",
+      "image": "assets/088-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 intimate gongbi portrait on silk. Reference1 ONLY Chunmei natural youthful straight-browed face, modest NONSEXUAL; reference2 ONLY painted style. ONE fully clothed young woman in closed muted blue padded jacket and full long yellow skirt sits upright after waking on a covered daybed, grief and uncertainty, one hand gripping folded cover, a tear visible but no melodrama. Plain pillow and small warm lamp, opaque wooden screen, empty dark space beside her. No ghost, blood, body, supernatural apparition or reflection; no revealing clothes or sensual pose. Fine ink contours and muted mineral pigment; humane quiet moment, no lettering."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 intimate gongbi portrait on silk. Reference1 ONLY Chunmei natural youthful straight-browed face, modest NONSEXUAL; reference2 ONLY painted style. ONE fully clothed young woman in closed muted blue padded jacket and full long yellow skirt sits upright after waking on a covered daybed, grief and uncertainty, one hand gripping folded cover, a tear visible but no melodrama. Plain pillow and small warm lamp, opaque wooden screen, empty dark space beside her. No ghost, blood, body, supernatural apparition or reflection; no revealing clothes or sensual pose. Fine ink contours and muted mineral pigment; humane quiet moment, no lettering.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "088-03",
@@ -115,13 +153,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei straight-browed young woman, keep modest and NONSEXUAL; reference2 ONLY narrative gongbi painted silk medium. Landscape 3:2. THREE fully clothed figures in a plain reception room. Chunmei stands at left in closed muted blue full jacket and long yellow skirt, serious expression after tears, hands a small CLOSED silver bundle across table. TWO distinct adult male attendants in practical full brown and blue robes listen, one stocky square-faced, other lean long-faced; one receives with both hands. TWO folded bolts of plain cotton cloth lie on table. No body, coffin, weapons, official scene, readably numbered silver, glamour or future symbols. Clear distance, restrained gesture and soft daylight, fine silk contour and matte color, no writing.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/088-03.png",
+      "image": "assets/088-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei straight-browed young woman, keep modest and NONSEXUAL; reference2 ONLY narrative gongbi painted silk medium. Landscape 3:2. THREE fully clothed figures in a plain reception room. Chunmei stands at left in closed muted blue full jacket and long yellow skirt, serious expression after tears, hands a small CLOSED silver bundle across table. TWO distinct adult male attendants in practical full brown and blue robes listen, one stocky square-faced, other lean long-faced; one receives with both hands. TWO folded bolts of plain cotton cloth lie on table. No body, coffin, weapons, official scene, readably numbered silver, glamour or future symbols. Clear distance, restrained gesture and soft daylight, fine silk contour and matte color, no writing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei straight-browed young woman, keep modest and NONSEXUAL; reference2 ONLY narrative gongbi painted silk medium. Landscape 3:2. THREE fully clothed figures in a plain reception room. Chunmei stands at left in closed muted blue full jacket and long yellow skirt, serious expression after tears, hands a small CLOSED silver bundle across table. TWO distinct adult male attendants in practical full brown and blue robes listen, one stocky square-faced, other lean long-faced; one receives with both hands. TWO folded bolts of plain cotton cloth lie on table. No body, coffin, weapons, official scene, readably numbered silver, glamour or future symbols. Clear distance, restrained gesture and soft daylight, fine silk contour and matte color, no writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "088-04",
@@ -157,49 +197,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 late-Ming everyday gongbi narrative painting on silk. Reference1 ONLY round-faced mature Yueniang; reference2 ONLY Xiaoyu at FAR RIGHT in muted green, round-square young face, modest; reference3 ONLY painted medium. A HEAVYSET broad-faced middle-aged Buddhist itinerant monk in closed saffron full robe stands in a lane outside merchant household. Above his bald head a small supported tray carries THREE small seated BRONZE BUDDHA STATUETTES, clearly objects, with a few light BRANCHED LAMP STANDS tied securely to his carrying harness, unlit. Xiaoyu in loose closed green jacket and full long dark skirt offers a plain monk cap and pair of fabric shoes on tray; single rice sack and string of copper cash by doorway. Yueniang in pale full robe stands beside her; a few unobtrusive adults watch deeper down street. All ordinary gestures, respectful realistic faces, no magic halo, no caricature, no readable words. Early-spring daylight, delicate ink and mineral color.",
       "references": [
-        "moon-030（月娘）",
-        "085-04右侧（小玉）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/085-04.webp（原说明：085-04右侧（小玉））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/088-04.png",
+      "image": "assets/088-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 正文说行脚僧赤脚，成图中他穿鞋；灯架支撑也只是美术补足。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 late-Ming everyday gongbi narrative painting on silk. Reference1 ONLY round-faced mature Yueniang; reference2 ONLY Xiaoyu at FAR RIGHT in muted green, round-square young face, modest; reference3 ONLY painted medium. A HEAVYSET broad-faced middle-aged Buddhist itinerant monk in closed saffron full robe stands in a lane outside merchant household. Above his bald head a small supported tray carries THREE small seated BRONZE BUDDHA STATUETTES, clearly objects, with a few light BRANCHED LAMP STANDS tied securely to his carrying harness, unlit. Xiaoyu in loose closed green jacket and full long dark skirt offers a plain monk cap and pair of fabric shoes on tray; single rice sack and string of copper cash by doorway. Yueniang in pale full robe stands beside her; a few unobtrusive adults watch deeper down street. All ordinary gestures, respectful realistic faces, no magic halo, no caricature, no readable words. Early-spring daylight, delicate ink and mineral color.",
-      "knownDeviation": "正文说行脚僧赤脚，成图中他穿鞋；灯架支撑也只是美术补足。"
-    }
-  ],
-  "supplements": [
-    {
-      "title": "先祭的是谁",
-      "text": "经济受母命带银到寺里给父亲念经，却先到金莲墓上烧纸，再去父亲灵柩前。原文特写先后，不推断他对两个逝者只可能有一种情绪。",
-      "evidence": [
-        {
-          "chapter": 88,
-          "paragraph": 17,
-          "quote": "且不参见他父亲灵柩"
-        },
-        {
-          "chapter": 88,
-          "paragraph": 17,
-          "quote": "祭毕，然后纔到方丈内"
-        }
-      ]
-    },
-    {
-      "title": "薛嫂的话保留说话人",
-      "text": "她说春梅已有四五个月身孕，雪娥当场质疑时间。此处只记录转述与质疑，不把月份作为已经核定的事实，不用来反推另一个情节。",
-      "evidence": [
-        {
-          "chapter": 88,
-          "paragraph": 24,
-          "quote": "他如今有了四五个月身孕了"
-        },
-        {
-          "chapter": 88,
-          "paragraph": 24,
-          "quote": "一尺水十丈波的"
-        }
-      ]
+      "knownDeviation": "正文说行脚僧赤脚，成图中他穿鞋；灯架支撑也只是美术补足。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

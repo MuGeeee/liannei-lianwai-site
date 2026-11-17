@@ -1,0 +1,448 @@
+{
+  "number": 32,
+  "title": "第三十二回李桂姐拜娘认女　应伯爵打浑趋时",
+  "intro": "李桂姐以礼物和叩拜认月娘为干娘，新的称呼又在坐次、取水和前厅递酒中受到检验。另一线转到官哥受惊哭闹及妻妾的沉默。五图仅用本回已发生的时刻；猜测、转述、医治说法与美术补足分开，未取末段下回引语。",
+  "supplements": [
+    {
+      "title": "薛内相的添寿礼与另一天的官席",
+      "text": "次日薛内相先到，玳安接抱官哥出来给他看；薛送红官缎、四个镀金银钱、寿星博郎鼓及银八宝二两。随后县中四宅官员到席，薛居首。本图组不另配这一场，也不与之后亲朋宴并作同日。器物称谓照录，不声称图样已考定。",
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 7,
+          "quote": "烂红官缎一疋，「福寿康寜」镀金银钱四个，堆金沥粉彩画寿星博郎鼓儿一个，银八寳贰两"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 7,
+          "quote": "众官让薛内相居首席。"
+        }
+      ]
+    },
+    {
+      "title": "伯爵的猜测与银儿的应答",
+      "text": "银儿将桂姐早到认亲告诉伯爵。伯爵以“想必”“我猜的是不是”解释她畏惧官势、借干亲保往来，并劝银儿认六娘为干娘；银儿答应回家告诉母亲。这里只是建议与答话，本回没有画成银儿已经认亲。",
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 12,
+          "quote": "他想必和他鸨子计较了"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 12,
+          "quote": "我猜的是不是？"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 12,
+          "quote": "却认与六娘做干女儿就是了。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 12,
+          "quote": "二爹说的是，我到家就对妈说。"
+        }
+      ]
+    },
+    {
+      "title": "女眷谈话中的伤害，不作热闹配图",
+      "text": "桂姐说薛内相掐拧使她难受，月娘劝她随其摆弄；这是人物话语及态度，不能因内官身份把伤害写成无事。郑爱香儿所讲张小二烧董猫儿虎口，以及祝麻子的纠缠，均是席外转述，本次保留文字说明而未配图；不添刺激暴力细节。",
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "把人掐拧的魂也没了。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "乞他奈何的人慌。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 10,
+          "quote": "因把猫儿的虎口用火烧了两醮"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "032-01",
+      "chapter": 32,
+      "title": "带着礼担，先拜一位干娘",
+      "excerpt": {
+        "chapter": 32,
+        "paragraph": 8,
+        "quote": "进来先向月娘笑嘻嘻插烛也似拜了四双八拜，然后纔与他姑娘和西门庆磕头。把月娘哄的满心欢喜，说道：「前日受了你妈的重礼，今日又敎你费心，买这许多礼来。」"
+      },
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 8,
+          "quote": "见西门庆做了提刑官，与虔婆铺谋定计。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 8,
+          "quote": "买了盒菓馅饼儿、一副豚蹄、两只烧鸭、两瓶酒、一双女鞋"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 8,
+          "quote": "絶早坐轿子先来，要拜月娘做干娘，他做干女儿。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 8,
+          "quote": "我情愿只做干女儿罢，图亲戚来往，宅裏好走动。"
+        }
+      ],
+      "people": [
+        "李桂姐",
+        "吴月娘"
+      ],
+      "place": "月娘上房",
+      "event": "桂姐早到送礼，先向月娘叩拜，认她为干娘。",
+      "why": "同一次叩拜，把往来理由从供唱改口为亲戚；礼物和称呼一起改变门内位置。",
+      "composition": "左前桂姐跪身行礼，右月娘坐着喜接；礼盒与鞋、酒列近门处，旁人裁画外。",
+      "summary": "李桂姐听说西门庆做官，与母亲商量，绝早带礼来到月娘房中。她先拜月娘，随后才向姑娘和西门庆行礼，并亲口说以后图亲戚来往、宅里好走动。图凝在第一轮行礼，不把反复叩拜当成一幅可以点清的动作，也不提前搬入稍后宴席上的戏谑。",
+      "psychology": {
+        "明写": "桂姐笑嘻嘻行礼，月娘满心欢喜；桂姐说明认干亲为使宅里好走动。",
+        "推断": "桂姐将礼摆得整齐、月娘身子略前倾，是据送礼与欢喜安排的可视姿态。"
+      },
+      "social": "干亲称谓在此有具体出入宅门的用途。伯爵后来将其解释为畏惧刑名势力，是他的判断，不能代替桂姐本人的全部心思。",
+      "explicit": [
+        "桂姐与母亲先有商量。",
+        "礼物为果馅饼、豚蹄、两烧鸭、两瓶酒和一双女鞋。",
+        "此刻先拜月娘，另向李娇儿和西门庆的叩头在后。"
+      ],
+      "inference": {
+        "推断": "近景裁去尚未受拜的其他人，只画一次叩拜姿态，不能据图数出四双八拜。",
+        "美术补足": "桂姐此刻衣色未明，取朴素浅赭红夏衣；封闭盒中不复原食物，鞋样、席垫、家具和室内摆位未考定。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第32回隔离正文，必要前情仅据第31回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节属美术补足，生成图不作史证。",
+      "references": [
+        "assets/011-04.webp",
+        "assets/020-02.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1: use ONLY Li Guijie, the pipa player at FAR RIGHT FOREGROUND, narrow round face, natural straight eyebrows, small round chin, black hair; do not import the rear-center woman. Reference 2: use ONLY Wu Yueniang, the fuller round-faced seated woman at RIGHT; ignore the woman on the left. Exactly TWO fully clothed female figures in a warm-season household reception room. LEFT FOREGROUND Li Guijie in a modest loose muted rose-ochre summer jacket and plain deep green skirt, hair neatly pinned, kneeling upright on a mat and making a respectful bow toward Yueniang, hands together naturally in front of her, a polite small smile, face visible in three-quarter profile. Her precise age is not established; keep the reference ordinary youthful face and no sexualized styling. RIGHT Wu Yueniang, recognizable broad round face and sturdy build, seated on the edge of a low upholstered kang platform, muted rust-brown light summer jacket and purple-brown skirt, looking pleasantly surprised and visibly pleased, one relaxed welcoming hand lifted. Near the doorway sit two closed stackable wooden gift boxes, EXACTLY TWO plain ceramic wine bottles, and one visible pair of small embroidered WOMEN SHOES resting together on a folded cloth; these are gifts, no meat or ducks exposed. Do not show a sedan chair or its carrier in this tight room crop. Warm morning window light, the unequal seated-and-kneeling levels read clearly, candid asymmetrical framing. No other people, money, infant or musical instrument. Natural distinct separate hands. ",
+      "image": "assets/032-01.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰两女：左桂姐窄圆年轻脸跪身前倾，右月娘圆润脸稳重体态坐着笑迎，与指定参考相符。两只封盒、恰两酒瓶及成双女鞋可辨，无多肢、错误人物或音乐器具提前入镜。桂姐双手落在膝前而非提示词所写合手，仍是一次叩拜前后的行礼姿势，不据图点算四双八拜。月娘坐具与靠背是低平台的美术安排，不复原炕制；衣色、鞋样与器物形制未考定。关键身份、礼物与高低关系可采用。",
+      "memoryPoint": "先拜月娘，礼与称谓一并改成亲戚来往。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1: use ONLY Li Guijie, the pipa player at FAR RIGHT FOREGROUND, narrow round face, natural straight eyebrows, small round chin, black hair; do not import the rear-center woman. Reference 2: use ONLY Wu Yueniang, the fuller round-faced seated woman at RIGHT; ignore the woman on the left. Exactly TWO fully clothed female figures in a warm-season household reception room. LEFT FOREGROUND Li Guijie in a modest loose muted rose-ochre summer jacket and plain deep green skirt, hair neatly pinned, kneeling upright on a mat and making a respectful bow toward Yueniang, hands together naturally in front of her, a polite small smile, face visible in three-quarter profile. Her precise age is not established; keep the reference ordinary youthful face and no sexualized styling. RIGHT Wu Yueniang, recognizable broad round face and sturdy build, seated on the edge of a low upholstered kang platform, muted rust-brown light summer jacket and purple-brown skirt, looking pleasantly surprised and visibly pleased, one relaxed welcoming hand lifted. Near the doorway sit two closed stackable wooden gift boxes, EXACTLY TWO plain ceramic wine bottles, and one visible pair of small embroidered WOMEN SHOES resting together on a folded cloth; these are gifts, no meat or ducks exposed. Do not show a sedan chair or its carrier in this tight room crop. Warm morning window light, the unequal seated-and-kneeling levels read clearly, candid asymmetrical framing. No other people, money, infant or musical instrument. Natural distinct separate hands. ",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "032-02",
+      "chapter": 32,
+      "title": "炕上的桂姐，炕下的银儿",
+      "excerpt": {
+        "chapter": 32,
+        "paragraph": 9,
+        "quote": "一回又呌：「小玉姐，你有水盛些来我洗这手。」那小玉眞个拿锡盆舀了水，与他洗了手。吴银儿众人都看他，睁睁的不敢言语。"
+      },
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "坐在月娘炕上，和玉箫两个剥菓仁儿装菓盒。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "吴银儿郑香儿韩钏儿在下边杌儿上一条边坐的。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "那桂姐一径抖搜精神"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 9,
+          "quote": "吴银儿众人都看他，睁睁的不敢言语。"
+        }
+      ],
+      "people": [
+        "李桂姐",
+        "吴银儿",
+        "小玉"
+      ],
+      "place": "月娘上房炕边",
+      "event": "桂姐坐炕上使唤取水，小玉端来锡盆，银儿从下面看着。",
+      "why": "新称谓立刻落到坐次与差使上；一只锡盆比夸耀的话更能显出差别。",
+      "composition": "右上桂姐坐炕沿洗手，中前小玉端盆，左下银儿坐矮杌仰看；果盒在炕桌一角。",
+      "summary": "桂姐认亲之后坐上月娘的炕，和玉箫剥果仁、装果盒。她一会要茶，一会要水洗手，小玉照做；银儿等坐在下面的杌上看着，不敢说话。图取锡盆送到的一刻，仅近取桂姐、小玉、银儿三人，月娘、娇儿和另外两位唱者仍在画外，不把裁画外误作没有在场。",
+      "psychology": {
+        "明写": "叙述者说桂姐卖弄干女儿身份、抖搜精神；银儿众人睁睁看着不敢言语。",
+        "推断": "银儿微抬下颌、唇紧闭，只把不能言语化成可见姿态，不补写她已决定报复。"
+      },
+      "social": "同为受邀供唱者，桂姐在炕上，银儿等在杌上；家内座位与谁能支使谁，成为干亲身份的日常表现。",
+      "explicit": [
+        "桂姐坐炕上，银儿等在下方杌上。",
+        "小玉真拿锡盆盛水给桂姐洗手。",
+        "剥果仁与装果盒已发生，演奏稍后才开始。"
+      ],
+      "inference": {
+        "推断": "把同一段连续动作定在洗手片刻，未把取乐器和演奏合为同刻。",
+        "美术补足": "锡盆的具体式样、三人手势、夏衣颜色、果仁品种、炕桌和高差尺度均为美术安排。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第32回隔离正文，必要前情仅据第31回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节属美术补足，生成图不作史证。",
+      "references": [
+        "assets/011-04.webp",
+        "assets/021-03.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 contains TWO relevant faces: Li Guijie is the pipa player at FAR RIGHT FOREGROUND, narrow round face and small round chin; Wu Yiner is the woman at BACK CENTER in blue-grey playing horizontal zither, slightly broader oval face and straight brows. Their instruments and old clothes must not carry over. Reference 2 locks ONLY Xiaoyu, the young maid on the RIGHT holding a jar, small oval face, slight natural freckles over nose and cheeks, practical compact black bun; ignore the older woman. Exactly THREE fully clothed female figures in a tight crop of a summer domestic room. RIGHT AND HIGHER: Guijie sits on the edge of a low raised cushioned kang, same loose muted rose-ochre jacket and deep green skirt as this chapter first scene, looking self-possessed while lightly rinsing her fingertips in a plain shallow oval pewter basin. CENTER FOREGROUND: Xiaoyu in loose plain slate-blue working clothes stands slightly bent, holding the basin steadily with BOTH separate hands at waist height. Basin above a short dark wooden support, no floating object; Guijie fingertips meet its water. LEFT AND LOWER: Yiner sits on a small low wooden stool, knees together, both hands quietly folded over her lap, looking toward Guijie with constrained silence, muted blue-grey light summer jacket and tan skirt, face visibly distinct from Guijie. A small open fruit box with peeled kernels and shells rests on a tiny kang table, no feast spread. Show clear social difference of seating height without caricature or sneering. Other women present in the novel are outside this close crop. No musical instruments, infant, men, or servants beyond these three. Hands anatomically separate and natural, soft shaded daylight. No sexualized styling, exact ages unestablished. ",
+      "image": "assets/032-02.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰三女：右桂姐沿用窄圆脸及赭红夏衣坐在炕边，左吴银儿以较宽椭圆脸坐低杌闭唇仰看，中间小玉面颊浅雀斑、蓝衣端锡盆；三脸区别明确。桂姐双手指入水，小玉双手持盆，盆未穿身，面前有矮木支架但盆仍由人端持；无多手或乐器误入。炕桌果盒与剥下果壳可辨，果仁品类不作考据。其余在场者是近景裁外，未声称实际只有三人；人数、身份与主要动作可采用。",
+      "memoryPoint": "锡盆、炕与杌，把一场认亲变成看得见的高下。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 contains TWO relevant faces: Li Guijie is the pipa player at FAR RIGHT FOREGROUND, narrow round face and small round chin; Wu Yiner is the woman at BACK CENTER in blue-grey playing horizontal zither, slightly broader oval face and straight brows. Their instruments and old clothes must not carry over. Reference 2 locks ONLY Xiaoyu, the young maid on the RIGHT holding a jar, small oval face, slight natural freckles over nose and cheeks, practical compact black bun; ignore the older woman. Exactly THREE fully clothed female figures in a tight crop of a summer domestic room. RIGHT AND HIGHER: Guijie sits on the edge of a low raised cushioned kang, same loose muted rose-ochre jacket and deep green skirt as this chapter first scene, looking self-possessed while lightly rinsing her fingertips in a plain shallow oval pewter basin. CENTER FOREGROUND: Xiaoyu in loose plain slate-blue working clothes stands slightly bent, holding the basin steadily with BOTH separate hands at waist height. Basin above a short dark wooden support, no floating object; Guijie fingertips meet its water. LEFT AND LOWER: Yiner sits on a small low wooden stool, knees together, both hands quietly folded over her lap, looking toward Guijie with constrained silence, muted blue-grey light summer jacket and tan skirt, face visibly distinct from Guijie. A small open fruit box with peeled kernels and shells rests on a tiny kang table, no feast spread. Show clear social difference of seating height without caricature or sneering. Other women present in the novel are outside this close crop. No musical instruments, infant, men, or servants beyond these three. Hands anatomically separate and natural, soft shaded daylight. No sexualized styling, exact ages unestablished. ",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "032-03",
+      "chapter": 32,
+      "title": "金樽举起，干亲仍在酒席上",
+      "excerpt": {
+        "chapter": 32,
+        "paragraph": 14,
+        "quote": "这桂姐于是轻摇罗袖，高捧金樽，递乔大户酒。伯爵在旁说道：「乔上尊，你请坐，敎他服侍。丽春院粉头，供唱递酒是他的职分，休要惯了他！」"
+      },
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 13,
+          "quote": "西门庆被这起人缠不过，只得使玳安往后边请李桂姐去。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 14,
+          "quote": "头戴银丝䯼髻，周围金累丝钗梳，珠翠堆满；上着藕丝衣裳，下着翠绫裙"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 14,
+          "quote": "粉面贴着三个翠面花儿"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 14,
+          "quote": "西门庆吩咐玳安放锦杌儿在上席，敎他与乔大户捧酒。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 14,
+          "quote": "那桂姐便脸红了"
+        }
+      ],
+      "people": [
+        "李桂姐",
+        "乔大户",
+        "应伯爵"
+      ],
+      "place": "前厅上席",
+      "event": "桂姐被请出后递乔大户酒，应伯爵借她新认的干亲身份当席取笑。",
+      "why": "桂姐想把宅内往来改称亲戚，伯爵却把她重新钉在供唱递酒的位置；乔大户的欠身使称谓冲突更明显。",
+      "composition": "左乔大户欠身，右桂姐双手高捧金杯，后中伯爵插话，锦杌在桂姐身侧；紧裁上席三人。",
+      "summary": "西门庆经不住众人纠缠，终将桂姐请到前厅。她重新妆点后出来，先为乔大户递酒。乔大户因她被当作官府亲近之人而不敢安坐，应伯爵则不断以供唱者和干女儿的称呼嘲弄她。图定在递杯与插话相遇的一刻，不把随后求打、打一下和再索唱混为同场动作。",
+      "psychology": {
+        "明写": "乔大户欠身，说使他坐起不安；桂姐听伯爵揭认亲之事脸红。",
+        "推断": "递酒前后连贯的局促用泛红面颊与收紧嘴角表现，不另补屈服或报复计划。"
+      },
+      "social": "干亲关系没有自动免除供唱递酒。应伯爵既给银儿出主意，又在客前拿桂姐作笑料，其话语显出他对场面的操纵；这仍是本席可见行为，不推作全书定论。",
+      "explicit": [
+        "桂姐重新装扮后被请出递一巡酒。",
+        "藕丝衣、翠绫裙、红鞋、银丝髻和金钗珠翠有文字依据。",
+        "乔大户欠身，伯爵插话，后面才有西门庆打伯爵一下。"
+      ],
+      "inference": {
+        "推断": "以紧裁三人表现席间冲突；其余十四人、八桌不在本画中点数。",
+        "美术补足": "乔大户尚无锁脸，本幅建立宽椭圆脸、短灰髭的成熟面貌；金樽、锦杌、面花落点、冠髻精确工艺及夏衣色差未作考据。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第32回隔离正文，必要前情仅据第31回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节属美术补足，生成图不作史证。",
+      "references": [
+        "assets/011-04.webp",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks ONLY Li Guijie, FAR RIGHT FOREGROUND pipa player, narrow round face, natural straight brows and small round chin. Reference 2 locks ONLY Ying Bojue, the thin long-faced mustached man at LEFT; do not use the center man or the broad face at right. Exactly THREE fully clothed figures at the upper end of a household feast in warm-season daylight. RIGHT FOREGROUND Guijie stands in a modest loose pale lotus-pink silk summer outer garment over a covered white collar and emerald-green skirt, a glimpse of red embroidered shoes; compact silver-wire-supported black hair arrangement adorned with small gold filigree pins and restrained pearls/jade, exactly THREE small green floral cosmetic appliques, one near each temple and one high on forehead, artistic placement only. She holds ONE gold-coloured wine goblet high with BOTH hands toward the seated guest at LEFT, arms naturally bent, rosy cheeks and restrained awkward composure, not sexualized. LEFT Qiao Dahu is a newly established mature merchant, broad oval face, slightly heavy eyelids, short greying mustache and short rounded chin beard, black cloth cap, muted deep plum lightweight robe; he is half-rising politely from his chair, one palm gently raised in refusal while the other steadies himself on the chair arm, no touch with Guijie. BACK CENTER Ying Bojue in a brown summer robe, thin long mature face with fine short black mustache and narrow small black chin beard, natural crow-feet but not an elderly deeply wrinkled face; leans forward speaking with a taunting lively smile and a loose hand gesture. A small brocade-covered stool stands unused beside Guijie, simple dishes and a wine ewer on the banquet table, bamboo shades, timber hall. Tight asymmetrical three-person composition: other guests and host outside crop, no performers or servants added. This is an offer of wine and rude banter, no physical coercion, no violence and no embrace. Faces varied and faithful to the assigned identities. ",
+      "image": "assets/032-03.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰三人：右桂姐窄圆脸双手高捧一金樽，藕粉衣、绿裙、红鞋、珠翠髻和三处翠面花可辨；左乔大户宽椭圆成熟脸、短髭短下颏须，扶椅前倾欠身并抬掌；中后伯爵瘦长脸黑短须笑着插话，与旧参考一致，区别乔大户。锦杌在桂姐身侧未坐，无多手、多肢、其他人物或后续打人动作。衣服色阶、银丝髻的精确构造、面花位置、杯与锦杌制式属美术补足；乔大户新建面貌可供后章锁脸，非原文明写五官。关键身份、人数、动作和道具可采用。",
+      "memoryPoint": "乔大户欠身不敢受，伯爵偏要她仍按供唱身份服侍。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks ONLY Li Guijie, FAR RIGHT FOREGROUND pipa player, narrow round face, natural straight brows and small round chin. Reference 2 locks ONLY Ying Bojue, the thin long-faced mustached man at LEFT; do not use the center man or the broad face at right. Exactly THREE fully clothed figures at the upper end of a household feast in warm-season daylight. RIGHT FOREGROUND Guijie stands in a modest loose pale lotus-pink silk summer outer garment over a covered white collar and emerald-green skirt, a glimpse of red embroidered shoes; compact silver-wire-supported black hair arrangement adorned with small gold filigree pins and restrained pearls/jade, exactly THREE small green floral cosmetic appliques, one near each temple and one high on forehead, artistic placement only. She holds ONE gold-coloured wine goblet high with BOTH hands toward the seated guest at LEFT, arms naturally bent, rosy cheeks and restrained awkward composure, not sexualized. LEFT Qiao Dahu is a newly established mature merchant, broad oval face, slightly heavy eyelids, short greying mustache and short rounded chin beard, black cloth cap, muted deep plum lightweight robe; he is half-rising politely from his chair, one palm gently raised in refusal while the other steadies himself on the chair arm, no touch with Guijie. BACK CENTER Ying Bojue in a brown summer robe, thin long mature face with fine short black mustache and narrow small black chin beard, natural crow-feet but not an elderly deeply wrinkled face; leans forward speaking with a taunting lively smile and a loose hand gesture. A small brocade-covered stool stands unused beside Guijie, simple dishes and a wine ewer on the banquet table, bamboo shades, timber hall. Tight asymmetrical three-person composition: other guests and host outside crop, no performers or servants added. This is an offer of wine and rude banter, no physical coercion, no violence and no embrace. Faces varied and faithful to the assigned identities. ",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "032-04",
+      "chapter": 32,
+      "title": "仪门前，月娘忽然抬头",
+      "excerpt": {
+        "chapter": 32,
+        "paragraph": 15,
+        "quote": "走到仪门首，一径把那孩儿举得高高的。不想吴月娘正在上房穿廊下，看着家人媳妇定添换菜碟儿；李瓶儿与玉箫在房首拣酥油蚫螺儿。"
+      },
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "于是常怀嫉妒之心，每蓄不平之意。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "那潘金莲笑嘻嘻的，向前戏弄那孩儿。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "月娘忽抬头看见"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "举的恁高，只怕唬着他。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "那李瓶儿慌走出来。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "这李瓶儿忙解开怀，接过来。"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "吴月娘",
+        "李瓶儿",
+        "官哥儿"
+      ],
+      "place": "仪门首与上房穿廊之间",
+      "event": "金莲举着官哥到后边，月娘抬头制止，并唤瓶儿出来。",
+      "why": "前厅仍在喝酒，内宅却把所有目光转向一个被抱高的满月孩子；月娘的话把欢乐中的不安点了出来。",
+      "composition": "左金莲双臂托起完整包裹的婴儿至自己面颊上方；右前月娘抬头举掌，后方瓶儿从房门急趋出来。",
+      "summary": "金莲听见官哥哭，执意把他抱去后边，到了仪门将孩子举高。月娘正在穿廊看人添菜，抬头见状，说只怕唬着孩子，并叫瓶儿出来。画面只停在制止与趋近的一瞬，不添掉落、伤口或击打。嫉妒是叙述者明写，但不能由此把每个抱举细节都判作已经说明的谋害意图。",
+      "psychology": {
+        "明写": "叙述者说明金莲因西门庆常宿瓶儿房中而嫉妒；金莲笑嘻嘻，瓶儿慌走出来。",
+        "推断": "月娘伸掌和瓶儿急步表现她们当下的担心；不替原文补出金莲明确的致病计划。"
+      },
+      "social": "孩子牵动妻妾关系，奶子虽劝阻却未能拒绝五娘；月娘有权当面制止并叫回生母。人物对受惊的理解须与现代病因判断分开。",
+      "explicit": [
+        "金莲把官哥从奶子处抱走，在仪门举高。",
+        "月娘当面说只怕唬着，随后瓶儿接回。",
+        "添换菜碟与拣酥油蚫螺是此时其他人的事情，未拼进近景。"
+      ],
+      "inference": {
+        "推断": "画面凝在瓶儿接回之前，孩子仍由金莲托着；其余做事者裁画外。",
+        "美术补足": "为避免图像失真，婴儿头背均以双手与襁褓承托；具体高度、包法、衣色与仪门穿廊相对位置为叙事性美术安排，不作照护示范。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第32回隔离正文，必要前情仅据第31回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节属美术补足，生成图不作史证。",
+      "references": [
+        "references/pan-solo-030.png",
+        "assets/020-02.webp",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks Pan Jinlian narrow oval face and clear brows only; do NOT reuse her blue vest/white blouse/pink skirt costume. Reference 2 locks ONLY Wu Yueniang, the fuller round-faced woman on RIGHT, ignore the woman at left. Reference 3 locks Li Pinger small build, pale melon-seed face and curved thin eyebrows only. Exactly THREE fully clothed women and ONE tiny one-month infant, a non-graphic domestic literary moment in a shaded covered passage by an inner courtyard gate. LEFT Pan Jinlian in a muted apricot light summer jacket over a closed high white undercollar and dark olive skirt, neatly arranged black hair and modest cosmetic colour, smiling lightly toward the infant. She has raised the completely wrapped infant with BOTH hands to just above her own face level: one visible palm and forearm securely under the wrapped head and upper back and the other supporting the wrapped lower body, no tossing, no dangling limbs, no grip at the neck or joints. Baby is small realistic newborn proportions, lying diagonally in a cream cloth wrap with muted red edge, ONLY its little face visible, awake with slightly open mouth. RIGHT FOREGROUND Yueniang in a rust-brown summer jacket and purple-brown skirt turns sharply upward toward Pan, concerned open mouth as she speaks, one palm lifted in a stopping gesture but not touching the baby. CENTER BACK Li Pinger in a pale grey-green loose summer jacket and muted lavender skirt comes briskly out from a room doorway, anxious face, arms beginning to reach forward before receiving the baby; her clothing remains fully closed. Important: this is the moment BEFORE transfer, only Pan holds the child. Do not depict a fall, wound, attack, bruising, supernatural effects or intentional violence. No extra people, babies, bowls or nursing scene. Worn timber posts, threshold, glimpse of calm summer courtyard, warm daylight; three distinct recognizable faces and clearly separated natural hands. ",
+      "image": "assets/032-04.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰三女一婴：左金莲窄鹅蛋脸、杏色闭领夏衣，笑着双手将完整襁褓托至面部之上；右前月娘圆润脸抬头举掌制止；后中瓶儿小瓜子脸从门内急趋，双手欲接但尚未接触，人物未混淆。婴儿头部在包布内有后方手掌承托，下部由另一手托住，体量自然，仅脸露出；无掉落、伤口、攻击或额外四肢。婴儿为近直立托起而非提示词理想的斜卧姿态，仍保留举高这一原文动作；具体高度、支撑方式与包法是叙事性美术处理，不作照护示范。仪门穿廊相对位置、月娘坐姿和服装形制未考据，主要身份、人数、动作与关系可采用。",
+      "memoryPoint": "月娘一句“只怕唬着”，截住仪门前的抱举。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks Pan Jinlian narrow oval face and clear brows only; do NOT reuse her blue vest/white blouse/pink skirt costume. Reference 2 locks ONLY Wu Yueniang, the fuller round-faced woman on RIGHT, ignore the woman at left. Reference 3 locks Li Pinger small build, pale melon-seed face and curved thin eyebrows only. Exactly THREE fully clothed women and ONE tiny one-month infant, a non-graphic domestic literary moment in a shaded covered passage by an inner courtyard gate. LEFT Pan Jinlian in a muted apricot light summer jacket over a closed high white undercollar and dark olive skirt, neatly arranged black hair and modest cosmetic colour, smiling lightly toward the infant. She has raised the completely wrapped infant with BOTH hands to just above her own face level: one visible palm and forearm securely under the wrapped head and upper back and the other supporting the wrapped lower body, no tossing, no dangling limbs, no grip at the neck or joints. Baby is small realistic newborn proportions, lying diagonally in a cream cloth wrap with muted red edge, ONLY its little face visible, awake with slightly open mouth. RIGHT FOREGROUND Yueniang in a rust-brown summer jacket and purple-brown skirt turns sharply upward toward Pan, concerned open mouth as she speaks, one palm lifted in a stopping gesture but not touching the baby. CENTER BACK Li Pinger in a pale grey-green loose summer jacket and muted lavender skirt comes briskly out from a room doorway, anxious face, arms beginning to reach forward before receiving the baby; her clothing remains fully closed. Important: this is the moment BEFORE transfer, only Pan holds the child. Do not depict a fall, wound, attack, bruising, supernatural effects or intentional violence. No extra people, babies, bowls or nursing scene. Worn timber posts, threshold, glimpse of calm summer courtyard, warm daylight; three distinct recognizable faces and clearly separated natural hands. ",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "032-05",
+      "chapter": 32,
+      "title": "只说睡醒便哭，没有说抱出去",
+      "excerpt": {
+        "chapter": 32,
+        "paragraph": 16,
+        "quote": "李瓶儿亦不提起金莲抱他后边去一节，只说道：「不知怎的，睡了起来这等哭，奶也不吃。」西门庆道：「你好好拍他睡。」"
+      },
+      "evidence": [
+        {
+          "chapter": 32,
+          "paragraph": 15,
+          "quote": "睡梦中惊哭，半夜发寒，潮热起来，奶子喂他奶也不吃，只是哭。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "西门庆晚夕到李瓶儿房裏看孩儿。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "李瓶儿亦不提起金莲抱他后边去一节"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "月娘就知金莲抱出来唬了他，就一字没得对西门庆说。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "另请小儿科太医来看孩儿。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "使小厮请了刘婆来看了，说是着了惊。"
+        },
+        {
+          "chapter": 32,
+          "paragraph": 16,
+          "quote": "那孩儿方纔得稳睡，不漾奶了。"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "西门庆",
+        "官哥儿"
+      ],
+      "place": "李瓶儿房中，晚夕",
+      "event": "官哥哭闹不吃奶，西门庆来问，瓶儿没有提起金莲把孩子抱走的经过。",
+      "why": "在最需说明来由的问答中，消息却被截住；画面收拢到父母与孩子，留出说不出口的空白。",
+      "composition": "左瓶儿坐床边托抱襁褓，右庆俯身询问；婴儿在两人目光之间，奶子裁画外。",
+      "summary": "晚夕席散后，西门庆到瓶儿房中，见孩子哭便询问。瓶儿只说睡醒后哭、奶也不吃，没有提及金莲抱去后边一节；稍后月娘也不向他说明。次日刘婆说是着了惊，给药后孩子稳睡，瓶儿才放下心。图只画夜间问答，不把诊治搬进这一刻，也不据小说断定现代医学病因。",
+      "psychology": {
+        "明写": "孩子惊哭、发寒潮热，瓶儿慌了；她没有向西门庆提金莲抱走的经过。",
+        "推断": "瓶儿将目光压向孩子、短暂避开庆，属于沉默情境的美术表现；原文未明写她为什么隐瞒。"
+      },
+      "social": "照料者如意儿被责骂，另两位知道抱举经过的妻妾却没有说明。责备落点与掌握的信息并不相称，这是本回情节可见的差异，不替人物补出共同约定。",
+      "explicit": [
+        "西门庆夜里来问，瓶儿只说睡醒后哭与不吃奶。",
+        "月娘也未向西门庆说抱举经过。",
+        "庆建议请小儿科，月娘次日实际请刘婆；诊断和给药只按小说记述。"
+      ],
+      "inference": {
+        "推断": "将问答压为父母与婴儿三者近景，如意儿仍在画外，不能据图判断她离场。",
+        "美术补足": "瓶儿此刻托抱、夜间灯位、夏衣颜色、床具和婴儿包法为美术安排；哭闹不添病灶、医疗器械或象征性阴影。"
+      },
+      "history": "小说依据仅为用户梦梅馆词话本第32回隔离正文，必要前情仅据第31回连续性短记。宋代故事设定与宽泛晚明视觉参考分开；未考定的服装、器物、空间和表情细节属美术补足，生成图不作史证。",
+      "references": [
+        "references/ping-013.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks Li Pinger small build, pale melon-seed face, thin curved brows; no old pink gown or fan. Reference 2 locks Ximen Qing long face, straight brows, narrow eyes and long torso; no permanent smile. Exactly TWO clothed adults and ONE tiny infant in a quiet domestic bedroom at night after a family feast. LEFT Pinger, pale grey-green loose summer jacket fully closed at collar and muted lavender skirt, seated on the edge of a wooden bed, securely cradles a tiny completely wrapped infant close against both forearms, one hand beneath the wrapped head. She looks down worriedly with a lowered guarded gaze, lips slightly parted as she answers, natural tired face, no melodramatic tears. Baby in a cream cloth wrap edged muted red, realistic one-month proportions, only small face visible, softly crying with open mouth; no exposed body, injury or medical device. RIGHT Ximen stands bent slightly toward them in a muted dark jade light summer robe, plain small black cloth cap, concerned questioning expression, one open hand near his own waist and the other resting on the bedpost, no touching or accusing finger. No other person, ghost, omen, weapons, drugs or nursing. A small traditional open-flame oil dish lamp on a distant table provides warm low light, with cool night blue at the lattice window and worn timber bed rails; no glass chimney and no modern light. Keep recognizable distinct faces, three separate figures and natural arms, an intimate domestic care scene with no sexualized styling. The nurse is outside the tight crop, not erased from the story. ",
+      "image": "assets/032-05.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰两成人一婴：左瓶儿小瓜子脸、灰绿衣紫灰裙，坐床边低头答话，孩子包在双臂与膝前，一手支在包裹头背侧；右庆长脸直眉窄眼俯身询问，一手扶床柱、一手在自己腰旁摊开。婴儿小脸比例自然、张口哭，仅脸露出，无病灶、额外婴儿、药具或其他人物误入。奶子属于近景裁外，不能据此说她不在场。低油灯和窗外夜色清楚，无玻璃罩或现代灯。视线、托抱、衣色、床具和夜灯均为美术安排，不凭面部表现另判瓶儿隐瞒动机。关键身份、人数、问答和哭闹情境可采用。",
+      "memoryPoint": "孩子哭，瓶儿答，却没有把抱出去那一节说出。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours with layered mineral pigment washes on textured paper, realistic varied faces and worn everyday late-Ming domestic materials, natural cinematic light and believable space. Painted, not a photograph, not anime, not glossy fantasy. No text, lettering, calligraphy, labels, signature, watermark, modern objects or glass-chimney lamps. Warm season following the infant full-month celebration; no snow or autumn leaves. This illustrates a novel and is not a verified costume or architectural reconstruction. Reference images lock ONLY the named faces and broad build, never their old clothes, emotion, season, furniture or actions. Reference 1 locks Li Pinger small build, pale melon-seed face, thin curved brows; no old pink gown or fan. Reference 2 locks Ximen Qing long face, straight brows, narrow eyes and long torso; no permanent smile. Exactly TWO clothed adults and ONE tiny infant in a quiet domestic bedroom at night after a family feast. LEFT Pinger, pale grey-green loose summer jacket fully closed at collar and muted lavender skirt, seated on the edge of a wooden bed, securely cradles a tiny completely wrapped infant close against both forearms, one hand beneath the wrapped head. She looks down worriedly with a lowered guarded gaze, lips slightly parted as she answers, natural tired face, no melodramatic tears. Baby in a cream cloth wrap edged muted red, realistic one-month proportions, only small face visible, softly crying with open mouth; no exposed body, injury or medical device. RIGHT Ximen stands bent slightly toward them in a muted dark jade light summer robe, plain small black cloth cap, concerned questioning expression, one open hand near his own waist and the other resting on the bedpost, no touching or accusing finger. No other person, ghost, omen, weapons, drugs or nursing. A small traditional open-flame oil dish lamp on a distant table provides warm low light, with cool night blue at the lattice window and worn timber bed rails; no glass chimney and no modern light. Keep recognizable distinct faces, three separate figures and natural arms, an intimate domestic care scene with no sexualized styling. The nurse is outside the tight crop, not erased from the story. ",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

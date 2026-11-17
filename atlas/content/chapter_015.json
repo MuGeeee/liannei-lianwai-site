@@ -1,0 +1,446 @@
+{
+  "number": 15,
+  "title": "第十五回佳人笑赏玩灯楼　狎客帮嫖丽春院",
+  "intro": "元宵寿宴与灯市游赏同时展开：楼上有人看灯，楼下有人猜人；另一边的陪游、帮闲、踢球与私下催请，让节日热闹显出不同的人情与生计。本回只据已发生情节，不续写离场以后的事情。",
+  "supplements": [
+    {
+      "title": "邀请、上楼与先归的次序",
+      "text": "礼先于十五送到，五张柬帖请月娘、娇儿、玉楼、金莲、雪娥，另暗请西门庆晚赴席；次日雪娥留家，四位到狮子街新居。先客位四席，后登临街楼。月娘因楼下人聚而叫金莲玉楼归席，后来与娇儿先走；李瓶儿以先前受劝酒回说，仍递杯留客。月娘每给两名唱者二钱银，瓶儿再送她们上轿。酒席压力保留，不美化成全无推拒的欢聚。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 5,
+          "quote": "拿着五个柬帖儿"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 5,
+          "quote": "又捎了一个帖，暗暗请西门庆"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 6,
+          "quote": "留下孙雪娥看家"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 9,
+          "quote": "月娘每人与了他二钱银子。"
+        }
+      ]
+    },
+    {
+      "title": "楼下传闻与坏字",
+      "text": "围观者先猜公侯宅眷、贵戚艳妾、院中唱者，后来一人说是西门庆妇女。他关于武大被踢中致死等说法，是此人的街谈，不能覆写前回已发生的叙事。第8段“都压【�罗】【�罗】儿”存在坏字，本章照留并避作词义与器物推论；第7段“【扌扉】”等也未校定。灯市铺叙不用于精确绘制县城平面或考定民俗制度。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 8,
+          "quote": "一个说道：「一定是那公侯府第裏出来的宅眷。」"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 8,
+          "quote": "大郎因为在王婆茶坊内捉奸，被大官人踢中了死了"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 8,
+          "quote": "都压【�罗】【�罗】儿"
+        }
+      ]
+    },
+    {
+      "title": "几层递送与赏钱",
+      "text": "西门庆递三两银给桂卿遭推辞，转给老妈；老妈口头辞让同时收进袖里。衣衫蓝褛的架儿携三四升瓜子前来，西门庆捏一两一块银掠在地下，来人跪谢；于春儿、段绵纱、青聂钺三名见文。圆社则带烧鹅与两瓶老酒，先受酒食，再以踢球求赏，离去时三人另得一两五钱。这些往来金额分开保存，不拼成完整当日账。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 14,
+          "quote": "西门庆向袖中掏出三两银子来"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 14,
+          "quote": "一壁推辞，一壁把银子接的袖了"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 15,
+          "quote": "捏一两一块银子掠在地下。"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 17,
+          "quote": "盛着一只烧鹅，提着两瓶老酒"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "拿了一两五钱银子，打发三个圆社。"
+        }
+      ]
+    },
+    {
+      "title": "称谓、人物话语与年龄未核",
+      "text": "孙寡嘴亦被称孙天化，称谓对应据本段语境处理；其粗语及应伯爵所讲笑话只属席间话语，不另配性化画面。祝日念说桂姐自腊月不好、常哭，是他转述，不作医学病情。桂卿、桂姐弹一琵琶一筝，原句的个别字与分配不另强定。桂姐、玳安的精确年龄未核，迎春前情17岁；本回所有年轻人物只作日常传话、招待或普通踢球，不以婚姻或职业推定成年。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 13,
+          "quote": "老妈不信，问孙天化就是了。"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 10,
+          "quote": "说他従腊月裏不好到如今"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 17,
+          "quote": "桂卿外与桂姐一个琵琶一个筝"
+        }
+      ]
+    },
+    {
+      "title": "本回的离场止于何处",
+      "text": "西门庆命玳安后门等马，借净手离去；对保儿说家里有事，并非叙述确认的真实去处。李家担心他去后巷吴银儿家，遣丫鬟跟至院门方回；这只交代李家的疑虑。应伯爵等吃到二更鼓才散。图与文均不续写本回没有叙出的抵达、欢会或后回结果，也不用结尾诗与下回引导补象征。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "西门庆只说：「我家裏有事。」"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "李家恐怕他又往后巷吴银儿家"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "应伯爵等众人还吃到二更鼓纔散。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "015-01",
+      "chapter": 15,
+      "title": "寿礼后的回赠",
+      "excerpt": {
+        "chapter": 15,
+        "paragraph": 5,
+        "quote": "李瓶儿一面吩咐迎春，外边明间内放小桌儿，摆了四盒茶食管待玳安。临出门，与二钱银子、八寳儿一方闪色手帕：「到家多上覆你列位娘，我这裏使老冯拿帖儿请去，好歹明日都光降走走。」"
+      },
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 5,
+          "quote": "先一日差小厮玳安"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 5,
+          "quote": "写吴月娘名字：「西门吴氏敛袵拜」"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 5,
+          "quote": "临出门，与二钱银子、八寳儿一方闪色手帕"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "玳安"
+      ],
+      "place": "李瓶儿新居明间与门边（位置为补足）",
+      "event": "李瓶儿招待送寿礼的玳安，临走又给银子和手帕，托他传请诸位娘。",
+      "why": "记住寿礼署吴月娘之名，公开的人情往来又通向另递的私人请帖。",
+      "composition": "中近景恰两人：李瓶儿将一方折叠闪色帕与小银块递给玳安；旁桌四个茶食盒，寿礼其余部分在画外。",
+      "summary": "正月十五将到，西门庆先一日差玳安送寿礼，名帖写吴月娘。李瓶儿以四盒茶食招待，临出门又给二钱银子与一方闪色手帕，嘱他回禀诸位娘。后来她另使老冯拿五张请帖，并暗请西门庆；图只取回赠，不将后一步同时摆入。",
+      "psychology": {
+        "明写": "李瓶儿口称又教大娘费心，并嘱玳安转达来日赴请。",
+        "推断": "礼物、赏钱和传话使两家往来更密；她此刻具体内心没有独白，礼貌微笑是画法。"
+      },
+      "social": "送礼、管待使者和另赏抬盒人的层次由叙述分开；二钱与一百文是文本金额，不据此换算现代购买力。",
+      "explicit": [
+        "生日礼先一日送到；玳安受二钱银与一方闪色手帕。",
+        "四盒茶食供玳安；两个抬盒人另得一百文。"
+      ],
+      "inference": [
+        "手帕的具体八宝图案、二钱银子的形状和大小未考定。",
+        "明间门边的交接位置、衣色、盒形与表情属美术补足；玳安精确年龄未核，不作成年认定。",
+        "采用图门外或屋顶薄雪为生成器添加的美术背景；本回没有明写当日下雪，不能据此确定天气。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离原文；宋代故事设定与宽泛晚明视觉参考分开。器物、服装、空间未校定处均不冒称复原。",
+      "references": [
+        "references/ping-013.png",
+        "references/young-people-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 supplies only Li Ping er face: petite woman, pale narrow oval face, delicate arched eyebrows. Reference image 2 supplies only the LEFT youth Dai an face, never the middle or right person; preserve youthful ordinary appearance and do not age him up. Exactly TWO visible people in a modest timber-and-plaster house doorway beside a small inner hall table. Ping er, fully clothed in a muted plum-gray winter jacket with closed white collar and long skirt (clothing invented for this moment), hands Dai an a folded iridescent blue-green silk handkerchief with understated abstract treasure-like embroidery and a single very small irregular silver piece resting on the cloth. The youth in loose blue-gray winter servant clothes receives them respectfully with both hands, looking at the handover. Hands anatomically distinct, no touching bodies, no suggestive framing. On the small side table exactly four modest lidded tea-food boxes, some lids slightly open; do not depict the whole birthday gift inventory. Soft cold daytime light, intimate ordinary material exchange. No writing on boxes or cloth, no necklaces substituted for the handkerchief, no extra people.",
+      "image": "assets/015-01.webp",
+      "status": "generated",
+      "review": "已实际打开工作区采用PNG核看：恰李瓶儿、玳安两人，脸部对应参考，玳安保持普通年轻样貌；一方折帕与一小银块清楚，旁桌恰四盒茶食。两方手部可区分，无文字、现代物或性化表现。门外出现薄雪，系生成器增添、本回未明写，已列美术补足；手帕纹样与银块大小非器物复原。初稿采用，原始生成文件保留。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 supplies only Li Ping er face: petite woman, pale narrow oval face, delicate arched eyebrows. Reference image 2 supplies only the LEFT youth Dai an face, never the middle or right person; preserve youthful ordinary appearance and do not age him up. Exactly TWO visible people in a modest timber-and-plaster house doorway beside a small inner hall table. Ping er, fully clothed in a muted plum-gray winter jacket with closed white collar and long skirt (clothing invented for this moment), hands Dai an a folded iridescent blue-green silk handkerchief with understated abstract treasure-like embroidery and a single very small irregular silver piece resting on the cloth. The youth in loose blue-gray winter servant clothes receives them respectfully with both hands, looking at the handover. Hands anatomically distinct, no touching bodies, no suggestive framing. On the small side table exactly four modest lidded tea-food boxes, some lids slightly open; do not depict the whole birthday gift inventory. Soft cold daytime light, intimate ordinary material exchange. No writing on boxes or cloth, no necklaces substituted for the handkerchief, no extra people.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "015-02",
+      "chapter": 15,
+      "title": "楼窗上的看与被看",
+      "excerpt": {
+        "chapter": 15,
+        "paragraph": 8,
+        "quote": "吴月娘看了一回，见楼下人乱，和李娇儿各归席上吃酒去了。惟有潘金莲孟玉楼同两个唱的，只顾搭伏着楼窗子，引下人观看。"
+      },
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 6,
+          "quote": "孟玉楼是绿遍地金比甲，潘金莲是大红遍地金比甲"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 8,
+          "quote": "这对门架子上挑着一盏大鱼灯，下面还有许多小鱼鳖虾蟹儿跟着他"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 8,
+          "quote": "引惹的那楼下看灯的人挨肩擦背，仰望上瞧"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "孟玉楼",
+        "楼下看灯人（未定名）"
+      ],
+      "place": "狮子街李瓶儿临街楼窗",
+      "event": "月娘与娇儿归席，金莲、玉楼还在窗边指灯嬉笑，楼下人转而仰看她们。",
+      "why": "记住双向视线：楼上看灯，楼下也把楼上人当作景观。",
+      "composition": "斜俯视两位女子半身与下方灯市；两名唱者仍在场但在裁框外。金莲右手轻指鱼灯，另一手近瓜子小碟。",
+      "summary": "月娘和李娇儿先离开窗边。金莲与玉楼仍倚窗说笑，看对门大鱼灯与随后的鱼鳖虾蟹。金莲的衣袖、戒指与瓜子使动作格外具体，楼下逐渐围起仰望的人群。旁人的身份猜测各不相同，不能把那番流言当作叙述重新裁定的事实。",
+      "psychology": {
+        "明写": "金莲、玉楼嘻笑不止，金莲数次指灯叫人看；月娘见楼下人乱而归席。",
+        "推断": "两人此时看灯兴味浓；她们是否预料众人议论，正文没有交代。"
+      },
+      "social": "衣饰成为陌生人猜测身份的线索，但猜测互相冲突；人物话语不等于户籍或案情记录。",
+      "explicit": [
+        "金莲、玉楼白绫袄、蓝缎裙；比甲分别大红和绿色遍地金。",
+        "金莲有六个金马镫戒指，嗑瓜子并将瓜子皮吐下；本图只取尚在指灯的一刻。",
+        "两个唱的也在窗边，因裁框未见，不声称当场只有两人。"
+      ],
+      "inference": [
+        "灯架精确形制、街宽、层高、鱼灯结构与围观人数未考定。",
+        "六戒指以小金色圈示意，不据微小图像作器物鉴定；手指、窗帘与灯笼位置为补足。",
+        "采用图门外或屋顶薄雪为生成器添加的美术背景；本回没有明写当日下雪，不能据此确定天气。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离原文；宋代故事设定与宽泛晚明视觉参考分开。器物、服装、空间未校定处均不冒称复原。",
+      "references": [
+        "references/pan-solo-030.png",
+        "references/yulou.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Input reference 1 locks Pan Jin lian narrow oval face; reference 2 locks Meng Yu lou taller face with faint natural pockmark texture. Face identity only, replace reference costumes. A diagonal high-window view at a winter lantern festival in a busy old Chinese street, late afternoon before the upstairs lamps are lit. Foreground exactly TWO clearly visible women leaning modestly at a wooden upstairs window, fully clothed, no glamour pose. Jin lian nearer left wears white silk padded jacket, bright RED sleeveless gold-scattered bijia vest, BLUE satin long skirt; sleeves raised only to show inner patterned cuff, no exposed upper arms. Six small gold rings distributed naturally across her fingers, her right hand pointing down across the street; left hand near a tiny dish of melon seeds on the sill. Yu lou beside her wears white padded silk jacket, GREEN gold-scattered sleeveless bijia and BLUE long skirt, laughing gently at the lantern with her. Pearl and jade hair ornaments, small colorful lantern-shaped hair ornaments understated. A partially raised bamboo curtain at top. Frame crops the two other singers who remain elsewhere in the room, do not add faces behind. Downward visible street crowded with ordinary fully clothed distant figures, several faces turned up toward the women, no individually detailed portraits. Opposite them a fish-shaped lantern hangs high with smaller fish, turtle, shrimp and crab lanterns below it; other modest lantern stalls recede. Convincing depth, faces and winter brocade handled with fine ink lines. No written signs, no giant literal fish, no moon or snow invented, no erotic focus.",
+      "image": "assets/015-02.webp",
+      "status": "generated",
+      "review": "已实际打开工作区采用PNG核看：窗前金莲红比甲、玉楼绿比甲，白袄与蓝裙明确，脸型区分且玉楼保留浅麻点；金莲两手共六个小金圈、瓜子碟及指灯动作可辨。鱼灯与鱼鳖虾蟹随灯清楚，楼下多人回望，双向视线成立。两名唱者依裁框在画外，不误称当场只有二人。屋顶少量薄雪为生成器加入、本回未明写，已标补足；灯架、窗位与街宽不作复原。初稿采用，原始生成文件保留。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Input reference 1 locks Pan Jin lian narrow oval face; reference 2 locks Meng Yu lou taller face with faint natural pockmark texture. Face identity only, replace reference costumes. A diagonal high-window view at a winter lantern festival in a busy old Chinese street, late afternoon before the upstairs lamps are lit. Foreground exactly TWO clearly visible women leaning modestly at a wooden upstairs window, fully clothed, no glamour pose. Jin lian nearer left wears white silk padded jacket, bright RED sleeveless gold-scattered bijia vest, BLUE satin long skirt; sleeves raised only to show inner patterned cuff, no exposed upper arms. Six small gold rings distributed naturally across her fingers, her right hand pointing down across the street; left hand near a tiny dish of melon seeds on the sill. Yu lou beside her wears white padded silk jacket, GREEN gold-scattered sleeveless bijia and BLUE long skirt, laughing gently at the lantern with her. Pearl and jade hair ornaments, small colorful lantern-shaped hair ornaments understated. A partially raised bamboo curtain at top. Frame crops the two other singers who remain elsewhere in the room, do not add faces behind. Downward visible street crowded with ordinary fully clothed distant figures, several faces turned up toward the women, no individually detailed portraits. Opposite them a fish-shaped lantern hangs high with smaller fish, turtle, shrimp and crab lanterns below it; other modest lantern stalls recede. Convincing depth, faces and winter brocade handled with fine ink lines. No written signs, no giant literal fish, no moon or snow invented, no erotic focus.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "015-03",
+      "chapter": 15,
+      "title": "推辞中的转弯",
+      "excerpt": {
+        "chapter": 15,
+        "paragraph": 10,
+        "quote": "西门庆因记挂着晚夕李瓶儿还席，推辞道：「今日我还有小事，不得去，明日罢。」怎禁这伙人死拖活拽，于是同进去院中。"
+      },
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 10,
+          "quote": "西门庆因为月娘众人今日都在李瓶儿家楼上吃酒，恐怕他两个看见"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 10,
+          "quote": "不想转过弯来，撞遇孙寡嘴、祝日念"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 10,
+          "quote": "怎禁这伙人死拖活拽，于是同进去院中。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "谢希大",
+        "孙寡嘴",
+        "祝日念"
+      ],
+      "place": "狮子街灯市拐角通往院中（具体门址未定）",
+      "event": "西门庆记着晚间赴李瓶儿之席，欲推辞；几位同游者却拉他转向李家。",
+      "why": "记住他避开妻妾所在灯市，却被另一套人情关系牵住。",
+      "composition": "五人一组穿过门槛；西门庆与应伯爵面容清晰，其余三人从背面和侧后入画，不据画面分配准确姓名。",
+      "summary": "西门庆与应伯爵、谢希大游灯市，因怕同伴看见楼上的家眷，只到纱灯前便折回。转弯遇孙寡嘴、祝日念，两人提议探望李桂姐。他记着李瓶儿晚席，推说另有小事，终究被众人拉拽进去。图取门边尚在推辞的一刻，不把逗笑画成毫无勉强。",
+      "psychology": {
+        "明写": "叙述说西门庆怕两个同伴看见，且记挂晚夕李瓶儿还席；口头推辞另有小事。",
+        "推断": "回身与略抬手表达行程被打断的迟疑；此一表情属于可视化推断。"
+      },
+      "social": "帮闲靠陪游、牵线、邀约进入富客的日程；这一场的拉扯只表明当下同伴压力，不替人物确定永久性格。",
+      "explicit": [
+        "同游原为西门庆、应伯爵、谢希大，后遇孙寡嘴、祝日念，合五人。",
+        "西门庆本拟大酒楼饮酒，被提议改去李桂姐家；有推辞和拉拽明文。"
+      ],
+      "inference": [
+        "五人衣色、具体抓袖者、门槛位置与动作分工为补足。",
+        "其余三人以背面处理，不用未核定外貌造人物小传；应伯爵只取既有参考左侧。",
+        "采用图袍外层浅透纹理、枝上残叶与灯市摊货属画法；内层衣物遮蔽，不声称考定冬袍材质。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离原文；宋代故事设定与宽泛晚明视觉参考分开。器物、服装、空间未校定处均不冒称复原。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference 1 locks Xi men Qing long face, straight eyebrows, narrow eyes and long-waisted figure. Reference 2 locks only LEFT thin older man Ying Bo jue with fine mustache and goatee; no duplicate Xi men from its middle. Exactly FIVE fully clothed adult men form one moving group at a narrow timber doorway off a winter lantern-market corner, late afternoon. Xi men Qing at center in a dark moss-green substantial winter robe, black cloth cap, holds one palm slightly outward in hesitation and turns his head back toward the market. Ying Bo jue beside him in worn brown winter robe, visible long thin face with lively eye wrinkles, gently but insistently catches Xi men outer sleeve at the elbow to guide him across the threshold. No assault, no choking, no weapons, no slapstick brawl. Three other male companions are seen from backs or obscured side profiles, gray, muted blue and umber robes; one gestures inward, two move ahead, all anatomically separate, no additional people. Their names not individually specified by the drawing. Painted dynamic asymmetry, sleeve tension and interrupted footstep tell the hesitation. A few gauze lanterns at street edge, everyday plaster and aged wooden jambs. The destination interior is an ordinary reception space, no women or sexual imagery, no signs, no readable text. Winter breath not needed, no snow, no spring vegetation, no folding fans.",
+      "image": "assets/015-03.webp",
+      "status": "generated",
+      "review": "已实际打开工作区采用PNG核看：恰五名男子，西门庆、应伯爵面貌与参考相合；西门庆抬掌回首、应伯爵抓袖，进门方向与推辞关系成立。另三人只见背面或侧后，不以此确定姓名和脸谱。手脚无显著畸形，无文字、武器或刺激暴力。袍的浅透外层、残叶、摊货及门址均是美术补足，不当作冬衣与街图考证。初稿采用，原始生成文件保留。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference 1 locks Xi men Qing long face, straight eyebrows, narrow eyes and long-waisted figure. Reference 2 locks only LEFT thin older man Ying Bo jue with fine mustache and goatee; no duplicate Xi men from its middle. Exactly FIVE fully clothed adult men form one moving group at a narrow timber doorway off a winter lantern-market corner, late afternoon. Xi men Qing at center in a dark moss-green substantial winter robe, black cloth cap, holds one palm slightly outward in hesitation and turns his head back toward the market. Ying Bo jue beside him in worn brown winter robe, visible long thin face with lively eye wrinkles, gently but insistently catches Xi men outer sleeve at the elbow to guide him across the threshold. No assault, no choking, no weapons, no slapstick brawl. Three other male companions are seen from backs or obscured side profiles, gray, muted blue and umber robes; one gestures inward, two move ahead, all anatomically separate, no additional people. Their names not individually specified by the drawing. Painted dynamic asymmetry, sleeve tension and interrupted footstep tell the hesitation. A few gauze lanterns at street edge, everyday plaster and aged wooden jambs. The destination interior is an ordinary reception space, no women or sexual imagery, no signs, no readable text. Winter breath not needed, no snow, no spring vegetation, no folding fans.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "015-04",
+      "chapter": 15,
+      "title": "喝彩里的踢球",
+      "excerpt": {
+        "chapter": 15,
+        "paragraph": 17,
+        "quote": "次教桂姐上来，与两个圆社踢。一个揸头，一个对障。抅踢拐打之间，无不假喝彩奉承，就有些不到处，都快取过去了。"
+      },
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 15,
+          "quote": "上穿白绫对衿袄儿，妆花眉子，绿遍地金掏袖；下着红罗裙子。"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 17,
+          "quote": "无不假喝彩奉承"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 17,
+          "quote": "反来向西门庆面前讨赏钱"
+        }
+      ],
+      "people": [
+        "李桂姐",
+        "西门庆",
+        "两个圆社（未指定哪二人）"
+      ],
+      "place": "李家院中",
+      "event": "桂姐与两个圆社踢气球，圆社把不易接的球也快取过去，又以喝彩奉承求赏。",
+      "why": "记住漂亮的喝彩背后还有接球、补救和讨赏的劳动。",
+      "composition": "四人可见：桂姐在前低脚送球，两圆社分接应位置，西门庆立在廊下观看；第三圆社及其他宾客画外。",
+      "summary": "酒后转到院中，西门庆先踢一跑，再让桂姐与两个圆社踢。圆社在配合中不断喝彩，连不到处也迅速补接，转身向西门庆讨赏。图中只取一次低脚传球：桂姐穿本回明写的白袄红裙，动作以稳当接应呈现，不将年龄未核的她作性化表演。",
+      "psychology": {
+        "明写": "圆社假喝彩奉承，并向西门庆讨赏；后文叙述桂姐踢两跑后疲累。",
+        "推断": "本图尚在踢球，微抿嘴专注与西门庆观察的神色是美术推断，不把疲累提前。"
+      },
+      "social": "本回同时写圆社携烧鹅老酒拜节、受酒食、出力配合又讨赏；技艺表演与依附富客的生计缠在一起。",
+      "explicit": [
+        "桂姐与两个圆社同踢，一个揸头一个对障；具体术语的动作细节未完全校定。",
+        "桂姐本回白绫对衿袄、绿遍地金掏袖、红罗裙；金累丝钗、翠梅花钿、珠子箍、金灯笼坠有文。",
+        "三个圆社名白秃子、小张闲、罗回子，原文没有指定此时哪两人与桂姐踢。"
+      ],
+      "inference": [
+        "圆社接应分位只作宽泛解释，不声称复原技法；球体结构、庭院尺度、鞋式未校定。",
+        "桂姐精确年龄未考定，保留普通年轻面貌，全衣、低脚踢球，无挑逗姿势。",
+        "两个圆社背向或侧后入画，不建立未经文字支持的身份外貌。",
+        "采用图将黄板辫宽泛画为黄布束发配辫，不主张名物精确复原；球缝和鞋纹为补足。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离原文；宋代故事设定与宽泛晚明视觉参考分开。器物、服装、空间未校定处均不冒称复原。",
+      "references": [
+        "assets/011-04.webp",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 supplies ONLY the face of Li Gui jie, the FRONT RIGHT seated pipa player: youthful narrow-round face, naturally straight brows, small rounded chin, black hair. Do not borrow the other female faces, instruments, old season or clothes. Her precise age is unspecified; retain ordinary youthful appearance, fully modest and non-sexual, do not make adult glamour. Reference image 2 locks Xi men Qing face and long-waisted body only. Exactly FOUR people in an aged brick-and-timber Chinese courtyard during winter first lunar month: foreground Gui jie plays a light low football pass with TWO male ball-skill performers; Xi men Qing stands under the rear veranda watching. Gui jie wears a fully closed WHITE silk front-opening padded jacket over opaque white inner clothing, understated patterned trim and GREEN gold-flecked inner cuffs, full ankle-length RED silk skirt with ample ordinary coverage. Her hair in coiled bun with small gold filigree pin, jade plum ornament and pearl band. No exposed knees or legs; front cloth shoe extends just a little below skirt to tap a plain small stitched leather ball at shin height, low safe balanced posture, no acrobatics. The two adult male performers wear simple blue cloth clothes with yellowish flat hair braids, one left in three-quarter back view ready to receive, one right in side-back view moving quickly to cover, open encouraging hands and eager attention. Their exact identities left visually unassigned. Xi men wears dark moss-green winter robe and black cloth cap, restrained watching face, no fan. No third player, no other spectators in frame; those people remain outside this crop. Natural late-day winter light, tiny dust at shoe level, no exhaustion or sweat yet. The important action is skillful accommodating reception and performative praise, no body contact, no sexual framing, no readable text, no musical instruments, no snow or flowers.",
+      "image": "assets/015-04.webp",
+      "status": "generated",
+      "review": "已实际打开工作区采用PNG核看：恰桂姐、两个圆社、西门庆四人；桂姐普通年轻面貌，白对衿袄、绿金袖里、长红裙俱在，低脚送球只露布鞋，无裸露腿或性化姿态。两圆社接应、西门庆廊下旁观，球体与动作清楚，人物没有多肢或显著粘连。黄板辫在图中仅宽泛呈黄布束发与辫形，未定名物形制；球缝、门窗、鞋式为补足。原文未指定此时哪两名圆社，画中亦不分配。初稿采用，原始生成文件保留。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 supplies ONLY the face of Li Gui jie, the FRONT RIGHT seated pipa player: youthful narrow-round face, naturally straight brows, small rounded chin, black hair. Do not borrow the other female faces, instruments, old season or clothes. Her precise age is unspecified; retain ordinary youthful appearance, fully modest and non-sexual, do not make adult glamour. Reference image 2 locks Xi men Qing face and long-waisted body only. Exactly FOUR people in an aged brick-and-timber Chinese courtyard during winter first lunar month: foreground Gui jie plays a light low football pass with TWO male ball-skill performers; Xi men Qing stands under the rear veranda watching. Gui jie wears a fully closed WHITE silk front-opening padded jacket over opaque white inner clothing, understated patterned trim and GREEN gold-flecked inner cuffs, full ankle-length RED silk skirt with ample ordinary coverage. Her hair in coiled bun with small gold filigree pin, jade plum ornament and pearl band. No exposed knees or legs; front cloth shoe extends just a little below skirt to tap a plain small stitched leather ball at shin height, low safe balanced posture, no acrobatics. The two adult male performers wear simple blue cloth clothes with yellowish flat hair braids, one left in three-quarter back view ready to receive, one right in side-back view moving quickly to cover, open encouraging hands and eager attention. Their exact identities left visually unassigned. Xi men wears dark moss-green winter robe and black cloth cap, restrained watching face, no fan. No third player, no other spectators in frame; those people remain outside this crop. Natural late-day winter light, tiny dust at shoe level, no exhaustion or sweat yet. The important action is skillful accommodating reception and performative praise, no body contact, no sexual framing, no readable text, no musical instruments, no snow or flowers.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "015-05",
+      "chapter": 15,
+      "title": "玳安附耳的一句话",
+      "excerpt": {
+        "chapter": 15,
+        "paragraph": 19,
+        "quote": "西门庆正看着众人在院内打双陆、踢气球，饮酒，只见玳安骑马来接，悄悄附耳低言说道：「大娘二娘家去了。花二娘敎小的请爹早些过去哩。」这西门庆听了，暗暗叫玳安把马吊在后边门首等着。"
+      },
+      "evidence": [
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "悄悄附耳低言"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "暗暗叫玳安把马吊在后边门首等着"
+        },
+        {
+          "chapter": 15,
+          "paragraph": 19,
+          "quote": "于后门上马，一溜烟走了。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "玳安"
+      ],
+      "place": "李家院边廊下（具体位置为补足）",
+      "event": "玳安赶来附耳传李瓶儿催请，西门庆听后让他把马牵到后门等候。",
+      "why": "记住一声低语把热闹席面与另一场约席接在一起。",
+      "composition": "两人中近景，玳安向西门庆耳侧低语；院内球戏仅借画外视线提示，马与后门仍在画外。",
+      "summary": "院里的双陆、踢球、饮酒尚未散，玳安已骑马来接。他低声报大娘二娘归家，又传花二娘请爹早些过去。西门庆暗令把马留后门，随后借净手离去。图停在听信的一刻，未同时画成已上马，也不将他对外说家里有事当作实际行程。",
+      "psychology": {
+        "明写": "玳安悄悄附耳低言，西门庆暗暗命他后门等马，随后借净手离开。",
+        "推断": "西门庆转头侧耳、收住笑容是画法；他具体盘算没有内心独白，不能代他说出。"
+      },
+      "social": "使者传话和前后门的出入，让公开宴饮与私下安排并行；本回只写他离开李家，尚未叙写抵达后的事情。",
+      "explicit": [
+        "低语内容及后门等马有明文；玳安称呼中的大娘二娘指刚归家的月娘、娇儿，花二娘为李瓶儿。",
+        "后来玳安另给三个圆社一两五钱银，李家使丫鬟跟至院门，不与当前低语叠成一刻。"
+      ],
+      "inference": [
+        "廊下具体位置、手势、冬袍颜色和主仆距离为美术补足。",
+        "不画房中未详写行为，不以职业身份或历史称谓改变年轻使者年龄；此图纯粹传话。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离原文；宋代故事设定与宽泛晚明视觉参考分开。器物、服装、空间未校定处均不冒称复原。",
+      "references": [
+        "references/ximen.png",
+        "references/young-people-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 locks Xi men Qing long face, straight brows, narrow eyes, long-waisted figure. Reference image 2 supplies ONLY Dai an, the LEFT youthful male servant, never the middle child or right girl; preserve his ordinary young age appearance without adultizing. Exactly TWO visible people in a tight medium composition at the edge of an old courtyard veranda in winter late afternoon. Xi men Qing in the same dark moss-green substantial winter robe and black cloth cap turns his head and listens carefully. Dai an, loose blue-gray padded servant clothing with closed collar and tied hair, leans toward his ear to quietly deliver a practical message; mouth near ear but faces not touching, one hand slightly shields the words in a natural distinct hand shape. Xi men body still angled toward the courtyard activity outside the crop, restrained alert expression, no embrace or intimacy. Empty near veranda, worn timber post and old plaster, a cold small patch of late sky beyond. Others, ball game, horse and rear gate are all OUT OF FRAME; do not invent a simultaneous horse-mounting scene. No extra people, no reins in hands, no weapons, no fans, no readable text, no modern lighting, no snow or spring flowers. Detailed painted faces and winter cloth folds carry the whispered interruption.",
+      "image": "assets/015-05.webp",
+      "status": "generated",
+      "review": "已实际打开工作区采用PNG核看：恰玳安与西门庆两人，脸部对应既有参考，玳安普通年轻样貌不升龄；附耳低语与西门庆转头倾听关系清楚，遮语手形自然，无肢体粘连。两人全衣、无性化，画中没有同时上马、房中行为、其他人物或可读文字。衣色、廊柱、晚光、空院与屋瓦为美术补足，不据图确定真实门址或当日天气。初稿采用，原始生成文件保留。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and mineral pigment washes on subtle paper texture, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Winter first lunar month, not spring flowering vegetation. Reference image 1 locks Xi men Qing long face, straight brows, narrow eyes, long-waisted figure. Reference image 2 supplies ONLY Dai an, the LEFT youthful male servant, never the middle child or right girl; preserve his ordinary young age appearance without adultizing. Exactly TWO visible people in a tight medium composition at the edge of an old courtyard veranda in winter late afternoon. Xi men Qing in the same dark moss-green substantial winter robe and black cloth cap turns his head and listens carefully. Dai an, loose blue-gray padded servant clothing with closed collar and tied hair, leans toward his ear to quietly deliver a practical message; mouth near ear but faces not touching, one hand slightly shields the words in a natural distinct hand shape. Xi men body still angled toward the courtyard activity outside the crop, restrained alert expression, no embrace or intimacy. Empty near veranda, worn timber post and old plaster, a cold small patch of late sky beyond. Others, ball game, horse and rear gate are all OUT OF FRAME; do not invent a simultaneous horse-mounting scene. No extra people, no reins in hands, no weapons, no fans, no readable text, no modern lighting, no snow or spring flowers. Detailed painted faces and winter cloth folds carry the whispered interruption.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

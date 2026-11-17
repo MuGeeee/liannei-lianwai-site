@@ -1,0 +1,530 @@
+{
+  "number": 57,
+  "title": "第五十七回道长老募修永福寺　薛姑子劝舍陀罗经",
+  "intro": "本回把永福寺募修、家内抱子与善恶之辨连在一起：道长老写疏求助，西门庆因官哥而开疏五百两，月娘劝其以少作恶来积福，薛姑子又劝印经，最终获三十两、五千卷的委托。只据给定梦梅馆正文，不改补版本异文；阅读确认仍64。",
+  "supplements": [
+    {
+      "title": "门外的怒语",
+      "text": "潘金莲听到屋内谈官哥封赠和做文官，发怒讥骂；后又在重说求福时抽身离去。这是同回已经发生的排斥与不平，不转为官哥未来命运的预言，也不把咒骂画成事实。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "不觉的怒従心上起"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "怎见的就做官？就封赠那老夫人？"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "quote": "不想道恼了潘金莲，抽身竟走"
+        }
+      ]
+    },
+    {
+      "title": "伯爵所称心施",
+      "text": "长老走后，伯爵把自己的旁劝说成心施，西门笑他有口无心，两人拍手。这是他们对刚才捐助的玩笑解释，不等于独立佛教教义证明。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 22,
+          "quote": "难道我従傍撺掇的，不当个心施的不成？"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 22,
+          "quote": "二哥，只怕你有口无心哩！"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 22,
+          "quote": "两人拍手大笑。"
+        }
+      ]
+    },
+    {
+      "title": "妻劝与财施辩解",
+      "text": "月娘劝他少作贪财好色的行为，西门庆则以姻缘前定、广行善事仍保富贵来辩解。其夸口涉及强迫他人的恶行，保留为人物言论的非露骨批注，不予图示或认同。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "今生偷情的、苟合的，都是前生分定"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "咱只消尽这家私广为善事"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "也不减我泼天富贵！"
+        }
+      ]
+    },
+    {
+      "title": "薛姑子的来历限于叙述者所言",
+      "text": "本回叙述者交代薛姑子曾嫁人、卖蒸饼，后来以经忏往来士夫人家，并指其牵引私情、求取用度。本次不绘露骨回述；图中的接银也不能单凭来历就断定这笔委托必然落空。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 24,
+          "quote": "少年间曾嫁丈夫，在广成寺前居住，卖蒸饼儿生理。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 24,
+          "quote": "专一在些士夫人家往来，包揽经忏。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 24,
+          "quote": "思想拐些用度，因此频频往来。"
+        }
+      ]
+    },
+    {
+      "title": "卷棚下的隐秘接近",
+      "text": "陈经济本欲找西门庆说事，遇潘金莲后两人私下相偎亲吻，又担心被撞见而分开；算账之事未说。本次以非露骨说明和准确短引保存，不据已婚或称谓推定具体年龄，不为画图升龄。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 29,
+          "quote": "走到卷棚底下，刚刚凑巧，遇着了那潘金莲，凭阑独恼。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 29,
+          "quote": "两个乘着没有人来，执手相偎"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 29,
+          "quote": "因恐怕西门庆出来撞见，连那算帐的事情也不吆呼"
+        }
+      ]
+    },
+    {
+      "title": "宴席如约摆开",
+      "text": "吴大舅、花大舅、谢希大、常时节等来赴答谢宴，席上肉食果品与麻姑酒陆续上来，众人猜枚、投壶、掷色。本文没有完整账单、座次图或逐项菜单价格；不擅把当场娱乐推成后回结果。",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 31,
+          "quote": "少不的是吴大舅、花大舅、谢希大、常时节"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 31,
+          "quote": "各叙长幼，各各坐地。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 31,
+          "quote": "开那麻姑酒儿荡来。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 31,
+          "quote": "投壶的定要那正双飞、拗双飞、八僊过海"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "057-01",
+      "chapter": 57,
+      "title": "破寺中写下募缘疏",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 7,
+          "quote": "一片钟鼓道场，忽变做荒烟衰草！"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 8,
+          "quote": "卓锡在这个破寺院里面。面壁九年，不言不语。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 8,
+          "quote": "咱不做主，那个做主？咱不出头，那个出头？"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 9,
+          "quote": "身上禅衣猩血染，双环挂耳是黄金；"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 10,
+          "quote": "手中锡杖光如镜，百八胡珠耀日明。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 12,
+          "quote": "庞眉绀发铜铃眼"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 13,
+          "quote": "展开乌丝栏，写着一篇疏文。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 57,
+        "paragraph": 13,
+        "quote": "那长老宣扬已毕，就教行者拿过文房四寳，磨起龙香剂，饱揝鼠须笔，展开乌丝栏，写着一篇疏文。先叙那始末根由，后劝人舍财作福。写的行行端正，字字清新。"
+      },
+      "people": [
+        "道长老",
+        "行者"
+      ],
+      "place": "永福禅寺破败院落附近的书写处",
+      "event": "道长老向大众说明募修之意后，命行者备文房，写疏劝募。",
+      "why": "寺院由盛转衰的长段叙述，在一次具体书写行动里转成修复计划。",
+      "composition": "左侧破墙残瓦与草；中右长老俯身写疏，旁侧一名行者磨墨；全景从低处斜看案面。",
+      "summary": "永福寺年深失修，道长老不再只作壁观。他想起西门庆先前见寺倾颓时流露的布施之意，决定亲往求助。画面停在写疏的时刻：残破院落与一方整饬的书案并存，募缘还只是文字和行动的开端，尚无修复结果。",
+      "psychology": {
+        "明写": "道长老自问谁来做主、谁来出头，想到请西门庆作倡。",
+        "推断": "将破败与专注书写并置，可读作他把修寺愿望落实为可传递的请求。"
+      },
+      "social": "疏文先叙寺史与倾颓，再许愿施主福报；募修依靠书面劝说、富户领倡及人际传播，不能据此确认寺史真实。",
+      "explicit": [
+        "破败寺院、写疏、行者备文房有据。",
+        "红禅衣、金耳环、锡杖、胡珠及浓眉大眼来自本回形貌韵文。"
+      ],
+      "inference": [
+        "面貌首次建立，具体年龄感、肤色与五官比例为艺术设定；不以西印度出身推断现代族裔。",
+        "写疏地点的开敞案、笔墨形制、残瓦位置、光照及行者衣色为美术补足。",
+        "百八胡珠只画成串珠，不凭可见珠数声称逐颗对应。"
+      ],
+      "history": "小说唯一依据为本回用户梦梅馆MOBI隔离包；第56回连续性仅供前情与面貌。宋代故事设定与宽泛晚明视觉语汇分开；此图不作为寺院史、佛教制度或器物形制的实证。",
+      "references": [],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Scene: a dilapidated Buddhist temple in early autumn, not a grand intact monastery. Two people only. Main figure at the right-middle is the elderly monk Dao Zhanglao, writing a fundraising appeal with a brush on ruled paper atop a modest wooden desk; his eyes are focused downwards, no readable letters on the obliquely seen sheet. Establish a distinctive humane natural face: heavy bushy eyebrows, broad deep-set rounded eyes, a broad lined forehead, a long broad nose, short dark charcoal-grey hair visible on the scalp, a little grey facial hair, weathered warm medium skin, neither caricature nor saintly glow. He wears a dull cinnabar-red Buddhist robe, a pair of simple gold hoop earrings, a long dark bead strand. A polished ringed staff rests securely beside his chair. To his immediate right further back, one anonymous temple attendant in plain grey-brown work robe grinds ink with both hands at the corner of the same desk. Left half shows the physical decline: a low broken plaster wall, exposed old timber, a few fallen roof tiles, weeds, open roof beams casting light, no corpses or destruction in progress. A damaged shrine is distant and unidentifiable, not a second human figure. Warm slanted daylight on the monk and paper with cool earthy shadows. A quiet decisive working moment, not a portrait pose or ceremonial fantasy. This is writing before he leaves for the donor; no money, construction workers or finished new temple. No halos, monsters, supernatural spectacle or legible writing.",
+      "image": "assets/057-01.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰道长老与一名磨墨行者两人；长老红禅衣、金耳环、深色串珠与倚放锡杖可辨，浓眉、短灰黑发及自然皱纹建立独特面貌，写笔和按纸的双手清楚。残墙、露椽、瓦片与草木说明破败，没有把修复画成完成。纸面不呈可读字；露天书案、壁画、器物、衣纹与黄叶多少为美术补足。未见必须修改的人数、身份、动作或明显结构错误，采用。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Scene: a dilapidated Buddhist temple in early autumn, not a grand intact monastery. Two people only. Main figure at the right-middle is the elderly monk Dao Zhanglao, writing a fundraising appeal with a brush on ruled paper atop a modest wooden desk; his eyes are focused downwards, no readable letters on the obliquely seen sheet. Establish a distinctive humane natural face: heavy bushy eyebrows, broad deep-set rounded eyes, a broad lined forehead, a long broad nose, short dark charcoal-grey hair visible on the scalp, a little grey facial hair, weathered warm medium skin, neither caricature nor saintly glow. He wears a dull cinnabar-red Buddhist robe, a pair of simple gold hoop earrings, a long dark bead strand. A polished ringed staff rests securely beside his chair. To his immediate right further back, one anonymous temple attendant in plain grey-brown work robe grinds ink with both hands at the corner of the same desk. Left half shows the physical decline: a low broken plaster wall, exposed old timber, a few fallen roof tiles, weeds, open roof beams casting light, no corpses or destruction in progress. A damaged shrine is distant and unidentifiable, not a second human figure. Warm slanted daylight on the monk and paper with cool earthy shadows. A quiet decisive working moment, not a portrait pose or ceremonial fantasy. This is writing before he leaves for the donor; no money, construction workers or finished new temple. No halos, monsters, supernatural spectacle or legible writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "057-02",
+      "chapter": 57,
+      "title": "抱子共说文官前程",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "李瓶儿笑嘻嘻的接住了月娘西门庆。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "笑欣欣直攒到月娘怀里来"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "月娘把手接着，抱起道"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 14,
+          "quote": "儿，你长大来，还挣个文官。不要学你家老子，做个西班出身。虽有兴头，却没十分尊重。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 57,
+        "paragraph": 14,
+        "quote": "李瓶儿就叫奶子抱出官哥。只见眉目稀疎，就如粉块装成一般，笑欣欣直攒到月娘怀里来，月娘把手接着，抱起道：「我的儿，恁地乖觉。长大来定是聪明伶俐的。」"
+      },
+      "people": [
+        "吴月娘",
+        "官哥儿",
+        "李瓶儿",
+        "西门庆"
+      ],
+      "place": "李瓶儿房内",
+      "event": "月娘抱过官哥，李瓶儿说将来封赠，西门庆希望儿子走文官道路。",
+      "why": "儿子把几人的欢喜和身份期待联结起来，也引出门外金莲的不平。",
+      "composition": "三名成人加一个婴儿；月娘居左抱儿，瓶儿中后俯看，西门在右笑着说话，房门留在画外。",
+      "summary": "官哥向月娘怀里攒来，月娘接住他；李瓶儿顺着奉养、封赠说下去，西门庆又把前程引向文官。图中只有这一刻的亲近与言谈，没有长成后的官服。门外金莲的怒语另以原句保存，不让她的旁听取代屋内三人的不同期待。",
+      "psychology": {
+        "明写": "瓶儿笑着接待，官哥笑着向月娘怀里攒；西门说西班不够尊重，愿儿子做文官。",
+        "推断": "三人言语可见亲情也牵连家内次序与文武身份声望；不据此断其愿望将实现。"
+      },
+      "social": "封赠先向上头、希望儿子由武转文，是本回人物谈论的身份秩序；这是期待，不是已取得的制度待遇。",
+      "explicit": [
+        "奶子抱出官哥、月娘接抱及三人谈话明写。",
+        "瓶儿此刻在房内笑迎，不沿用参考图旧病态。"
+      ],
+      "inference": [
+        "奶子已交孩子后退在画外，以免添加一个无面貌必要的人。",
+        "月娘浅青绿袄浅蓝裙、瓶儿素青袄月白裙承前日衣色作连续性推测；西门淡灰家常袍、婴儿浅布衣和室内布局为美术补足。",
+        "图不确定婴儿月龄；动作以托稳背臀为先。"
+      ],
+      "history": "小说唯一依据为本回用户梦梅馆MOBI隔离包；第56回连续性仅供前情与面貌。宋代故事设定与宽泛晚明视觉语汇分开；此图不作为寺院史、佛教制度或器物形制的实证。",
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp",
+        "references/ping-013.png",
+        "assets/039-04.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing face/body identity only, long face, straight brows, narrow elongated eyes; image 2 take ONLY the rounded-faced woman at RIGHT as Wu Yueniang, not the left woman; image 3 Li Pinger face/body identity only, petite and fine arched eyebrows; image 4 take ONLY the infant face in the mother's lap, not either adult and not the old frightened expression or dark clothing. Scene: Pinger's domestic room in early autumn. Exactly THREE adults and ONE cheerful infant. Left foreground Wu Yueniang, sturdy rounded face, is seated in muted light sage-green jacket and pale blue skirt, safely holding the fully clothed infant against her lap and chest, one arm supporting his back, the other under his bottom. Baby has round cheeks, fine sparse eyebrows, very short hair, small open smiling eyes, soft cream wrap jacket and pale socks, no jewelry needed; he turns toward Yueniang. Center back petite Pinger in a subdued blue-grey jacket and moon-white skirt stands or sits close, smiling gently toward the child, hands clearly resting in her own lap. Right Ximen Qing in a loose pale grey home robe and simple neat hair knot leans forward from his chair, smiling and gesturing lightly as he speaks about his hopes. No official robes on the baby and no imagined future scene. Low diagonal intimate composition, warm window light across four distinct faces, worn wooden bed and quiet lattice background; no lavish theatrical throne. Fully clothed, affectionate family scene. No nurse or jealous listener within the picture; they are outside this selected framing. Avoid copying the reference winter clothes, past room, dark baby hat, amulet or worried facial expressions. No extra adult, extra baby, multiple panels or readable text.",
+      "image": "assets/057-02.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。三名成人及一个婴儿，左吴月娘托抱，中李瓶儿含笑，右西门庆说话，实际传入四项既有面貌参考并可辨识。月娘双手稳托婴儿背臀，婴儿衣着完整、喜笑看向月娘；瓶儿双手在自身膝上，无多余手臂或第二婴儿。未出现官服、未来仕途画面或门外未入镜人物。月娘袄色偏灰橄榄绿，细纹衣饰、茶果、家具及室内位置是美术补足，不作原文明写。未见需重生问题，采用。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing face/body identity only, long face, straight brows, narrow elongated eyes; image 2 take ONLY the rounded-faced woman at RIGHT as Wu Yueniang, not the left woman; image 3 Li Pinger face/body identity only, petite and fine arched eyebrows; image 4 take ONLY the infant face in the mother's lap, not either adult and not the old frightened expression or dark clothing. Scene: Pinger's domestic room in early autumn. Exactly THREE adults and ONE cheerful infant. Left foreground Wu Yueniang, sturdy rounded face, is seated in muted light sage-green jacket and pale blue skirt, safely holding the fully clothed infant against her lap and chest, one arm supporting his back, the other under his bottom. Baby has round cheeks, fine sparse eyebrows, very short hair, small open smiling eyes, soft cream wrap jacket and pale socks, no jewelry needed; he turns toward Yueniang. Center back petite Pinger in a subdued blue-grey jacket and moon-white skirt stands or sits close, smiling gently toward the child, hands clearly resting in her own lap. Right Ximen Qing in a loose pale grey home robe and simple neat hair knot leans forward from his chair, smiling and gesturing lightly as he speaks about his hopes. No official robes on the baby and no imagined future scene. Low diagonal intimate composition, warm window light across four distinct faces, worn wooden bed and quiet lattice background; no lavish theatrical throne. Fully clothed, affectionate family scene. No nurse or jealous listener within the picture; they are outside this selected framing. Avoid copying the reference winter clothes, past room, dark baby hat, amulet or worried facial expressions. No extra adult, extra baby, multiple panels or readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "057-03",
+      "chapter": 57,
+      "title": "五百两与一张疏簿",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 15,
+          "quote": "进到花厅里面"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 15,
+          "quote": "取出那募缘疏簿，双手递上。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 17,
+          "quote": "何不一力独成，也是小可的事体！"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 17,
+          "quote": "极少也助一千。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 17,
+          "quote": "还是老师体谅，少也不成，就写上五百两。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 17,
+          "quote": "我这里内官太监，府县仓巡，一个个都与我相好的。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 57,
+        "paragraph": 17,
+        "quote": "西门庆又说道：「还是老师体谅，少也不成，就写上五百两。」阁了兔毫笔。那长老打个问讯谢了。"
+      },
+      "people": [
+        "西门庆",
+        "应伯爵",
+        "道长老"
+      ],
+      "place": "西门宅花厅",
+      "event": "应伯爵劝独力承担并提出一千；道长老说随缘，西门庆开疏五百两。",
+      "why": "从求儿福报到金额商议，善念、体面和熟人助劝在同一张疏簿上交会。",
+      "composition": "西门左前临案持笔，伯爵中后探身劝说，道长老右侧问讯；疏簿与锦套在前景，没有实交五百两银堆。",
+      "summary": "长老的许愿打动西门庆，应伯爵又在旁把金额推到一千。西门两次笑称力薄，终于写下五百两，还答应拿疏簿去劝相熟的官员。画面只呈现落笔与谢意：这是一笔捐助认写及继续募缘的许诺，不能画成钱已点交或寺已修完。",
+      "psychology": {
+        "明写": "西门因得子而愿作善果，两次笑称力薄，最终写五百两；长老问讯致谢。",
+        "推断": "伯爵的加码和长老的缓和使捐额成为一场有往复的交涉；不据此判定长老内心虚假。"
+      },
+      "social": "富户作倡、官员交游与疏簿署名连在一起。五百两是本文捐助数，不换算购买力，也不作全部工程预算。",
+      "explicit": [
+        "花厅、疏簿、锦套、兔毫笔、五百两及伯爵助劝有据。",
+        "图示认写；本回未说在此交付五百两现银。"
+      ],
+      "inference": [
+        "长老沿057-01锁脸；西门柳绿外袍承前文同日衣装，伯爵灰褐衣色为美术补足。",
+        "三人座次、笔触时机、问讯手势、桌椅和锦套色纹为叙事构图，不作形制考证。"
+      ],
+      "history": "小说唯一依据为本回用户梦梅馆MOBI隔离包；第56回连续性仅供前情与面貌。宋代故事设定与宽泛晚明视觉语汇分开；此图不作为寺院史、佛教制度或器物形制的实证。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png",
+        "assets/057-01.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing identity only; image 2 take ONLY the thin moustached man at LEFT as Ying Bojue, fine moustache and short pointed chin beard, do not bring the other two figures; image 3 take ONLY monk Dao Zhanglao at the desk, preserve his heavy brows, deep rounded eyes, long broad nose, grey facial hair, gold hoop earrings and weathered face. Newly arranged scene, Ximen household flower hall. Exactly THREE men. Left foreground Ximen seated at a wooden table wearing a restrained willow-green outer robe and neat black soft cap, is completing a donation entry with a brush and smiling. A thin bound fundraising booklet lies open angled toward him, its page has no readable text; a folded patterned silk protective case rests beside it. Center a step behind, Ying Bojue in a muted umber robe leans forward with one open palm toward Ximen, animated in conversation. Right the elderly monk in his dull cinnabar-red robe, long dark beads and gold hoop earrings inclines his head with hands respectfully joined in a Buddhist greeting. His staff leans safely behind him. The dynamic triangle of their gazes leads to the booklet. Diffused autumn daylight, understated flower hall, old timber, lattice and one simple tea cup. This is a pledge being written for five hundred taels, NOT physical delivery: no silver piles, no money bags, no gigantic ingots, no signed modern contract. No temple reconstruction in background or imagined official procession. Varied natural faces and expressive restrained gestures, no portrait posing, no extra person or readable text.",
+      "image": "assets/057-03.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰三人：左西门庆写疏，中后应伯爵摊掌劝说，右道长老合掌致谢。西门与伯爵沿既有脸部，长老实际传057-01，浓眉、短灰黑发、宽长鼻与金耳环保持一致；红袍与串珠也可辨。桌上只有疏簿、锦套和茶杯，没有将五百两认写误画成现银点交；纸面无可读字。手、笔、人物关系清楚，未出现重建寺院或未来官员。衣色、锦套纹样、花木及厅堂陈设为美术补足；采用。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing identity only; image 2 take ONLY the thin moustached man at LEFT as Ying Bojue, fine moustache and short pointed chin beard, do not bring the other two figures; image 3 take ONLY monk Dao Zhanglao at the desk, preserve his heavy brows, deep rounded eyes, long broad nose, grey facial hair, gold hoop earrings and weathered face. Newly arranged scene, Ximen household flower hall. Exactly THREE men. Left foreground Ximen seated at a wooden table wearing a restrained willow-green outer robe and neat black soft cap, is completing a donation entry with a brush and smiling. A thin bound fundraising booklet lies open angled toward him, its page has no readable text; a folded patterned silk protective case rests beside it. Center a step behind, Ying Bojue in a muted umber robe leans forward with one open palm toward Ximen, animated in conversation. Right the elderly monk in his dull cinnabar-red robe, long dark beads and gold hoop earrings inclines his head with hands respectfully joined in a Buddhist greeting. His staff leans safely behind him. The dynamic triangle of their gazes leads to the booklet. Diffused autumn daylight, understated flower hall, old timber, lattice and one simple tea cup. This is a pledge being written for five hundred taels, NOT physical delivery: no silver piles, no money bags, no gigantic ingots, no signed modern contract. No temple reconstruction in background or imagined official procession. Varied natural faces and expressive restrained gestures, no portrait posing, no extra person or readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "057-04",
+      "chapter": 57,
+      "title": "备膳间的药石之言",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "只有那吴月娘与孙雪娥，两个伴当在那里整办嗄饭。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "西门庆走到面前坐地"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "欢天喜地，大家嘻笑了一会。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "只是那善念头怕他不多，那恶念头怕他不尽。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "贪财好色的事体少干几桩儿也好。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 23,
+          "quote": "攒下些阴功，与那小的子也好。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 57,
+        "paragraph": 23,
+        "quote": "只是那善念头怕他不多，那恶念头怕他不尽。哥，你日后那没来由没正经、养婆儿没搭煞、贪财好色的事体少干几桩儿也好。攒下些阴功，与那小的子也好。"
+      },
+      "people": [
+        "吴月娘",
+        "孙雪娥",
+        "西门庆"
+      ],
+      "place": "内院备膳处",
+      "event": "西门庆说起募缘，月娘肯定善念，劝他少作贪财好色之事。",
+      "why": "同样谈给孩子积福，月娘把重点从舍财转回行为，西门却以财富和命定之说反驳。",
+      "composition": "左西门坐笑，中月娘停下备膳正视他，右雪娥端盘听见；食材与半备菜肴使劝诫发生于家务途中。",
+      "summary": "吴月娘和孙雪娥正安排宴客的嗄饭，西门庆坐下来讲舍财经过，也说伯爵的笑话。月娘先认可生子与行善，再劝他收敛贪财好色的行径。画面保留日常家务中的这次停顿：月娘语气平和而意思明确，西门仍笑着用自己的说法辩解。",
+      "psychology": {
+        "明写": "月娘不慌不忙地劝戒；西门笑称醋话，并说广为善事可保富贵。",
+        "推断": "月娘从家内经验提出行为约束，西门的笑容可表现他尚未接受；不推断他日后是否改过。"
+      },
+      "social": "宴席的家务劳动与男子的募缘交游同时进行；月娘将积福解释为减少恶行，而西门强调财施可以补偿行为。此为人物立场，不作因果效验。",
+      "explicit": [
+        "月娘、雪娥备嗄饭，西门到面前坐地以及当场劝戒有据。",
+        "孙雪娥仅在旁备膳，未替她编造附和台词。"
+      ],
+      "inference": [
+        "内院备膳房的具体炉灶、盘碗、食材、菜色与劳动分工为美术补足。",
+        "月娘停手与西门摊掌的姿态为心理推断可视化；衣色延续或艺术选择，不冒称本回明写。"
+      ],
+      "history": "小说唯一依据为本回用户梦梅馆MOBI隔离包；第56回连续性仅供前情与面貌。宋代故事设定与宽泛晚明视觉语汇分开；此图不作为寺院史、佛教制度或器物形制的实证。",
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp",
+        "references/wives-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing face/body identity only; image 2 take ONLY RIGHT rounded-faced woman as Wu Yueniang; image 3 take ONLY the small short-faced woman at RIGHT as Sun Xue'e, not the fuller left woman. Scene: a domestic food-preparation room opening onto the household inner courtyard in early autumn. Exactly THREE adults, no baby here. Left Ximen Qing sits on an ordinary wooden chair in his willow-green outer robe and neat black cap, a slight amused smile, one hand on his knee and one palm open as if responding. Center Wu Yueniang with a composed rounded face in muted sage-green jacket and pale blue skirt pauses beside a wide worn preparation table; she turns firmly toward him, one hand resting beside a plate and the other making a small restrained speaking gesture. Right Sun Xue'e, petite with a shorter face, practical bun, in a plain ochre-brown working jacket and grey-blue skirt, is carrying a ceramic plate of prepared food from the back counter, listening without a theatrical reaction. On table a few bowls of vegetables and modest portions of prepared fish and chicken, some unarranged dishes and a folded kitchen cloth. Food exists because they are preparing a banquet, not a huge finished feast. A clay stove or pot partly in shadow at the back, no glass chimney lamp, no modern utensils. Diagonal lived-in space, light from open courtyard, quiet ordinary labor continues around a serious conversation. The scene is calm admonition rather than a quarrel: no raised threatening hands, no violence, no sexual imagery. No nun or monk, no extra servant, no future scene or readable text.",
+      "image": "assets/057-04.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰三人：左坐西门庆，中月娘停手劝说，右雪娥端盘，三项已有人物参考均实际传入，面貌可辨。月娘神情认真、动作克制，西门微笑摊掌，雪娥只在旁劳动，没有替她增编台词或夸张反应。手指、端盘、桌上半备菜肴清楚，没有额外婴儿、僧尼、侍者。菜色、灶台、室内位置、花纹与衣色为美术补足；未见必须修改的动作或结构错误，采用。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing face/body identity only; image 2 take ONLY RIGHT rounded-faced woman as Wu Yueniang; image 3 take ONLY the small short-faced woman at RIGHT as Sun Xue'e, not the fuller left woman. Scene: a domestic food-preparation room opening onto the household inner courtyard in early autumn. Exactly THREE adults, no baby here. Left Ximen Qing sits on an ordinary wooden chair in his willow-green outer robe and neat black cap, a slight amused smile, one hand on his knee and one palm open as if responding. Center Wu Yueniang with a composed rounded face in muted sage-green jacket and pale blue skirt pauses beside a wide worn preparation table; she turns firmly toward him, one hand resting beside a plate and the other making a small restrained speaking gesture. Right Sun Xue'e, petite with a shorter face, practical bun, in a plain ochre-brown working jacket and grey-blue skirt, is carrying a ceramic plate of prepared food from the back counter, listening without a theatrical reaction. On table a few bowls of vegetables and modest portions of prepared fish and chicken, some unarranged dishes and a folded kitchen cloth. Food exists because they are preparing a banquet, not a huge finished feast. A clay stove or pot partly in shadow at the back, no glass chimney lamp, no modern utensils. Diagonal lived-in space, light from open courtyard, quiet ordinary labor continues around a serious conversation. The scene is calm admonition rather than a quarrel: no raised threatening hands, no violence, no sexual imagery. No nun or monk, no extra servant, no future scene or readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "057-05",
+      "chapter": 57,
+      "title": "三十两交付印经",
+      "evidence": [
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "quote": "拿得施主人家几个供佛的菓子儿，权当献新。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "quote": "如今这付经板见在，只没人印刷施行。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "quote": "有个细数，纔好动弹。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "quote": "止消先付九两银子"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 30,
+          "quote": "取出一封银子，准准三十两足色松纹"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 30,
+          "quote": "便交付薛姑子与那王姑子"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 30,
+          "quote": "与我印下五千卷经。待完了我就算帐，找他。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 57,
+        "paragraph": 30,
+        "quote": "且说西门庆听罢了薛姑子的话头，不觉心上打动了一片善念。就叫玳安取出拜匣，把汗巾上的小匙钥儿开了，取出一封银子，准准三十两足色松纹，便交付薛姑子与那王姑子：「即便同去，随分那里经坊，与我印下五千卷经。待完了我就算帐，找他。」"
+      },
+      "people": [
+        "西门庆",
+        "薛姑子",
+        "王姑子"
+      ],
+      "place": "月娘房中的交银处",
+      "event": "薛姑子劝印陀罗经，西门庆出三十两，托二姑子到经坊印五千卷。",
+      "why": "从经咒保育的劝说到工料与结账，宗教传播在一包银子上落实为委托。",
+      "composition": "左西门从开拜匣旁递纸封，中央薛姑子双手接，右王姑子旁观；前景开小盒有果品，不画未印成的经卷。",
+      "summary": "薛姑子说经板已有，劝西门庆出工料印经，并把童子保育的功德纳入劝说。西门庆一度追问纸札、装钉和印刷的细数，最后却取三十两，托二姑子印五千卷。图只到交银为止，经坊、经卷完成与最终总价都仍未出现。",
+      "psychology": {
+        "明写": "西门庆被劝动善念，起先追问各项费用，最终交出三十两并约定完后算账。",
+        "推断": "对孩子的关切使费用核算迅速转成大额委托；不凭画面断定银两后来如何使用。"
+      },
+      "social": "现成经板、纸札、印刷、装钉和工食构成被谈论的生产环节。九两是薛姑子提出的先付款，三十两是实际交付，五千卷是委托数；本回没有完整报价或印毕证明。",
+      "explicit": [
+        "拜匣、小钥匙、一封三十两银及二姑子受托有据。",
+        "赠来的小盒果品有据；经板只被说到，并未明写带在此屋。"
+      ],
+      "inference": [
+        "为聚焦交付，月娘、瓶儿和玳安在画外；不否认他们此前在场。",
+        "银只画成一个纸封，不由封包体积推算重量、块数或成色。",
+        "二姑子衣装取灰布包头、直裰黄绦的本回韵文意象；具体衣色、手递分工、拜匣形状为美术补足。"
+      ],
+      "history": "小说唯一依据为本回用户梦梅馆MOBI隔离包；第56回连续性仅供前情与面貌。宋代故事设定与宽泛晚明视觉语汇分开；此图不作为寺院史、佛教制度或器物形制的实证。",
+      "references": [
+        "references/ximen.png",
+        "assets/050-01.webp",
+        "assets/039-05.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing identity only; image 2 take ONLY the full-cheeked nun at CENTER-LEFT with joined hands as Xue Guzi, broad round face, full natural lips, small natural eyes and broad nose, without animal caricature; do NOT copy the thinner left nun or kneeling woman. Image 3 take ONLY the nun at far RIGHT with wooden clapper as Wang Guzi, broad square-oval face, cheek lines, arched brows and fuller lips; do NOT copy the central older thin nun or other women, and do not include the clapper. Scene: a cropped domestic exchange in Yueniang's room, early autumn. Exactly THREE adults. Ximen at left, willow-green robe and neat cap, is seated beside a small open lacquered wooden valuables box; a tiny old-fashioned key rests beside it. He extends ONE modest tied paper-wrapped packet of silver, no visible denomination or lettering. Center Xue Guzi in a plain grey-brown straight Buddhist robe, simple yellow waist cord and grey cloth head covering, receives the packet carefully with both open hands. Right Wang Guzi in a subdued blue-grey straight robe and grey cloth head covering sits close, her hands resting together, attentively following the handover. Keep their two established faces distinct and human. Foreground side table has a small open wooden gift box with several simple fruits, brought earlier in this meeting. The camera crops out all other people; no other person or baby. No printed sutra volumes, no printing blocks or printing workshop, since the books have only been commissioned. Warm subdued window light focuses on the packet and three faces, hands anatomically clear, no money cascade or giant ingots. This is a commission for printing, not a completed production or fraudulent act in progress. No halos, no modern banknotes, no readable text, no caricature.",
+      "image": "assets/057-05.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰三人：左西门庆递封，中薛姑子双手接住，右王姑子坐看。实际传入三项既有脸部参考；薛宽圆厚颊、王宽方椭圆脸及颊纹可区分，未混入参考图中的其他人物。小钥匙、开拜匣、果品盒与一个系束银封可辨，手递关系清楚。未出现未印成的经卷、经板、经坊或额外婴儿，也不借包装体积断银重。袍色、补缀、果种、桌椅与匣子形制是艺术补足；未见需修改的结构或关键动作问题，采用。",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment washes, realistic varied natural faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects. Early autumn. Input image roles: image 1 Ximen Qing identity only; image 2 take ONLY the full-cheeked nun at CENTER-LEFT with joined hands as Xue Guzi, broad round face, full natural lips, small natural eyes and broad nose, without animal caricature; do NOT copy the thinner left nun or kneeling woman. Image 3 take ONLY the nun at far RIGHT with wooden clapper as Wang Guzi, broad square-oval face, cheek lines, arched brows and fuller lips; do NOT copy the central older thin nun or other women, and do not include the clapper. Scene: a cropped domestic exchange in Yueniang's room, early autumn. Exactly THREE adults. Ximen at left, willow-green robe and neat cap, is seated beside a small open lacquered wooden valuables box; a tiny old-fashioned key rests beside it. He extends ONE modest tied paper-wrapped packet of silver, no visible denomination or lettering. Center Xue Guzi in a plain grey-brown straight Buddhist robe, simple yellow waist cord and grey cloth head covering, receives the packet carefully with both open hands. Right Wang Guzi in a subdued blue-grey straight robe and grey cloth head covering sits close, her hands resting together, attentively following the handover. Keep their two established faces distinct and human. Foreground side table has a small open wooden gift box with several simple fruits, brought earlier in this meeting. The camera crops out all other people; no other person or baby. No printed sutra volumes, no printing blocks or printing workshop, since the books have only been commissioned. Warm subdued window light focuses on the packet and three faces, hands anatomically clear, no money cascade or giant ingots. This is a commission for printing, not a completed production or fraudulent act in progress. No halos, no modern banknotes, no readable text, no caricature.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

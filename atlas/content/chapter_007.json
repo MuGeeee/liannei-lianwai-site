@@ -1,0 +1,357 @@
+{
+  "number": 7,
+  "title": "第七回薛婆儿说娶孟玉楼　杨姑娘气骂张四舅",
+  "intro": "从药铺外的说媒到院口搬走箱笼，本回把改嫁意愿、亲族主张与财物往来放在同一条行动线上。孟氏的自述年龄为三十岁；人物话语中的夸饰和自信分别注明，不借后回证明。",
+  "supplements": [
+    {
+      "title": "相看不是终点",
+      "text": "五月二十四行礼、二十六念经，六月初二才正式娶入。孟氏入西厢三间，排行第三，家中称三娘。本章制作不把这些日期与相看压缩成同日。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 22,
+          "quote": "到二十四日，西门庆行礼。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 24,
+          "quote": "到六月初二日"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 24,
+          "quote": "西门庆就把西厢房裏收拾三间与他做房，排行第三，号玉楼。"
+        }
+      ]
+    },
+    {
+      "title": "留给小叔的说法",
+      "text": "玉楼当众说房屋和家活不动，外边三四百两欠账的文书合同也交给张四。此处是她在争执中的陈述；与薛嫂起初的千两现银推销并列保存，不擅自做完整财产结算。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 22,
+          "quote": "房儿我没带去，都留与小叔。家活等件，分毫不动。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 22,
+          "quote": "文书合同已都交与你老人家"
+        }
+      ]
+    },
+    {
+      "id": "tea-fruit-note-2026-11-14",
+      "title": "名物补笺：这一盏茶里有什么",
+      "text": "“金橙子”在这里是入茶的蜜饯橙类果料，具体果种与切法尚不能确定。原句把果料、茶锺和茶匙分别写出；银杏叶形的匙也让这盏茶的吃法更容易想象——后一点是展馆的读法，不是原文写出了取食动作。本注于2026年11月14日资料复核后新增，原图未改。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 15,
+          "quote": "三盏蜜饯金橙子泡茶，银镶雕漆茶锺，银杏叶茶匙"
+        }
+      ],
+      "sources": [
+        {
+          "title": "教育部《重編國語辭典修訂本》“泡茶”",
+          "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=23474",
+          "locator": "义项2、3；词义背景资料，以本回原句作例，不替代梦梅馆正文"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "007-01",
+      "chapter": 7,
+      "title": "花箱停在药铺外",
+      "people": [
+        "薛嫂",
+        "西门庆"
+      ],
+      "place": "生药铺外僻静处",
+      "event": "薛嫂找到正在与主管算账的西门庆，把他唤到僻静处，说起孟氏的财物、持家本领与月琴。",
+      "why": "第一次说亲先呈上的是一串财产和才艺，准新娘本人尚未出现。",
+      "composition": "从药铺侧门斜看巷中，薛嫂一手托花箱、一手低声比画；西门庆微微俯身倾听，背景只留退远的药柜与账簿。",
+      "summary": "薛嫂提花箱寻到生药铺，把正算账的西门庆唤出来。她细数孟氏的箱笼、布匹、银钱和持家本领，又说她会弹月琴。西门庆听得欢喜，立刻问几时相看。画面停在两人低声商量的一刻：花箱仍在手边，原先做买卖的脚步已经转成了说媒。",
+      "psychology": "明写：西门庆听说会弹月琴便合心意，听完计议欢喜。推断：他侧身靠近、眼神集中，薛嫂压低手势，表现对话的私密；不替尚未出场的孟氏安排心事。",
+      "social": "薛嫂把首饰、现银、布匹、家务技能和才艺并列推销。她所报财产与年龄属于媒人口述，不能全部当成已经核实的家产清单。",
+      "explicit": "薛嫂卖翠花、提花箱；西门庆在生药铺与主管算账，随后被唤至僻静处；他因月琴动心。",
+      "inference": "薛嫂的中年年龄感、宽椭圆脸、灰紫上衣褐裙与西门庆青灰便袍均为美术约定；药柜格局、花箱内部与侧巷位置为补足。图不把比喻“一拳打倒”画成殴打。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 5,
+          "quote": "卖翠花儿的薛嫂儿，提着花箱儿"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 6,
+          "quote": "两人走在僻静处说话"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 6,
+          "quote": "西门庆只听见妇人会弹月琴，便可在他心上。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 6,
+          "quote": "这娘子今年不上二十五六岁"
+        }
+      ],
+      "excerpt": {
+        "chapter": 7,
+        "paragraph": 6,
+        "quote": "这西门庆见是薛嫂儿，连忙撇了主管出来，两人走在僻静处说话。"
+      },
+      "history": "仅据用户梦梅馆词话本本回隔离原文与第6回必要连续性。宋代故事设定与宽泛晚明视觉参考分开；图像为文学美术重构，不作历史证据。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: early warm fifth lunar month, a quiet side lane immediately outside a modest Chinese medicine shop. TWO main adults in three-quarter full-length medium-wide view, NOT posing for viewer. On right Ximen Qing, 28-year-old tall slim man, long face, straight brows, narrow eyes and long torso from input reference 1; now plain blue-grey crossed-collar robe, modest black cloth cap, no fan, no sword. He has just left accounting and leans slightly toward the visitor, attentive pleased eyes. On left Xue Sao, newly established ordinary middle-aged Chinese female flower-peddler and matchmaker, broad oval face, fleshy cheeks, broad nose, slightly arched expressive brows, dark eyes with small crow feet, black hair with a few greys in practical bun. Face distinct from a heavily wrinkled very old woman. Muted dusty-plum jacket, brown long skirt, ordinary fabric, no jewelry display. Her LEFT forearm supports a rectangular shallow wood flower box at waist level, lid open to show a few fabric and metal hair flowers; her RIGHT hand makes a small confidential talking gesture near her own chest, not pointing at viewer. He listens, she speaks. Background far left: side doorway into dark shop with a few small unlettered wooden medicine drawers and one closed ledger on counter, no additional prominent people, no visible legible labels. Rough pale plaster wall and worn stone lane, soft warm daylight, diagonal doorway shadows. A self-contained private conversation, no imagined bride, money, moon lute or violent act depicted.",
+      "image": "assets/007-01.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具返回的1536×1024成图：薛嫂在左托着有花翠的木箱、右手低声比画，西门庆在右俯身倾听；店内药柜和账簿退在背景。两人自然对话，手脚无显著畸变，西门庆长脸和长身形沿用参考。薛嫂宽椭圆面、圆颊、略弯眉和灰黑发髻可作本章连续性参考；年龄感、衣色、药铺格局与墙边绿叶均为美术补足。无文字、无暴力比喻具象化，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: early warm fifth lunar month, a quiet side lane immediately outside a modest Chinese medicine shop. TWO main adults in three-quarter full-length medium-wide view, NOT posing for viewer. On right Ximen Qing, 28-year-old tall slim man, long face, straight brows, narrow eyes and long torso from input reference 1; now plain blue-grey crossed-collar robe, modest black cloth cap, no fan, no sword. He has just left accounting and leans slightly toward the visitor, attentive pleased eyes. On left Xue Sao, newly established ordinary middle-aged Chinese female flower-peddler and matchmaker, broad oval face, fleshy cheeks, broad nose, slightly arched expressive brows, dark eyes with small crow feet, black hair with a few greys in practical bun. Face distinct from a heavily wrinkled very old woman. Muted dusty-plum jacket, brown long skirt, ordinary fabric, no jewelry display. Her LEFT forearm supports a rectangular shallow wood flower box at waist level, lid open to show a few fabric and metal hair flowers; her RIGHT hand makes a small confidential talking gesture near her own chest, not pointing at viewer. He listens, she speaks. Background far left: side doorway into dark shop with a few small unlettered wooden medicine drawers and one closed ledger on counter, no additional prominent people, no visible legible labels. Rough pale plaster wall and worn stone lane, soft warm daylight, diagonal doorway shadows. A self-contained private conversation, no imagined bride, money, moon lute or violent act depicted.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "007-02",
+      "chapter": 7,
+      "title": "六锭银，先买一盏茶",
+      "people": [
+        "西门庆",
+        "杨姑娘",
+        "薛嫂"
+      ],
+      "place": "北边半边街杨姑娘住处",
+      "event": "西门庆拜会杨姑娘，答应棺材本与往来，先将六锭、共三十两官银放在面前。",
+      "why": "亲事尚未相看，谁来替她张主已在银钱和人情中谈妥。",
+      "composition": "横向三人中景，六锭银处在桌沿空白中央；西门庆刚收回放银的手，杨姑娘扶拐看银露笑，薛嫂打横陪坐。",
+      "summary": "薛嫂先把西门庆领到杨姑娘家，礼盒摆下，宾主坐定。杨姑娘说自己可以替这门亲事硬张主，只求送终的本钱和日后认这门穷亲。西门庆随即取出六锭、合三十两官银，又许过门时补七十两和两匹缎子。她看着白银满脸堆笑，媒人在旁继续抬举来客。",
+      "psychology": "明写：杨姑娘见银满面堆笑，西门庆笑着允诺，薛嫂在旁帮腔。推断：三人目光短暂会在银上，表现承诺如何落成可见之物；不把杨姑娘后来所有辩护都简化为唯一逐利动机。",
+      "social": "送终保障、认亲往来与寡妇改嫁的主张权在同一席话里交换。小说叙述者明说钱能动人；图中只表现当时的具体交易，不画现代合同。",
+      "explicit": "杨姑娘拄拐；薛嫂打横坐；西门庆从靴桶取六锭、三十两银，承诺再给七十两、两匹缎子；她见银露笑。",
+      "inference": "杨姑娘瘦而有棱角的老年脸、稀灰发髻、暗赭衣为新脸部与衣装设定，后续只延续脸；桌椅、银锭形状与排法、采光均为美术补足，不作银两重量或建筑测绘。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 10,
+          "quote": "分宾主坐下，薛嫂在傍打横。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 10,
+          "quote": "向靴桶裏取出六锭——三十两雪花官银，放在面前"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 10,
+          "quote": "还找七十两银子、两疋缎子"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 11,
+          "quote": "满面堆下笑来"
+        }
+      ],
+      "excerpt": {
+        "chapter": 7,
+        "paragraph": 10,
+        "quote": "说着，向靴桶裏取出六锭——三十两雪花官银，放在面前，说道：「这个不当甚么，先与你老人家买盏茶吃。到明日娶过门时，还找七十两银子、两疋缎子，与你老人家为送终之资。其四时八节，只照旧上门行走。」"
+      },
+      "history": "仅据用户梦梅馆词话本本回隔离原文与第6回必要连续性。宋代故事设定与宽泛晚明视觉参考分开；图像为文学美术重构，不作历史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/007-01.webp"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: daytime, humble but tidy front sitting room of elderly Yang Guniang, aunt of a dead cloth merchant. Exactly THREE principal seated adults in a candid asymmetrical medium-wide view. Ximen Qing on left, same long face, straight brows, narrow eyes, slim tall body as input reference 1, now formal dark deep-teal yisa-style long belted robe and black broad soft wrapped hat, ordinary black boots; his right hand has JUST withdrawn after setting silver on table, no money in hand. On right Yang Guniang, NEW elderly Chinese woman around seventy as artistic age impression: thin angular oval face, deep forehead and cheek folds, narrow bright eyes, broad mouth, grey sparse hair in small bun, no beauty smoothing. Dusty umber full-length jacket and skirt, left hand resting on an upright wooden walking stick beside her chair; she looks at silver with a sudden broad pleased smile. Xue Sao sits farther back at the side of the table, only her face/body identity from woman LEFT in input reference 2: broad oval face, fleshy cheeks, broad nose, expressive gently arched brows, practical dark-and-grey bun. Same dusty-plum jacket and brown skirt. She talks with one open hand, face clear enough for later continuity. EXACTLY SIX distinct small silver ingots on bare wood table foreground, each separate, arranged as two loose rows of three, no extra silver, coins or piles. Two or three tea bowls and modest covered gift trays farther back, silver does not look like gold. Natural daytime window light brushes six ingots and the elderly face; worn plaster, simple wood lattice window, no ornate palace. Not a courtroom, not a wedding yet, no bride here, no grimacing caricatures.",
+      "image": "assets/007-02.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具返回成图：西门庆在左、薛嫂打横在中、杨姑娘在右扶拐，六锭银清楚排为前后三枚，共六枚，没有添成银堆；杨姑娘看银露笑，西门庆放银后收手。薛嫂延续007-01宽椭圆脸与圆颊，杨姑娘首次建立瘦长多皱的老年脸。手臂、拐杖、坐姿无显著畸变；礼盒、茶碗、墙边花木及器物排法是美术补足，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: daytime, humble but tidy front sitting room of elderly Yang Guniang, aunt of a dead cloth merchant. Exactly THREE principal seated adults in a candid asymmetrical medium-wide view. Ximen Qing on left, same long face, straight brows, narrow eyes, slim tall body as input reference 1, now formal dark deep-teal yisa-style long belted robe and black broad soft wrapped hat, ordinary black boots; his right hand has JUST withdrawn after setting silver on table, no money in hand. On right Yang Guniang, NEW elderly Chinese woman around seventy as artistic age impression: thin angular oval face, deep forehead and cheek folds, narrow bright eyes, broad mouth, grey sparse hair in small bun, no beauty smoothing. Dusty umber full-length jacket and skirt, left hand resting on an upright wooden walking stick beside her chair; she looks at silver with a sudden broad pleased smile. Xue Sao sits farther back at the side of the table, only her face/body identity from woman LEFT in input reference 2: broad oval face, fleshy cheeks, broad nose, expressive gently arched brows, practical dark-and-grey bun. Same dusty-plum jacket and brown skirt. She talks with one open hand, face clear enough for later continuity. EXACTLY SIX distinct small silver ingots on bare wood table foreground, each separate, arranged as two loose rows of three, no extra silver, coins or piles. Two or three tea bowls and modest covered gift trays farther back, silver does not look like gold. Natural daytime window light brushes six ingots and the elderly face; worn plaster, simple wood lattice window, no ornate palace. Not a courtroom, not a wedding yet, no bride here, no grimacing caricatures.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "007-03",
+      "chapter": 7,
+      "title": "抹去茶盏边的一点水",
+      "people": [
+        "孟玉楼",
+        "西门庆"
+      ],
+      "place": "南门外猪市街杨家客位",
+      "event": "相看时孟氏自述三十岁，随后拭去盏边水渍，把蜜饯金橙子茶递给西门庆。",
+      "why": "此前被媒人列成财物与技艺的女子，第一次以自己的声音与动作进入相看。",
+      "composition": "斜侧双人中景，玉楼从椅前微起，双手稳稳递出黑漆银口茶盏；西门庆伸手接，视线落于她的脸和茶盏。",
+      "summary": "在明净的杨家客位，孟氏穿翠蓝妆花纱衫出来。西门庆说要娶她为正，她问清年庚，自述三十岁，并非薛嫂先说的二十五六。小丫鬟送来三盏金橙子茶，她起身抹去第一盏边沿的水，递给来客。画面取递茶的一刻，不把稍后的掀裙和插定拼在同一动作里。",
+      "psychology": "明写：西门庆一见满心欢喜，注目看她；她起初低头，后主动问年龄并递茶。推断：玉楼神情克制、动作周全，表现当下的谨慎与应对，不据此断定她已看透西门家的实情。",
+      "social": "西门庆说“入门为正”，薛嫂又把家中已有的人淡化；本回后段玉楼才明确表示愿让正妻做姐姐。相看中的身份说法须保留为当事人的话。缠足与掀裙另存文字，不以局部身体观看作为画面。",
+      "explicit": "翠蓝麒麟补子妆花纱衫、大红妆花宽栏，珠翠凤钗；长挑身材、不肥不瘦、面有微麻；自述三十岁；银镶雕漆茶锺、银杏叶茶匙和金橙子茶。",
+      "inference": "玉楼只用yulou.png锁脸与体态，保留两颊点状微麻，不加滤镜；宽栏纹样、茶器雕纹、三盏位置和家具尺度为美术补足。原文未明说递茶时薛嫂离室，画面只是把她裁在镜外。 盆栽榴花与幼果状态按五月至六月初时令作美术补足，原文仅写榴树盆景。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 13,
+          "quote": "上穿翠蓝麒麟补子妆花纱衫，大红妆花宽栏"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 14,
+          "quote": "面上稀稀有几点微麻"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 15,
+          "quote": "奴家青春是三十岁。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 15,
+          "quote": "银镶雕漆茶锺，银杏叶茶匙"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 15,
+          "quote": "用纤手抹去盏边水渍，递与西门庆"
+        }
+      ],
+      "excerpt": {
+        "chapter": 7,
+        "paragraph": 15,
+        "quote": "说着，只见小丫鬟拿了三盏蜜饯金橙子泡茶，银镶雕漆茶锺，银杏叶茶匙。妇人起身，先取头一盏，用纤手抹去盏边水渍，递与西门庆，忙用手接了。道了万福，慌的还礼不迭。"
+      },
+      "history": "仅据用户梦梅馆词话本本回隔离原文与第6回必要连续性。宋代故事设定与宽泛晚明视觉参考分开；图像为文学美术重构，不作历史证据。",
+      "references": [
+        "references/yulou.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: first marriage viewing inside a prosperous cloth-merchant home, warm-season daylight. TWO principal ADULTS, modest medium-wide candid three-quarter view. Meng Yulou on left, age 30, IDENTICAL facial structure and tall balanced neither plump nor thin body identity from input reference 1. Natural broader oval-long face, softly straight brows, small lips, and especially visible sparse fine pockmarks and pores on cheeks and forehead; do NOT retouch, whiten, smooth skin or make generic glamour face. She has risen slightly in front of her chair and offers one small black carved-lacquer tea bowl with silver rim toward Ximen Qing using two plausible relaxed hands; she has just wiped rim, no towel needed. Bowl contains orange preserve in tea, a small ginkgo-leaf-shaped silver spoon rests on its saucer. She wears opaque fully lined turquoise-blue figured gauze long-sleeve top with a discreet QILIN mythical-hoofed-animal embroidered chest patch, decorated broad cinnabar-red skirt border, full-length red skirt, no see-through skin. Pearl-and-gold earrings, a few pearl/jade ornaments, slightly angled phoenix hairpin in practical adult bun. No foot display or lifted hem. Ximen Qing on right, age 28, long face, straight brows, narrow eyes, tall slender torso from input reference 2, now formal dark deep-teal long robe, black broad wrapped cap; naturally reaches both hands to receive tea, pleased attentive gaze toward her, not camera. Two other black silver-rimmed tea bowls remain on side of small dark wood table, total three bowls including offered bowl. Rich but lived-in room: red lattice doors, marble inset screen farther back, one unlettered landscape hanging, small glimpse of potted pomegranate tree through doorway. Table and hands prominent, warm blue/red fabric pigments against deep timber. No other people in frame, not implying no matchmaker present outside crop. No wedding veil, lute, ring exchange or erotic framing.",
+      "image": "assets/007-03.webp",
+      "status": "generated",
+      "review": "已实际查看初稿及修订图：玉楼微起递茶，西门庆双手接盏；一盏递出、两盏在桌，共三盏。玉楼椭圆长脸、成年年龄感和点状微麻保留，翠蓝妆花衫、麒麟纹、红裙宽栏及银口黑漆茶盏清楚，金橙子与叶形匙可辨，手势无显著畸变。初稿背景石榴误画红熟果，已用内置工具修成当季榴花和幼果，实际核看人物、茶器和构图保持。未画掀裙或局部小脚；陈设、纹样、花果状态均是美术补足，采用修订图。",
+      "actualPrompt": "Use case: precise-object-edit. Edit the supplied 3:2 gongbi mineral-pigment narrative illustration. ONE TINY TARGETED SEASONAL CORRECTION ONLY. The potted pomegranate tree currently has large round ripe red fruit. Replace EVERY large round ripe red pomegranate fruit with natural SMALL red-orange pomegranate BLOSSOMS, thin crinkled petals and small trumpet-shaped calyxes, plus at most a few tiny unripe GREEN fruitlets. This is late spring to early summer in the fifth lunar month, not ripe-fruit autumn. Do not change plant position, pot, foliage, lighting, paper texture, painting style, people, face identities, pockmarks, expressions, hands, outfits, furniture, cups, silver, chests, carrier count, or composition. Keep all other elements visually unchanged. Preserve exact 1536x1024 3:2 canvas, no text or watermark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "007-04",
+      "chapter": 7,
+      "title": "三层门内的主张",
+      "people": [
+        "孟玉楼",
+        "张四舅"
+      ],
+      "place": "杨家内厅",
+      "event": "张四劝孟氏改嫁尚举人，揭出西门庆已有正妻等情况；她逐项答辩，仍坚持原定亲事。",
+      "why": "玉楼的选择在长段对话中显出自己的理由，也显出她赖以判断的局限。",
+      "composition": "桌案横在两人之间，玉楼坐得端正，一手轻按桌边回答；张四坐在对面，茶盏已经放下，手势收不回来。门扇纵深只作空间，不作预言。",
+      "summary": "张四说西门家已有正头娘子，人多口多，又提起卖人、打妻与在外胡行。孟氏没有退亲：她愿让正妻做姐姐，相信自己勤谨省事、待孩子好，便能把三层门内的日子安顿住。画面取她平静答话、张四接不上话的片刻。对她的信心可以理解，却不能把她替打妻作的辩护当作事实认可。",
+      "psychology": "明写：张四想留下她手里的东西，另保尚家；见说不动而好无颜色。玉楼明确说自己有道理、不妨事。推断：她稳坐、他前倾，表现两套盘算相持；不把张四每条警告都因其逐利而判为假话。",
+      "social": "寡妇改嫁的主动意愿与亲族争产纠缠。她以守内、勤谨换安全的说法，是本回人物自己的生存判断；画面和文字均不把遭打归咎于妇人不够勤谨。",
+      "explicit": "张四是亡夫母舅，想借小外甥留住财物；他披露正妻，反复劝阻；玉楼答愿为妹妹、只管三层门内；张四吃两盏清茶后去。",
+      "inference": "本场孟氏灰青长衫与暗红裙为后来谈话时的美术另设，原文未注明更衣；张四瘦方脸、塌窄颊、短稀须和深褐帽为脸部新设，具体年纪未考定。三重门扇只是构图，不声称实测三层院落。 盆栽榴花与幼果状态按五月至六月初时令作美术补足，原文仅写榴树盆景。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 18,
+          "quote": "要图留妇人手裏东西"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 18,
+          "quote": "若他家有大娘子，我情愿让他做姐姐，奴做妹子。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 18,
+          "quote": "只管得三层门内，管不得那许多三层门外的事。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 18,
+          "quote": "好无颜色。吃了两盏清茶，起身去了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 7,
+        "paragraph": 18,
+        "quote": "他就外边胡行乱走，奴妇人家，只管得三层门内，管不得那许多三层门外的事。"
+      },
+      "history": "仅据用户梦梅馆词话本本回隔离原文与第6回必要连续性。宋代故事设定与宽泛晚明视觉参考分开；图像为文学美术重构，不作历史证据。",
+      "references": [
+        "references/yulou.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: a later daytime argument between ADULT Meng Yulou and her deceased husband maternal uncle Zhang Si in her household sitting room. TWO principal figures only, full seated body medium-wide, natural candid tension, no combat. Meng Yulou left, age 30, tall neither plump nor thin body and exact face identity from input reference 1, same natural sparse tiny pockmarks on cheeks, slightly broader oval-long face, NEVER smooth into generic young beauty. Change her clothing to an opaque plain grey-teal long-sleeve robe over dark red full skirt, fewer small hairpins and modest gold earrings; this is an artistic outfit for a separate day, not reference costume. She sits upright with calm firm attention on uncle, one hand resting palm down on table edge, the other on her own knee, mouth just opening in reasoned reply, not submissive, not grinning. Zhang Si on right is a NEW ordinary older middle-aged Chinese man, late fifties artistic age impression: lean square face, hollow narrow cheeks, short sparse moustache and pointed sparse salt-and-pepper chin beard, deep-set small eyes, slightly hooked long nose, low wrinkled forehead, dark brown soft cap. Rough muted brown robe with plain belt. He leans forward as he tries to persuade, one open hand still raised above table, embarrassed frustrated eyes, other hand close to his own tea bowl. Two small unornamented porcelain tea bowls on table, no silver or gifts. Foreground cropped doorframe, behind them oblique sequence of timber door frames with ordinary courtyard light and a pomegranate pot; treat architecture as artistic layout, no symbolic bars or ominous future images. Neutral afternoon light, textured fabrics, honest lined faces, clear hands. No bride veil, wedding, violence, imagined children or absent wives.",
+      "image": "assets/007-04.webp",
+      "status": "generated",
+      "review": "已实际查看初稿及修订图：玉楼在左端坐答话，一手搭桌边、一手置膝；张四在右前倾开掌，桌上两盏茶。玉楼脸型、成年年龄感与微麻沿用参考，张四的瘦方脸、窄颊、长鼻、稀短髭须清楚。手指和坐姿无显著畸变，未添加暴力或其他人物。初稿背景石榴红熟果已由内置工具修成榴花，人物、衣装和陈设延续。灰青红裙、褐袍、补丁、院落与竹器均为美术设定，不据补丁断定家境，采用修订图。",
+      "actualPrompt": "Use case: precise-object-edit. Edit the supplied 3:2 gongbi mineral-pigment narrative illustration. ONE TINY TARGETED SEASONAL CORRECTION ONLY. The potted pomegranate tree currently has large round ripe red fruit. Replace EVERY large round ripe red pomegranate fruit with natural SMALL red-orange pomegranate BLOSSOMS, thin crinkled petals and small trumpet-shaped calyxes, plus at most a few tiny unripe GREEN fruitlets. This is late spring to early summer in the fifth lunar month, not ripe-fruit autumn. Do not change plant position, pot, foliage, lighting, paper texture, painting style, people, face identities, pockmarks, expressions, hands, outfits, furniture, cups, silver, chests, carrier count, or composition. Keep all other elements visually unchanged. Preserve exact 1536x1024 3:2 canvas, no text or watermark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "007-05",
+      "chapter": 7,
+      "title": "骂声未歇，箱笼已出门",
+      "people": [
+        "杨姑娘",
+        "张四舅",
+        "薛嫂",
+        "搬运者",
+        "街邻"
+      ],
+      "place": "杨家搬嫁妆的院口",
+      "event": "杨姑娘与张四争吵，邻舍劝住；薛嫂趁乱领伴当、闲汉与军牢，将床帐箱笼搬走。",
+      "why": "争执的焦点是财产处置；话语权相争之时，搬运已经把事情推进了。",
+      "composition": "近处两位长辈争得面红，邻人伸臂隔开；后景搬运队沿斜线抬封闭箱子穿门，薛嫂在侧领路，形成两股方向。",
+      "summary": "张四要当众开箱，玉楼哭着说房屋和欠账文书都已留给小叔。杨姑娘随后出来，替她说话，又被一句“凤凰无宝处不落”激怒，两位长辈几乎打起。邻舍正劝，薛嫂已领人赶入，把床帐、装奁、箱笼一阵风般搬走。画面取双方被隔开的同时，后一担箱子正穿过门槛。",
+      "psychology": "明写：杨姑娘被刺中后怒骂，张四后来敢怒不敢言；薛嫂见二人嚷打一团便领人搬走。推断：她快速回头示意搬运者，表现抓住时机；不添加密谋手势、武器威胁或已经发生的殴打。",
+      "social": "杨姑娘此前收银、此时仍说出了不该强留寡妇的道理；张四虽借小叔财产发言，也确有图留东西的盘算。数种动机同场出现。官府军牢介入搬运，显示西门庆能调动的人手。",
+      "explicit": "杨姑娘拄拐出场，与张四争吵，差些打起，被邻舍劝住；薛嫂领伴当与军牢搬走床帐箱笼。箱笼并未在原文中打开供人查看。",
+      "inference": "前景只画两位长辈与一名劝架邻人，后景五名搬运者和一位薛嫂，是对大队人手的取景而非完整人数；无统一可考军服、无拔刀。衣色、门口动线、箱子形制与可见数均为美术补足。玉楼在场但在画框外，不声称她离开现场。 盆栽榴花与幼果状态按五月至六月初时令作美术补足，原文仅写榴树盆景。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "paragraph": 22,
+          "quote": "只把你箱笼打开，眼同众人看一看"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 23,
+          "quote": "只见姑娘拄拐自后而出"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 23,
+          "quote": "当下两个差些儿不曾打起来。多亏众邻舍劝住"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 23,
+          "quote": "将妇人床帐、装奁、箱笼，搬的搬，抬的抬，一阵风都搬去了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 7,
+        "paragraph": 23,
+        "quote": "当下两个差些儿不曾打起来。多亏众邻舍劝住，说道：「老舅，你让姑娘一句儿罢。」薛嫂儿见他二人嚷打一团，领率西门庆家小厮伴当，并发来众军牢赶入，闹裏七手八脚，将妇人床帐、装奁、箱笼，搬的搬，抬的抬，一阵风都搬去了。"
+      },
+      "history": "仅据用户梦梅馆词话本本回隔离原文与第6回必要连续性。宋代故事设定与宽泛晚明视觉参考分开；图像为文学美术重构，不作历史证据。",
+      "references": [
+        "assets/007-02.webp",
+        "assets/007-04.webp"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life and cinematic narrative depth. Painted, not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Only face/body identities carry over from references; never inherit reference clothing, props, pose, or background. Scene: daytime courtyard threshold during removal of Meng Yulou household marriage goods. Wide 3:2 cinematic narrative composition, two simultaneous layers of action that really occur together. FOREGROUND LEFT: elderly Yang Guniang, facial identity ONLY of elderly woman RIGHT in input reference 1: thin angular wrinkled oval face, bright narrow eyes, broad mouth, small sparse grey bun, now flushed and angrily arguing, dusty-umber robe. Left hand grips her wooden walking stick planted vertically on ground, right hand points low toward Zhang Si, no weapon raised. FOREGROUND RIGHT: Zhang Si, facial identity ONLY of older man RIGHT in input reference 2, lean square face, hollow cheeks, slightly hooked long nose, sparse short moustache and pointed grey-black chin beard, brown cap and robe; argues with open hand and reddened face, never striking. ONE middle-aged male neighbor stands between and a step behind them, one arm across separation space and the other placating, preventing contact, plausible separate hands. BACKGROUND through wide doorway, Xue Sao, face identity of middle-aged woman BACK-CENTER in input reference 1 (broad oval face, fleshy cheeks, broad nose, expressive arched brows, practical dark-grey bun), dusty-plum jacket and brown skirt, quickly steps sideways and gestures toward the exit. Five adult male hired carriers and plain service-men in mixed grey/brown work clothes, two carry one CLOSED dark wood chest with poles, two carry a rolled bedding load, fifth follows bearing a small CLOSED wood box. No uniforms claimed historically exact, no armor, weapons, chains, extra officials or violence. Movement diagonally out through threshold, goods leaving rather than being opened. Neighbor and two elders are dominant; background workers smaller but coherent. Every chest CLOSED. Textured old plaster, worn stone floor, summer green potted pomegranate in corner. Candid human faces, not caricatures. No modern luggage wheels, money piles, cutaway chest contents or wedding procession. Meng Yulou outside camera crop, no claim she left scene.",
+      "image": "assets/007-05.webp",
+      "status": "generated",
+      "review": "已实际查看初稿及修订图：杨姑娘在左扶拐怒骂、张四在右开掌争辩，邻人居中伸臂隔开，两人没有真正动手；薛嫂在后侧领路。后景五名搬运者抬封闭箱子、床褥并抱小箱前行，所有箱笼仍闭合，无拔刀或威胁。三名已定人物脸部相接本章参考，手脚与挑担无显著畸变，前后两股动作可读。初稿左上石榴红熟果已用内置工具换成榴花幼果，实际核看脸部、动作与搬运人数保持。具体人数和器物形制属于取景及美术补足，采用修订图。",
+      "actualPrompt": "Use case: precise-object-edit. Edit the supplied 3:2 gongbi mineral-pigment narrative illustration. ONE TINY TARGETED SEASONAL CORRECTION ONLY. The potted pomegranate tree currently has large round ripe red fruit. Replace EVERY large round ripe red pomegranate fruit with natural SMALL red-orange pomegranate BLOSSOMS, thin crinkled petals and small trumpet-shaped calyxes, plus at most a few tiny unripe GREEN fruitlets. This is late spring to early summer in the fifth lunar month, not ripe-fruit autumn. Do not change plant position, pot, foliage, lighting, paper texture, painting style, people, face identities, pockmarks, expressions, hands, outfits, furniture, cups, silver, chests, carrier count, or composition. Keep all other elements visually unchanged. Preserve exact 1536x1024 3:2 canvas, no text or watermark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

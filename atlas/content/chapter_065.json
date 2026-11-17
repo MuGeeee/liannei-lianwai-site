@@ -2,6 +2,35 @@
   "number": 65,
   "title": "第六十五回吴道官迎殡颁真容　宋御史结豪请六黄",
   "intro": "一场丧事尚未收束，另一场宴席已来敲门。沿着礼物、画像、饭桌与首饰，看见感情和秩序怎样同时运作。",
+  "supplements": [
+    {
+      "title": "同一回里，声音怎样绕到后房",
+      "evidence": [
+        {
+          "chapter": 65,
+          "paragraph": 36,
+          "quote": "不想潘金莲在软壁后听唱，听见西门庆说此话，走到后边，一五一十告诉月娘"
+        }
+      ],
+      "text": "官客散后，西门庆留家人与朋友吃饭，听曲想起瓶儿，抱怨饭菜。伯爵提醒这样说会冷了别人的心；金莲已隔着软壁听见，并转述给月娘。思念一旦说出口，也成了旁人被评价、被比较的消息。软壁的确切结构不明，本次不据它编造整套室内格局。"
+    },
+    {
+      "title": "没有画成婚嫁喜景的一段",
+      "evidence": [
+        {
+          "chapter": 65,
+          "paragraph": 29,
+          "quote": "这孩子，与了夏大人房里抬举"
+        },
+        {
+          "chapter": 65,
+          "paragraph": 29,
+          "quote": "只得了他三十两银子"
+        }
+      ],
+      "text": "贲四娘子带长姐来磕头，月娘称她十五岁。这一笔仍列入回内事件，不因没有选为插画而删去；不生成涉及未成年人的性化婚房或亲密图像。这里能确认的是议定、银数、来谢与馈赠，不能替她补出心情。"
+    }
+  ],
   "scenes": [
     {
       "id": "065-01",
@@ -41,14 +70,16 @@
       "inference": "封包大小、来客面貌、棚柱位置及室内光线为艺术补充；不把礼物一律画成一堆裸银。",
       "history": "未采用外部史料或其他版本情节。灰瓦、木构、织物与器皿以宽泛晚明生活语汇作美术补足；形制未作考据复原。",
       "references": [
-        "ximen"
+        "references/ximen.png（原说明：ximen）"
       ],
       "prompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Scene: after a condolence visit, in a timber reception canopy of a prosperous merchant household. Exactly five visible men. On the right, Huang, a middle-aged visiting official in a restrained dark official robe and black cap, sits in the higher seat. At lower left Ximen in off-white mourning robe and plain mourning head covering inclines forward with restrained reluctance; beside him sits Wen, a lean adult scholar in modest brown clothes. Two adult attendants in blue-green robes kneel in the center foreground presenting a felt-covered bundle and two closed paper packets. A small side tray carries folded silk, two white candles and aromatic wood, not overflowing treasure. Diffused autumn daylight, tense courteous hands and unequal seated heights; slight incense haze beyond a partition, no coffin or corpse in this frame. Late-Ming furnished household, not imperial palace. No text on packets. The two packets are contributions separate from condolence goods.",
-      "image": "assets/065-01.png",
+      "image": "assets/065-01.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：五名男子；上坐来客、下陪主人与温秀才、跪呈的两青衣官吏可分辨。毡包和两封分资清楚。首图偏照片，已重绘工笔线描。棚柱、座椅、屏风与器物细部属补足；烛器未逐一复现礼单数量。",
       "actualPrompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Scene: after a condolence visit, in a timber reception canopy of a prosperous merchant household. Exactly five visible men. On the right, Huang, a middle-aged visiting official in a restrained dark official robe and black cap, sits in the higher seat. At lower left Ximen in off-white mourning robe and plain mourning head covering inclines forward with restrained reluctance; beside him sits Wen, a lean adult scholar in modest brown clothes. Two adult attendants in blue-green robes kneel in the center foreground presenting a felt-covered bundle and two closed paper packets. A small side tray carries folded silk, two white candles and aromatic wood, not overflowing treasure. Diffused autumn daylight, tense courteous hands and unequal seated heights; slight incense haze beyond a partition, no coffin or corpse in this frame. Late-Ming furnished household, not imperial palace. No text on packets. The two packets are contributions separate from condolence goods.",
-      "styleEditPrompt": "Style-transfer edit of the attached image. Preserve EXACTLY the five men, their individual facial identity, clothing colors, poses, the two kneeling presenters, the felt bundle and two closed paper packets, and all spatial relationships. Change only the visual medium: make this recognizably a masterfully PAINTED Chinese gongbi narrative scene, with visible fine dark ink contour lines describing faces, brows, fingers and garment folds, gently flattened mineral color washes, delicate silk-paper grain, and hand-rendered wood and autumn foliage. Cinematic depth and restrained natural light remain, but replace camera-like photographic skin and lenses with drawn line and softly modeled brush color. Elegant late-Ming genre-painting sensibility, high realism of anatomy without being a photograph. No text or signature. Do not add or remove people or props. No oversaturated fantasy colors, no anime, no excessively smooth beauty skin."
+      "styleEditPrompt": "Style-transfer edit of the attached image. Preserve EXACTLY the five men, their individual facial identity, clothing colors, poses, the two kneeling presenters, the felt bundle and two closed paper packets, and all spatial relationships. Change only the visual medium: make this recognizably a masterfully PAINTED Chinese gongbi narrative scene, with visible fine dark ink contour lines describing faces, brows, fingers and garment folds, gently flattened mineral color washes, delicate silk-paper grain, and hand-rendered wood and autumn foliage. Cinematic depth and restrained natural light remain, but replace camera-like photographic skin and lenses with drawn line and softly modeled brush color. Elegant late-Ming genre-painting sensibility, high realism of anatomy without being a photograph. No text or signature. Do not add or remove people or props. No oversaturated fantasy colors, no anime, no excessively smooth beauty skin.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "065-02",
@@ -82,15 +113,17 @@
       "inference": "画像的装裱和服装无本回明示，以旧肖像的面貌作识别；画像仅为图中之画。抬舆结构、街宽和围观者衣色为补充。",
       "history": "未采用外部史料或其他版本情节。灰瓦、木构、织物与器皿以宽泛晚明生活语汇作美术补足；形制未作考据复原。",
       "references": [
-        "chen-030",
-        "ping-013"
+        "references/chen-030.png（原说明：chen-030）",
+        "references/ping-013.png（原说明：ping-013）"
       ],
       "prompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. One continuous scene at an old Chinese street intersection in autumn daylight. The central subject is an older Taoist ritual master seated on a modest elevated FOUR-bearer shoulder chair, wearing a vermilion ceremonial robe with multicolored clouds and crane embroidery and a dark ritual cap with pale ring, plain red ritual shoes. He supports a small framed silk memorial portrait of a short oval-faced woman with fine curved eyebrows (same face as Ping reference), holding an ivory-colored ritual tablet with the other hand; no writing. Immediately below him Chen Jingji, same face as Chen reference but in plain unbleached mourning robe and mourning headcloth, KNEELS facing him. Four sturdy bearers occupy four supporting positions of the chair. A paused funeral procession extends diagonally into the narrow street behind, closed covered coffin only partially visible at distance, white mourning caps and multicolored silk banners with no lettering, a few musicians and spectators along worn walls. The crowd suggests scale without falsely countable sixty-four bearers. Restrained solemnity beneath noisy public ceremony, not a palace, no floating figures or ghost. No Ximen foreground required; the other face references apply only to Chen and portrait.",
-      "image": "assets/065-02.png",
+      "image": "assets/065-02.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：红色鹤氅、牙笏、肩舆及四名承托者、瓶儿大影、跪前陈经济可辨，远处殡队停住。雷巾简化为深色带饰礼帽，丹舄只局部露出；街宽、舆制、画像衣饰与人群是艺术补足，未画足或计数全部仪仗。",
       "actualPrompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. One continuous scene at an old Chinese street intersection in autumn daylight. The central subject is an older Taoist ritual master seated on a modest elevated FOUR-bearer shoulder chair, wearing a vermilion ceremonial robe with multicolored clouds and crane embroidery and a dark ritual cap with pale ring, plain red ritual shoes. He supports a small framed silk memorial portrait of a short oval-faced woman with fine curved eyebrows (same face as Ping reference), holding an ivory-colored ritual tablet with the other hand; no writing. Immediately below him Chen Jingji, same face as Chen reference but in plain unbleached mourning robe and mourning headcloth, KNEELS facing him. Four sturdy bearers occupy four supporting positions of the chair. A paused funeral procession extends diagonally into the narrow street behind, closed covered coffin only partially visible at distance, white mourning caps and multicolored silk banners with no lettering, a few musicians and spectators along worn walls. The crowd suggests scale without falsely countable sixty-four bearers. Restrained solemnity beneath noisy public ceremony, not a palace, no floating figures or ghost. No Ximen foreground required; the other face references apply only to Chen and portrait. Reference roles: image1 supplies ONLY painted gongbi linework / silk grain, NOT its scene or people. Image2 supplies Chen Jingji's young face. Image3 supplies ONLY the deceased woman's likeness INSIDE the memorial picture. New composition as described, cool autumn light with pale silvery mourning cloth, vermilion cranes as focus.",
-      "styleEditPrompt": ""
+      "styleEditPrompt": "",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "065-03",
@@ -123,15 +156,17 @@
       "inference": "饭碗与家具形制、丫鬟的确切人数及位置未明。这里画一名侍者，作为在场群体的局部；不画逝者显灵或对坐。",
       "history": "未采用外部史料或其他版本情节。灰瓦、木构、织物与器皿以宽泛晚明生活语汇作美术补足；形制未作考据复原。",
       "references": [
-        "ximen",
-        "ping-013"
+        "references/ximen.png（原说明：ximen）",
+        "references/ping-013.png（原说明：ping-013）"
       ],
       "prompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Daytime scene inside a modestly rich private mourning room. Ximen with recognizable face sits at the near-left side of a small dining table, in plain off-white mourning clothes. He raises a pair of bamboo chopsticks toward an untouched place setting opposite him, his body leaning slightly forward as if quietly inviting the absent person to eat. The opposite seat is EMPTY: no ghost, no living woman, no corpse. On the wall behind the untouched setting is a restrained painted memorial portrait of the Ping reference face; its attire is an artistic convention. One fully clothed adult female attendant stands behind the table edge, lowering her face and wiping a tear with her sleeve. A few ordinary rice bowls and vegetable dishes, small incense stand separate from food, muted daylight through lattice. Off-white, warm worn timber, muted ink blue. The emotional center is the raised chopsticks and empty place, not extravagant weeping. No moon, no night scene, no erotic subtext.",
-      "image": "assets/065-03.png",
+      "image": "assets/065-03.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：西门庆举筷，供饭对面无人，瓶儿仅在画像中，一名侍者掩泪。已定向清除首图右上角误生的装饰字迹。图中筷上夹少量饭、菜品、供花与人物座位为补足；未画逝者显灵。",
       "actualPrompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Daytime scene inside a modestly rich private mourning room. Ximen with recognizable face sits at the near-left side of a small dining table, in plain off-white mourning clothes. He raises a pair of bamboo chopsticks toward an untouched place setting opposite him, his body leaning slightly forward as if quietly inviting the absent person to eat. The opposite seat is EMPTY: no ghost, no living woman, no corpse. On the wall behind the untouched setting is a restrained painted memorial portrait of the Ping reference face; its attire is an artistic convention. One fully clothed adult female attendant stands behind the table edge, lowering her face and wiping a tear with her sleeve. A few ordinary rice bowls and vegetable dishes, small incense stand separate from food, muted daylight through lattice. Off-white, warm worn timber, muted ink blue. The emotional center is the raised chopsticks and empty place, not extravagant weeping. No moon, no night scene, no erotic subtext. Image1 is the locked drawn style AND Ximen's facial identity (left seated man), not its composition; image2 only supplies the likeness inside the memorial portrait. Visibly drawn fine ink contours, cool desaturated daylight, white paper grain and subdued blue shadows, not overall golden brown. New closer composition.",
-      "styleEditPrompt": "Remove the small accidental dark calligraphy/lettering on the EXTREME UPPER RIGHT EDGE of this illustration, replacing just that tiny edge area with plain unlettered paper/plaster and continuing the existing painted wall. Preserve absolutely everything else: same faces, chopsticks, empty opposite place, memorial portrait, crying attendant, bowls and light. Do not change any hands or positions. No new lettering anywhere. Keep the same fine gongbi painted medium. This is a tiny cleanup edit only."
+      "styleEditPrompt": "Remove the small accidental dark calligraphy/lettering on the EXTREME UPPER RIGHT EDGE of this illustration, replacing just that tiny edge area with plain unlettered paper/plaster and continuing the existing painted wall. Preserve absolutely everything else: same faces, chopsticks, empty opposite place, memorial portrait, crying attendant, bowls and light. Do not change any hands or positions. No new lettering anywhere. Keep the same fine gongbi painted medium. This is a tiny cleanup edit only.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "065-04",
@@ -164,14 +199,16 @@
       "inference": "如意儿本回未给出可固定的详细面貌，设为自然圆方脸、略有生活疲劳的成年妇人；年龄不定。衣色、簪材、匣子和相对位置为补足。",
       "history": "未采用外部史料或其他版本情节。灰瓦、木构、织物与器皿以宽泛晚明生活语汇作美术补足；形制未作考据复原。",
       "references": [
-        "ximen"
+        "references/ximen.png（原说明：ximen）"
       ],
       "prompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Morning in the same mourning household, one coherent nonsexual instant. Ximen, recognizably the reference man, fully dressed in subdued pale mourning robes, stands by an opened wooden cabinet. He extends a small plain tray containing EXACTLY FOUR distinct slender hairpins, clearly separated without extra loose jewelry. The metal is muted and its exact alloy unspecified, no ostentatious gems. Ruyi, a clearly adult working woman with a broad softly square face, low practical dark hair bun, natural uneven skin and a solid ordinary build, wears a modest fully closed slate-blue cotton jacket and brown skirt. She kneels and bows her head in thanks below his extended hand; she does not touch him erotically. Light from a side lattice makes the four pins and power difference of standing and kneeling legible. No children, no bed intimacy, no nudity. Quiet room with worn wooden storage, not palace furniture. This is a single reward moment, not a composite before-and-after.",
-      "image": "assets/065-04.png",
+      "image": "assets/065-04.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：四根簪子可数清；西门庆站立，如意儿完整着衣跪谢。只表现跪着垂首的片刻，未画完整磕头过程。簪头被画出不同花式与金属色，材质、花式、托盘和柜内衣物均非原文明确。",
       "actualPrompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Morning in the same mourning household, one coherent nonsexual instant. Ximen, recognizably the reference man, fully dressed in subdued pale mourning robes, stands by an opened wooden cabinet. He extends a small plain tray containing EXACTLY FOUR distinct slender hairpins, clearly separated without extra loose jewelry. The metal is muted and its exact alloy unspecified, no ostentatious gems. Ruyi, a clearly adult working woman with a broad softly square face, low practical dark hair bun, natural uneven skin and a solid ordinary build, wears a modest fully closed slate-blue cotton jacket and brown skirt. She kneels and bows her head in thanks below his extended hand; she does not touch him erotically. Light from a side lattice makes the four pins and power difference of standing and kneeling legible. No children, no bed intimacy, no nudity. Quiet room with worn wooden storage, not palace furniture. This is a single reward moment, not a composite before-and-after.Reference image locks painted linework and Ximen's face from the left seated man only. Use a different, lower camera angle for this scene. No mourning portrait needed in frame. Four pins clearly countable. No decorative pseudo-calligraphy anywhere, even on scrolls. Muted slate blue and pale stone daylight, gongbi illustration.",
-      "styleEditPrompt": ""
+      "styleEditPrompt": "",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "065-05",
@@ -216,43 +253,16 @@
       "inference": "图中官员只取局部，不逐名虚构肖像；座位前后与人数压缩，非精确礼制平面图。绣蟒纹样、冠帽细部和桌上食物造型为艺术安排。",
       "history": "未采用外部史料或其他版本情节。灰瓦、木构、织物与器皿以宽泛晚明生活语汇作美术补足；形制未作考据复原。",
       "references": [
-        "ximen"
+        "references/ximen.png（原说明：ximen）"
       ],
       "prompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Wide cinematic view from the side of a wealthy Chinese household hall, not an imperial throne room. At the far center an imposing older clean-shaven eunuch official Huang sits in a high guest chair, in a vermilion brocade robe with subtle coiling python motifs. A peacock-pattern screen behind him, woven carpet, embroidered table drapes and a large guest table communicate rank. Ximen in blue-green formal robe and black official headdress, same lean recognizable face, and Xia, a different middle-aged official, stand LOWER to one side, respectfully bowing while offering a covered tea cup on a tray; their bodies show service, not equal hosting at the high seat. Two senior guests sit lower alongside; other officials sit at simpler tables along the hall edges and glimpsed through the open bay under a reception canopy. Clearly differentiated seating and table richness, depth and everyday staff circulation. Exactly one peacock screen, no visible lettering, no huge banquet fantasy, no emperor crown or throne, no European glass. Autumn daylight from open courtyard, red and deep teal accents, subdued lived-in textures. Capture tea presentation, not dancing or funeral at the same time.",
-      "image": "assets/065-05.png",
+      "image": "assets/065-05.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：太尉红袍居高位，西门庆青衣献茶，夏提刑在旁，孔雀屏与厅外席次可见。冠帽、绣蟒、官衣补子、高椅台阶与桌面细部为美术安排，不作精准等级复原；席面只截局部。",
       "actualPrompt": "Use case: illustration-story / historical-scene. A finished literary narrative illustration, landscape 3:2. Fine Chinese gongbi contour drawing, subtle mineral pigment washes on silk, realistic individual faces and tactile lived-in late-Ming everyday materials, cinematic staging and natural directional light. Painterly realism, not a photograph, not anime, not glossy fantasy costume. No text, no calligraphy, no captions, no labels, no watermark. Figures must be doing the specified action, not posing. No nudity, no sexual activity, no gore. Story setting calls itself Song; late-Ming material language is a consistent art direction, not an exact historical reconstruction. Ximen Qing is the same man as the Ximen reference: long face, straight brows, narrow attentive dark eyes, slim long torso, black hair tied under a cap, lean adult face, slight natural age and fatigue rather than beauty retouching. Do not borrow the reference green costume when this scene specifies mourning or official clothes. Wide cinematic view from the side of a wealthy Chinese household hall, not an imperial throne room. At the far center an imposing older clean-shaven eunuch official Huang sits in a high guest chair, in a vermilion brocade robe with subtle coiling python motifs. A peacock-pattern screen behind him, woven carpet, embroidered table drapes and a large guest table communicate rank. Ximen in blue-green formal robe and black official headdress, same lean recognizable face, and Xia, a different middle-aged official, stand LOWER to one side, respectfully bowing while offering a covered tea cup on a tray; their bodies show service, not equal hosting at the high seat. Two senior guests sit lower alongside; other officials sit at simpler tables along the hall edges and glimpsed through the open bay under a reception canopy. Clearly differentiated seating and table richness, depth and everyday staff circulation. Exactly one peacock screen, no visible lettering, no huge banquet fantasy, no emperor crown or throne, no European glass. Autumn daylight from open courtyard, red and deep teal accents, subdued lived-in textures. Capture tea presentation, not dancing or funeral at the same time.The reference supplies gongbi linework, silk grain, and the Ximen face at LEFT, NOT its room or other people. Ximen changes into the blue-green official costume specified, not white mourning attire at this moment. Varied broad hall framing, darker teal / red / charcoal palette, not sepia. Every figure's anatomy clear. No decorative writing on any object. Tea presentation, not kneeling or feasting already begun. Important: no imperial crown, this guest is an older eunuch official.",
-      "styleEditPrompt": ""
-    }
-  ],
-  "supplements": [
-    {
-      "title": "同一回里，声音怎样绕到后房",
-      "evidence": [
-        {
-          "chapter": 65,
-          "paragraph": 36,
-          "quote": "不想潘金莲在软壁后听唱，听见西门庆说此话，走到后边，一五一十告诉月娘"
-        }
-      ],
-      "text": "官客散后，西门庆留家人与朋友吃饭，听曲想起瓶儿，抱怨饭菜。伯爵提醒这样说会冷了别人的心；金莲已隔着软壁听见，并转述给月娘。思念一旦说出口，也成了旁人被评价、被比较的消息。软壁的确切结构不明，本次不据它编造整套室内格局。"
-    },
-    {
-      "title": "没有画成婚嫁喜景的一段",
-      "evidence": [
-        {
-          "chapter": 65,
-          "paragraph": 29,
-          "quote": "这孩子，与了夏大人房里抬举"
-        },
-        {
-          "chapter": 65,
-          "paragraph": 29,
-          "quote": "只得了他三十两银子"
-        }
-      ],
-      "text": "贲四娘子带长姐来磕头，月娘称她十五岁。这一笔仍列入回内事件，不因没有选为插画而删去；不生成涉及未成年人的性化婚房或亲密图像。这里能确认的是议定、银数、来谢与馈赠，不能替她补出心情。"
+      "styleEditPrompt": "",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

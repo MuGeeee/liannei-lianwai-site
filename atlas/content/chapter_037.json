@@ -1,0 +1,386 @@
+{
+  "number": 37,
+  "title": "第三十七回冯妈妈说嫁韩氏女　西门庆包占王六儿",
+  "intro": "一张庚帖促成韩家女儿远行，母亲留家的空落又成为媒人牵线的话头。本回以递帖、送行、哭诉、酒席和催拆洗五个时刻相连；只据本回及此前，不读取后回。阅读确认仍64。",
+  "supplements": [
+    {
+      "title": "未配图的婚配与买人事实",
+      "text": "爱姐在媒人口中“交新年十五岁”，庚帖写“年十五岁”；本回不统一这两种计岁表述。西门庆原为翟谦寻二房，图生长；韩道国应允，爱姐没有被叙述为自主作出决定。锦儿十三岁，冯妈妈说其父因死马欠桩头银、怕受打而将她卖出，西门庆次日出四两买来使唤。两名未成年人均未绘入成人私会场面，相关话语不作一般制度史证明。",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 5,
+          "quote": "交新年十五岁"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 6,
+          "quote": "年十五岁"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 15,
+          "quote": "南首赵嫂儿家有个十三岁的孩子"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 18,
+          "quote": "就兑了四两银子与冯妈妈，讨了丫头使唤，改名叫做锦儿。"
+        }
+      ]
+    },
+    {
+      "title": "本回成人私会，留作非露骨文字",
+      "text": "女儿远行后，西门庆托冯妈妈向王六儿探问来访意愿。老冯传话，王六儿答应；酒席之后，两名成年人发生私情。本次图画止于衣着整齐的待客、递饼动作，不绘露骨过程。随后西门庆多次来访，给一二两盘缠，瞒住家中。此处只记当回已发生事，不借后回解释或评断。",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 13,
+          "quote": "旣是下顾，明日请他过来，奴这裏等候。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 18,
+          "quote": "当日和他缠到起更纔回家。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 19,
+          "quote": "西门庆来一遭，与妇人一二两银子盘缠。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "037-01",
+      "chapter": 37,
+      "title": "一张庚帖，承办一应妆奁",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 6,
+          "quote": "忽见冯妈妈来回话，拿了帖儿与西门庆瞧。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 6,
+          "quote": "凡一应衣服、首饰、妆奁、箱柜等件，都是我这裏替他办备。还与他二十两财礼。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 6,
+          "quote": "教他家止备女孩儿的鞋脚就是了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 37,
+        "paragraph": 6,
+        "quote": "过两日，西门庆正在前厅坐的，忽见冯妈妈来回话，拿了帖儿与西门庆瞧。"
+      },
+      "people": [
+        "西门庆",
+        "冯妈妈"
+      ],
+      "place": "西门宅前厅",
+      "event": "冯妈妈送来韩家庚帖，西门庆承办衣饰妆奁及二十两财礼，约次日相看。",
+      "why": "上一回的寻访在此落实为具体人选与开支分配，庚帖和口头应允不可等同女儿自主同意。",
+      "composition": "左西门庆坐着审看折帖，右冯妈妈立在桌边回话；不画未成年候选者。",
+      "summary": "老冯把韩家的庚帖送进前厅，转述父亲的应允与家贫。西门庆答应包办衣服、首饰和妆奁，另出二十两财礼，只留鞋脚给韩家预备。婚配的催迫来自京中来书，丰厚承办又被说成富贵机会。画面只取成年人处理帖子，不以礼物遮去女孩缺少发言的位置。",
+      "psychology": {
+        "明写": "冯妈妈递帖、转述韩道国的话；西门庆列明承办项目，并说东京催得急。",
+        "推断": "财力包办使韩家更易接受，可由“家寒”与“不费一丝”之间的答话读出，不能代女儿陈述心意。"
+      },
+      "social": "爱姐的岁数有两种当回表述：媒人说交新年十五，庚帖写年十五；均明确未成年，不强合成统一周岁。所谓将来富贵是人物劝说，非本馆断言。",
+      "explicit": [
+        "庚帖写“韩氏，女命，年十五岁”。",
+        "韩道国应允；西门庆承办妆奁并给二十两财礼。",
+        "本图无候选女子，也无已经成礼的婚仪。"
+      ],
+      "inference": [
+        "折帖形状、两人座次与衣色为美术补足；纸面不写可读字。",
+        "图中的单一帖子不是全部往来书信。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离包。宋代故事设定与宽泛晚明视觉参考分开；未核定的衣饰、器物及建筑只作美术补足，不作制度或价格史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/017-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Ximen Qing face only: long narrow face, straight brows, narrow eyes and long waist. Input 2 locks ONLY the older woman on the LEFT holding a box, Feng Mama: angular slightly broad lined face, gray-black bun and brown cloth headwrap. Do not transfer the box or other people. Exactly two fully clothed adults in a prosperous but lived-in front hall. Ximen seated on the LEFT in dark olive robe and simple black cloth cap, holding one folded pale paper card opened in both hands, examining it with concentrated neutral expression. Feng stands on the RIGHT in a muted brown jacket and dark blue skirt, one hand raised in explanatory gesture, the other lightly gathering her sleeve. Worn wooden table between them with one plain tea cup, diffuse daylight from a lattice window. The card is blank with no legible text. Candid administrative conversation, no children, no wedding, no bridal figure, no jewels or silver on view. Exactly four arms with clear natural hands.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Ximen Qing face only: long narrow face, straight brows, narrow eyes and long waist. Input 2 locks ONLY the older woman on the LEFT holding a box, Feng Mama: angular slightly broad lined face, gray-black bun and brown cloth headwrap. Do not transfer the box or other people. Exactly two fully clothed adults in a prosperous but lived-in front hall. Ximen seated on the LEFT in dark olive robe and simple black cloth cap, holding one folded pale paper card opened in both hands, examining it with concentrated neutral expression. Feng stands on the RIGHT in a muted brown jacket and dark blue skirt, one hand raised in explanatory gesture, the other lightly gathering her sleeve. Worn wooden table between them with one plain tea cup, diffuse daylight from a lattice window. The card is blank with no legible text. Candid administrative conversation, no children, no wedding, no bridal figure, no jewels or silver on view. Exactly four arms with clear natural hands.",
+      "image": "assets/037-01.webp",
+      "status": "generated",
+      "review": "已实际打开生成图核看：恰两名成年人，左西门庆长脸直眉窄眼、右老冯宽角脸与皱纹头巾均承旧参考；西门庆双手持无可读字折帖，老冯一手解释一手收袖，四手自然清楚。没有候选女孩、银饰或婚仪。桌、衣色与窗外秋叶属美术补足，叶色不作具体日期证据。人物、动作与关键道具通过，无需返修。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "037-02",
+      "chapter": 37,
+      "title": "九月初十，车辆暖轿向东京",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 10,
+          "quote": "写了一封书信，择定九月初十日起身。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 10,
+          "quote": "西门庆问县裏讨了四名快手，又拨了两名排军，执袋弓箭随身；来保韩道国雇了四乘头口，紧紧保定车辆暖轿，送上东京去了，不题。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 10,
+          "quote": "丢的王六儿在家，前出后空，整哭了两三日。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 37,
+        "paragraph": 10,
+        "quote": "写了一封书信，择定九月初十日起身。西门庆问县裏讨了四名快手，又拨了两名排军，执袋弓箭随身；来保韩道国雇了四乘头口，紧紧保定车辆暖轿，送上东京去了，不题。"
+      },
+      "people": [
+        "来保",
+        "韩道国",
+        "护送人员"
+      ],
+      "place": "赴东京途中的街口（取景补足）",
+      "event": "妆奁治办完备，来保与韩道国护送车辆暖轿赴东京。",
+      "why": "日期与护送规格具体，女孩的身影却可隐于封闭暖轿；旁观视角保留旅途的沉重。",
+      "composition": "左前来保检查系绳，右前韩道国看向行路；闭帘暖轿与车辆横向延伸，一名持弓护卫侧后露出。",
+      "summary": "衣服与嫁妆并非一日办齐。到九月初十，来保和韩道国雇好头口，随车辆暖轿上路，另有快手与排军执弓护送。图只截取队伍局部，轿帘闭合，未画爱姐本人，也没有迎亲庆宴。留在家中的王六儿随后哭了两三日，远行的安排与留家的空落在本回并行。",
+      "psychology": {
+        "明写": "叙述明写来保、韩道国紧紧护送；王六儿留家哭两三日。",
+        "推断": "护送者的谨慎由“紧紧保定”转成检查绳索的动作，具体检查动作是取景补足。"
+      },
+      "social": "县快手、排军与私人差役同在一趟送行中。四名、两名、四乘是小说明示数量；本图为局部，不按可见人数与牲口数复原全队。",
+      "explicit": [
+        "九月初十起身。",
+        "四名快手、两名排军执袋弓箭，四乘头口。",
+        "来保与韩道国护送车辆暖轿赴东京。"
+      ],
+      "inference": [
+        "街口、灰蓝帘轿、单车与一匹可见驮马仅为队伍局部的美术安排，不认定全部交通配置。",
+        "轿中人不可见，未成年人的衣装和神态不予补写。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离包。宋代故事设定与宽泛晚明视觉参考分开；未核定的衣饰、器物及建筑只作美术补足，不作制度或价格史证据。",
+      "references": [
+        "assets/018-01.webp",
+        "assets/033-01.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks ONLY the front-left brown-robed kneeling man Laibao: slim angular face, high cheekbones, sparse short moustache, dark-gray bun. Input 2 locks ONLY the RIGHT man Han Daoguo: short compact build, broad oval face, full cheeks, rounded chin, natural straight brows and thin short moustache, about thirty. Do not copy other faces or poses. A sober departure travelling toward the capital, no wedding celebration. Show only a CROPPED SECTION of a longer convoy. Exactly three visible fully clothed adult men. Left foreground Laibao in practical gray-brown travelling robe bends slightly to test a rope securing a closed wooden luggage chest on a wooden cart. Right foreground Han in russet-brown robe and plain dark cloth cap stands in three-quarter view, watching the road to the right with a restrained serious face. Behind them one adult escort in blue-gray plain practical clothes carries a sheathed bow and quiver, both hands clearly natural. A fully closed gray-blue curtained covered sedan stands behind Han; its occupant is completely invisible. One brown pack animal partly visible near cart; do not attempt total convoy counts, other convoy elements continue out of frame. Plain closed luggage, narrow road, tiled buildings at edge, mild autumn daylight, dusty ground, not parade, no red bridal decorations, no children visible, no weapons being aimed. Convincing cart geometry and rope attachments.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks ONLY the front-left brown-robed kneeling man Laibao: slim angular face, high cheekbones, sparse short moustache, dark-gray bun. Input 2 locks ONLY the RIGHT man Han Daoguo: short compact build, broad oval face, full cheeks, rounded chin, natural straight brows and thin short moustache, about thirty. Do not copy other faces or poses. A sober departure travelling toward the capital, no wedding celebration. Show only a CROPPED SECTION of a longer convoy. Exactly three visible fully clothed adult men. Left foreground Laibao in practical gray-brown travelling robe bends slightly to test a rope securing a closed wooden luggage chest on a wooden cart. Right foreground Han in russet-brown robe and plain dark cloth cap stands in three-quarter view, watching the road to the right with a restrained serious face. Behind them one adult escort in blue-gray plain practical clothes carries a sheathed bow and quiver, both hands clearly natural. A fully closed gray-blue curtained covered sedan stands behind Han; its occupant is completely invisible. One brown pack animal partly visible near cart; do not attempt total convoy counts, other convoy elements continue out of frame. Plain closed luggage, narrow road, tiled buildings at edge, mild autumn daylight, dusty ground, not parade, no red bridal decorations, no children visible, no weapons being aimed. Convincing cart geometry and rope attachments.",
+      "image": "assets/037-02.webp",
+      "status": "generated",
+      "review": "已实际打开生成图核看：可见三名成年人，左来保瘦长有棱角脸、右韩道国宽椭圆面短身量，旧脸身份可辨；来保两手检查绳结，护卫两手执持随身弓袋，韩双手背后自然遮挡，不声称六手全见。左侧一匹驮马局部、车辆上闭合箱笼、后部闭帘暖轿均可辨；轿中人不可见，没有未成年人的性化形象或庆宴。车轿具体结构、弓袋形态与街景为美术补足，不充作交通或军器复原；本幅只截队伍局部，不按可见人数与马数清点全队。无显著身份、肢体或事实错误，无需返修。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "037-03",
+      "chapter": 37,
+      "title": "茶还浓，屋里已空落落",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 11,
+          "quote": "二十九岁了。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 12,
+          "quote": "那妇人便浓浓点了一盏茶递与他。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 12,
+          "quote": "自従他去了，弄的这屋裏空落落的，件件的都靠了我。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 12,
+          "quote": "说着，眼酸酸的哭了。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 13,
+          "quote": "旣是下顾，明日请他过来，奴这裏等候。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 7,
+          "quote": "生的长挑身材，紫膛色瓜子脸，描的水鬓长长的。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 37,
+        "paragraph": 12,
+        "quote": "说着，眼酸酸的哭了。"
+      },
+      "people": [
+        "王六儿",
+        "冯妈妈"
+      ],
+      "place": "牛皮巷韩家室内",
+      "event": "王六儿向来坐伴的冯妈妈哭诉女儿远去；随后老冯将话引向西门庆来访。",
+      "why": "思念、家务负担与媒人的再一次牵线交织，不以稍后同意来访倒消此刻的眼泪。",
+      "composition": "右王六儿在饭桌边持布抹泪，左冯妈妈捧浓茶听着；两人隔桌，米饭与面筋留在小桌。",
+      "summary": "女儿走后，王六儿先哭了两三日。冯妈妈来时，她仍说屋里空落落，样样家务都落回自己身上，想到远隔家乡、急切不能相见，又酸了眼。老冯先用养女终归人家宽慰，稍后才提出替西门庆传话。画面停在哭诉时，后来的答允不改写这一时刻。",
+      "psychology": {
+        "明写": "王六儿谈远隔难见而哭；冯妈妈以养女人家冷清作劝慰。",
+        "推断": "桌上少一个常来帮忙的人所形成的空处是构图表达，不是原文记载的特定空座。"
+      },
+      "social": "“件件都靠了我”说明女儿兼有家庭劳作角色。婆子的富贵安慰与母亲对大户人家营生的疑虑同时存在，不能只保留一面。",
+      "explicit": [
+        "冯妈妈在狮子街转述王六儿二十九岁；这属于人物提供的年龄信息。",
+        "王六儿点浓茶，吃饭后哭诉；冯妈妈坐着劝说。",
+        "第7段明写长挑身材、紫膛色瓜子脸、水鬓长长。"
+      ],
+      "inference": [
+        "王六儿具体五官、发髻与日常褐紫衣裙是首张面貌的美术约定；不沿用相看时服饰为永久制服。",
+        "饭碗、面筋碟与座次、窗光为补足；泪拭的手势是对哭泣的自然取景。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离包。宋代故事设定与宽泛晚明视觉参考分开；未核定的衣饰、器物及建筑只作美术补足，不作制度或价格史证据。",
+      "references": [
+        "assets/017-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks ONLY Feng Mama, the older woman on the LEFT holding a box: slightly broad angular lined face, thin brows, gray-black hair with brown cloth headwrap. Keep her face identity, not the old box or street. Establish a NEW distinct face for Wang Liuer on the RIGHT: adult woman age twenty-nine according to a character in this chapter, tall slender but natural build, warm reddish-brown complexion, long tapered melon-seed face, long carefully arranged sideburns, softly arched brows, alert dark eyes, a moderately broad natural nose and small mouth. She must look like a lived-in adult, not a glamorous model or teenager. Exactly two fully clothed women in a modest Chinese household dining room. Wang sits on the RIGHT in a muted dusty-purple everyday jacket over a pale collar and plain dark jade-gray skirt, neat black bun; she has stopped eating and gently wipes tears at one eye with one hand while her other hand rests beside her rice bowl. Her face turned three-quarter to viewer, unobstructed enough to identify. Feng sits LEFT facing her, holding a plain tea bowl with both hands and listening with restrained concern. Small worn wooden table between them with a bowl of rice, a humble dish of cooked wheat gluten, chopsticks resting, and a tea pot. A quiet unoccupied space at the far side of table, paper lattice window, subdued daylight, no other people, no child, no bride imagery. Clear natural four arms and hands; sober grief, no exaggerated theatrical sobbing.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks ONLY Feng Mama, the older woman on the LEFT holding a box: slightly broad angular lined face, thin brows, gray-black hair with brown cloth headwrap. Keep her face identity, not the old box or street. Establish a NEW distinct face for Wang Liuer on the RIGHT: adult woman age twenty-nine according to a character in this chapter, tall slender but natural build, warm reddish-brown complexion, long tapered melon-seed face, long carefully arranged sideburns, softly arched brows, alert dark eyes, a moderately broad natural nose and small mouth. She must look like a lived-in adult, not a glamorous model or teenager. Exactly two fully clothed women in a modest Chinese household dining room. Wang sits on the RIGHT in a muted dusty-purple everyday jacket over a pale collar and plain dark jade-gray skirt, neat black bun; she has stopped eating and gently wipes tears at one eye with one hand while her other hand rests beside her rice bowl. Her face turned three-quarter to viewer, unobstructed enough to identify. Feng sits LEFT facing her, holding a plain tea bowl with both hands and listening with restrained concern. Small worn wooden table between them with a bowl of rice, a humble dish of cooked wheat gluten, chopsticks resting, and a tea pot. A quiet unoccupied space at the far side of table, paper lattice window, subdued daylight, no other people, no child, no bride imagery. Clear natural four arms and hands; sober grief, no exaggerated theatrical sobbing.",
+      "image": "assets/037-03.webp",
+      "status": "generated",
+      "review": "已实际打开生成图核看：恰两名衣着完整女子，左老冯面貌头巾续旧参考；右王六儿温暖褐红肤色、长瓜子脸、较长鬓发与成熟年龄感清楚，可用于本回新面貌，具体五官为美术约定。她一手持布拭泪、一手桌边，老冯双手捧茶碗，四手无多生。饭碗、筷与面筋小菜可辨，没有多添女儿或其他人；桌面取景略紧，原计划空座未完整入画，不影响哭诉事件，空处仅为构图意图。布巾、衣色与窗外秋叶是补足，饭菜细类不作物种考据。人物、动作、情绪通过，无需返修。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "037-04",
+      "chapter": 37,
+      "title": "两筯软饼，席间说起添人手",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 15,
+          "quote": "西门庆见妇人自己拿托盘儿，说道：「你这裏还要个孩子使纔好。」"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 15,
+          "quote": "也是一个小人家的亲养的孩儿来，他老子是个巡捕的军，因倒死了马，少桩头银子，怕守备那裏打，把孩子卖了。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 15,
+          "quote": "厨下老冯将嗄饭菓菜，一一送上，又是两筯软饼。妇人用手拣肉丝细菜儿裹卷了，用小碟儿托了，递与西门庆吃。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 18,
+          "quote": "就兑了四两银子与冯妈妈，讨了丫头使唤，改名叫做锦儿。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 37,
+        "paragraph": 15,
+        "quote": "厨下老冯将嗄饭菓菜，一一送上，又是两筯软饼。妇人用手拣肉丝细菜儿裹卷了，用小碟儿托了，递与西门庆吃。"
+      },
+      "people": [
+        "西门庆",
+        "王六儿"
+      ],
+      "place": "韩家室内",
+      "event": "西门庆来访，王六儿用小碟托软饼递他；席间先议了另买使女替手脚。",
+      "why": "食物、殷勤与雇买劳力都进入这次来访，不能把照料画成脱离权力与银钱的纯粹情意。",
+      "composition": "左西门庆坐椅，右王六儿坐小杌，双手托碟递卷饼；各自保持距离，房中陈设仅局部入画。",
+      "summary": "下午来访后，西门庆见王六儿自己拿托盘，许诺出银添个帮手。冯妈妈说到一名十三岁女孩因父亲欠桩头银被卖，次日此事用四两银子办成。席上王六儿拣肉丝细菜裹软饼，托碟递去。图止于这一日常动作，两人衣服整齐；稍后的私会事实保存在文字补充。",
+      "psychology": {
+        "明写": "西门庆见王六儿会说话而心喜；王六儿笑吟吟行礼，继而递饼。",
+        "推断": "递饼可读作殷勤招待，不据此断定她全部内心，也不把银钱允诺读成平等关系。"
+      },
+      "social": "被卖女孩的十三岁、四两银子与欠桩头的缘由均按人物话语保存，不推成一般行情或购买力。她未出现在这幅成人酒席中。",
+      "explicit": [
+        "王六儿坐小杌递软饼，西门庆与她饮酒。",
+        "老冯与玳安在厨房另吃，本图不添在席旁。",
+        "房内纸门、四扇剪贴吊屏、鉴妆镜架、盒罐锡器、棒香、东坡椅有小说依据。"
+      ],
+      "inference": [
+        "席上王六儿具体衣色未重写，沿本章首图日常衣作连续性补足，不套用相看衣饰。",
+        "只取无文字花蝶色绫装饰的局部，屏数不作全房清点；家具形制为宽泛视觉参考。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离包。宋代故事设定与宽泛晚明视觉参考分开；未核定的衣饰、器物及建筑只作美术补足，不作制度或价格史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/037-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Ximen Qing identity only: long narrow face, straight brows, narrow eyes, long waist. Input 2 locks ONLY Wang Liuer on the RIGHT in purple, not the older woman: keep her long tapered face, warm reddish-brown complexion, long sideburns, arched brows, adult twenty-nine age impression, nose and mouth. Keep face identity without tears. Exactly two fully clothed adults in an ordinary modest household room in afternoon. Ximen seated LEFT on a simple dark wooden armchair, plain dark olive robe and small black cap, hands relaxed separately on his knees, looking at the offered plate. Wang seated RIGHT on a small low wooden stool in muted dusty-purple jacket and plain dark jade-gray skirt, holding a small shallow porcelain plate with BOTH hands and extending it toward him. On the plate one neatly rolled thin wheat pancake filled with strips of meat and finely cut vegetables, clearly food, not a cylindrical ornament. A low wooden dining table holds a modest stack of soft pancakes on a plate, small vegetable dishes and two separate small wine cups, no banquet excess. Their hands do not touch. Paper-covered door and a small side table with plain tin jars and a standing mirror in the background; only part of fabric wall decoration with abstract flowers and butterflies visible, no figures or writing. Candid act of serving food, clear four hands, no sexual gestures, no bed focus, no nudity, no children or servants in this room. Warm but restrained afternoon side light.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Ximen Qing identity only: long narrow face, straight brows, narrow eyes, long waist. Input 2 locks ONLY Wang Liuer on the RIGHT in purple, not the older woman: keep her long tapered face, warm reddish-brown complexion, long sideburns, arched brows, adult twenty-nine age impression, nose and mouth. Keep face identity without tears. Exactly two fully clothed adults in an ordinary modest household room in afternoon. Ximen seated LEFT on a simple dark wooden armchair, plain dark olive robe and small black cap, hands relaxed separately on his knees, looking at the offered plate. Wang seated RIGHT on a small low wooden stool in muted dusty-purple jacket and plain dark jade-gray skirt, holding a small shallow porcelain plate with BOTH hands and extending it toward him. On the plate one neatly rolled thin wheat pancake filled with strips of meat and finely cut vegetables, clearly food, not a cylindrical ornament. A low wooden dining table holds a modest stack of soft pancakes on a plate, small vegetable dishes and two separate small wine cups, no banquet excess. Their hands do not touch. Paper-covered door and a small side table with plain tin jars and a standing mirror in the background; only part of fabric wall decoration with abstract flowers and butterflies visible, no figures or writing. Candid act of serving food, clear four hands, no sexual gestures, no bed focus, no nudity, no children or servants in this room. Warm but restrained afternoon side light.",
+      "image": "assets/037-04.webp",
+      "status": "generated",
+      "review": "已实际打开生成图核看：左西门庆长脸直眉窄眼、右王六儿暖褐红长瓜子脸及长鬓与本章037-03保持，成熟年龄感未改；恰两名衣着完整成年人。西门庆双手各置膝，王六儿双手托小碟递一份肉菜软饼，四手自然且没有接触；桌上薄饼、两杯与菜碟清楚。没有亲密性动作、床铺焦点、未成年人或不在此席的老冯玳安。纸门、镜架和盒罐、花蝶吊饰仅部分露出，其具体形制和衣色为补足；软饼叠数不按“两筯”作视觉量算。人数、脸部、递饼动作与关键食物通过，无需返修。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "037-05",
+      "chapter": 37,
+      "title": "催了两三遍，还等拆洗被褥",
+      "evidence": [
+        {
+          "chapter": 37,
+          "paragraph": 20,
+          "quote": "李瓶儿使小厮叫了他两三遍，只是不得闲。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 20,
+          "quote": "丢下好些衣裳，带孩子被褥，等你来帮着丫头们拆洗拆洗，再不见来了。"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 21,
+          "quote": "婆子道：「你收拾讨下浆，我明日早来罢。后晌时分，还要往一个熟主顾人家干些勾当儿。」"
+        }
+      ],
+      "excerpt": {
+        "chapter": 37,
+        "paragraph": 20,
+        "quote": "冯妈妈每日在妇人这裏打勤劳儿，往宅裏也去的少了。李瓶儿使小厮叫了他两三遍，只是不得闲。要便锁着门去了一日。"
+      },
+      "people": [
+        "李瓶儿",
+        "冯妈妈"
+      ],
+      "place": "李瓶儿房中",
+      "event": "李瓶儿把久唤不来的冯妈妈叫来，催她帮拆洗衣服和孩子被褥。",
+      "why": "本回从谋婚与私会落回家务缺口，媒人的忙碌也由等不到她的人来衡量。",
+      "composition": "右李瓶儿坐在待洗衣被旁，抬掌问话；左冯妈妈站着回话，两人面对面，无孩子入画。",
+      "summary": "冯妈妈整日替王六儿一边跑买办，西门宅里便不常见她。李瓶儿派人叫过两三遍，终于见面，先责她影儿不见，再说衣裳和孩子被褥一直等她来拆洗。老冯用一串歇后语搪塞，又把蒲垫的未办拿来作话头；后来仍推说明早才来，转身又赶往另一处。",
+      "psychology": {
+        "明写": "李瓶儿当面追问并催拆洗；冯妈妈用歇后语、蒲垫借口搪塞，后又推到明早。",
+        "推断": "瓶儿的不耐从接连追问可见；不画成知道她替西门庆私下安排，也不把催问作洞悉实情。"
+      },
+      "social": "媒婆不只说亲，也做买办、陪伴和拆洗等零杂劳动。她在不同主顾间走动，收入与应付之辞同时增加；不能拿她自夸当已完成服务。",
+      "explicit": [
+        "瓶儿等拆洗好些衣裳与孩子被褥。",
+        "老冯被叫来，却并未当日开洗。",
+        "吴月娘后来仍把蒲垫银留在婆子处；未画出蒲垫已经买到。"
+      ],
+      "inference": [
+        "李瓶儿衣色、被褥堆叠、两人站坐及室内光线为美术安排。",
+        "等待拆洗的布物只示类别，不清点件数；不画幼儿与他当时状态。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离包。宋代故事设定与宽泛晚明视觉参考分开；未核定的衣饰、器物及建筑只作美术补足，不作制度或价格史证据。",
+      "references": [
+        "references/ping-013.png",
+        "assets/017-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Li Pinger face only: small delicate build, pale melon-seed face and fine curved brows; do not copy her pink clothes or garden. Input 2 locks ONLY the older woman on the LEFT holding a box, Feng Mama: slightly broad angular lined face, gray-black hair and brown cloth headwrap, not the young man. Exactly two fully clothed women in a lived-in Chinese household room. Li Pinger seated on the RIGHT in a muted blue-gray jacket and a deep burgundy skirt with neat practical bun, face turned toward Feng, one hand lifted palm partly open in a pointed question, the other resting on a stack of folded used clothing. Feng stands on LEFT, muted brown jacket and dark blue skirt, one open hand gesturing in explanation, other hand gathering her sleeve near her waist, animated but not comic caricature. Beside Li Pinger is a low bench with a modest disordered pile of waiting garments and folded small quilt covers to be taken apart and washed; no one is washing yet, no basin filled with water, no soap bottle. A plain wooden table, lattice window with soft midday light, household wear, no baby or other people, no ready-made prayer cushions, no money exchanged. Candid conversation rather than posed portrait, precisely four natural arms and clear hands.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark; no modern objects or glass-chimney lamps. Autumn. Input 1 locks Li Pinger face only: small delicate build, pale melon-seed face and fine curved brows; do not copy her pink clothes or garden. Input 2 locks ONLY the older woman on the LEFT holding a box, Feng Mama: slightly broad angular lined face, gray-black hair and brown cloth headwrap, not the young man. Exactly two fully clothed women in a lived-in Chinese household room. Li Pinger seated on the RIGHT in a muted blue-gray jacket and a deep burgundy skirt with neat practical bun, face turned toward Feng, one hand lifted palm partly open in a pointed question, the other resting on a stack of folded used clothing. Feng stands on LEFT, muted brown jacket and dark blue skirt, one open hand gesturing in explanation, other hand gathering her sleeve near her waist, animated but not comic caricature. Beside Li Pinger is a low bench with a modest disordered pile of waiting garments and folded small quilt covers to be taken apart and washed; no one is washing yet, no basin filled with water, no soap bottle. A plain wooden table, lattice window with soft midday light, household wear, no baby or other people, no ready-made prayer cushions, no money exchanged. Candid conversation rather than posed portrait, precisely four natural arms and clear hands.",
+      "image": "assets/037-05.webp",
+      "status": "generated",
+      "review": "已实际打开生成图核看：左老冯立、右李瓶儿坐，瓶儿白净小脸细眉与旧参考可辨；两人各一掌问答、另一手分别收袖及置衣被上，四手清楚。衣裳与小被套堆在旁边，尚未动手拆洗，没有幼儿、银钱或已买蒲垫。室内器物朴旧、站坐与衣色均为美术补足，不据此推断家产；布物数量不当清点。肢体、身份与待洗关键动作通过，无需返修。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

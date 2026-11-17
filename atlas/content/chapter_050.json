@@ -1,0 +1,470 @@
+{
+  "number": 50,
+  "title": "第五十回琴童潜听燕莺欢　玳安嬉游蝴蝶巷",
+  "intro": "本回把生日礼数、仆役遮掩与仗势、求子秘方并置。五图只取已发生的非露骨片刻，性事、未成年人所受处境和胁迫保留为有原文锚点的文字；不引后回结果。",
+  "supplements": [
+    {
+      "title": "生日掩护与家内等候",
+      "text": "西门庆命玳安对家里说自己在狮子街算账，月娘由耗时、无人陪饮和韩家小厮的来意追问，玳安仍遮掩；李娇儿的上寿直到夜深才由李瓶儿劝西门庆到后边接酒。这些是同日并行的行踪与家内礼数，不把“算账”当真实行程。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 6,
+          "quote": "等家里问，只说我在狮子街房子里算帐哩。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 8,
+          "quote": "眼见的就是两样话！"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 17,
+          "quote": "于是一力撺掇西门庆进后边来。"
+        }
+      ]
+    },
+    {
+      "title": "铺中强闹与账簿",
+      "text": "玳安在铺中对书童强行亲嘴、按倒并吐唾沫，书童推拒抱怨，酒被打翻，傅伙计急拭以免湿账簿。不能将明显推拒改写为双方欢笑的风流插曲；本次不配这段身体侵犯画面，仆役年龄未据职业默认成年。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 8,
+          "quote": "那书童用手推开"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 8,
+          "quote": "把酒推撒了，流在水柜上。傅伙计恐怕他湿了帐簿，连忙取手巾来抹了。"
+        }
+      ]
+    },
+    {
+      "title": "窗内药物与外派生意的谈话",
+      "text": "窗内明写西门庆使用胡僧药并与王六儿亲密，又谈待韩道国回来后令其与来保、崔本往扬州支盐，再去湖州织绸，铺子暂交贲四。这是此刻的安排话语，不能画成盐已支出、绸已织成或利润已到手。性事保留非露骨文学说明，不配露骨图、不把药效当医学事实。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 10,
+          "quote": "我打发他和来保崔本扬州支盐去"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 10,
+          "quote": "就叫他往湖州织了丝紬来，好不好？"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 10,
+          "quote": "我交贲四在家且替他管着。"
+        }
+      ]
+    },
+    {
+      "title": "金儿赛儿的年纪与唱辞",
+      "text": "玳安说金儿、赛儿“都不上十六七岁”，不得升龄为成年。原文后来写搂抱和奉酒，本次不请求这段画面。金儿唱词诉说一家吃穿、印子房钱和无人问饥饱，赛儿唱旧情与孤单；这些是歌辞中的处境与情感，不据此补成两人的完整经历。巷中场景采用驱客时刻，二女未在图中出现。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 11,
+          "quote": "一个叫金儿，一个呌赛儿，都不上十六七岁。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 13,
+          "quote": "一家儿吃穿全靠着奴身一个。到晚来印子房钱逼的是我。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 15,
+          "quote": "到如今，只剩下我孤单。"
+        }
+      ]
+    },
+    {
+      "title": "李瓶儿的拒绝与被迫顺从",
+      "text": "李瓶儿原已陪官哥睡下，明确说身体不适、不方便并让西门庆去别人屋里。西门庆仍纠缠，原文用“乞逼勒不过”说明她最终顺从。不能把这段改画成无阻碍的两情相悦。孩子多次醒，迎春以拨浪鼓哄抱去奶子屋；本次保留非露骨说明，不请求包含孩子在场的亲密画面。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 18,
+          "quote": "我心里不奈烦，又身上来了，不方便。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 18,
+          "quote": "你往别人屋里睡去不是？好来这里缠！"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 18,
+          "quote": "于是乞逼勒不过"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 18,
+          "quote": "李瓶儿教迎春拿博浪鼓儿哄着他，抱与奶子那边屋里去了。"
+        }
+      ]
+    },
+    {
+      "title": "潘金莲的误认止于当夜",
+      "text": "潘金莲先发现包不见，后见西门庆宿李瓶儿处，以为是在那里使用，未察外边行踪。她暗咬银牙、关门睡下，是本回当夜状态；不借后事证明她此刻知道更多。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 19,
+          "quote": "更不体察外边勾当。是夜暗咬银牙，关门睡了。"
+        }
+      ]
+    },
+    {
+      "title": "所谓求子药不作医药知识",
+      "text": "王姑子声称给接生老妇三钱才得到配料，并叙述加工，薛再许诺择日服用可坐胎。月娘当夜交谢银、许日后若坐胎再送缎袈裟；“若”字保留，不画已孕或已兑现。佛道成就及疗效都不据这些人物说法作现实认证。",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "悄悄与了个熟老娘三钱银子，纔得了。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "明日若坐了胎气，还与薛爷一疋黄褐缎子做袈裟穿。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "050-01",
+      "chapter": 50,
+      "title": "上房迎接薛师父",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 5,
+          "quote": "戴着清净僧帽，披着茶褐袈裟"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 5,
+          "quote": "剃的青旋旋头儿，生的魁肥胖大，鱼口豚腮"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 5,
+          "quote": "进来与月娘众人合掌问讯。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 5,
+          "quote": "王姑子便道：「这个就是主家大娘，与列位娘。」慌的月娘众人连忙磕下头去。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 5,
+          "quote": "月娘敬重他十分。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 50,
+        "paragraph": 5,
+        "quote": "王姑子便道：「这个就是主家大娘，与列位娘。」慌的月娘众人连忙磕下头去。"
+      },
+      "people": [
+        "吴月娘",
+        "薛姑子",
+        "王姑子"
+      ],
+      "place": "西门宅上房门内，其他迎客者在裁切外",
+      "event": "王姑子介绍主家，月娘向薛姑子行礼；薛合掌问讯。",
+      "why": "先以极郑重的迎接建立薛的权威，才能理解夜间秘密授药为何受到信任。",
+      "composition": "中左薛姑子合掌立在门内，最左王姑子侧身介绍；右前月娘跪身俯礼，抬起的侧脸仍能辨认。只画三人，随行者和众妻在裁切外。",
+      "summary": "李娇儿生日，王姑子带薛姑子及两个徒弟来。月娘认其有道行，郑重出迎，听王介绍后便行礼，随后又以丰盛素馔款待。图只取迎接这一刻；薛的有道行是月娘的判断，叙述者同时写其拿班做势，两种视角不能混作客观认证。",
+      "psychology": {
+        "明写": "月娘知道薛是有道行的姑子，出迎并敬重十分；叙述者说薛拿班做势。",
+        "推断": "礼仪和称谓让陌生来客迅速取得主家的信任，属于对当下行为的解释。"
+      },
+      "social": "家内妇女的宗教交往通过介绍人、称谓、礼拜和饮食组织起来；富贵被解释为前生积福，仍是薛的说法。",
+      "explicit": {
+        "原文明写": "茶褐袈裟、清净僧帽、剃发和魁肥体态，王的介绍与月娘磕头。",
+        "艺术补足": "薛具体五官和成熟年龄感；宽颊圆唇作克制转化，不以夸张兽相判善恶。门内空间、跪垫和月娘衣色未考定。袈裟拼补磨损与门外春花亦为美术补足。"
+      },
+      "inference": "画幅裁去其他迎客者，不把局部构图说成原文只有三人；不画未成年徒弟，不引入后文结果。",
+      "history": "小说事实仅据本回隔离的用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明美术生活质感分开；图不是服饰、器物或建筑考证。",
+      "references": [
+        "assets/020-02.webp",
+        "assets/039-05.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1: ONLY the RIGHT seated woman is Wu Yueniang; preserve her round face and steady fuller build, not the left woman. Input image 2: ONLY the FAR RIGHT blue-gray robed capped nun is Wang Guzi; preserve her broad oval face and cheek lines, not the other three women. Exactly THREE women at an ordinary wooden household reception-room doorway. Center-left a new nun Xue Guzi stands, palms joined in a restrained Buddhist greeting, stout broad heavy body, broad round cheeks, rounded full lips, small natural deep eyes, ordinary human face with a composed slightly self-important expression, shaved hair visible narrowly under a plain clean cloth monastic cap, tea-brown patched Buddhist mantle over a plain brown robe. Far left behind her Wang Guzi in a subdued slate-gray robe and gray cloth cap introduces the host with an open hand. Right foreground Yueniang in a modest rust-brown full-sleeved jacket and long skirt kneels on a plain thin mat and bows deeply toward Xue, face visible in three-quarter side view. No one else inside crop; remaining guests and disciples are beyond the frame. Candid differing heights, faces clear, natural hands, mild April daylight, no banquet or drugs yet, no halos or supernatural effects. No caricature.",
+      "image": "assets/050-01.webp",
+      "status": "generated",
+      "review": "已逐张实际展开核看：恰三人，左王姑子介绍、中左薛合掌、右前月娘跪身俯礼，三张脸自然且可辨。月娘与王均实际沿用旧参考；薛新建魁肥体态、宽颊圆唇和僧帽茶褐袈裟，不作兽相。手臂与跪姿清楚，无多余人物或未成年徒弟。袈裟拼补与磨损、门内跪垫、春花和器物均属美术补足，不是贫富或精确形制证据。采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1: ONLY the RIGHT seated woman is Wu Yueniang; preserve her round face and steady fuller build, not the left woman. Input image 2: ONLY the FAR RIGHT blue-gray robed capped nun is Wang Guzi; preserve her broad oval face and cheek lines, not the other three women. Exactly THREE women at an ordinary wooden household reception-room doorway. Center-left a new nun Xue Guzi stands, palms joined in a restrained Buddhist greeting, stout broad heavy body, broad round cheeks, rounded full lips, small natural deep eyes, ordinary human face with a composed slightly self-important expression, shaved hair visible narrowly under a plain clean cloth monastic cap, tea-brown patched Buddhist mantle over a plain brown robe. Far left behind her Wang Guzi in a subdued slate-gray robe and gray cloth cap introduces the host with an open hand. Right foreground Yueniang in a modest rust-brown full-sleeved jacket and long skirt kneels on a plain thin mat and bows deeply toward Xue, face visible in three-quarter side view. No one else inside crop; remaining guests and disciples are beyond the frame. Candid differing heights, faces clear, natural hands, mild April daylight, no banquet or drugs yet, no halos or supernatural effects. No caricature.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "050-02",
+      "chapter": 50,
+      "title": "生辰送来一对金簪",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 6,
+          "quote": "便衣小帽，带着眼纱"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 7,
+          "quote": "戴着银丝䯼髻、金累丝钗梳、翠钿儿、二珠环子"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 7,
+          "quote": "穿着玉色纱比甲儿、夏布衫子、白腰挑线单拖裙子"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 7,
+          "quote": "因向袖中取出一对簪儿来，就递与他：「今日与你上寿。」"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 7,
+          "quote": "妇人接过来观看，却是一对金寿字簪儿，说道：「倒好样儿！」连忙道了万福。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 50,
+        "paragraph": 7,
+        "quote": "因向袖中取出一对簪儿来，就递与他：「今日与你上寿。」妇人接过来观看，却是一对金寿字簪儿，说道：「倒好样儿！」连忙道了万福。"
+      },
+      "people": [
+        "西门庆",
+        "王六儿"
+      ],
+      "place": "王六儿家，陪坐处",
+      "event": "西门庆从袖中取出一对金寿字簪送给王六儿，王接过细看。",
+      "why": "生日以首饰、酒和钱串联私人往来，也与家中李娇儿仍等着上寿形成同时发生的落差。",
+      "composition": "左西门庆便衣小帽，一手刚从袖中收回；右王六儿双手在膝上方接看两支细金簪。只画两人，交接后即刻。",
+      "summary": "王六儿穿玉色纱比甲、夏布衫和白腰挑线裙出来陪坐，谢过先送来的酒。西门庆说忘了她的生日，随即从袖中取出一对金寿字簪。她接看称好，道万福致谢。图取礼物刚入手时，南烧酒、随后服药及亲密活动均不进入此画。",
+      "psychology": {
+        "明写": "西门庆说忘了生日，递簪；王六儿观看称好并道万福。",
+        "推断": "赠礼使往来显得亲近而体面，但不能据这句答谢推定她所有真实情感。"
+      },
+      "social": "私人关系通过赠物与称呼维系；寿礼和家内生日宴在本回并置，不把金簪价格补成完整财务账。",
+      "explicit": {
+        "原文明写": "便衣小帽、眼纱，一对金寿字簪，王六儿衣饰和接看致谢。",
+        "艺术补足": "眼纱用半透明暗纱示意，簪顶为小型寿形镂纹，具体细部不作精确工艺考证；簪梳、珠环的精确尺寸形制及室内陈设未考定。玉色取淡青白，纱比甲下有完整不透明夏布衫。"
+      },
+      "inference": "图中两支细金簪不是现金交付；不画脱衣，不将职业、婚姻身份自动等同年龄判断。",
+      "history": "小说事实仅据本回隔离的用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明美术生活质感分开；图不是服饰、器物或建筑考证。",
+      "references": [
+        "references/ximen.png",
+        "assets/037-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 Ximen Qing face and long-waisted body only: long face, straight brows, narrow eyes. Input image 2 ONLY the RIGHT purple-robed woman is Wang Liuer: preserve her mature long oval face, warm russet complexion, long temple locks, gently curved brows, natural wide nose and small mouth; not the older woman on the left. Exactly TWO fully clothed people seated across the corner of a small worn wooden table in a household sitting room. Left Ximen wears an intact muted dark teal informal robe, a plain small black cloth cap, a thin translucent smoky gauze eye-shade strip tied at the temples as an uncertain period approximation, eyes still naturally visible, absolutely no glasses. His hand is retreating from his sleeve after giving the gift. Right Wang Liuer looks down with restrained pleased attention at EXACTLY TWO slender golden hairpins held carefully in both hands at waist level; the pair have tiny abstract pierced longevity-shaped finials, no readable characters. She wears a pale jade-white gauze sleeveless long vest over an entirely opaque ivory summer-cloth long-sleeved blouse and a modest pale long skirt with white waist and subtle stitched trim. Silver-thread coiffure support, small gold filigree comb, jade ornament, and restrained pearl earrings. Fine fabric but completely covered torso, no cleavage. Both faces natural and distinct, quiet April afternoon light. Two teacups at back, no cash, no pills, no sexual objects, no bed, no physical intimacy. No autumn foliage.",
+      "image": "assets/050-02.webp",
+      "status": "generated",
+      "review": "已逐张实际展开核看：恰两人，左西门庆小帽便衣与半透明眼纱，右王六儿低头以双手接看恰两支金簪；旧脸、暖褐肤和长鬓保留。玉色比甲、完整夏布衫、淡裙、簪梳和珠环可辨，无裸露或亲密行为。两簪顶端为小型寿形镂纹，与原文寿字簪相应；眼纱无现代镜腿，具体样式和室内陈设为艺术补足。人数、手部与关键礼物可用，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 Ximen Qing face and long-waisted body only: long face, straight brows, narrow eyes. Input image 2 ONLY the RIGHT purple-robed woman is Wang Liuer: preserve her mature long oval face, warm russet complexion, long temple locks, gently curved brows, natural wide nose and small mouth; not the older woman on the left. Exactly TWO fully clothed people seated across the corner of a small worn wooden table in a household sitting room. Left Ximen wears an intact muted dark teal informal robe, a plain small black cloth cap, a thin translucent smoky gauze eye-shade strip tied at the temples as an uncertain period approximation, eyes still naturally visible, absolutely no glasses. His hand is retreating from his sleeve after giving the gift. Right Wang Liuer looks down with restrained pleased attention at EXACTLY TWO slender golden hairpins held carefully in both hands at waist level; the pair have tiny abstract pierced longevity-shaped finials, no readable characters. She wears a pale jade-white gauze sleeveless long vest over an entirely opaque ivory summer-cloth long-sleeved blouse and a modest pale long skirt with white waist and subtle stitched trim. Silver-thread coiffure support, small gold filigree comb, jade ornament, and restrained pearl earrings. Fine fabric but completely covered torso, no cleavage. Both faces natural and distinct, quiet April afternoon light. Two teacups at back, no cash, no pills, no sexual objects, no bed, no physical intimacy. No autumn foliage.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "050-03",
+      "chapter": 50,
+      "title": "窗下被拍醒的窥听者",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 10,
+          "quote": "不想琴童走到卧房窗子底下，悄悄听觑。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 11,
+          "quote": "玳安正从后边来，见他在窗下听觑，向身上拍了一下，说道：「平白听他怎的？趂他还未起来，咱们去来。」琴童跟出到外边。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 11,
+          "quote": "两个月亮地里走到小巷内。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 50,
+        "paragraph": 11,
+        "quote": "玳安正从后边来，见他在窗下听觑，向身上拍了一下，说道：「平白听他怎的？趂他还未起来，咱们去来。」琴童跟出到外边。"
+      },
+      "people": [
+        "琴童",
+        "玳安"
+      ],
+      "place": "王六儿家卧房外窗下",
+      "event": "琴童在窗下听觑，被玳安从后拍了一下并叫走。",
+      "why": "主人的隐私在仆役听闻中流动，窥听随即转成两人结伴离开的行动。",
+      "composition": "左琴童贴近完全关闭的不透明纸窗，侧脸转向右后玳安；右玳安一手轻拍琴童肩背，另一手朝离开方向示意。窗内无任何人或人影可见。",
+      "summary": "两人在厨下吃毕，琴童独自到卧房窗下听觑。玳安从后面来，拍了一下，问平白听他做什么，随后叫他一起走。画面停在被打断的瞬间，以闭窗隔开内外；窗内药物和性事只作本回非露骨文学说明，既不让观者代入窥视，也不把仆役年龄擅自设为成年。",
+      "psychology": {
+        "明写": "琴童悄悄听觑；玳安拍他身上并说一起去，琴童跟出。",
+        "推断": "突然回头的警觉属于动作的视觉解释，不能把窥听直接判作忠诚、道德厌恶或同情。"
+      },
+      "social": "家仆既掩护主人行踪，也能取得主人以为隐秘的消息；工作空间和私人空间的边界并不牢固。",
+      "explicit": {
+        "原文明写": "卧房窗子底下、听觑、身上拍一下、结伴走出和月亮地。",
+        "艺术补足": "拍在肩背、两人衣色、闭合纸窗样式、石地和微弱灯光；具体建筑不能据图考定。"
+      },
+      "inference": "只画窗外普通工作衣着，无窗内人物、裸露、影像或性化姿势；不画生殖器、药具或性行为。",
+      "history": "小说事实仅据本回隔离的用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明美术生活质感分开；图不是服饰、器物或建筑考证。",
+      "references": [
+        "references/young-people-030.png",
+        "assets/031-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 ONLY the LEFT person in the triptych is Daian: preserve narrow young face, neat tied hair, agile slight build; do not borrow the middle boy or girl. Input image 2 the SINGLE crouching young male servant is Qintong: preserve his lean slightly triangular face, short round chin, straight brows and tied compact hair; do not copy the pot, bedding, pose or room. Exactly TWO fully clothed young household servants in a quiet exterior passage at night. Left foreground Qintong in a complete plain ochre-brown long robe and trousers has leaned near a completely CLOSED opaque paper-lattice window and now turns his face back in surprise. Right slightly behind, Daian in plain indigo-gray full work robe gently taps Qintong on the upper back with one open hand, his other hand indicates the passage leading away. Both retain the youthful age appearance of references, ordinary nonsexual behavior, no adult aging. Warm faint light on the opaque window, cool moonlight on the worn stone floor, spring night. ONLY exterior side visible, absolutely no interior view, no people or silhouettes through window, no opening or peephole, no bed, no erotic objects or imagery. Natural separate arms and hands, candid interrupted motion.",
+      "image": "assets/050-03.webp",
+      "status": "generated",
+      "review": "已逐张实际展开核看：恰两人，左褐衣琴童回头，右蓝灰衣玳安一手拍其肩背、一手指向离开方向，实际沿用两份各自旧脸，未借用三联图中幅。完整衣着与普通少年感保留；闭合纸窗完全不透人影，无窗内性化内容。手臂、手指、回身动作清楚。月亮、春花、石路和窗格形制属美术补足，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 ONLY the LEFT person in the triptych is Daian: preserve narrow young face, neat tied hair, agile slight build; do not borrow the middle boy or girl. Input image 2 the SINGLE crouching young male servant is Qintong: preserve his lean slightly triangular face, short round chin, straight brows and tied compact hair; do not copy the pot, bedding, pose or room. Exactly TWO fully clothed young household servants in a quiet exterior passage at night. Left foreground Qintong in a complete plain ochre-brown long robe and trousers has leaned near a completely CLOSED opaque paper-lattice window and now turns his face back in surprise. Right slightly behind, Daian in plain indigo-gray full work robe gently taps Qintong on the upper back with one open hand, his other hand indicates the passage leading away. Both retain the youthful age appearance of references, ordinary nonsexual behavior, no adult aging. Warm faint light on the opaque window, cool moonlight on the worn stone floor, spring night. ONLY exterior side visible, absolutely no interior view, no people or silhouettes through window, no opening or peephole, no bed, no erotic objects or imagery. Natural separate arms and hands, candid interrupted motion.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "050-04",
+      "chapter": 50,
+      "title": "白毡帽客人夺门而出",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 12,
+          "quote": "王八认的玳安是提刑所西门老爹家管家，便让坐。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 12,
+          "quote": "有两个戴白毡帽子的酒太公"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 12,
+          "quote": "不防飕的只一拳去，打的那酒子只呌着「阿嚛」，裹脚袜子也穿不上，往外飞跑。那一个在炕上爬起来，一步一跌也走了。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 12,
+          "quote": "好不好拿到衙门里去，且教他试试新夹棍着！"
+        }
+      ],
+      "excerpt": {
+        "chapter": 50,
+        "paragraph": 12,
+        "quote": "不防飕的只一拳去，打的那酒子只呌着「阿嚛」，裹脚袜子也穿不上，往外飞跑。那一个在炕上爬起来，一步一跌也走了。"
+      },
+      "people": [
+        "玳安",
+        "琴童",
+        "两名白毡帽客人"
+      ],
+      "place": "蝴蝶巷一家屋门处，镜头朝外",
+      "event": "两名白毡帽客人在玳安动手后仓皇逃出，玳安随后又威胁送衙用夹棍。",
+      "why": "把管家在外借主人的官势欺人具体化，避免把巷中一段画成轻松艳遇。",
+      "composition": "前景两位白毡帽中老年男子向门外踉跄奔走；后方玳安刚放下手，琴童在更后处旁观。恰四名男子，无打击接触、血迹或惩具。",
+      "summary": "玳安与琴童闯入蝴蝶巷，主人认出他们与提刑所西门家的关系便让坐。玳安径入，出拳打了发问的客人，两位白毡帽客人随即逃走；他还叫嚷要送衙试夹棍。图取逃离的片刻，把仗势的后果放在仓皇动作上。金儿、赛儿及其后唱曲另用文字交代，不进入这幅画。",
+      "psychology": {
+        "明写": "玳安打人、骂流民并威胁送衙；两名客人逃离。",
+        "推断": "前景惊惧和后景逞强是对即时动作的表达，不虚构二人的职业、罪名或后来遭遇。"
+      },
+      "social": "官署关系被家仆挪作街巷中的私人威势；主人称官家哥哥并赔礼，是本回可见的权力反应。",
+      "explicit": {
+        "原文明写": "两顶白毡帽、先出拳、一人袜子未穿妥、两人逃走和衙门夹棍威胁。",
+        "艺术补足": "两名无名客人的面貌、灰褐衣袍、门框及门外石地；将两次离开压在同一紧接片刻，属于构图压缩。"
+      },
+      "inference": "没有画已受刑、逮捕或正义惩罚。两名客人衣袍完整，一人鞋袜松垮只表现仓促；房内其他人在裁切外。",
+      "history": "小说事实仅据本回隔离的用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明美术生活质感分开；图不是服饰、器物或建筑考证。",
+      "references": [
+        "references/young-people-030.png",
+        "assets/031-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 ONLY the LEFT narrow-faced tied-hair young male Daian from triptych. Input image 2 the SINGLE lean triangular-faced crouching servant Qintong, face only; no pot or old room. Exactly FOUR fully clothed male figures in a dark modest wooden room doorway opening onto a moonlit narrow paved lane. Foreground LEFT a startled late-middle-aged male customer in a white felt cap and intact drab brown long robe stumbles hurriedly OUT through the doorway, one cloth shoe and sock loosely fitted, absolutely no exposed torso or underwear. Foreground RIGHT a second older male customer in a different white felt cap and intact gray long robe follows unsteadily, looking back in alarm. Their faces ordinary and distinct, no visible injury. Midground Daian stands inside to the side, ordinary youthful age matching the reference, complete indigo-gray work robe; his right hand lowering after an earlier quarrel, no contact with anyone, assertive tense expression. Behind him Qintong in intact ochre-brown work robe watches uneasily, youthful reference appearance, no sexual context. The action shows abuse of household power and frightened departure, not a triumphant hero. Four men only; no women or girls, no patrons beyond these two, no physical blows, no blood, no weapons or torture tools, no sexual imagery, no bed visible. Very dim interior with cool moonlight giving readable contours; do not add a lamp because this instant precedes relighting. Natural anatomy and candid movement, no readable writing.",
+      "image": "assets/050-04.webp",
+      "status": "generated",
+      "review": "已逐张实际展开核看：恰四名男子，两位白毡帽年长客人分别从左右向门外踉跄离开，衣袍完整、鞋袜仓促；中后蓝衣玳安放下手、褐衣琴童旁观，二人旧脸清楚。没有击打接触、血迹、刑具、女童或亲密内容，未画已逮捕或受刑。门内未点灯，以月色和画面提亮示意可见度；两位无名客人的具体五官不作后续固定人物档案。采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 ONLY the LEFT narrow-faced tied-hair young male Daian from triptych. Input image 2 the SINGLE lean triangular-faced crouching servant Qintong, face only; no pot or old room. Exactly FOUR fully clothed male figures in a dark modest wooden room doorway opening onto a moonlit narrow paved lane. Foreground LEFT a startled late-middle-aged male customer in a white felt cap and intact drab brown long robe stumbles hurriedly OUT through the doorway, one cloth shoe and sock loosely fitted, absolutely no exposed torso or underwear. Foreground RIGHT a second older male customer in a different white felt cap and intact gray long robe follows unsteadily, looking back in alarm. Their faces ordinary and distinct, no visible injury. Midground Daian stands inside to the side, ordinary youthful age matching the reference, complete indigo-gray work robe; his right hand lowering after an earlier quarrel, no contact with anyone, assertive tense expression. Behind him Qintong in intact ochre-brown work robe watches uneasily, youthful reference appearance, no sexual context. The action shows abuse of household power and frightened departure, not a triumphant hero. Four men only; no women or girls, no patrons beyond these two, no physical blows, no blood, no weapons or torture tools, no sexual imagery, no bed visible. Very dim interior with cool moonlight giving readable contours; do not add a lamp because this instant precedes relighting. Natural anatomy and candid movement, no readable writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "050-05",
+      "chapter": 50,
+      "title": "灯下悄递符药",
+      "evidence": [
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "月娘和薛姑子王姑子在上房宿睡。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "王姑子把整治的头男衣胞，并薛姑子的薬，悄悄递与月娘。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "薛姑子教月娘：「拣个壬子日，用酒儿吃下去，晚夕与官人同床一次，就是胎气，不可教一人知道！」"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "月娘连忙的将薬收了，拜谢了两个姑子。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 20,
+          "quote": "每人拿出二两银子来相谢。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 50,
+        "paragraph": 20,
+        "quote": "王姑子把整治的头男衣胞，并薛姑子的薬，悄悄递与月娘。薛姑子教月娘：「拣个壬子日，用酒儿吃下去，晚夕与官人同床一次，就是胎气，不可教一人知道！」月娘连忙的将薬收了，拜谢了两个姑子。"
+      },
+      "people": [
+        "吴月娘",
+        "王姑子",
+        "薛姑子"
+      ],
+      "place": "夜间上房，三人留宿处",
+      "event": "王姑子秘密交药，薛说应择日服下并保密，月娘收药谢二尼。",
+      "why": "白日由礼仪建立的信任转成夜间秘密交易；求子、配方夸言与谢银在同一交往中显现。",
+      "composition": "右月娘低声接过左王姑子递来的闭合素纸药包；中后薛姑子略向前叮嘱。三张脸可辨，桌边小灯与封闭药包构成重心。",
+      "summary": "同宿上房时，王姑子把处理过的所谓衣胞与薛的药递给月娘。薛声称择壬子日服下即可坐胎，并要求保密，月娘收下拜谢，又各送二两银。画面只呈闭合药包交接；配料来源、处理和疗效均是本回叙述或人物话语，不转写为真实医疗知识。",
+      "psychology": {
+        "明写": "王悄递，薛要求保密，月娘连忙收药拜谢并给银。",
+        "推断": "月娘急于收下可读作对求子承诺的重视，但不能把沉默表情编成已知有效或已有身孕。"
+      },
+      "social": "求子的私密愿望与宗教权威、女性中介及酬谢相接；价格只按小说二两记，不换算现代币值。",
+      "explicit": {
+        "原文明写": "上房同宿、秘密递药、择日和保密说辞、收药拜谢、各二两谢银。",
+        "艺术补足": "闭合素纸包的包装、药包数量合并示意、灯和坐位、夜间衣色；不展开配料，不画服用。"
+      },
+      "inference": "图取交接，未同时画后来谢银；所谓坐胎仅为薛的承诺，不是医学事实或已发生结果。无胎儿、怀孕身体变化及预言象征。",
+      "history": "小说事实仅据本回隔离的用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明美术生活质感分开；图不是服饰、器物或建筑考证。",
+      "references": [
+        "assets/050-01.webp",
+        "assets/020-02.webp",
+        "assets/039-05.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 the new arrival scene: preserve ONLY the CENTER-LEFT stout brown-robed nun Xue Guzi identity, broad cheeks, rounded full lips, small natural eyes, shaved hair under plain clean monastic cloth cap and tea-brown mantle; preserve a normal human face, no caricature. Input image 2 ONLY the RIGHT round-faced seated woman is Yueniang; face and steady build only. Input image 3 ONLY FAR RIGHT capped blue-gray-robed nun is Wang Guzi, face only. Exactly THREE fully clothed women seated close at a small worn wooden table in a quiet upper household room at night. LEFT Wang Guzi in a plain slate-gray robe and gray cloth cap discreetly extends a small CLOSED unmarked folded-paper medicine packet with both hands. RIGHT Yueniang in modest russet-brown full-sleeved jacket and long skirt leans forward and receives it carefully with both hands, attentive hopeful but restrained expression. CENTER BACK Xue Guzi, visibly stouter than Wang, in tea-brown mantle and plain cap leans forward slightly with one small open hand raised as she gives a quiet confidential instruction. Keep all three faces clearly visible and distinct. A single small simple open oil dish lamp on table, warm low light, closed opaque paper window and plain bedding in distant shadow, no other people. Packet is completely closed; no ingredients, no body parts, no pill consumption, no magical light, no pregnancy imagery, no silver exchange in this instant, no sexual content or objects. Natural hands and sleeves, mineral pigment painting, no readable symbols or writing.",
+      "image": "assets/050-05.webp",
+      "status": "generated",
+      "review": "已逐张实际展开核看：恰三人，左王姑子与右月娘双手交接一只闭合素纸包，中后薛姑子开掌低声叮嘱；三张脸清楚，薛准确沿用050-01所建魁肥面貌，王与月娘仍实际传入各自旧参考。茶褐与蓝灰袍、桌边普通油灯、远处铺褥可辨；包装和器物为美术补足。无配料暴露、服用、钱银、怀孕或药效意象，手部可用，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. April, spring. Input image 1 the new arrival scene: preserve ONLY the CENTER-LEFT stout brown-robed nun Xue Guzi identity, broad cheeks, rounded full lips, small natural eyes, shaved hair under plain clean monastic cloth cap and tea-brown mantle; preserve a normal human face, no caricature. Input image 2 ONLY the RIGHT round-faced seated woman is Yueniang; face and steady build only. Input image 3 ONLY FAR RIGHT capped blue-gray-robed nun is Wang Guzi, face only. Exactly THREE fully clothed women seated close at a small worn wooden table in a quiet upper household room at night. LEFT Wang Guzi in a plain slate-gray robe and gray cloth cap discreetly extends a small CLOSED unmarked folded-paper medicine packet with both hands. RIGHT Yueniang in modest russet-brown full-sleeved jacket and long skirt leans forward and receives it carefully with both hands, attentive hopeful but restrained expression. CENTER BACK Xue Guzi, visibly stouter than Wang, in tea-brown mantle and plain cap leans forward slightly with one small open hand raised as she gives a quiet confidential instruction. Keep all three faces clearly visible and distinct. A single small simple open oil dish lamp on table, warm low light, closed opaque paper window and plain bedding in distant shadow, no other people. Packet is completely closed; no ingredients, no body parts, no pill consumption, no magical light, no pregnancy imagery, no silver exchange in this instant, no sexual content or objects. Natural hands and sleeves, mineral pigment painting, no readable symbols or writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

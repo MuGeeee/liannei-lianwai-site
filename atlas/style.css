@@ -3,3 +3,15 @@
 @media(max-width:900px){header{gap:.7rem;padding:16px 22px;flex-wrap:wrap}.brand span{display:none}.boundary{font-size:.7rem}.hero{gap:25px}.hero h1{font-size:3rem}.scene-layout,.scene:nth-of-type(even) .scene-layout{grid-template-columns:1fr}.scene:nth-of-type(even) figure{order:0}.scene-layout{gap:25px}.scene-copy{max-width:800px}.character-grid{grid-template-columns:repeat(2,1fr)}.scene-more{gap:0 22px}}
 @media(max-width:600px){header{padding:14px 18px}.brand{font-size:1.05rem;gap:.5rem}.boundary{order:3;width:100%;margin-left:0}header button{margin-left:auto}nav{padding:12px 18px;gap:1.5rem;font-size:.8rem}main{padding:15px 18px 60px}.hero{display:flex;flex-direction:column;align-items:stretch;padding:20px 0}.hero h1{font-size:3.6rem}.hero .lead{font-size:1.15rem}.hero figure{margin-top:12px}.chapter-menu{grid-template-columns:1fr}.chapter-menu a{border-right:0;border-bottom:1px solid var(--line);padding:16px 12px}.chapter-menu b{font-size:2.5rem}.scene{margin-bottom:65px}.scene-head{gap:14px}.scene-head .no{font-size:2rem}.scene-more,.source-grid{display:block}.scene-copy{font-size:.9rem}.quote{font-size:1.16rem}.page-head{padding-top:20px}.page-head h1{font-size:2.1rem}.character-grid{grid-template-columns:1fr}.character img{height:360px}footer{display:block}footer span,footer a{display:block}dialog{padding:10px}dialog img{max-height:75vh}.next-nav{font-size:.78rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* chapter-jump */
+.chapter-jump{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:620px;margin:20px 0 28px;padding:18px 0;border-block:1px solid var(--line);font-size:.86rem}
+.chapter-jump select,.chapter-jump button{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:0;padding:10px 14px;max-width:100%}
+.chapter-jump select{min-width:135px}.chapter-jump button{cursor:pointer;color:var(--red);white-space:nowrap}
+@media(max-width:600px){.chapter-jump label{flex:0 0 100%}.chapter-jump select{flex:1;min-width:0}.chapter-jump button{flex:0 0 auto}}
+
+/* annotated-text */
+.annotated-text>b{display:block;font-size:.8rem;font-weight:500;color:var(--red);margin-top:1rem}.annotated-text p{margin-top:.4rem}
+
+/* reading-source */
+.reading-source{font-size:.76rem;color:var(--muted);overflow-wrap:anywhere}.reading-source a{text-decoration:underline}.scene-more{overflow-wrap:anywhere}

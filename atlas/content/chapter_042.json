@@ -1,0 +1,409 @@
+{
+  "number": 42,
+  "title": "第四十二回豪家拦门玩烟火　贵客高楼醉赏灯",
+  "intro": "回礼议婚、家中堂客席与狮子街私宴交错。灯火照亮应酬中的身份消息、银钱滑话和上下观看的位置；本回之后的结果不作解释。",
+  "supplements": [
+    {
+      "title": "堂客席：等候与服侍",
+      "text": "周守备娘子等已到，众人等夏提刑娘子到午后才摆茶；这写出这一席的到场次序与等候。春梅、玉箫、迎春、兰香捧茶斟酒，春梅的宝石坠子与大红遍地锦比甲又与其余人的写法有别。演员扮《西厢记》，不是人物正经历剧中情节。本次未另配图，也不将来客的迟到直接断为故意摆威风。",
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 8,
+          "quote": "等着夏提刑娘子到纔摆茶。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 8,
+          "quote": "约午后时分，纔喝了道来。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 8,
+          "quote": "惟春梅寳石坠子，大红遍地锦比甲儿"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 8,
+          "quote": "那日，王皇亲家楽扮的是〈西厢记〉。"
+        }
+      ]
+    },
+    {
+      "title": "宅门的栏杆只在宅门",
+      "text": "棋童来送攒盒，转述家中堂客已在大门首看过烟火，街上挤满观者。西门庆提起曾安排四名青衣排军拿栏杆拦人，不让闲杂人挨挤；这是豪家观看位置的维护。本回另有狮子街放烟火，两处地点不可合并，不能在第5幅狮子街街心擅加同一栏杆。",
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 22,
+          "quote": "挤围满街人看。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 22,
+          "quote": "留下四名青衣排军，拿栏杆在大门首拦人伺候，休放闲杂人挨挤。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 22,
+          "quote": "众人七八散了，大娘纔使小的来了，并没闲杂人搅扰。"
+        }
+      ]
+    },
+    {
+      "title": "结尾的儿童与成人私密事件（未配图）",
+      "text": "烟火之后，应伯爵拉谢希大、祝日念自行离席；西门庆打发演唱者，后来与王六儿进入后房发生成人性行为。小铁棍儿在房外窥看，被母亲一丈青拉开并责打，随后给元宵、不许再出、催其上炕睡。这里同时有儿童接触成人私密行为和母亲的暴力制止，不把偷窥当喜剧奇观，也不美化责打。本次只留非露骨文学说明和实际原文锚点；未提出对应生图请求，未收到安全拒绝，不作任何私密现场插画。",
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 32,
+          "quote": "拉着谢希大、祝日念，也不辞西门庆就走了。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 33,
+          "quote": "见房门关着，于是眼裏望裏张看，见房裏掌着灯烛。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 33,
+          "quote": "揪着头角儿揪到那前边，凿了两个栗爆。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 33,
+          "quote": "于是与了他几个元宵吃了，不放他出来，就吓住他上炕睡了。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "042-01",
+      "chapter": 42,
+      "title": "权为插定：上房议回礼",
+      "people": [
+        "西门庆",
+        "吴月娘",
+        "李瓶儿"
+      ],
+      "place": "西门宅上房",
+      "event": "月娘提出回送乔家节礼，西门庆定用冯妈妈往来，随即筹请帖和礼单。",
+      "why": "上一回婴儿结亲的口头约定转成回礼、媒人与请帖。",
+      "composition": "左西门庆临案写帖，中月娘说话，右瓶儿听；大妗子等在画外。",
+      "summary": "乔家先来送节，月娘认为本家也须为对方长姐备礼，权作插定。大妗子提议立媒人，西门庆仍用老冯，并写请帖，安排十五日生日兼看灯宴。画面停在上房议事与写帖，不把稍后的十四日送礼混作已经摆在眼前的礼担。",
+      "psychology": {
+        "明写": "月娘以“不差了礼数”解释回礼；西门庆说“一客不烦二主”。",
+        "推断": "桌边各有所思的目光是美术表达，不能据此认定瓶儿的恒常心情。"
+      },
+      "social": "孩子之间的亲事由成年人经营；食物、衣物、首饰与中人一起构成两家往来的礼数。这里只描述本家安排，不当作所有家庭的统一礼制。",
+      "explicit": [
+        "三人均在上房商议；大妗子也在场，未收入取景。",
+        "请帖八个、十四日经济与贲四送礼、乔家回生活鞋脚是同段已叙发生的先后过程。"
+      ],
+      "inference": [
+        "写帖与月娘说话的同框是相邻动作的构图概括；帖上不画可读字。",
+        "茶具、案式、三人衣色与光线为美术补足；本图不展示尚在安排的礼担。",
+        "成图窗外积雪与花枝没有本回天气依据；衣服毛边、簪式、月娘皱眉不作原文事实。"
+      ],
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 5,
+          "quote": "就权为插定一般，庶不差了礼数。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 5,
+          "quote": "一客不烦二主，就安上老冯罢。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 5,
+          "quote": "于是连忙冩了请帖八个"
+        }
+      ],
+      "excerpt": {
+        "chapter": 42,
+        "paragraph": 5,
+        "quote": "话说西门庆打发乔家去了，走来上房，和月娘大妗子李瓶儿商议。月娘道：「他家既先来与咱家孩子送节，咱少不的也买礼过去，与他家长姐送节，就权为插定一般，庶不差了礼数。」"
+      },
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp",
+        "references/ping-013.png"
+      ],
+      "prompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Interior domestic council in soft cool winter daylight. Exactly three fully clothed principal figures around a worn wooden writing table: left Ximen Qing, face from first reference, long face straight brows narrow eyes, wearing a sober dark olive padded robe and black cloth cap, seated with right hand holding a writing brush poised over a small folded invitation and left resting flat. Center Wu Yueniang, ONLY the rounder woman on the RIGHT of reference two, round face sturdy dignified body, muted rust padded robe, seated speaking with one open hand. Right Li Ping-er, reference three, smaller build slender oval face curved brows, pale plum padded jacket and dark skirt, seated quietly with both hands together on her lap. Natural six hands, all separated, no duplicated limbs. Only blank folded paper slips, inkstone and three cups on the table; invitation words not visible. Do not put gifts, babies, servants, birthday food or a marriage ceremony in this moment. The aunt who is also present is outside this tight crop. Not posed portraits; show the exchange of attention across the table.",
+      "image": "assets/042-01.webp",
+      "status": "generated",
+      "review": "已实际打开核看：左庆、中月娘、右瓶儿，恰三人六手；庆执笔、月娘开掌说话、瓶儿两手合置膝上，人物身份可辨且无多余肢体。桌面只有无字帖纸、砚和茶杯，没有把礼担或婚礼提前画入。月娘皱眉只是艺术表情，不认作原文明写的心理；窗外雪、花枝及毛边衣料均为补足。",
+      "history": "小说事实仅据用户梦梅馆词话本MOBI的第42回隔离包。宋代故事设定与宽泛晚明美术参考分开；器物形制、衣色及室内尺度未作考证复原。",
+      "actualPrompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Interior domestic council in soft cool winter daylight. Exactly three fully clothed principal figures around a worn wooden writing table: left Ximen Qing, face from first reference, long face straight brows narrow eyes, wearing a sober dark olive padded robe and black cloth cap, seated with right hand holding a writing brush poised over a small folded invitation and left resting flat. Center Wu Yueniang, ONLY the rounder woman on the RIGHT of reference two, round face sturdy dignified body, muted rust padded robe, seated speaking with one open hand. Right Li Ping-er, reference three, smaller build slender oval face curved brows, pale plum padded jacket and dark skirt, seated quietly with both hands together on her lap. Natural six hands, all separated, no duplicated limbs. Only blank folded paper slips, inkstone and three cups on the table; invitation words not visible. Do not put gifts, babies, servants, birthday food or a marriage ceremony in this moment. The aunt who is also present is outside this tight crop. Not posed portraits; show the exchange of attention across the table.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "042-02",
+      "chapter": 42,
+      "title": "帘内双陆，帘外灯市",
+      "people": [
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "狮子街房楼上",
+      "event": "西门庆与应伯爵打双陆，拆去窗扇而以帘隔开楼内与灯市。",
+      "why": "楼上舒适的席面与楼下拥挤的灯市同时出现，位置差别成为叙事的一部分。",
+      "composition": "两人斜对坐于近景，双陆盘居中；侧后方帘外俯见灯棚和游人。",
+      "summary": "西门庆离开家中堂客席，到狮子街房另设酒饭。应伯爵与他先看灯，再上楼打双陆；六扇窗户除去而挂帘，下边正是热闹灯市。这处居高临下的窗口，让后来秘密唤谢希大上楼也成为可能，但本图只画两人对局，不提前画成借钱交涉。",
+      "psychology": {
+        "明写": "原文写两人打双陆、摆饭，随后在帘内观看灯市，没有直接写他们此刻内心。",
+        "推断": "伯爵微笑、庆留神棋盘只为使对局可读；不能当作他们对街上每个人的态度。"
+      },
+      "social": "私人楼房成为观看公共节庆的舒适位置；宴席、佣人和表演者把一处住宅临时组织成另一个应酬场。",
+      "explicit": [
+        "两人在楼上打双陆。",
+        "六扇窗户除去并挂帘；下边灯市热闹。"
+      ],
+      "inference": [
+        "画面只显取景内三段开口，不据此改为总共三扇窗。",
+        "双陆盘细部、棋数、楼层尺度、灯棚形制及人流密度为美术概括，不宣称考古复原。",
+        "成图只显一处较宽开口，不由取景改写原文六扇窗；双陆形制与棋数未考定。"
+      ],
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 9,
+          "quote": "那裏楼上，设放围屏桌席，挂上灯。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 11,
+          "quote": "两个在楼上打双陆。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 11,
+          "quote": "楼上除了六扇窗户，挂着帘子，下边就是灯市，十分热闹。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 42,
+        "paragraph": 11,
+        "quote": "西门庆与应伯爵看了回灯，纔到房子裏，两个在楼上打双陆。楼上除了六扇窗户，挂着帘子，下边就是灯市，十分热闹。"
+      },
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. An intimate diagonal view inside an upstairs room on a lively lantern-festival street, twilight before the full night illumination. Exactly two principal men at a low wooden table playing Chinese shuanglu: left Ximen Qing from reference one, long face straight brows narrow eyes, sober dark olive winter robe and black cloth cap; right Ying Bojue ONLY the slim man at the LEFT of reference two, thin long face fine mustache little pointed goatee and eye corner creases, brown winter robe with black simple cap. Four natural hands, one of Ximen fingers moving a single white counter, Ying relaxed with his hand by the board edge. The plain wooden double-race board has black and ivory counters and narrow lanes, no modern lettering, no chess pieces, do not claim archaeological exactness. Behind and to the left, window shutters have been removed and translucent cloth curtains partly lift; from this upstairs vantage, a small glimpse of crowded winding lantern stalls below, early dusk blue air and warm paper lamps. No food in hands, no extra main guests, no spectacle of gambling money. A small unlit silk lantern and folding screen in the room, weathered wood, comfortable but lived-in. Keep Ximen and Ying distinct, narrative candid poses, not looking at viewer.",
+      "image": "assets/042-02.webp",
+      "status": "generated",
+      "review": "已实际打开核看：左庆、右伯爵，恰两人，分别落子与看盘；各一手清楚、另手由袖与身体遮挡，无多手或粘连。黑白棋子与双路木盘、帘外俯看的灯市均可读，未把钱债场景提前带入。对局盘精确规则、棋数、灯市建筑和花枝仅为美术概括，不能从此图复原双陆制度。",
+      "history": "小说事实仅据用户梦梅馆词话本MOBI的第42回隔离包。宋代故事设定与宽泛晚明美术参考分开；器物形制、衣色及室内尺度未作考证复原。",
+      "actualPrompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. An intimate diagonal view inside an upstairs room on a lively lantern-festival street, twilight before the full night illumination. Exactly two principal men at a low wooden table playing Chinese shuanglu: left Ximen Qing from reference one, long face straight brows narrow eyes, sober dark olive winter robe and black cloth cap; right Ying Bojue ONLY the slim man at the LEFT of reference two, thin long face fine mustache little pointed goatee and eye corner creases, brown winter robe with black simple cap. Four natural hands, one of Ximen fingers moving a single white counter, Ying relaxed with his hand by the board edge. The plain wooden double-race board has black and ivory counters and narrow lanes, no modern lettering, no chess pieces, do not claim archaeological exactness. Behind and to the left, window shutters have been removed and translucent cloth curtains partly lift; from this upstairs vantage, a small glimpse of crowded winding lantern stalls below, early dusk blue air and warm paper lamps. No food in hands, no extra main guests, no spectacle of gambling money. A small unlit silk lantern and folding screen in the room, weathered wood, comfortable but lived-in. Keep Ximen and Ying distinct, narrative candid poses, not looking at viewer.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "042-03",
+      "chapter": 42,
+      "title": "认作大姨后，重新行礼",
+      "people": [
+        "王六儿",
+        "董娇儿",
+        "韩玉钏儿"
+      ],
+      "place": "狮子街后房",
+      "event": "两位唱者听玳安称王六儿为西门庆的大姨亲，重入房磕头，王六儿还半礼。",
+      "why": "同一人因被告知的亲属名分改变而受到不同礼遇；关系称呼并不等于真实亲属关系。",
+      "composition": "王六儿坐炕边欠身；两位唱者跪礼，一前一后，桌上茶具不抢动作。",
+      "summary": "两个唱的初见王六儿，只上下打量她的衣装。玳安不说实情，称她是主人“大姨人家”；她们便重新进房行礼，王六儿连忙还下半礼。画面取重行礼的一刻，保留紫袄、黑披袄和白裙的服饰线索，年龄未详的唱者只作普通非性化礼仪表现。",
+      "psychology": {
+        "明写": "两个唱者此前看她一回笑一回，听称“大姨”后从新见礼；王六儿连忙还半礼。",
+        "推断": "王六儿的微惊和两人收敛目光是动作的视觉解释，不能推成她真实获得了亲属身份。"
+      },
+      "social": "玳安一句“大姨人家”临时重排了房中的礼节；这是应酬场里对身份消息的反应，并非叙述者确认亲属。",
+      "explicit": [
+        "王六儿穿紫潞紬袄、玄色一块瓦领披袄、白挑线绢裙。",
+        "两位唱者磕头，王六儿还半礼，随后同吃汤饭并听演唱。"
+      ],
+      "inference": [
+        "两名唱者的脸和衣色为新建美术约定，精确年龄未详，不作成年或性化判断。",
+        "王六儿的衣色有原文，紫褐肤色与长水鬓据本段；具体发式金箍做概括，不声称精确复原。",
+        "本段先称韩金钏儿、后称韩玉钏儿；本场沿现场对话称韩玉钏儿，保留原文异称，不自行校改。",
+        "画中黑披袄为交叠领的视觉概括，未精确复原原文“一块瓦领”；窗外雪、花枝、茶炉位置与簪式均为美术补足。"
+      ],
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 16,
+          "quote": "身上穿紫潞紬袄儿，玄色一块瓦领披袄儿，白挑线绢裙子"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 16,
+          "quote": "是俺爹大姨人家，接来这看灯。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 16,
+          "quote": "于是插烛磕了两个头。慌的王六儿连忙还下半礼。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 42,
+        "paragraph": 16,
+        "quote": "两个唱的，进房中従新说道：「俺们头裏不知是大姨，没曾见的礼，休怪！」于是插烛磕了两个头。慌的王六儿连忙还下半礼。"
+      },
+      "references": [
+        "assets/037-03.webp"
+      ],
+      "prompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Respectful social etiquette in a warm ordinary back room of a Chinese house, no erotic content. Exactly three fully clothed women. Right, Wang Liu-er, ONLY the right woman from reference, mature warm reddish-brown complexion long oval face long side locks, curved brows and natural broad nose, black updo with a simple thin gold band, tiny clove-shaped earrings. She wears a PURPLE padded silk jacket under BLACK over-jacket with broad dark collar, WHITE long embroidered skirt completely covering legs and feet; seated on the edge of a raised heated platform, surprised and quickly leaning forward to return a half bow, both hands naturally together near her waist. Left foreground, Dong Jiao-er, a woman performer of unspecified precise age, nonsexual ordinary slightly round face with wide-set clear eyes and dark low updo, fully covering muted ochre long jacket and teal skirt, kneeling in a respectful bow with her two hands together, gaze lowered. Center-left just behind her, Han Yu-chuan, another performer unspecified precise age, distinct narrower oval face straight brows small rounded chin, neat black updo, fully covering dull blue jacket and dark rose skirt, also kneeling upright in mid respectful bow, two hands together. No one touches another person; show six anatomically clear hands, no bent fused limbs. The two performers are bowing, not serving sexually, no flirtatious body language, no feet or body emphasis. Small side table with three cups and a ceramic teapot, one glowing silk lantern, a covered charcoal brazier in the background well away from skirts. No man, child or bed in frame, no written labels. This is the moment the performers mistakenly treat Wang as their host's aunt.",
+      "image": "assets/042-03.webp",
+      "status": "generated",
+      "review": "已实际打开核看：左前董娇儿、左后韩玉钏儿、右王六儿，恰三人六手；两位唱者跪礼，王欠身还礼，动作自然、无肢体粘连，无男子或儿童混入。紫袄黑披白裙、长鬓和暖褐肤色承接本回；左二人脸有区别，足作非性化礼仪面貌参考。炉火远离衣裙。披袄领形、金箍纹样、窗外雪和首饰细节为概括，不声称精密复原。",
+      "history": "小说事实仅据用户梦梅馆词话本MOBI的第42回隔离包。宋代故事设定与宽泛晚明美术参考分开；器物形制、衣色及室内尺度未作考证复原。",
+      "actualPrompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Respectful social etiquette in a warm ordinary back room of a Chinese house, no erotic content. Exactly three fully clothed women. Right, Wang Liu-er, ONLY the right woman from reference, mature warm reddish-brown complexion long oval face long side locks, curved brows and natural broad nose, black updo with a simple thin gold band, tiny clove-shaped earrings. She wears a PURPLE padded silk jacket under BLACK over-jacket with broad dark collar, WHITE long embroidered skirt completely covering legs and feet; seated on the edge of a raised heated platform, surprised and quickly leaning forward to return a half bow, both hands naturally together near her waist. Left foreground, Dong Jiao-er, a woman performer of unspecified precise age, nonsexual ordinary slightly round face with wide-set clear eyes and dark low updo, fully covering muted ochre long jacket and teal skirt, kneeling in a respectful bow with her two hands together, gaze lowered. Center-left just behind her, Han Yu-chuan, another performer unspecified precise age, distinct narrower oval face straight brows small rounded chin, neat black updo, fully covering dull blue jacket and dark rose skirt, also kneeling upright in mid respectful bow, two hands together. No one touches another person; show six anatomically clear hands, no bent fused limbs. The two performers are bowing, not serving sexually, no flirtatious body language, no feet or body emphasis. Small side table with three cups and a ceramic teapot, one glowing silk lantern, a covered charcoal brazier in the background well away from skirts. No man, child or bed in frame, no written labels. This is the moment the performers mistakenly treat Wang as their host's aunt.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "042-04",
+      "chapter": 42,
+      "title": "三限借契：席间的滑话",
+      "people": [
+        "西门庆",
+        "祝日念"
+      ],
+      "place": "狮子街楼上酒席",
+      "event": "祝日念复述王三官借银的文契，拿不可能的三限和担保人的躲闪作笑谈。",
+      "why": "关于银钱与担保的文字被当作笑料，席间热闹却不能证明真能免债。",
+      "composition": "近景左祝日念捏指说话，右西门庆听笑；其余宾客在取景外，不画契纸与借银现场。",
+      "summary": "祝日念找来楼上，与众人同吃酒饭。他说王三官要借三百两银子入武学，又复述自己改得“滑”的借契：还款期限编作风吹辘轴、鱼跳上岸、水石泡烂，担保人也只会躲闪。画面是席间复述和取笑，纸契真正签立的场所、内容效力与借款是否到手，本图均不补成事实。",
+      "psychology": {
+        "明写": "祝日念自说改借契，谢希大声明不作保；众人说笑。",
+        "推断": "西门庆嘴角的笑是“众人说笑”的构图分配，祝日念的手指动作未在原文逐项写出。"
+      },
+      "social": "中人、担保、保头钱与借钱求前程连在一起；这里的契辞是讽刺性话语，不能拿来当真实法律样本或利率统计。",
+      "explicit": [
+        "借款三百两、拟入武学来自谢希大及祝日念的席间转述。",
+        "三限与“门面南北躲闪”等是祝日念口述的滑话。"
+      ],
+      "inference": [
+        "只画两人是取景，不声称酒席总共二人；应伯爵、谢希大、韩道国及唱者等留在画外。",
+        "不将三限故事画成河底砸石等未发生情景；不展示没有带到席间的契纸。",
+        "新建祝日念面貌为美术约定，“祝麻子”的称呼不足以核定面部疾病。",
+        "成图庆持杯而非仅把手放在杯边，是席间自然动作补足；祝日念确切年纪、坐姿与脸部细节未考定。"
+      ],
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 19,
+          "quote": "往许不与先生那裏借三百两银子去。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 20,
+          "quote": "头一限，风吹辘轴打孤鴈；第二限，水底鱼儿跳上岸；第三限，水裏石头泡得烂；"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 20,
+          "quote": "代保人门面南北躲闪。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 21,
+          "quote": "众人说笑了一回。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 42,
+        "paragraph": 21,
+        "quote": "祝日念道：「你倒说的好，有一朝天旱水浅，朝廷挑河，把石头乞做工的夫子两三镢头砍得稀烂，怎了？那时少不的还他银子。」众人说笑了一回。"
+      },
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Candid medium close narrative painting of a festive supper upstairs, exactly TWO visible principal men in the tight frame, other banquet guests exist outside the crop. Left Zhu Ri-nian, a newly established ordinary mature man, broad angular oval face, a wide forehead, natural eye corner lines, slightly broad nose, sparse short mustache and a little short chin beard, dark hair with a little grey at temples under a plain black cloth cap. He wears a muted blue-grey padded robe and is telling an amusing story, one hand loosely counting on fingers above the table and the other resting on his own knee. His face lively, not caricature, no moralized ugliness. Right Ximen Qing from reference, long face straight brows narrow eyes and long body, dark olive winter robe black cloth cap, listening with a restrained smile, his two hands separately visible one by a cup and the other resting on the table edge. Four natural hands, no extra fingers. Worn table at foreground with blue-and-white deep bowls, simple buns on a dish and small ceramic wine cups; these are banquet remains, no exact food inventory claimed. Warm lantern light, cold deep blue evening just beyond a curtained opening, folding screen to side. They are discussing a debt contract orally, no contract sheet, money or writing tools in this frame, no imagined debt signing or river scene. A joking animated conversation, not a posed portrait.",
+      "image": "assets/042-04.webp",
+      "status": "generated",
+      "review": "已实际打开核看：左祝日念、右庆，恰两人四手；祝一手比说一手在膝，庆持杯听笑、另一手在桌沿，指掌无明显异常。桌上只有席面残肴与杯，没有契纸、签字、放贷或河底砸石的虚构场面；其余在席者为取景外。祝的宽脸、稀短髭及灰鬓是新建艺术面貌，不由“祝麻子”推定面疾。",
+      "history": "小说事实仅据用户梦梅馆词话本MOBI的第42回隔离包。宋代故事设定与宽泛晚明美术参考分开；器物形制、衣色及室内尺度未作考证复原。",
+      "actualPrompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. Candid medium close narrative painting of a festive supper upstairs, exactly TWO visible principal men in the tight frame, other banquet guests exist outside the crop. Left Zhu Ri-nian, a newly established ordinary mature man, broad angular oval face, a wide forehead, natural eye corner lines, slightly broad nose, sparse short mustache and a little short chin beard, dark hair with a little grey at temples under a plain black cloth cap. He wears a muted blue-grey padded robe and is telling an amusing story, one hand loosely counting on fingers above the table and the other resting on his own knee. His face lively, not caricature, no moralized ugliness. Right Ximen Qing from reference, long face straight brows narrow eyes and long body, dark olive winter robe black cloth cap, listening with a restrained smile, his two hands separately visible one by a cup and the other resting on the table edge. Four natural hands, no extra fingers. Worn table at foreground with blue-and-white deep bowls, simple buns on a dish and small ceramic wine cups; these are banquet remains, no exact food inventory claimed. Warm lantern light, cold deep blue evening just beyond a curtained opening, folding screen to side. They are discussing a debt contract orally, no contract sheet, money or writing tools in this frame, no imagined debt signing or river scene. A joking animated conversation, not a posed portrait.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "042-05",
+      "chapter": 42,
+      "title": "花桩初燃，上下两处看烟火",
+      "people": [
+        "西门庆",
+        "王六儿",
+        "一丈青",
+        "街上观者"
+      ],
+      "place": "狮子街房与街心",
+      "event": "韩道国离去后，烟火架移至街心；西门庆等在楼上，王六儿等在楼下观看。",
+      "why": "热闹仍由上下楼、主人与侍候者的位置组织；街上观者又把私宅排场变为公共景观。",
+      "composition": "斜向街景：左上楼口庆，左下门口王六儿与一丈青，街心花桩与对面观者拉开空间。",
+      "summary": "元宵吃过，韩道国先回家。来昭依吩咐开楼下两间挂帘，玳安和来昭把烟火安在街心。西门庆等从楼上看，王六儿与两个唱者、一丈青在楼下。高花桩燃起，街边人群挨肩擦膀；画面只取初燃的一段，不把长篇烟火名目全堆成同时发生的一秒，也不把宅门的栏杆移到狮子街。",
+      "psychology": {
+        "明写": "原文交代上下楼观看的位置、街心烟火与拥挤人群。",
+        "推断": "人物专注抬眼为观看动作的合理推断，面部惊喜不代表所有人的内心。"
+      },
+      "social": "名声、烟火和围观共同塑成富户的节庆排场；街众的密集与宅内不同位置并列，并不证明所有观者都赞同或羡慕。",
+      "explicit": [
+        "西门庆在楼上；王六儿、两个唱的和一丈青在楼下。",
+        "玳安与来昭负责安放；花桩最高处有双鹤衔丹书的起火。"
+      ],
+      "inference": [
+        "取景只清楚画出庆、王六儿、一丈青；两名唱者与楼上宾客在画外，并未删除其原文在场事实。",
+        "花桩装饰、木架尺度、火花颜色与持续片刻是美术概括；不按名物列表声称精密机械复原。",
+        "下层衣装：王六儿延续本回紫袄黑披白裙，一丈青衣色未明；手持杯、栏杆、人群实际数量均不额外认定。",
+        "画中屋顶与路沿积雪、花枝以及花桩具体搭法没有本回考定依据；花桩双鹤虽见图，原文衔丹书的细部未精密复原。"
+      ],
+      "evidence": [
+        {
+          "chapter": 42,
+          "paragraph": 28,
+          "quote": "韩道国先往家去了。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 28,
+          "quote": "西门庆与众人在楼上看，教王六儿陪两个粉头，和来昭妻一丈青，在楼下观看。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 28,
+          "quote": "玳安和来昭将烟火安放在街心裏，须臾点着。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 29,
+          "quote": "最高处一双僊鹤，口裏衔着一封丹书，乃是一枝起火。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 42,
+        "paragraph": 28,
+        "quote": "少顷，西门庆吩咐来昭将楼下开了两间，吊挂上帘子，把烟火架抬出去。西门庆与众人在楼上看，教王六儿陪两个粉头，和来昭妻一丈青，在楼下观看。玳安和来昭将烟火安放在街心裏，须臾点着。"
+      },
+      "references": [
+        "references/ximen.png",
+        "assets/037-03.webp",
+        "assets/028-04.webp"
+      ],
+      "prompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. A richly atmospheric WIDE street narrative painting at early first-lunar-month night, 3:2 horizontal. Diagonal view of an old two-story wooden house on LEFT and a broad street leading right. Three identifiable principals only: upper LEFT behind the open upstairs window, Ximen Qing from first reference, long face straight brows narrow eyes, dark olive winter robe and black cap, half-length visible leaning slightly forward to watch, hands naturally resting on sill. Lower LEFT in a separate downstairs doorway, Wang Liu-er ONLY the right woman from reference two, mature warm reddish-brown long oval face long side locks, purple padded jacket, BLACK over-jacket with broad collar, WHITE full-length skirt; beside her on her right stands Yi-zhang-qing from third reference, broad angular oval face natural dark brows and mature cheek lines, practical black low bun, modest faded blue-grey padded work jacket and brown skirt, both fully clothed standing and looking toward the street with hands relaxed in front. Distinct actual ground-floor and upstairs openings, never put the women on the upstairs balcony. Other singers and upstairs guests are beyond the crop. Street CENTER-RIGHT, a tall traditional decorative firework flower-pole wooden frame, simplified cut-paper mountain pavilion designs and TWO small crane silhouettes near top, begins sending slender gold sparks up and delicate cascading sparks down; painted warm smoke floats into cold blue night. This is traditional firework illumination, NOT modern stadium fireworks, no modern rocket tubes or electric lights, no giant explosion, no injury. Across the far side of the street a crowd of ordinary bundled spectators at a clear distance from the frame, naturally varied mostly small profiles. Foreground kept open to read the street. Silk lanterns under eaves, no readable text, no added railing across the street, no implied archaeological precision. Warm sparks illuminate faces and weathered wood, the focus is unequal viewing positions and momentary collective spectacle, not portrait posing.",
+      "image": "assets/042-05.webp",
+      "status": "generated",
+      "review": "已实际打开核看：左上庆、左下王六儿与一丈青，恰三位清楚的主角；庆在楼上、二女在楼下门口，没有错层。黑披紫袄白裙、丈青蓝灰工作衣和三张参考脸可辨；手掌自然，庆一手显露、另一手局部遮挡，无异常多肢。街心木花桩顶有双鹤、金色起火和垂落火花，远处人群与火架有间距，无伤害、现代器件或横拦街道的栏杆。两位唱者等原文在场者留在取景外。木架、屋顶积雪和图案为艺术概括，不是机关或天气考证。",
+      "history": "小说事实仅据用户梦梅馆词话本MOBI的第42回隔离包。宋代故事设定与宽泛晚明美术参考分开；器物形制、衣色及室内尺度未作考证复原。",
+      "actualPrompt": "Complete literary narrative painting, 3:2 landscape. Chinese gongbi fine ink contours and layered muted mineral pigments on subtly textured silk, lived-in late-Ming domestic materials, realistic individual faces, natural cinematic storytelling light and convincing depth. Painted, not photographic, not anime, not fantasy. No letters, captions, watermarks, legible written text, modern objects or glass chimney lamps. Reference images lock face identities only; do not copy their old clothing, weather, emotional state or setting. Early first lunar month, cool weather, layered clothing. A richly atmospheric WIDE street narrative painting at early first-lunar-month night, 3:2 horizontal. Diagonal view of an old two-story wooden house on LEFT and a broad street leading right. Three identifiable principals only: upper LEFT behind the open upstairs window, Ximen Qing from first reference, long face straight brows narrow eyes, dark olive winter robe and black cap, half-length visible leaning slightly forward to watch, hands naturally resting on sill. Lower LEFT in a separate downstairs doorway, Wang Liu-er ONLY the right woman from reference two, mature warm reddish-brown long oval face long side locks, purple padded jacket, BLACK over-jacket with broad collar, WHITE full-length skirt; beside her on her right stands Yi-zhang-qing from third reference, broad angular oval face natural dark brows and mature cheek lines, practical black low bun, modest faded blue-grey padded work jacket and brown skirt, both fully clothed standing and looking toward the street with hands relaxed in front. Distinct actual ground-floor and upstairs openings, never put the women on the upstairs balcony. Other singers and upstairs guests are beyond the crop. Street CENTER-RIGHT, a tall traditional decorative firework flower-pole wooden frame, simplified cut-paper mountain pavilion designs and TWO small crane silhouettes near top, begins sending slender gold sparks up and delicate cascading sparks down; painted warm smoke floats into cold blue night. This is traditional firework illumination, NOT modern stadium fireworks, no modern rocket tubes or electric lights, no giant explosion, no injury. Across the far side of the street a crowd of ordinary bundled spectators at a clear distance from the frame, naturally varied mostly small profiles. Foreground kept open to read the street. Silk lanterns under eaves, no readable text, no added railing across the street, no implied archaeological precision. Warm sparks illuminate faces and weathered wood, the focus is unequal viewing positions and momentary collective spectacle, not portrait posing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

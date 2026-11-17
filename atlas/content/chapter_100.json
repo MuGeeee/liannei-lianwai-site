@@ -2,6 +2,40 @@
   "number": 100,
   "title": "第一百回韩爱姐湖州寻父　普静师荐拔羣寃",
   "intro": "最后一回把家事放进迁徙与兵乱里。画面沿着几次交付和几段路走：夜门、东昌、徐州孤村、清河城外，最后停在永福寺与重新打开的家门。",
+  "supplements": [
+    {
+      "title": "梦里发生的事和醒来发生的事",
+      "text": "灵壁寨上的遭遇属于月娘的梦，正文明确写她惊醒。小玉所说夜见异象、普静的解释，以及孝哥剃度辞别，分属不同层次；不把任何一项混画成兵乱中的实际杀人。",
+      "evidence": [
+        {
+          "chapter": 100,
+          "paragraph": 70,
+          "quote": "却是南柯一梦"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 72,
+          "quote": "作辞月娘而去"
+        }
+      ]
+    },
+    {
+      "title": "寻亲一段怎样收束",
+      "text": "爱姐与韩二结伴，经淮安搭船，在湖州找到父母。结尾还记了她后来出家、患病去世；本图只选她在村中认出叔叔，不以再嫁或病终的画面替她解释这次寻亲。",
+      "evidence": [
+        {
+          "chapter": 100,
+          "paragraph": 53,
+          "quote": "找寻到湖州何官人家，寻着父母"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 53,
+          "quote": "后年至三十二岁，以疾而终"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "100-01-v2",
@@ -36,18 +70,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only leaner adult Chinese MALE attendant Li An, never the woman; ref2 paint. Two fully clothed adult Chinese people at the half-open timber back door of a winter guard room. Mature attendant Jin Kui in plain brown full robe has set a folded cloth parcel by the door and extends one small silver ingot toward lean Li An, in closed dark blue work robe. Light from one open ceramic saucer lamp, absolutely NO glass chimney. Cold bare branches outside, calm shadow, only hands and profiles, no intimacy, third person or writing.",
       "references": [
         "100-01（前稿，局部修正）",
-        "088-03（李安）",
-        "065-01（媒介）"
+        "assets/088-03.webp（原说明：088-03（李安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-01-v2.png",
+      "image": "assets/100-01-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 重绘纠正了初稿把金匮画成男性的问题。银锭体积、月相及屋外积雪无原文定量依据。",
-      "baselineReferences": [
-        "088-03（李安）",
-        "065-01（媒介）"
-      ],
       "knownDeviation": "重绘纠正了初稿把金匮画成男性的问题。银锭体积、月相及屋外积雪无原文定量依据。",
-      "actualPrompt": "A finished gongbi narrative illustration on paper, landscape 3:2. FIRST reference: style only, ignore all its people. EXACTLY TWO people: an adult Chinese WOMAN on the LEFT and an adult Chinese MAN on the RIGHT. Show a late-Ming-style modest rear guardroom door on a clear freezing night. LEFT Jin Kui is a mature round-faced Chinese woman, middle-aged, gray at temples, neatly pinned female bun, plain taupe cotton closed cross-collar jacket and full long skirt; she clearly has NO beard, NO moustache and NO male hat. She stands outside the threshold and extends a small traditional silver ingot in one hand. RIGHT Li An is a lean adult man with neat short moustache and plain dark headcloth, dark navy closed robe; he stands indoors and opens his palm. A separate cloth package lies on a small ledge and ONE small open saucer oil flame on the table. No glass lamp, weapons, touches, third figure or lettering. Atmospheric silhouette, clearly distinct feminine and masculine faces and clothes."
+      "actualPrompt": "A finished gongbi narrative illustration on paper, landscape 3:2. FIRST reference: style only, ignore all its people. EXACTLY TWO people: an adult Chinese WOMAN on the LEFT and an adult Chinese MAN on the RIGHT. Show a late-Ming-style modest rear guardroom door on a clear freezing night. LEFT Jin Kui is a mature round-faced Chinese woman, middle-aged, gray at temples, neatly pinned female bun, plain taupe cotton closed cross-collar jacket and full long skirt; she clearly has NO beard, NO moustache and NO male hat. She stands outside the threshold and extends a small traditional silver ingot in one hand. RIGHT Li An is a lean adult man with neat short moustache and plain dark headcloth, dark navy closed robe; he stands indoors and opens his palm. A separate cloth package lies on a small ledge and ONE small open saucer oil flame on the table. No glass lamp, weapons, touches, third figure or lettering. Atmospheric silhouette, clearly distinct feminine and masculine faces and clothes.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-02",
@@ -81,13 +113,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's face if visible, ref2 painting style. Restrained symbolic close shot of two adult clerks' fully covered arms passing a plain small seal case and tied register across an empty Chinese yamen side table; a separate adult woman with same Chunmei profile in closed pale mourning dress stands several paces back out of focus, observing, not handling anything. Cool light, green early-summer leaves only if visible. No coffin, weapons, bodies, text, or an invented identifiable tiger tally. Hands and wooden boxes natural scale.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-02.png",
+      "image": "assets/100-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's face if visible, ref2 painting style. Restrained symbolic close shot of two adult clerks' fully covered arms passing a plain small seal case and tied register across an empty Chinese yamen side table; a separate adult woman with same Chunmei profile in closed pale mourning dress stands several paces back out of focus, observing, not handling anything. Cool light, green early-summer leaves only if visible. No coffin, weapons, bodies, text, or an invented identifiable tiger tally. Hands and wooden boxes natural scale."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's face if visible, ref2 painting style. Restrained symbolic close shot of two adult clerks' fully covered arms passing a plain small seal case and tied register across an empty Chinese yamen side table; a separate adult woman with same Chunmei profile in closed pale mourning dress stands several paces back out of focus, observing, not handling anything. Cool light, green early-summer leaves only if visible. No coffin, weapons, bodies, text, or an invented identifiable tiger tally. Hands and wooden boxes natural scale.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-03",
@@ -122,13 +156,15 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult fair oval-faced Han Aijie, long eyebrows; ref2 only petite violet-clad adult woman Ge Cuiping, NOT any men; ref3 fine ink paint. Exactly two fully dressed adult Chinese women on a quiet walk in a garden pavilion, early summer with pale green foliage and a few fresh blooms, NO orange or red autumn foliage. Aijie in worn muted indigo facing outward by rail, Ge in modest dusty violet looks from an opposite pillar, open distance, neither weeping theatrically. Three-quarter wide shot, woven silk restrained, no writing, child, messenger, or extra people.",
       "references": [
         "098-05（韩爱姐）",
-        "098-01（葛翠屏）",
-        "065-01（媒介）"
+        "assets/098-01.webp（原说明：098-01（葛翠屏））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-03.png",
+      "image": "assets/100-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult fair oval-faced Han Aijie, long eyebrows; ref2 only petite violet-clad adult woman Ge Cuiping, NOT any men; ref3 fine ink paint. Exactly two fully dressed adult Chinese women on a quiet walk in a garden pavilion, early summer with pale green foliage and a few fresh blooms, NO orange or red autumn foliage. Aijie in worn muted indigo facing outward by rail, Ge in modest dusty violet looks from an opposite pillar, open distance, neither weeping theatrically. Three-quarter wide shot, woven silk restrained, no writing, child, messenger, or extra people."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult fair oval-faced Han Aijie, long eyebrows; ref2 only petite violet-clad adult woman Ge Cuiping, NOT any men; ref3 fine ink paint. Exactly two fully dressed adult Chinese women on a quiet walk in a garden pavilion, early summer with pale green foliage and a few fresh blooms, NO orange or red autumn foliage. Aijie in worn muted indigo facing outward by rail, Ge in modest dusty violet looks from an opposite pillar, open distance, neither weeping theatrically. Three-quarter wide shot, woven silk restrained, no writing, child, messenger, or extra people.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-04-v2",
@@ -165,17 +201,15 @@
       "references": [
         "100-04（前稿，局部修正）",
         "098-05（韩爱姐）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-04-v2.png",
+      "image": "assets/100-04-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 改成徐州孤村的黄昏，去掉初稿窗外的酒楼式河景。月琴构形及放置仍是示意。",
-      "baselineReferences": [
-        "098-05（韩爱姐）",
-        "065-01（媒介）"
-      ],
       "knownDeviation": "改成徐州孤村的黄昏，去掉初稿窗外的酒楼式河景。月琴构形及放置仍是示意。",
-      "actualPrompt": "Edit the supplied village-kitchen illustration. Keep the three adult faces, clothes, hoe, bowls of grain, small round lute, kang and framing unchanged. Change ONLY the upper-left window view into an isolated dim village at dusk: a plain dirt track with bare low hedge and a single distant simple clay-walled house, no canal, boat, stone bridge, orange maple or prosperous waterfront. Remove the hanging bright red strings next to the cooking fire, preserve the garlic and baskets. No text."
+      "actualPrompt": "Edit the supplied village-kitchen illustration. Keep the three adult faces, clothes, hoe, bowls of grain, small round lute, kang and framing unchanged. Change ONLY the upper-left window view into an isolated dim village at dusk: a plain dirt track with bare low hedge and a single distant simple clay-walled house, no canal, boat, stone bridge, orange maple or prosperous waterfront. Remove the hanging bright red strings next to the cooking fire, preserve the garlic and baskets. No text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-09",
@@ -212,13 +246,15 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult niece Han Aijie in worn indigo and adult uncle Han Er with ruddy face, ignore elderly hostess. Ref2 only older married couple Han Daoguo and Wang Liu'er, their previously distinct faces, Wang taller with reddish-brown complexion and Han with greying mustache. Ref3 painted medium only. Exactly FOUR fully clothed adult Chinese people at the entrance of a modest Jiangnan courtyard house in daylight: travellers stopped just outside with a small wrapped bundle, parents inside turn to recognize them. View from shaded interior toward the door, soft moist green summer light, no bright orange foliage. No embraces, one small restrained gesture of recognition, no exact claims about place, no writing or other figures.",
       "references": [
         "100-04（韩爱姐、韩二）",
-        "081-02（韩道国、王六儿）",
-        "065-01（媒介）"
+        "assets/081-02.webp（原说明：081-02（韩道国、王六儿））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-09.png",
+      "image": "assets/100-09.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult niece Han Aijie in worn indigo and adult uncle Han Er with ruddy face, ignore elderly hostess. Ref2 only older married couple Han Daoguo and Wang Liu'er, their previously distinct faces, Wang taller with reddish-brown complexion and Han with greying mustache. Ref3 painted medium only. Exactly FOUR fully clothed adult Chinese people at the entrance of a modest Jiangnan courtyard house in daylight: travellers stopped just outside with a small wrapped bundle, parents inside turn to recognize them. View from shaded interior toward the door, soft moist green summer light, no bright orange foliage. No embraces, one small restrained gesture of recognition, no exact claims about place, no writing or other figures."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult niece Han Aijie in worn indigo and adult uncle Han Er with ruddy face, ignore elderly hostess. Ref2 only older married couple Han Daoguo and Wang Liu'er, their previously distinct faces, Wang taller with reddish-brown complexion and Han with greying mustache. Ref3 painted medium only. Exactly FOUR fully clothed adult Chinese people at the entrance of a modest Jiangnan courtyard house in daylight: travellers stopped just outside with a small wrapped bundle, parents inside turn to recognize them. View from shaded interior toward the door, soft moist green summer light, no bright orange foliage. No embraces, one small restrained gesture of recognition, no exact claims about place, no writing or other figures.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-05-v2",
@@ -257,20 +293,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Wu Yueniang only, ref2 ONLY left adult Dai'an, ref3 paint. Wide desolate fork in dusty fields outside a distant north Chinese town, no battle or injuries. At near left a small group of exactly five travellers, Wu in simple pale layered adult clothing, two adult men, one adult woman and one fully clothed 15-year-old boy in humble long gray tunic, shown in natural family group at a distance. One separate older Buddhist monk Pujing in simple purplish brown cloth robe, straw sandals, cloth scripture satchel and ringed staff across the fork. Little dust and quiet tension, simple light, no text, soldiers or literal supernatural forms.",
       "references": [
         "100-05（前稿，局部修正）",
-        "moon-030（月娘）",
-        "young-people-030左（成年玳安）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "references/young-people-030.png（原说明：young-people-030左（成年玳安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-05-v2.png",
+      "image": "assets/100-05-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版校正前排浅衣月娘的年龄感；保留原文的五名旅人与一名僧人。锡杖圆环及路口方位为示意。",
       "knownDeviation": "修正版校正前排浅衣月娘的年龄感；保留原文的五名旅人与一名僧人。锡杖圆环及路口方位为示意。",
       "actualPrompt": "Local edit to the supplied painting: use second reference only for the mature rounded face of the Chinese adult woman Wu Yueniang. In the main image the single frontmost woman LEFT in PALE IVORY robe must match that same middle-aged mature face with heavier cheeks, subtle lines and a softer jaw, seen in same direction, same size. Keep all other people untouched. Preserve the total six figures and the old monk's face, fork, landscape and ringed staff. No writing, no identity shifts.",
-      "baselineReferences": [
-        "moon-030（月娘）",
-        "young-people-030左（成年玳安）",
-        "065-01（媒介）"
-      ]
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-06",
@@ -304,13 +337,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ink-paint medium only. View through a narrow slit between almost closed wooden temple doors at deep night. Inside only one seated elderly Chinese monk Pujing in plain purplish brown robe, wooden fish block and beater by his knee, dim low wide OPEN translucent glass votive bowl with exposed tiny wick flame, absolutely no chimney lamp. Partial outline of an adult woman Xiao Yu at far left foreground outside the door, quiet observing profile. No apparitions, injured figures, weapons, ghost faces, writing or letters. Express depth with darkness and narrow light only.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-06.png",
+      "image": "assets/100-06.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 成图取木鱼与槌暂置身旁的一瞬；没有画敲木鱼的动作，也没有画原文中的异象。",
       "knownDeviation": "成图取木鱼与槌暂置身旁的一瞬；没有画敲木鱼的动作，也没有画原文中的异象。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ink-paint medium only. View through a narrow slit between almost closed wooden temple doors at deep night. Inside only one seated elderly Chinese monk Pujing in plain purplish brown robe, wooden fish block and beater by his knee, dim low wide OPEN translucent glass votive bowl with exposed tiny wick flame, absolutely no chimney lamp. Partial outline of an adult woman Xiao Yu at far left foreground outside the door, quiet observing profile. No apparitions, injured figures, weapons, ghost faces, writing or letters. Express depth with darkness and narrow light only. Ref 1 only use the older monk with staff from the prior crossroads composition as face and clothing reference; ref 2 is painted medium only. Ignore everyone else in both inputs."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ink-paint medium only. View through a narrow slit between almost closed wooden temple doors at deep night. Inside only one seated elderly Chinese monk Pujing in plain purplish brown robe, wooden fish block and beater by his knee, dim low wide OPEN translucent glass votive bowl with exposed tiny wick flame, absolutely no chimney lamp. Partial outline of an adult woman Xiao Yu at far left foreground outside the door, quiet observing profile. No apparitions, injured figures, weapons, ghost faces, writing or letters. Express depth with darkness and narrow light only. Ref 1 only use the older monk with staff from the prior crossroads composition as face and clothing reference; ref 2 is painted medium only. Ignore everyone else in both inputs.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-07",
@@ -345,14 +380,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Single fully dressed mature adult Chinese woman Wu Yueniang at dawn in the doorway of an old Buddhist temple. First reference is her round mature face only; second reference is the fine gongbi ink and mineral pigment technique only. She wears a closed, plain ivory cotton robe and turns toward a completely empty colonnade, one hand paused on the dark wooden door frame. A long diagonal of cool morning light on gray stone, quiet unresolved grief in her expression. Landscape 3:2, brushwork and tangible cloth, one adult only, empty distance, no lettering.",
       "references": [
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-07.png",
+      "image": "assets/100-07.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 改用只见月娘的视角；普静领孝哥辞别在原文发生，画面未画两人。",
       "knownDeviation": "改用只见月娘的视角；普静领孝哥辞别在原文发生，画面未画两人。",
-      "actualPrompt": "Single fully dressed mature adult Chinese woman Wu Yueniang at dawn in the doorway of an old Buddhist temple. First reference is her round mature face only; second reference is the fine gongbi ink and mineral pigment technique only. She wears a closed, plain ivory cotton robe and turns toward a completely empty colonnade, one hand paused on the dark wooden door frame. A long diagonal of cool morning light on gray stone, quiet unresolved grief in her expression. Landscape 3:2, brushwork and tangible cloth, one adult only, empty distance, no lettering."
+      "actualPrompt": "Single fully dressed mature adult Chinese woman Wu Yueniang at dawn in the doorway of an old Buddhist temple. First reference is her round mature face only; second reference is the fine gongbi ink and mineral pigment technique only. She wears a closed, plain ivory cotton robe and turns toward a completely empty colonnade, one hand paused on the dark wooden door frame. A long diagonal of cool morning light on gray stone, quiet unresolved grief in her expression. Landscape 3:2, brushwork and tangible cloth, one adult only, empty distance, no lettering.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "100-08",
@@ -386,48 +423,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Wu Yueniang mature round face, ref2 use ONLY left adult man Dai'an with understated older adult features, ref3 ink-painted medium. Exactly two fully dressed Chinese adults seen from dark inside the entry of a once prosperous but ordinary household. A man in muted blue pushes one weathered wooden door leaf inward as Wu in plain pale robe looks into the empty dim courtyard. Gentle morning daylight, subdued color, no figures beyond them, no signage, celebration, ceremony or visual metaphor. Film still framing with ample quiet dark negative space.",
       "references": [
-        "moon-030（月娘）",
-        "young-people-030左（成年玳安）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "references/young-people-030.png（原说明：young-people-030左（成年玳安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/100-08.png",
+      "image": "assets/100-08.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Wu Yueniang mature round face, ref2 use ONLY left adult man Dai'an with understated older adult features, ref3 ink-painted medium. Exactly two fully dressed Chinese adults seen from dark inside the entry of a once prosperous but ordinary household. A man in muted blue pushes one weathered wooden door leaf inward as Wu in plain pale robe looks into the empty dim courtyard. Gentle morning daylight, subdued color, no figures beyond them, no signage, celebration, ceremony or visual metaphor. Film still framing with ample quiet dark negative space."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "梦里发生的事和醒来发生的事",
-      "text": "灵壁寨上的遭遇属于月娘的梦，正文明确写她惊醒。小玉所说夜见异象、普静的解释，以及孝哥剃度辞别，分属不同层次；不把任何一项混画成兵乱中的实际杀人。",
-      "evidence": [
-        {
-          "chapter": 100,
-          "paragraph": 70,
-          "quote": "却是南柯一梦"
-        },
-        {
-          "chapter": 100,
-          "paragraph": 72,
-          "quote": "作辞月娘而去"
-        }
-      ]
-    },
-    {
-      "title": "寻亲一段怎样收束",
-      "text": "爱姐与韩二结伴，经淮安搭船，在湖州找到父母。结尾还记了她后来出家、患病去世；本图只选她在村中认出叔叔，不以再嫁或病终的画面替她解释这次寻亲。",
-      "evidence": [
-        {
-          "chapter": 100,
-          "paragraph": 53,
-          "quote": "找寻到湖州何官人家，寻着父母"
-        },
-        {
-          "chapter": 100,
-          "paragraph": 53,
-          "quote": "后年至三十二岁，以疾而终"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Wu Yueniang mature round face, ref2 use ONLY left adult man Dai'an with understated older adult features, ref3 ink-painted medium. Exactly two fully dressed Chinese adults seen from dark inside the entry of a once prosperous but ordinary household. A man in muted blue pushes one weathered wooden door leaf inward as Wu in plain pale robe looks into the empty dim courtyard. Gentle morning daylight, subdued color, no figures beyond them, no signage, celebration, ceremony or visual metaphor. Film still framing with ample quiet dark negative space.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

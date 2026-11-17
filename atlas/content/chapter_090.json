@@ -2,6 +2,40 @@
   "number": 90,
   "title": "第九十回来旺盗拐孙雪娥　雪娥官卖守备府",
   "intro": "从清明高坡移到门内担箱，再到五更的街角与灶前。每一幅只画这回已经发生的一刻。",
+  "supplements": [
+    {
+      "title": "同样的物件不是同一笔账",
+      "text": "雪娥留下花翠欠一两二钱；次日月娘另拣首饰，以等子称三两二钱。不能拿前一笔的欠款证明后一笔已经结清。",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 28,
+          "quote": "欠他一两二钱银子"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 31,
+          "quote": "该还他三两二钱银子"
+        }
+      ]
+    },
+    {
+      "title": "孩子病因是人物的解释",
+      "text": "月娘先怪轿中受冷，又怪抱去坟上；如意不同意。正文记了病状与慌乱，画页不据此确认病因或提供药方。",
+      "evidence": [
+        {
+          "chapter": 90,
+          "paragraph": 30,
+          "quote": "只是昏睡不醒"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 30,
+          "quote": "我拿小被儿裹的严严的"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "090-01",
@@ -37,12 +71,14 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Image 1 is style only. Wide spring outdoor public riding performance in an old Chinese market below a green slope. Central adult professional rider Li Gui in fitted dark purple traditional jacket, black cloth headwrap, muted yellow boots, riding a sturdy silver-maned gray horse and holding one red-shafted performance spear upright at safe distance. Spectators in a wide arc, no injury or combat. Up on the slope a small cropped outdoor table and a few distant women in pale robes watch without reciprocal romantic gaze. Earthy colored ink, crowd depth, horse anatomy, everyday lived-in space; no signage text.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/090-01.png",
+      "image": "assets/090-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Image 1 is style only. Wide spring outdoor public riding performance in an old Chinese market below a green slope. Central adult professional rider Li Gui in fitted dark purple traditional jacket, black cloth headwrap, muted yellow boots, riding a sturdy silver-maned gray horse and holding one red-shafted performance spear upright at safe distance. Spectators in a wide arc, no injury or combat. Up on the slope a small cropped outdoor table and a few distant women in pale robes watch without reciprocal romantic gaze. Earthy colored ink, crowd depth, horse anatomy, everyday lived-in space; no signage text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Image 1 is style only. Wide spring outdoor public riding performance in an old Chinese market below a green slope. Central adult professional rider Li Gui in fitted dark purple traditional jacket, black cloth headwrap, muted yellow boots, riding a sturdy silver-maned gray horse and holding one red-shafted performance spear upright at safe distance. Spectators in a wide arc, no injury or combat. Up on the slope a small cropped outdoor table and a few distant women in pale robes watch without reciprocal romantic gaze. Earthy colored ink, crowd depth, horse anatomy, everyday lived-in space; no signage text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "090-02",
@@ -78,13 +114,15 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 Laiwang male face only, now noticeably stouter, middle-aged artisan in brown working coat; ref 2 ONLY the RIGHT woman, Sun Xue'e with the short small build and mature face, not left woman; ref 3 paint only. Three fully clothed adults in a small entry court. Laiwang lifts one open small tray from a pair of shoulder-pole boxes, showing tiny phoenix-shaped blue-green hair ornaments and a gold fish-shaped ornament. Xue'e in muted green examines the tray, the young adult daughter in pale clothes holds a dull bronze mirror at a distance. Observe everyday buying gestures, modest silk texture, worn baskets and wood, no branded writing.",
       "references": [
         "laiwang-030（来旺）",
-        "wives-030右（雪娥）",
-        "065-01（媒介）"
+        "references/wives-030.png（原说明：wives-030右（雪娥））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/090-02.png",
+      "image": "assets/090-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 Laiwang male face only, now noticeably stouter, middle-aged artisan in brown working coat; ref 2 ONLY the RIGHT woman, Sun Xue'e with the short small build and mature face, not left woman; ref 3 paint only. Three fully clothed adults in a small entry court. Laiwang lifts one open small tray from a pair of shoulder-pole boxes, showing tiny phoenix-shaped blue-green hair ornaments and a gold fish-shaped ornament. Xue'e in muted green examines the tray, the young adult daughter in pale clothes holds a dull bronze mirror at a distance. Observe everyday buying gestures, modest silk texture, worn baskets and wood, no branded writing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 Laiwang male face only, now noticeably stouter, middle-aged artisan in brown working coat; ref 2 ONLY the RIGHT woman, Sun Xue'e with the short small build and mature face, not left woman; ref 3 paint only. Three fully clothed adults in a small entry court. Laiwang lifts one open small tray from a pair of shoulder-pole boxes, showing tiny phoenix-shaped blue-green hair ornaments and a gold fish-shaped ornament. Xue'e in muted green examines the tray, the young adult daughter in pale clothes holds a dull bronze mirror at a distance. Observe everyday buying gestures, modest silk texture, worn baskets and wood, no branded writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "090-03-v2",
@@ -119,14 +157,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Painted Chinese gongbi narrative on silk, 3:2. Only three people total, EXACTLY TWO MEN AND ONE WOMAN. Ref1 is the prior jewelry scene: use the LEFT man, Laiwang, adult thickset male with a man's headwrap, short stubble and broad nose; and MIDDLE woman Sun Xue'e, short slender adult with a muted green jacket. IGNORE the far right woman. Ref2 is style only. At a predawn old Chinese crossroads, Laiwang (male, closed brown robe, dark male headwrap, visibly male face and short stubble) holds up a thin stick of incense to a different watchman (male, lean, dark cap, carrying traditional paper lantern). Sun Xue'e (the ONLY woman, a short adult with pinned bun and closed green cotton robe and full skirt) stands just behind Laiwang clutching a second incense stick and a closed travel bundle. Exactly three bodies, no bystanders, no visible contents, no text, no fight. Blue predawn stone street, warm small lantern, worn roof tiles, subtle mineral pigment and clear quiet gestures.",
       "references": [
-        "090-02左及中（来旺、雪娥）",
-        "065-01（媒介）"
+        "assets/090-02.webp（原说明：090-02左及中（来旺、雪娥））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/090-03-v2.png",
+      "image": "assets/090-03-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 原稿人物身份辨识有误，网页改用重新生成的版本；街巷、衣纹与器物为示意。",
       "knownDeviation": "原稿人物身份辨识有误，网页改用重新生成的版本；街巷、衣纹与器物为示意。",
-      "actualPrompt": "Painted Chinese gongbi narrative on silk, 3:2. Only three people total, EXACTLY TWO MEN AND ONE WOMAN. Ref1 is the prior jewelry scene: use the LEFT man, Laiwang, adult thickset male with a man's headwrap, short stubble and broad nose; and MIDDLE woman Sun Xue'e, short slender adult with a muted green jacket. IGNORE the far right woman. Ref2 is style only. At a predawn old Chinese crossroads, Laiwang (male, closed brown robe, dark male headwrap, visibly male face and short stubble) holds up a thin stick of incense to a different watchman (male, lean, dark cap, carrying traditional paper lantern). Sun Xue'e (the ONLY woman, a short adult with pinned bun and closed green cotton robe and full skirt) stands just behind Laiwang clutching a second incense stick and a closed travel bundle. Exactly three bodies, no bystanders, no visible contents, no text, no fight. Blue predawn stone street, warm small lantern, worn roof tiles, subtle mineral pigment and clear quiet gestures."
+      "actualPrompt": "Painted Chinese gongbi narrative on silk, 3:2. Only three people total, EXACTLY TWO MEN AND ONE WOMAN. Ref1 is the prior jewelry scene: use the LEFT man, Laiwang, adult thickset male with a man's headwrap, short stubble and broad nose; and MIDDLE woman Sun Xue'e, short slender adult with a muted green jacket. IGNORE the far right woman. Ref2 is style only. At a predawn old Chinese crossroads, Laiwang (male, closed brown robe, dark male headwrap, visibly male face and short stubble) holds up a thin stick of incense to a different watchman (male, lean, dark cap, carrying traditional paper lantern). Sun Xue'e (the ONLY woman, a short adult with pinned bun and closed green cotton robe and full skirt) stands just behind Laiwang clutching a second incense stick and a closed travel bundle. Exactly three bodies, no bystanders, no visible contents, no text, no fight. Blue predawn stone street, warm small lantern, worn roof tiles, subtle mineral pigment and clear quiet gestures.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "090-04",
@@ -159,47 +199,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY right woman Sun Xue'e, short petite adult woman with naturally individual face, NOT the woman at left. Ref2 painted style only. One fully clothed adult Chinese woman in a closed plain gray-green cotton jacket and full dark skirt, simple pinned hair without ornaments, pauses at a working kitchen doorway after changing clothes. Small clay stove, stacked dry wood, one covered pot, early daylight from small opening. Her face grief-stricken but dignified, not posing; gentle ink texture and human-scale space. No other figure, abuse, disrobing, or text.",
       "references": [
-        "wives-030右（雪娥）",
-        "065-01（媒介）"
+        "references/wives-030.png（原说明：wives-030右（雪娥））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/090-04.png",
+      "image": "assets/090-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY right woman Sun Xue'e, short petite adult woman with naturally individual face, NOT the woman at left. Ref2 painted style only. One fully clothed adult Chinese woman in a closed plain gray-green cotton jacket and full dark skirt, simple pinned hair without ornaments, pauses at a working kitchen doorway after changing clothes. Small clay stove, stacked dry wood, one covered pot, early daylight from small opening. Her face grief-stricken but dignified, not posing; gentle ink texture and human-scale space. No other figure, abuse, disrobing, or text."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "同样的物件不是同一笔账",
-      "text": "雪娥留下花翠欠一两二钱；次日月娘另拣首饰，以等子称三两二钱。不能拿前一笔的欠款证明后一笔已经结清。",
-      "evidence": [
-        {
-          "chapter": 90,
-          "paragraph": 28,
-          "quote": "欠他一两二钱银子"
-        },
-        {
-          "chapter": 90,
-          "paragraph": 31,
-          "quote": "该还他三两二钱银子"
-        }
-      ]
-    },
-    {
-      "title": "孩子病因是人物的解释",
-      "text": "月娘先怪轿中受冷，又怪抱去坟上；如意不同意。正文记了病状与慌乱，画页不据此确认病因或提供药方。",
-      "evidence": [
-        {
-          "chapter": 90,
-          "paragraph": 30,
-          "quote": "只是昏睡不醒"
-        },
-        {
-          "chapter": 90,
-          "paragraph": 30,
-          "quote": "我拿小被儿裹的严严的"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY right woman Sun Xue'e, short petite adult woman with naturally individual face, NOT the woman at left. Ref2 painted style only. One fully clothed adult Chinese woman in a closed plain gray-green cotton jacket and full dark skirt, simple pinned hair without ornaments, pauses at a working kitchen doorway after changing clothes. Small clay stove, stacked dry wood, one covered pot, early daylight from small opening. Her face grief-stricken but dignified, not posing; gentle ink texture and human-scale space. No other figure, abuse, disrobing, or text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

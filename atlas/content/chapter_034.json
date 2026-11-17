@@ -1,0 +1,376 @@
+{
+  "number": 34,
+  "title": "第三十四回书童儿因宠揽事　平安儿含恨戳舌",
+  "intro": "一宗街坊纠纷从求情、改报进入衙门，又被银子、酒菜与转话送回内宅。五图只取第34回已经发生的非性化时刻，账目、人物自述与告状估数分别标明；不借后回结果解释当下。",
+  "supplements": [
+    {
+      "title": "裁衣、礼酒与说法的边界",
+      "text": "庆取出大红纻丝、鹦哥绿潞紬，让李瓶儿为官哥裁衣；奶子抱哥，迎春执熨斗。此刻未单独配图。随后庆讲刘百户皇木盖房及受礼之事，是他的自述；拒银与收酒食缎子的道德自许不代替独立核查。",
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 9,
+          "quote": "原来西门庆拿出两疋尺头来：一疋大红纻丝、一疋鹦哥绿潞紬，敎李瓶儿替官哥裁毛衫儿、披袄、背心儿、护顶之类。"
+        }
+      ]
+    },
+    {
+      "title": "堂上刑责与内房劝说",
+      "text": "韩二与街坊各执说法，庆据越墙入屋责打并收监四人；暴力不配刺激画面。李瓶儿后来劝庆少拶打人，阮三、小姐与薛姑子的故事全由庆席间讲述，不另画为已经独立核实的现场，也不把其中医学和刑律说法当现代知识。",
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 13,
+          "quote": "那韩二在下边，两只眼只看着西门庆。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 21,
+          "quote": "李瓶儿道：「你到明日也要少拶打人，得将就将就些儿，那裏不是积福处！」"
+        }
+      ]
+    },
+    {
+      "title": "书房亲昵与门外窥听仅留文字",
+      "text": "本回写庆与书童在书房亲昵，平安、画童在窗外听觑；书童的确切年龄未由本章核定，未作性化图像。告状中进一步的性关系指控仍标人物话语，不把听觑当成旁人全部知情的证明；未请求此场景生图。",
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 19,
+          "quote": "那平安就知西门庆与书童干那不急的事，悄悄走在窗下听觑。"
+        }
+      ]
+    },
+    {
+      "title": "归来的一句双席儿",
+      "text": "金莲归宅先拜月娘与众人，继而来到李瓶儿房中，称自己重复吃了双席儿，抽身便走。叙述者解释其讥讽李瓶儿先陪书童、后陪庆饮酒；庆不明就里。这里止于当回的言语，不续写下回反应。",
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 24,
+          "quote": "金莲道：「今日我偏了杯，重复吃了双席儿，不坐了。」说着，扬长抽身就去了。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "034-01",
+      "chapter": 34,
+      "title": "翡翠轩里，翻开中秋礼账",
+      "excerpt": {
+        "chapter": 34,
+        "paragraph": 8,
+        "quote": "绿纱窗下，安放一只黑漆琴桌，独独放着一张螺甸交椅。书箧内都是往来书柬拜帖，并送中秋礼物帐簿。应伯爵取过一本，揭开观看，上面写着：蔡老爷、蔡大爷、朱太尉、童太尉、中书蔡四老爹、都尉蔡五老爹，并本县知县、知府四宅；第二本是周守备、夏提刑、荆都监、张团练，并刘薛二内相。"
+      },
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 8,
+          "quote": "两边彩漆描金书厨，盛的都是送礼的书帕、尺头，几席文具书籍堆满。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 8,
+          "quote": "都是金缎尺头、猪酒金饼、鲥鱼海鲜、鸡鹅大礼，各有轻重不同。"
+        }
+      ],
+      "people": [
+        "应伯爵"
+      ],
+      "place": "翡翠轩里间书房",
+      "event": "等待西门庆时，应伯爵自行翻看中秋送礼账簿。",
+      "why": "求情尚未开口，读者先看见书房中连着官场的人情往来。",
+      "composition": "应伯爵独占近景，双手翻开账簿；绿纱窗、黑漆桌、书箧与叠放尺头在后。韩道国仍在等候但裁在画外。",
+      "summary": "韩道国求伯爵搭桥，二人来到翡翠轩等候。伯爵走进里间，看到书厨、尺头与往来书柬，又自行揭开中秋礼账。账中列出的官员与各色礼物，把家庭书房接向外部权力关系。图只画一次翻阅，不把名单中的官员召到现场，也不据这些礼项推算未经核实的总额。",
+      "psychology": {
+        "明写": "伯爵走入里间，取账揭看。",
+        "推断": "垂眼细看、手停在纸页上的专注，是对动作的视觉转译，不能据此断定他当时逐项盘算了什么。"
+      },
+      "social": "礼账按不同对象区分轻重，显示礼物交换有层次；实际总额、账制和制度合法性均未由本段考定。",
+      "explicit": [
+        "里间有绿纱窗、黑漆琴桌、螺甸交椅、书箧与中秋礼账。",
+        "账内列官员与金缎、猪酒、金饼、鲥鱼等礼物。"
+      ],
+      "inference": {
+        "推断": "只取伯爵近景，不声称韩道国已经离开。",
+        "美术补足": "账簿开本、翻页手势、衣色、书厨尺度和窗外植物为美术安排；账页不生成可读名单。"
+      },
+      "history": "小说事实仅据用户梦梅馆词话本第34回隔离正文，必要前情只据第33回连续性短记；故事朝代与晚明视觉参考分开。衣物、酒器、司法操作与空间未声称精确考证；生成图不作史证。",
+      "memoryPoint": "先见礼账，再听求情；名单不等于在场人。",
+      "references": [
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: a warm daylight moment in the inner garden study Feicui Xuan, early autumn implied by the approaching Mid-Autumn gift ledger, no seasonal exaggeration. One fully clothed man visible: Ying Bojue, identify ONLY the man at the LEFT of reference image, lean long face, fine short moustache and pointed sparse beard, natural eye-corner lines. He wears a modest muted brown-grey summer robe and practical black cloth cap; seated in three-quarter view near a black-lacquer writing table under a green gauze lattice window. He has just opened one stitched paper ledger with both hands, looking down at its pages; pages show only indistinct faint ruled marks, no readable writing. An open wooden document chest with folded correspondence, stacked silk gift lengths in painted wood shelving, loosely arranged books and writing tools. In deep background a black lacquer and pale marble summer couch partly screened by blue-green gauze curtains. Do not show any official or gift recipient. No extra people, coins, servants, fan or food. Candid diagonal framing, the open ledger and alert face are the focus; two natural separate hands.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: a warm daylight moment in the inner garden study Feicui Xuan, early autumn implied by the approaching Mid-Autumn gift ledger, no seasonal exaggeration. One fully clothed man visible: Ying Bojue, identify ONLY the man at the LEFT of reference image, lean long face, fine short moustache and pointed sparse beard, natural eye-corner lines. He wears a modest muted brown-grey summer robe and practical black cloth cap; seated in three-quarter view near a black-lacquer writing table under a green gauze lattice window. He has just opened one stitched paper ledger with both hands, looking down at its pages; pages show only indistinct faint ruled marks, no readable writing. An open wooden document chest with folded correspondence, stacked silk gift lengths in painted wood shelving, loosely arranged books and writing tools. In deep background a black lacquer and pale marble summer couch partly screened by blue-green gauze curtains. Do not show any official or gift recipient. No extra people, coins, servants, fan or food. Candid diagonal framing, the open ledger and alert face are the focus; two natural separate hands.",
+      "image": "assets/034-01.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰一名伯爵，瘦长脸、细须和眼角纹沿用指定合像左侧；双手各扶账簿，书页不可读，绿纱窗、书箧、叠放尺头与黑漆凉床形成里间层次。双臂双手清楚，无官员或韩道国被额外召入。图中微笑、账簿开本、书厨纹样、窗外泛黄树叶和桌具为美术补足，不用来证明明确季节、心计或实际账制；关键人物、翻账动作与陈设依据可采用，无需修图。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "034-02",
+      "chapter": 34,
+      "title": "改了报单，案子转到自家衙门",
+      "excerpt": {
+        "chapter": 34,
+        "paragraph": 10,
+        "quote": "西门庆道：「这帖子不是这等写了，只有你令弟韩二一人就是了。」向伯爵道：「比是我拿帖对县裏说，不如只吩咐地方改了报单，明日带来我衙门裏来发落就是了。」"
+      },
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 10,
+          "quote": "那韩道国又倒身磕头下去。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 10,
+          "quote": "不一时，呌了个穿青衣的节级来，在旁边伺候。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 10,
+          "quote": "吩咐把王氏实时与我放了，查出那几个光棍名字来，改了报帖，明日早解提刑院我衙门裏听审。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "韩道国",
+        "应伯爵",
+        "青衣节级"
+      ],
+      "place": "翡翠轩明间",
+      "event": "西门庆不再递帖向县中求情，改命节级放王氏、改报帖并将人解到提刑院。",
+      "why": "韩道国一次跪求，把一宗街坊纠纷转入雇主自己能够发落的衙门。",
+      "composition": "左西门庆坐着伸手吩咐，右青衣节级侧身听令；前景韩道国跪低，后侧伯爵坐着旁观。玳安裁在画外。",
+      "summary": "韩道国刚开口就被伯爵截住，诉说被改写成街坊欺负的故事。庆看帖后，提出不必向知县讨分上，直接命地方改报，放王氏回家，明早把人解到自己衙门。韩再跪谢，青衣节级领命。图取宅内口头交代的一刻，既没有当场审讯，也不把伯爵的辩词当作已经查明的实情。",
+      "psychology": {
+        "明写": "韩道国再次磕头，庆吩咐节级，伯爵催韩行礼。",
+        "推断": "庆的指示手势、韩低伏的身体和节级侧耳听令，用来呈现交代关系，不据面相判定善恶。"
+      },
+      "social": "宅内交情已能影响报单与承办地点；只据小说这一次操作，不扩成经核实的普遍司法程序。",
+      "explicit": [
+        "庆命放王氏，查街坊姓名，改报帖并解提刑院。",
+        "韩再跪谢，节级穿青衣。"
+      ],
+      "inference": {
+        "推断": "把连贯吩咐压在一个停顿中，不画下一日已经发生。",
+        "美术补足": "庆与伯爵的便衣颜色、节级帽式、跪姿与椅桌布局未明。"
+      },
+      "history": "小说事实仅据用户梦梅馆词话本第34回隔离正文，必要前情只据第33回连续性短记；故事朝代与晚明视觉参考分开。衣物、酒器、司法操作与空间未声称精确考证；生成图不作史证。",
+      "memoryPoint": "递帖求情，变成改报换衙门。",
+      "references": [
+        "references/ximen.png",
+        "assets/033-01.webp",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: daylight in the main room of Feicui Xuan garden study. Exactly FOUR fully clothed men in a candid asymmetric composition. LEFT seated Ximen Qing, preserve the long face, straight brows, narrow eyes and long torso from image 1; muted olive-grey informal robe and black soft cap. He gestures one open hand toward a standing blue-clad court runner on the RIGHT, verbally giving instructions, the other hand rests naturally on the table beside one folded petition with unreadable marks. The runner has ordinary unindividualized features, plain blue cloth tunic and black practical cloth cap, arms held together respectfully, listening, no weapons. FRONT near center Han Daoguo kneels low with both hands on the floor, use ONLY the RIGHT man's compact build, broad oval full-cheeked face and short moustache from image 2, plain brown robe and black cap. BEHIND on a side chair Ying Bojue, ONLY the LEFT man of image 3, lean long face, fine moustache and short pointed beard, modest grey-brown robe, looking toward Ximen. No extra servants. Garden bamboo visible through woven hanging blinds; low dark lacquer chairs with woven cushions and pale marble side table. No court hall, prisoners, shackles, execution tools, blood, money or actual writing of a new report. All limbs separated, realistic anatomy, authority expressed by spacing and action rather than caricature.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: daylight in the main room of Feicui Xuan garden study. Exactly FOUR fully clothed men in a candid asymmetric composition. LEFT seated Ximen Qing, preserve the long face, straight brows, narrow eyes and long torso from image 1; muted olive-grey informal robe and black soft cap. He gestures one open hand toward a standing blue-clad court runner on the RIGHT, verbally giving instructions, the other hand rests naturally on the table beside one folded petition with unreadable marks. The runner has ordinary unindividualized features, plain blue cloth tunic and black practical cloth cap, arms held together respectfully, listening, no weapons. FRONT near center Han Daoguo kneels low with both hands on the floor, use ONLY the RIGHT man's compact build, broad oval full-cheeked face and short moustache from image 2, plain brown robe and black cap. BEHIND on a side chair Ying Bojue, ONLY the LEFT man of image 3, lean long face, fine moustache and short pointed beard, modest grey-brown robe, looking toward Ximen. No extra servants. Garden bamboo visible through woven hanging blinds; low dark lacquer chairs with woven cushions and pale marble side table. No court hall, prisoners, shackles, execution tools, blood, money or actual writing of a new report. All limbs separated, realistic anatomy, authority expressed by spacing and action rather than caricature.",
+      "image": "assets/034-02.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰四男：左庆坐案伸手口头吩咐，前景韩道国跪着两掌着地，中后伯爵坐旁看，右侧青衣节级拱手听令；三张既有脸与韩的短紧圆颊相貌可区分。纸帖无可读字，不误画成堂上已审或当场正在改报。庆、韩、伯爵与节级的臂手分别连贯，未添第五仆人、刑具和受刑者。韩抬头微笑与伯爵的闲坐是视觉转译，未用来否定其跪谢；关键人数、身份与吩咐动作可采用，无需修图。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "034-03",
+      "chapter": 34,
+      "title": "十五两银子，书童还要再添五两",
+      "excerpt": {
+        "chapter": 34,
+        "paragraph": 16,
+        "quote": "因向袖中取出银子来，递与书童。"
+      },
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 16,
+          "quote": "书童打开看了，大小四锭零四块，"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 16,
+          "quote": "旣是应二爹分上，敎他再拿五两来，待小的替他说，还不知爹肯不肯。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 16,
+          "quote": "小的这银子，不独自一个使，还破些钞儿，转达知俺生哥的六娘，遶个弯儿替他说，纔了他此事。"
+        }
+      ],
+      "people": [
+        "应伯爵",
+        "书童"
+      ],
+      "place": "西门宅厅旁僻静处",
+      "event": "应伯爵把十五两银子递给书童，书童看后又要求再添五两，提出经李瓶儿转说。",
+      "why": "前面替韩求情的人，又接下另一头的银子；书童成了绕入内房的中介。",
+      "composition": "左伯爵将刚打开的钱包递近；右书童低头查看，另一只手略抬，像在提出补添要求。四锭及四块小银放在展开布包上。",
+      "summary": "四家父兄合凑四十两交伯爵，他取出十五两来找管书房的书童。庆尚未归，伯爵把钱递到僻静处。书童打开看了，又要添五两，并说还须花些钱、转达李瓶儿绕弯说情。图只取眼前这次交银；四十两总数、再添五两的要求和之后实际花费分开，不画成全都已经给付。",
+      "psychology": {
+        "明写": "伯爵说自己已替韩说过，不好再出面；书童说不知庆肯否，并要再拿五两。",
+        "推断": "书童查看布包、伯爵靠近压低话声，是对私下交涉的动作补足；不由此补出固定性格。"
+      },
+      "social": "公开请求绕成书房仆役与内房转话的线路，四家所付四十两不等于书童此时拿到四十两。",
+      "explicit": [
+        "伯爵取十五两交书童；银形为大小四锭零四块。",
+        "书童要求再添五两，提出经六娘转说。",
+        "书童此时戴瓦楞帽、金头莲瓣簪，穿苏州绢直裰与玉色纱衣物，凉鞋净袜。"
+      ],
+      "inference": {
+        "推断": "停在打开银包的片刻，不把未见给付的再添五两画上去。",
+        "美术补足": "书童新建清瘦长椭圆脸、直眉、无须和收窄下颌，仅作识别约定；年龄未明，不由职业认定成年。玉色纱【衤旋】儿的精确裁法未考定，图用不暴露的浅玉色夏衣层次示意。"
+      },
+      "history": "小说事实仅据用户梦梅馆词话本第34回隔离正文，必要前情只据第33回连续性短记；故事朝代与晚明视觉参考分开。衣物、酒器、司法操作与空间未声称精确考证；生成图不作史证。",
+      "memoryPoint": "四十两是收进，十五两是递出，再五两仍是要求。",
+      "references": [
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: private daylight exchange beside a secluded wooden side hall of the Ximen household, no public crowd. Exactly TWO fully clothed people visible. LEFT Ying Bojue, use ONLY the LEFT man's lean long face, natural eye-corner lines, fine short moustache and sparse pointed beard from the reference, modest grey-brown light robe and black cap. He holds out an unfolded dull tan cloth money bundle at waist height. RIGHT new character Shutong, a youthful male household servant whose exact age is unspecified; slim long-oval face, straight natural brows, dark eyes, narrow rounded chin, no facial hair, natural distinct face, neither glamorous nor caricatured. He wears a black pleated cloth cap with a dark silk hair tie and a small golden lotus-tip pin, opaque plain ivory silk straight robe with pale jade gauze outer clothing, dark sash, clean socks and practical sandals. No skin exposure. Shutong looks down and steadies the near edge of the cloth bundle with one hand; his free hand is slightly raised in a restrained bargaining gesture, with all fingers anatomically natural. In the open bundle are exactly FOUR larger irregular silver ingots and FOUR smaller silver fragments, unmarked and distinct, no modern banknotes, coins or gold. Both faces clearly visible three-quarter view. The exchange is discreet, with shaded plain plaster wall and worn wooden threshold, no other people or intrusive objects. No touching bodies, flirtation, sexuality, drinking or affection. Hands and bundle clearly readable, no readable writing.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: private daylight exchange beside a secluded wooden side hall of the Ximen household, no public crowd. Exactly TWO fully clothed people visible. LEFT Ying Bojue, use ONLY the LEFT man's lean long face, natural eye-corner lines, fine short moustache and sparse pointed beard from the reference, modest grey-brown light robe and black cap. He holds out an unfolded dull tan cloth money bundle at waist height. RIGHT new character Shutong, a youthful male household servant whose exact age is unspecified; slim long-oval face, straight natural brows, dark eyes, narrow rounded chin, no facial hair, natural distinct face, neither glamorous nor caricatured. He wears a black pleated cloth cap with a dark silk hair tie and a small golden lotus-tip pin, opaque plain ivory silk straight robe with pale jade gauze outer clothing, dark sash, clean socks and practical sandals. No skin exposure. Shutong looks down and steadies the near edge of the cloth bundle with one hand; his free hand is slightly raised in a restrained bargaining gesture, with all fingers anatomically natural. In the open bundle are exactly FOUR larger irregular silver ingots and FOUR smaller silver fragments, unmarked and distinct, no modern banknotes, coins or gold. Both faces clearly visible three-quarter view. The exchange is discreet, with shaded plain plaster wall and worn wooden threshold, no other people or intrusive objects. No touching bodies, flirtation, sexuality, drinking or affection. Hands and bundle clearly readable, no readable writing.",
+      "image": "assets/034-03.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。左伯爵沿用瘦长脸细须；右书童新定清瘦长椭圆脸、直眉、无须及收窄圆下颌。布包上四枚较大银锭与四块小银逐个可数，未多添五两的给付情节。伯爵两手扶布，书童一手扶布一手抬起，恰四手自然分开；帽、莲瓣小金簪与浅玉色遮蔽衣层可辨。衣物精确裁法与银锭重量未考定，不把每锭大小当真实衡量；无身体接触、饮酒或性化表现。身份、数量与交银动作合格，无需修图。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "034-04",
+      "chapter": 34,
+      "title": "无名之食，先把缘由说明白",
+      "excerpt": {
+        "chapter": 34,
+        "paragraph": 17,
+        "quote": "李瓶儿道：「你有甚事，说了，我纔吃你的；不说，你就跪一百年，我也是不吃。」又道：「你起来说。」"
+      },
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 17,
+          "quote": "那书童把酒打开，菜蔬都摆在小桌上，敎迎春取了把银素筛了来，倾酒在锺内，双手递上去，跪下说道：「娘吃过，等小的对娘说。」"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 17,
+          "quote": "那书童于是把应伯爵所央四人之事，従头诉说一遍："
+        },
+        {
+          "chapter": 34,
+          "paragraph": 17,
+          "quote": "不瞒娘说，他送了小的五两银子。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 17,
+          "quote": "李瓶儿笑道：「原来也是这个事！不打紧，等你爹来家，我和他说就是了。"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "书童"
+      ],
+      "place": "李瓶儿房内",
+      "event": "书童以酒菜孝顺李瓶儿，李瓶儿坚持先问缘由；他才说明请托。",
+      "why": "食物不是无来由的礼物，转说的条件先在房内被追问。",
+      "composition": "右李瓶儿端坐描金炕边，抬一掌示意先说；左书童跪在小桌旁，双手托着银杯。婴儿、迎春与先前猫耍场面裁在画外。",
+      "summary": "书童从银子中凿下一两五钱买来酒菜，送进李瓶儿房里。他跪着奉杯，她却坚持先听缘故，不肯吃无名之食。说明后，她答应对庆转说；书童声称自己只收五两，与叙述者此前所写十五两不同。图停在问话与奉杯之间，不把后来假托花大舅的帖儿安排成真实来信。",
+      "psychology": {
+        "明写": "李瓶儿先不肯吃，要求书童说明白；听后笑着答应，追问是否收了东西。",
+        "推断": "抬掌暂止奉杯和书童仰首解释是把对话化为动作，不补断她已知所有银钱内幕。"
+      },
+      "social": "馈食、内房转话和虚构来路相接；“花大舅那头使人来说”是预设托词，不是独立发生的事实。",
+      "explicit": [
+        "书童买酒菜，先跪奉酒；李瓶儿坚持先说原因。",
+        "书童向她自报收五两；叙述者前文交代的是伯爵递十五两。"
+      ],
+      "inference": {
+        "推断": "取奉杯被暂止的时刻，不把随后对饮、回斟合入同一动作。",
+        "美术补足": "李瓶儿服色、抬手方向、桌具和菜肴摆位属美术安排；无精确酒器考证。"
+      },
+      "history": "小说事实仅据用户梦梅馆词话本第34回隔离正文，必要前情只据第33回连续性短记；故事朝代与晚明视觉参考分开。衣物、酒器、司法操作与空间未声称精确考证；生成图不作史证。",
+      "memoryPoint": "她要先听缘由；五两是自报，不是叙述者核账。",
+      "references": [
+        "references/ping-013.png",
+        "assets/034-03.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: daylight inside Li Ping'er's private room, a fully clothed nonsexual petition over food. Exactly TWO people are visible in this close composition; other attendants and the infant are outside the crop. RIGHT Li Ping'er sits upright on the edge of a gilded wooden kang couch with a muted cloth cushion, use the small build, fair narrow melon-seed oval face and fine curved brows of image 1; she wears a closed-collar muted apricot silk jacket and pale skirt, practical black updo, a simple gold-toned bracelet. Her nearer open palm calmly pauses the offer while she speaks and looks at the servant, no cup in her own hands. LEFT Shutong kneels beside a low table and holds ONE small plain silver wine cup respectfully in BOTH hands at chest height; preserve ONLY the RIGHT young servant's slim long-oval face, straight brows, dark eyes, narrow rounded chin, no beard, black pleated cap with small lotus-tip gold pin, pale jade opaque layered summer clothing from image 2. Exact age unspecified, no adult assumption and no sexual presentation. The cup remains clearly separated from Li's hand. Low table has a squat ceramic wine jar, simple covered silver warming vessel, plates of cooked duck, chicken and fish; no lavish new dishes beyond this household meal. Candid diagonal framing, tension in the paused offering and exchange of eyes, two distinct faces, four separate natural hands. No touching, erotic body language, baby, cat, additional women, servants, readable writing, money or petition sheet.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: daylight inside Li Ping'er's private room, a fully clothed nonsexual petition over food. Exactly TWO people are visible in this close composition; other attendants and the infant are outside the crop. RIGHT Li Ping'er sits upright on the edge of a gilded wooden kang couch with a muted cloth cushion, use the small build, fair narrow melon-seed oval face and fine curved brows of image 1; she wears a closed-collar muted apricot silk jacket and pale skirt, practical black updo, a simple gold-toned bracelet. Her nearer open palm calmly pauses the offer while she speaks and looks at the servant, no cup in her own hands. LEFT Shutong kneels beside a low table and holds ONE small plain silver wine cup respectfully in BOTH hands at chest height; preserve ONLY the RIGHT young servant's slim long-oval face, straight brows, dark eyes, narrow rounded chin, no beard, black pleated cap with small lotus-tip gold pin, pale jade opaque layered summer clothing from image 2. Exact age unspecified, no adult assumption and no sexual presentation. The cup remains clearly separated from Li's hand. Low table has a squat ceramic wine jar, simple covered silver warming vessel, plates of cooked duck, chicken and fish; no lavish new dishes beyond this household meal. Candid diagonal framing, tension in the paused offering and exchange of eyes, two distinct faces, four separate natural hands. No touching, erotic body language, baby, cat, additional women, servants, readable writing, money or petition sheet.",
+      "image": "assets/034-04.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。画内恰瓶儿与书童：右瓶儿小瓜子脸、细弯眉承接旧参考，抬掌暂止并开口问话；左书童侧面保持034-03的长椭圆脸、直眉、无须、帽与莲瓣小簪，低位跪奉一只银杯。两人无接触，杯与瓶儿的手明确分开，书童托杯的两手相近叠持，瓶儿另一手置膝；没有多臂、递帖或钱银混入。鸭、鸡、鱼、酒坛与银色温酒器可辨，器型与陈设不声称考证。小腿与跪膝被衣褶和桌沿遮住，记录为构图遮蔽，不据图量身高；奉杯被暂止的叙事清楚，可采用，无需修图。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "034-05",
+      "chapter": 34,
+      "title": "灯笼照轿，门上怨言送进帘内",
+      "excerpt": {
+        "chapter": 34,
+        "paragraph": 23,
+        "quote": "平安儿走向前，一把手拉住轿扛子，说道：「小的来接娘来了。」"
+      },
+      "evidence": [
+        {
+          "chapter": 34,
+          "paragraph": 23,
+          "quote": "迎到半路，只见来安儿跟着轿子従南来了。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 23,
+          "quote": "金莲就呌平安儿问道：「你爹在家？是你爹使你来接我？谁使你来？」"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 19,
+          "quote": "那平安儿因书童儿不请他吃东道，把嘴头子撅着，正没好气，"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 23,
+          "quote": "在来兴屋裏敎他媳妇子整治了，掇到六娘屋裏。"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "平安儿",
+        "张川儿",
+        "魏聪儿"
+      ],
+      "place": "潘金莲归家半途的街上",
+      "event": "平安提灯接轿，拦轿回话，并把自己未被邀吃的怨气带入告状。",
+      "why": "前堂遗漏的一顿酒食，经过门上人的嘴，进入内宅的猜疑。",
+      "composition": "左前平安一手提素灯、一手扶轿扛，朝帘口说话；右轿中金莲探面回问。前后两轿夫停步承轿，来安在画外。",
+      "summary": "春梅催接，庆同意后，平安提灯迎到半路，扶住轿扛回话。金莲先问谁使他来，他一面说庆在六娘房中吃酒，一面把书童买酒菜与聚饮的事告诉她。叙述者明写平安因未被请吃而不快；他的估数和揣测仍是个人话语，不能替代前文银钱记录，更不能把轿夫谈的别家事转成官哥将来的结果。",
+      "psychology": {
+        "明写": "平安因未被请吃东道而没好气；金莲听后半日无语又冷笑。",
+        "推断": "图取对话刚起时的凝视和紧握轿扛，不把后面每一句咒骂都固定为同一面部表情。"
+      },
+      "social": "门仆的见闻与怨气通过接送任务传播；知道局部生活不等于知道所有来由。",
+      "explicit": [
+        "平安提灯接金莲，半路扶住轿扛。",
+        "轿夫名张川儿、魏聪儿；来安跟轿。",
+        "平安未被请吃，回话夹入对书童、李瓶儿与庆的指控。"
+      ],
+      "inference": {
+        "推断": "只画四张脸，来安裁在画外，不声称他离队。",
+        "美术补足": "归家时点用暮色表现；灯笼形制、轿舆结构、道路与衣料细部未考定。金莲下轿时服饰用于同次归途中，属于有限时序推断。平安年龄未明，清瘦年轻脸仅为识别约定。"
+      },
+      "history": "小说事实仅据用户梦梅馆词话本第34回隔离正文，必要前情只据第33回连续性短记；故事朝代与晚明视觉参考分开。衣物、酒器、司法操作与空间未声称精确考证；生成图不作史证。",
+      "memoryPoint": "没被请的一顿饭，变成一路告状。",
+      "references": [
+        "references/pan-solo-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: early evening on a modest late-Ming street, Pan Jinlian's return sedan has paused midway home. Exactly FOUR visible people in a 3:2 wide candid scene. At LEFT FOREGROUND Ping'an, a youthful male gate servant of unspecified exact age, entirely nonsexual: slightly narrow square face with a broader low jaw, natural straight eyebrows, dark eyes, no beard, simple black cloth cap, plain indigo tunic and dark trousers. In his LEFT hand he carries one plain unlettered paper lantern with a warm candle glow; his RIGHT hand grips the nearer wooden sedan carrying pole in front of the cabin, fingers naturally wrapped and anatomically clear. He looks toward the open side curtain and speaks. At RIGHT CENTER Pan Jinlian sits fully clothed inside the sedan and looks toward Ping'an through a small lifted curtain opening, use ONLY the face in reference: narrow oval face and clearly shaped brows, black hair in a practical dressed updo. Her outfit for this return journey is a closed-front lilac silk jacket with modest multicolored woven floral roundel detail, white skirt largely hidden in the cabin, small gold collar ornament, NO blue vest and NO tea-shop clothing. Two ordinary sedan bearers, one in FRONT LEFT midground and one at REAR RIGHT, both in plain brown-grey cloth and head wraps, have paused with a coherent pair of long horizontal poles on their shoulders. Distinct human faces but no new named portrait identity required for bearers. Their lower legs may be cropped by the frame. The trailing servant Lai'an is outside the crop, do not add a fifth person. Sturdy cloth-covered wooden cabin, believable weight and straight connected pole geometry, warm lantern against dusk blue-grey plaster street. No readable letters, signs, ghostly figures, future imagery, child, extra sedan, gold coins or violence. Four anatomically distinct people, no duplicated arms or fused carrying poles.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, 3:2 horizontal. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, realistic varied faces, everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No text, readable marks, lettering, labels, calligraphy, signature, watermark, modern objects, glass-chimney lamps or European furniture. Literary illustration, not a verified historical reconstruction. References lock ONLY identified faces and broad build, never import old clothing, posture, emotional state or furniture. Scene: early evening on a modest late-Ming street, Pan Jinlian's return sedan has paused midway home. Exactly FOUR visible people in a 3:2 wide candid scene. At LEFT FOREGROUND Ping'an, a youthful male gate servant of unspecified exact age, entirely nonsexual: slightly narrow square face with a broader low jaw, natural straight eyebrows, dark eyes, no beard, simple black cloth cap, plain indigo tunic and dark trousers. In his LEFT hand he carries one plain unlettered paper lantern with a warm candle glow; his RIGHT hand grips the nearer wooden sedan carrying pole in front of the cabin, fingers naturally wrapped and anatomically clear. He looks toward the open side curtain and speaks. At RIGHT CENTER Pan Jinlian sits fully clothed inside the sedan and looks toward Ping'an through a small lifted curtain opening, use ONLY the face in reference: narrow oval face and clearly shaped brows, black hair in a practical dressed updo. Her outfit for this return journey is a closed-front lilac silk jacket with modest multicolored woven floral roundel detail, white skirt largely hidden in the cabin, small gold collar ornament, NO blue vest and NO tea-shop clothing. Two ordinary sedan bearers, one in FRONT LEFT midground and one at REAR RIGHT, both in plain brown-grey cloth and head wraps, have paused with a coherent pair of long horizontal poles on their shoulders. Distinct human faces but no new named portrait identity required for bearers. Their lower legs may be cropped by the frame. The trailing servant Lai'an is outside the crop, do not add a fifth person. Sturdy cloth-covered wooden cabin, believable weight and straight connected pole geometry, warm lantern against dusk blue-grey plaster street. No readable letters, signs, ghostly figures, future imagery, child, extra sedan, gold coins or violence. Four anatomically distinct people, no duplicated arms or fused carrying poles.",
+      "image": "assets/034-05.webp",
+      "status": "generated",
+      "review": "已实际view_image打开本地采用图。恰四张脸：平安提灯扶住近侧轿扛向帘内回话，轿中金莲沿用窄鹅蛋脸与清晰眉眼，前后两名轿夫停步承轿；来安裁在画外。平安左手提素灯、右手握扛，双臂自然连接，轿夫的手与肩上木扛可辨，没有多臂、悬空手或第五个人。木扛与轿体连接是美术示意，不作为实际轿舆测绘；平安的青年年龄感不是确岁证明。丁香色衣与花纹呈现同次归途服饰，不声称精复纳纱补子；裙与金荷包多被舱体挡住。暮色、轿布、道路与树叶为补足，无未来灾兆、性化或暴力。关键人物、接轿动作和告状的对话入口合格，无需修图。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

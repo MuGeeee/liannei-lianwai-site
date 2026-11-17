@@ -2,6 +2,41 @@
   "number": 76,
   "title": "第七十六回孟玉楼解愠吴月娘　西门庆斥逐温葵轩",
   "intro": "说和、说情、收文、交钥匙与闭门：本回的许多转折，发生在一双手交出或收回东西的时候。",
+  "supplements": [
+    {
+      "title": "把症状、诊断和感受分开",
+      "text": "医官解释脉理，月娘自述不适；后来她说好转并与玉楼开玩笑。三者均是人物当时的话，不据此向读者证明一套现代医学因果。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 19,
+          "quote": "今日好了，头也不疼，心口也不发胀了"
+        }
+      ]
+    },
+    {
+      "title": "前一回的奉价，在这里被辞掉",
+      "text": "宋再次说还当奉价，西门答岂敢云价。这是76回新增的对话，不回头改75回尚待兑现的承诺记录。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 8,
+          "quote": "岂敢云价"
+        }
+      ]
+    },
+    {
+      "title": "账和银钱一并交接",
+      "text": "玉楼攒账后不再管使用银钱，西门兑三十两银、三十吊钱交金莲。银与钱并列，不能把两个三十直接相加成同一货币总额。",
+      "evidence": [
+        {
+          "chapter": 76,
+          "paragraph": 19,
+          "quote": "三十两银子，三十吊钱"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "076-01",
@@ -31,13 +66,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY mature round-faced Wu Yueniang. Reference2 ONLY painted gongbi silk medium. Intimate Chinese winter household consultation, TWO principal fully clothed adults and one plain attendant partly visible. Yueniang, short-to-average stature, full round face, modest pregnant silhouette under CLOSED WHITE silk padded jacket and PALE YELLOW long skirt, sits at LEFT of a small table. She rests ONE wrist on a small textile cushion, sleeve otherwise covering arm. Opposite at right an older lean male doctor with long face gray short beard and plain charcoal scholar robe gently places two fingertips at her wrist, professional serious posture, no intimacy. A young household attendant stands far behind holding a covered tea tray, no sexualization. Woven carpet, plain chair and modest brazier, diffused winter daylight, no medicine being given or guaranteed recovery, no writing, anatomy coherent, fine ink lines matte mineral pigment.",
       "references": [
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-01.png",
+      "image": "assets/076-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY mature round-faced Wu Yueniang. Reference2 ONLY painted gongbi silk medium. Intimate Chinese winter household consultation, TWO principal fully clothed adults and one plain attendant partly visible. Yueniang, short-to-average stature, full round face, modest pregnant silhouette under CLOSED WHITE silk padded jacket and PALE YELLOW long skirt, sits at LEFT of a small table. She rests ONE wrist on a small textile cushion, sleeve otherwise covering arm. Opposite at right an older lean male doctor with long face gray short beard and plain charcoal scholar robe gently places two fingertips at her wrist, professional serious posture, no intimacy. A young household attendant stands far behind holding a covered tea tray, no sexualization. Woven carpet, plain chair and modest brazier, diffused winter daylight, no medicine being given or guaranteed recovery, no writing, anatomy coherent, fine ink lines matte mineral pigment."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY mature round-faced Wu Yueniang. Reference2 ONLY painted gongbi silk medium. Intimate Chinese winter household consultation, TWO principal fully clothed adults and one plain attendant partly visible. Yueniang, short-to-average stature, full round face, modest pregnant silhouette under CLOSED WHITE silk padded jacket and PALE YELLOW long skirt, sits at LEFT of a small table. She rests ONE wrist on a small textile cushion, sleeve otherwise covering arm. Opposite at right an older lean male doctor with long face gray short beard and plain charcoal scholar robe gently places two fingertips at her wrist, professional serious posture, no intimacy. A young household attendant stands far behind holding a covered tea tray, no sexualization. Woven carpet, plain chair and modest brazier, diffused winter daylight, no medicine being given or guaranteed recovery, no writing, anatomy coherent, fine ink lines matte mineral pigment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "076-02",
@@ -72,15 +109,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY tall slim mature Meng Yulou with subtle pockmarks. Reference2 ONLY narrow oval adult Pan Jinlian. Reference3 ONLY mature round-faced Wu Yueniang. Reference4 ONLY painted medium. Three fully clothed adult women, winter sitting room. Yulou at left in muted ochre padded jacket and dark red skirt lightly holds both hands together, comically formal matchmaking-parent posture, smiling without caricature. Pan center in indigo padded jacket and muted rose skirt has JUST RISEN from a formal bow, turns toward Yulou with mock-reproach small raised open hand, NO hitting. Yueniang at right on kang in WHITE jacket and pale yellow skirt has finally begun smiling, relaxed eyes. A few partly filled fruit gift boxes on a low table emphasize work awaiting them. Natural cloth textures, no actual wedding, no mother-and-child tableau, no text, fine painted contour and matte mineral color.",
       "references": [
-        "yulou（玉楼）",
-        "pan-solo-030（金莲）",
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-02.png",
+      "image": "assets/076-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY tall slim mature Meng Yulou with subtle pockmarks. Reference2 ONLY narrow oval adult Pan Jinlian. Reference3 ONLY mature round-faced Wu Yueniang. Reference4 ONLY painted medium. Three fully clothed adult women, winter sitting room. Yulou at left in muted ochre padded jacket and dark red skirt lightly holds both hands together, comically formal matchmaking-parent posture, smiling without caricature. Pan center in indigo padded jacket and muted rose skirt has JUST RISEN from a formal bow, turns toward Yulou with mock-reproach small raised open hand, NO hitting. Yueniang at right on kang in WHITE jacket and pale yellow skirt has finally begun smiling, relaxed eyes. A few partly filled fruit gift boxes on a low table emphasize work awaiting them. Natural cloth textures, no actual wedding, no mother-and-child tableau, no text, fine painted contour and matte mineral color."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY tall slim mature Meng Yulou with subtle pockmarks. Reference2 ONLY narrow oval adult Pan Jinlian. Reference3 ONLY mature round-faced Wu Yueniang. Reference4 ONLY painted medium. Three fully clothed adult women, winter sitting room. Yulou at left in muted ochre padded jacket and dark red skirt lightly holds both hands together, comically formal matchmaking-parent posture, smiling without caricature. Pan center in indigo padded jacket and muted rose skirt has JUST RISEN from a formal bow, turns toward Yulou with mock-reproach small raised open hand, NO hitting. Yueniang at right on kang in WHITE jacket and pale yellow skirt has finally begun smiling, relaxed eyes. A few partly filled fruit gift boxes on a low table emphasize work awaiting them. Natural cloth textures, no actual wedding, no mother-and-child tableau, no text, fine painted contour and matte mineral color.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "076-03",
@@ -115,13 +154,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY gongbi painted medium. FOUR fully clothed adult men in a private garden reception room. Ximen seated left in blue-green robe listens as a mature square-faced official Song in plain dark formal robe hands TWO folded letterless service-record papers to a lean gray-robed clerk standing at right. Low near the clerk sleeve, a plain household attendant discreetly offers ONE small silver piece, not a mountain of money, no exact weight engraved. Clerk fingers receive document while noticing discreet silver, coherent separate hands. Foreground tea cups, winter garden through lattice, subtle hierarchy of seats and standing bodies. The event is filing petitions and a separate gratuity, NOT successful promotion ceremony, no readable text, stamps or future insignia. Fine painted ink contour mineral colors.",
       "references": [
-        "ximen（西门庆）",
-        "065-01（媒介）"
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-03.png",
+      "image": "assets/076-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY gongbi painted medium. FOUR fully clothed adult men in a private garden reception room. Ximen seated left in blue-green robe listens as a mature square-faced official Song in plain dark formal robe hands TWO folded letterless service-record papers to a lean gray-robed clerk standing at right. Low near the clerk sleeve, a plain household attendant discreetly offers ONE small silver piece, not a mountain of money, no exact weight engraved. Clerk fingers receive document while noticing discreet silver, coherent separate hands. Foreground tea cups, winter garden through lattice, subtle hierarchy of seats and standing bodies. The event is filing petitions and a separate gratuity, NOT successful promotion ceremony, no readable text, stamps or future insignia. Fine painted ink contour mineral colors."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing adult long face. Reference2 ONLY gongbi painted medium. FOUR fully clothed adult men in a private garden reception room. Ximen seated left in blue-green robe listens as a mature square-faced official Song in plain dark formal robe hands TWO folded letterless service-record papers to a lean gray-robed clerk standing at right. Low near the clerk sleeve, a plain household attendant discreetly offers ONE small silver piece, not a mountain of money, no exact weight engraved. Clerk fingers receive document while noticing discreet silver, coherent separate hands. Foreground tea cups, winter garden through lattice, subtle hierarchy of seats and standing bodies. The event is filing petitions and a separate gratuity, NOT successful promotion ceremony, no readable text, stamps or future insignia. Fine painted ink contour mineral colors.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "076-04",
@@ -155,13 +196,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing identity. Reference2 ONLY painted medium. A warm winter household reception table, TWO adult men. At left Qiao, DISTINCT older broad-bodied man with round lined face and thin gray moustache, now plain dark blue formal robe and black official-style cap, leans forward delighted and respectfully studies a folded official document held open by Ximen at right. Ximen long face blue-green robe gestures calmly at paper, not emperor conferring office. Blank or abstract paper marks ONLY, no readable names or seals. Qiao hands joined just above lap beginning thanks, no kowtow action required. Covered tea cup and small document wrapper, natural restrained smile, no rice sacks, no weighing silver, no actual government courtroom, fine gongbi ink and mineral pigment.",
       "references": [
-        "ximen（西门庆）",
-        "065-01（媒介）"
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-04.png",
+      "image": "assets/076-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing identity. Reference2 ONLY painted medium. A warm winter household reception table, TWO adult men. At left Qiao, DISTINCT older broad-bodied man with round lined face and thin gray moustache, now plain dark blue formal robe and black official-style cap, leans forward delighted and respectfully studies a folded official document held open by Ximen at right. Ximen long face blue-green robe gestures calmly at paper, not emperor conferring office. Blank or abstract paper marks ONLY, no readable names or seals. Qiao hands joined just above lap beginning thanks, no kowtow action required. Covered tea cup and small document wrapper, natural restrained smile, no rice sacks, no weighing silver, no actual government courtroom, fine gongbi ink and mineral pigment."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing identity. Reference2 ONLY painted medium. A warm winter household reception table, TWO adult men. At left Qiao, DISTINCT older broad-bodied man with round lined face and thin gray moustache, now plain dark blue formal robe and black official-style cap, leans forward delighted and respectfully studies a folded official document held open by Ximen at right. Ximen long face blue-green robe gestures calmly at paper, not emperor conferring office. Blank or abstract paper marks ONLY, no readable names or seals. Qiao hands joined just above lap beginning thanks, no kowtow action required. Covered tea cup and small document wrapper, natural restrained smile, no rice sacks, no weighing silver, no actual government courtroom, fine gongbi ink and mineral pigment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "076-05",
@@ -195,14 +238,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ben Si, stockier middle-aged clerk at LEFT FOREGROUND in blue robe small cap, preserve wide nose and short moustache. Reference2 ONLY Ximen long face. Reference3 ONLY painted medium. CLOSE-TO-MEDIUM household business handover. Ben Si stands left with simple dark travel bundle over one forearm, offers a SMALL old brass shop KEY on a plain ring with his other hand. Ximen seated right in dark green indoor robe reaches to accept, folded letterless letter on desk, no contract text. Foreground key and separate hands sharply legible, faces three-quarter in soft winter light. No bank vault, no map, no new replacement employee in scene, no train or modern luggage, tactile worn metal coarse cloth ink contours mineral pigment.",
       "references": [
-        "071-02左前（贲四）",
-        "ximen（西门庆）",
-        "065-01（媒介）"
+        "assets/071-02.webp（原说明：071-02左前（贲四））",
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-05.png",
+      "image": "assets/076-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ben Si, stockier middle-aged clerk at LEFT FOREGROUND in blue robe small cap, preserve wide nose and short moustache. Reference2 ONLY Ximen long face. Reference3 ONLY painted medium. CLOSE-TO-MEDIUM household business handover. Ben Si stands left with simple dark travel bundle over one forearm, offers a SMALL old brass shop KEY on a plain ring with his other hand. Ximen seated right in dark green indoor robe reaches to accept, folded letterless letter on desk, no contract text. Foreground key and separate hands sharply legible, faces three-quarter in soft winter light. No bank vault, no map, no new replacement employee in scene, no train or modern luggage, tactile worn metal coarse cloth ink contours mineral pigment."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ben Si, stockier middle-aged clerk at LEFT FOREGROUND in blue robe small cap, preserve wide nose and short moustache. Reference2 ONLY Ximen long face. Reference3 ONLY painted medium. CLOSE-TO-MEDIUM household business handover. Ben Si stands left with simple dark travel bundle over one forearm, offers a SMALL old brass shop KEY on a plain ring with his other hand. Ximen seated right in dark green indoor robe reaches to accept, folded letterless letter on desk, no contract text. Foreground key and separate hands sharply legible, faces three-quarter in soft winter light. No bank vault, no map, no new replacement employee in scene, no train or modern luggage, tactile worn metal coarse cloth ink contours mineral pigment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "076-06",
@@ -236,48 +281,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wen Xiucai at RIGHT wearing green scholar robe and square cap, mature gaunt face neat short beard, preserve identity, not the other two men. Reference2 ONLY painted medium. TWO ADULT MEN at an ordinary wealthy-house threshold in cool daylight. Outside at LEFT Wen in full green satin scholar robe and square headcloth holds a LONG FOLDED letterless letter forward with both hands, worried stiff posture. Inside at RIGHT a plainly clothed ADULT male attendant in simple indigo robe keeps his hands WITHIN his own sleeves, declines to receive it, no violence or ridicule. A thick door panel and threshold leave visible distance between offered letter and withheld hands. No child visible anywhere, no abusive act, no bedroom, no sexual content, no punishment tools or dramatic injury. The narrative is revoked access, not a court verdict. Winter wind, worn wood and matte ink/mineral pigment, no writing.",
       "references": [
-        "072-02右侧（温）",
-        "065-01（媒介）"
+        "assets/072-02.webp（原说明：072-02右侧（温））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/076-06.png",
+      "image": "assets/076-06.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wen Xiucai at RIGHT wearing green scholar robe and square cap, mature gaunt face neat short beard, preserve identity, not the other two men. Reference2 ONLY painted medium. TWO ADULT MEN at an ordinary wealthy-house threshold in cool daylight. Outside at LEFT Wen in full green satin scholar robe and square headcloth holds a LONG FOLDED letterless letter forward with both hands, worried stiff posture. Inside at RIGHT a plainly clothed ADULT male attendant in simple indigo robe keeps his hands WITHIN his own sleeves, declines to receive it, no violence or ridicule. A thick door panel and threshold leave visible distance between offered letter and withheld hands. No child visible anywhere, no abusive act, no bedroom, no sexual content, no punishment tools or dramatic injury. The narrative is revoked access, not a court verdict. Winter wind, worn wood and matte ink/mineral pigment, no writing."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "把症状、诊断和感受分开",
-      "text": "医官解释脉理，月娘自述不适；后来她说好转并与玉楼开玩笑。三者均是人物当时的话，不据此向读者证明一套现代医学因果。",
-      "evidence": [
-        {
-          "chapter": 76,
-          "paragraph": 19,
-          "quote": "今日好了，头也不疼，心口也不发胀了"
-        }
-      ]
-    },
-    {
-      "title": "前一回的奉价，在这里被辞掉",
-      "text": "宋再次说还当奉价，西门答岂敢云价。这是76回新增的对话，不回头改75回尚待兑现的承诺记录。",
-      "evidence": [
-        {
-          "chapter": 76,
-          "paragraph": 8,
-          "quote": "岂敢云价"
-        }
-      ]
-    },
-    {
-      "title": "账和银钱一并交接",
-      "text": "玉楼攒账后不再管使用银钱，西门兑三十两银、三十吊钱交金莲。银与钱并列，不能把两个三十直接相加成同一货币总额。",
-      "evidence": [
-        {
-          "chapter": 76,
-          "paragraph": 19,
-          "quote": "三十两银子，三十吊钱"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Wen Xiucai at RIGHT wearing green scholar robe and square cap, mature gaunt face neat short beard, preserve identity, not the other two men. Reference2 ONLY painted medium. TWO ADULT MEN at an ordinary wealthy-house threshold in cool daylight. Outside at LEFT Wen in full green satin scholar robe and square headcloth holds a LONG FOLDED letterless letter forward with both hands, worried stiff posture. Inside at RIGHT a plainly clothed ADULT male attendant in simple indigo robe keeps his hands WITHIN his own sleeves, declines to receive it, no violence or ridicule. A thick door panel and threshold leave visible distance between offered letter and withheld hands. No child visible anywhere, no abusive act, no bedroom, no sexual content, no punishment tools or dramatic injury. The narrative is revoked access, not a court verdict. Winter wind, worn wood and matte ink/mineral pigment, no writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

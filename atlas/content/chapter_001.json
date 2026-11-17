@@ -1,0 +1,264 @@
+{
+  "number": 1,
+  "title": "第一回景阳冈武松打虎　潘金莲嫌夫卖风月",
+  "intro": "一回里有两种引人注目的本领：山冈上的拳脚，街巷里安排生计与往来的手段。后半回的三个人，同在楼上，看见和听懂的却未必一样。",
+  "supplements": [
+    {
+      "title": "同一回里说了两个地方",
+      "text": "这一本把知县、武大后来住处和武松所任都头放在清河县。插画照用户文件的地点，不用熟悉的别本地名替换。",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 39,
+          "quote": "清河县知县"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 52,
+          "quote": "新升做了巡捕都头"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "001-01",
+      "chapter": 1,
+      "title": "棒断在树枝上",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 22,
+          "quote": "正打在树枝上"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 22,
+          "quote": "把那条棒折做两截"
+        }
+      ],
+      "people": [
+        "武松"
+      ],
+      "place": "景阳冈松林青石旁",
+      "event": "虎扑后武松回身挥棒，却打在树枝上折了棒。",
+      "why": "打虎不全是气力充足的从容；这一棒落空，把故事推到徒手应对。",
+      "composition": "横向动作远中景，棒击树枝，虎在另一侧落地，人与兽没有重叠。",
+      "summary": "十月天晚，武松带着酒意独自上冈。猛虎突来，他三次闪避，回身一棒却击在树枝上。梢棒折断后，他才转为按虎拳打。画取失去武器的一刻，虎爪尚未碰到人。",
+      "psychology": "受惊冷汗、心有几分慌是叙述者明写，不把他画成毫无恐惧的雕像。",
+      "social": "官府限猎户捕虎、出赏银；山中危险并不只是一名英雄的舞台。",
+      "explicit": "十月黄叶、青石、梢棒打枝折断、白额斑虎。",
+      "inference": "虎身大小与衣色作可信尺度补足，不机械画“犹如牛大”。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/old-people-030.png（原说明：old-people-030右（武松面容））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 ONLY RIGHT adult man Wusong, broad muscular build and angular serious Chinese face age28, ignore other panels. Ref2 paint technique only. Dramatic medium-wide action in windy October scrub forest at dusk, yellow dry leaves. Wusong in plain dark wrapped cotton travelling tunic and trousers has struck a low branch by mistake with a long wooden staff which snaps visibly into two pieces; the staff touches branch not tiger. ONE striped white-foreheaded tiger crouches on the other side of a broad gray boulder, preparing to pivot, anatomically believable. No injury, blood, extra animal or lettering. Natural stressed effort, strong diagonal and readable separation.",
+      "image": "assets/001-01.webp",
+      "status": "generated",
+      "review": "已打开检查：一人一虎、断棒与树枝、秋日山冈成立。动作取断棒后瞬间；虎的种类、身体角度和地势为艺术补足，不据图判定精确拳路。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 ONLY RIGHT adult man Wusong, broad muscular build and angular serious Chinese face age28, ignore other panels. Ref2 paint technique only. Dramatic medium-wide action in windy October scrub forest at dusk, yellow dry leaves. Wusong in plain dark wrapped cotton travelling tunic and trousers has struck a low branch by mistake with a long wooden staff which snaps visibly into two pieces; the staff touches branch not tiger. ONE striped white-foreheaded tiger crouches on the other side of a broad gray boulder, preparing to pivot, anatomically believable. No injury, blood, extra animal or lettering. Natural stressed effort, strong diagonal and readable separation.",
+      "excerpt": {
+        "chapter": 1,
+        "paragraph": 22,
+        "quote": "原来不曾打着大虫，正打在树枝上，磕磕把那条棒折做两截，只拿一半在手裏。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "001-02",
+      "chapter": 1,
+      "title": "三十两留给猎户",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 39,
+          "quote": "把这赏给散与众人去"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 39,
+          "quote": "参武松做了巡捕都头"
+        }
+      ],
+      "people": [
+        "武松",
+        "知县",
+        "猎户"
+      ],
+      "place": "清河县县厅",
+      "event": "武松请求把赏钱散给猎户，知县准许并任用他。",
+      "why": "勇力、赏银和地方差役在同一场面里连起来；猎户受罚的背景进入了分配。",
+      "composition": "县案在后，武松侧身把银盘转向几名猎户，避免豪华升官摆拍。",
+      "summary": "猎户送武松到县衙，知县赐三十两。武松说众猎户为捕虎已受许多责罚，请把赏钱给他们，随后获任巡捕都头。图取获准散银，不把死虎搬到县案近处。",
+      "psychology": "武松自己说是侥幸，也把功劳说成仰赖相公福荫；客气话和实际让银都留下。",
+      "social": "三十两是这次官给赏额，不按图中银块数算，也不换算人民币。",
+      "explicit": "县厅、赏钱、武松请散与猎户、知县应允。",
+      "inference": "银盘与猎户站位为艺术处理，官服不据此断品级。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/old-people-030.png（原说明：old-people-030右（武松））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only right adult muscular Wusong face, ref2 paint technique. Human scale plain Chinese county hall, five adult men total: Wusong in dark cotton at center turns one modest wooden tray of a few silver lumps toward two tired middle-aged rural hunters in rough brown clothes; older magistrate at background desk has an open palm approving, one clerk by desk. Clear distance and silver handoff, muted natural daylight. No imperial throne, trophy tiger, weapons or text.",
+      "image": "assets/001-02.webp",
+      "status": "generated",
+      "review": "已打开检查：武松、两猎户与两名县衙人物，递赏动作可辨。银块画法不能表达真实重量；县衙陈设、服色和托盘非原文精确规定。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only right adult muscular Wusong face, ref2 paint technique. Human scale plain Chinese county hall, five adult men total: Wusong in dark cotton at center turns one modest wooden tray of a few silver lumps toward two tired middle-aged rural hunters in rough brown clothes; older magistrate at background desk has an open palm approving, one clerk by desk. Clear distance and silver handoff, muted natural daylight. No imperial throne, trophy tiger, weapons or text.",
+      "excerpt": {
+        "chapter": 1,
+        "paragraph": 39,
+        "quote": "众猎户因这畜生，受了相公许多责罚。何不就把这赏给散与众人去？也显相公恩沾，小人义气。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "001-03",
+      "chapter": 1,
+      "title": "钗梳换两层住处",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 51,
+          "quote": "把奴的钗梳凑办了去"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 51,
+          "quote": "上下两层，四间房屋居住"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "武大"
+      ],
+      "place": "紫石街旧住处",
+      "event": "金莲拿自己的钗梳筹钱，主张典下房屋。",
+      "why": "她在抱怨之外也提出实际办法；武大没有的钱，要从她的首饰凑。",
+      "composition": "桌角近景，钗梳由掌心放下，扁担靠墙，不画精确房屋平面。",
+      "summary": "两人受街坊嘲弄，武大想再搬。金莲主张典房，提出拿钗梳凑钱。随后凑十数两，典下县门前楼房。此图停在商议，把租住与典下的差别放在页外说明。",
+      "psychology": "金莲说典房才有气概，既在乎安身，也在乎免被欺负；并非已经拥有独立置业能力。",
+      "social": "“典”在此指用一笔钱取得房屋居住使用的安排；没有原契，不补出年限和归还条件。",
+      "explicit": "钗梳、十数两、上下两层四间、两小院。",
+      "inference": "这里只见二人商议；金莲脸沿既有参考，此时自报比二十八岁的武松小三岁。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/old-people-030.png（原说明：old-people-030中（武大））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult woman Pan Jinlian face age25, natural narrow oval face, ref2 ONLY middle adult male Wuda, very short compact man with weathered rough narrow face; ignore all others. Ref3 paint technique only. Exactly TWO adults inside a cramped lived-in rented room. Pan in fully closed white cotton jacket, blue sleeveless vest and dusty rose full skirt lays a few small hairpins and a comb on a rough wooden table, speaking briskly. Wuda in worn brown working robe sits across, short arms at table height and wary attentive posture. Shoulder pole and covered steamer baskets by wall. No luxury, no text or sexual framing.",
+      "image": "assets/001-03.webp",
+      "status": "generated",
+      "review": "已打开检查：两名成年人物与钗梳、炊饼笼相互照应。图为筹钱议住处的生活示意，没有画出一场原文未写的当铺交易；武大脸部与身长不作照相式复原。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult woman Pan Jinlian face age25, natural narrow oval face, ref2 ONLY middle adult male Wuda, very short compact man with weathered rough narrow face; ignore all others. Ref3 paint technique only. Exactly TWO adults inside a cramped lived-in rented room. Pan in fully closed white cotton jacket, blue sleeveless vest and dusty rose full skirt lays a few small hairpins and a comb on a rough wooden table, speaking briskly. Wuda in worn brown working robe sits across, short arms at table height and wary attentive posture. Shoulder pole and covered steamer baskets by wall. No luxury, no text or sexual framing.",
+      "excerpt": {
+        "chapter": 1,
+        "paragraph": 51,
+        "quote": "「呸！浊材料！把奴的钗梳凑办了去，有何难处？过后有了，再治不迟。」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "001-04",
+      "chapter": 1,
+      "title": "楼上三个人的目光",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 55,
+          "quote": "武大打横，三人坐下"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 55,
+          "quote": "只低了头不理他"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "武大",
+        "武松"
+      ],
+      "place": "新典楼房楼上",
+      "event": "武大置酒招待弟弟，金莲不断劝菜，武松低头。",
+      "why": "相同一桌，武大忙于筛酒，金莲有意试探，武松只按嫂嫂礼相待。",
+      "composition": "三角席位，武大侧边斟酒，武松低目，金莲递菜的手停在桌上。",
+      "summary": "兄弟在街上重逢，武大把武松带回家见嫂嫂。三人在楼上用饭：金莲劝菜劝酒，武大忙筛酒，武松被她看得不自在，低头不应。图保留三人的不同动作，不表现为两情相悦。",
+      "psychology": "叙述者交代金莲另有意图，武松只当亲嫂嫂。不能让眼神对望改写两人知道的事。",
+      "social": "主位、对席、打横由原文明确；只采用相对座次，不当作量得的房间。",
+      "explicit": "三人席次、斟酒、递菜、武松低头。",
+      "inference": "衣纹餐具为补足，不画迎儿，以免把未成年人物卷入成人试探的构图。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "assets/001-03.webp（原说明：001-03（金莲、武大））",
+        "references/old-people-030.png（原说明：old-people-030右（武松））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 from new scene use ONLY adult Pan woman and very short Wuda adult male; ref2 ONLY right muscular male Wusong; ref3 paint. Three fully dressed adults around a modest square dining table in upper room. Pan at far head in closed white and blue everyday layers inclines politely with chopsticks offering food; Wusong opposite keeps gaze down toward own bowl with reserve; Wuda at the side pours a small wine jug between cups. Make Wuda noticeably shorter even while seated without caricature. White plaster, dark timber, simple fish and fruit, cloudy autumn daylight. No physical contact, other person or text.",
+      "image": "assets/001-04.webp",
+      "status": "generated",
+      "review": "已打开检查：潘金莲居桌内一边，武松对面，武大侧坐；递食与低头回避清楚。菜肴样式、器皿与窗景为补足，坐具不能作准确宅院平面依据。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 from new scene use ONLY adult Pan woman and very short Wuda adult male; ref2 ONLY right muscular male Wusong; ref3 paint. Three fully dressed adults around a modest square dining table in upper room. Pan at far head in closed white and blue everyday layers inclines politely with chopsticks offering food; Wusong opposite keeps gaze down toward own bowl with reserve; Wuda at the side pours a small wine jug between cups. Make Wuda noticeably shorter even while seated without caricature. White plaster, dark timber, simple fish and fruit, cloudy autumn daylight. No physical contact, other person or text.",
+      "excerpt": {
+        "chapter": 1,
+        "paragraph": 55,
+        "quote": "武大教妇人坐了主位，武松对席，武大打横，三人坐下，把酒来斟。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "001-05",
+      "chapter": 1,
+      "title": "半盏酒泼在地上",
+      "evidence": [
+        {
+          "chapter": 1,
+          "paragraph": 64,
+          "quote": "吃我这半杯儿残酒"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 64,
+          "quote": "泼在地下"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "武松"
+      ],
+      "place": "雪日武松房内火盆旁",
+      "event": "金莲递残酒试探，武松夺杯泼地拒绝。",
+      "why": "欲望并非总得到回应；这一回的拒绝是明白的动作，随后双方讲述却相反。",
+      "composition": "杯中酒斜落地面，盆火低置，二人间留空，金莲失色。",
+      "summary": "十一月雪后，金莲备酒与炭火。她拿半杯残酒相邀，武松夺杯泼地，发话拒绝。后来她向武大反称受了调戏。此图画当场拒绝，不把后来的指控当作事实，也不虚构亲吻。",
+      "psychology": "武松由不自在到焦躁有层次，金莲被斥后面红。两人的情绪可以直接表现，不能润饰成含羞相悦。",
+      "social": "前后两套叙述由读者辨别；原文让人先看见发生的动作，再听见人物怎样改口。",
+      "explicit": "雪、火盆、半杯酒、泼地、拒绝。",
+      "inference": "衣物保持日常穿着，不复原原文撩衣的程度；暖鞋、窗和炭盆尺寸为补足。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/old-people-030.png（原说明：old-people-030右（武松））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult Pan woman age25 only, ref2 ONLY right muscular Wusong adult28, ref3 painted medium. Exactly TWO fully clothed adults at a plain upper-room brazier in a snowy November day. Wusong seated on low stool in plain charcoal inner cotton with closed collar turns a small cup downward with a decisive hand so a clear splash of wine falls on empty stone floor well away from fire. Adult Pan in closed blue quilted jacket and long skirt has her hand withdrawn, face reddening and expression checked. They stay at clear distance, no touch, no romance, no servant, no lamp chimney, no text. Slate cold window light, low embers.",
+      "image": "assets/001-05.webp",
+      "status": "generated",
+      "review": "已打开检查：成年二人、冬日窗景与地上残酒；拒绝动作明确。桌上菜盏未纳入画面，炉具尺度与人物站坐为美术处理，不代表原文完整室内。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult Pan woman age25 only, ref2 ONLY right muscular Wusong adult28, ref3 painted medium. Exactly TWO fully clothed adults at a plain upper-room brazier in a snowy November day. Wusong seated on low stool in plain charcoal inner cotton with closed collar turns a small cup downward with a decisive hand so a clear splash of wine falls on empty stone floor well away from fire. Adult Pan in closed blue quilted jacket and long skirt has her hand withdrawn, face reddening and expression checked. They stay at clear distance, no touch, no romance, no servant, no lamp chimney, no text. Slate cold window light, low embers.",
+      "excerpt": {
+        "chapter": 1,
+        "paragraph": 64,
+        "quote": "「你若有心，吃我这半杯儿残酒。」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

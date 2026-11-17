@@ -1,0 +1,508 @@
+{
+  "number": 62,
+  "title": "第六十二回潘道士解禳祭灯坛　西门庆大哭李瓶儿",
+  "intro": "病中安排、三更祭灯、相抱话别到停灵与劝食，五图只取本回已发生的时刻。照护、哀痛和家内支配并置；梦、异象与术士断语分层说明，不作病因或预告。",
+  "supplements": [
+    {
+      "title": "照护与食不下咽",
+      "text": "王姑子送粳米、乳饼与瓜茄，迎春、如意儿喂粥，瓶儿只吃极少便摇头。冯妈妈的笑话令她一笑，是本回少有的片刻；对病因的诸人归说只当人物言语，不当现代诊断。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 8,
+          "quote": "喂了半日，只呷了两三口粥儿，咬了一些乳饼儿，就摇头儿不吃了"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 11,
+          "quote": "那李瓶儿听了，微笑了一笑儿"
+        }
+      ]
+    },
+    {
+      "title": "买材与价格",
+      "text": "瓶儿请少花钱；陈经济、贲四经乔大户说合买材，实付三百二十两，西门庆对瓶儿却说百十两。数额只作本回账目叙事，不换算现代币值，不将“大方”当作唯一情感尺度。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 12,
+          "quote": "将就使十来两银子，买副熟料材儿"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 13,
+          "quote": "兑三百二十两抬了来罢"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 15,
+          "quote": "没多，只给了百十两来银子。"
+        }
+      ]
+    },
+    {
+      "title": "托付有回应",
+      "text": "瓶儿次日向月娘、李娇儿再次托付婢女和奶子，二人答应分房留用。本文只引用当场应答，原段夹带的后事预告不引用、不图示。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 16,
+          "quote": "迎春敎他伏侍我，绣春敎他伏侍二娘罢。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 16,
+          "quote": "就是我有孩子没孩子，到明日配上个小厮，与他做房家人媳妇也罢了。"
+        }
+      ]
+    },
+    {
+      "title": "异象、梦与术士话语",
+      "text": "瓶儿害怕时所说见人、迎春的梦、潘道士所见文书和徐先生黑书断语，保留为小说中的叙述与人物话语层次。它们不转成病因结论、前世事实或未来生活的证据；不画作现实鬼魂。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 5,
+          "quote": "但没人在房里，心中只害怕"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 24,
+          "quote": "见一个白衣人领着两个青衣人従外进来。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 26,
+          "quote": "正在睡思昏沉之际，梦见李瓶儿下炕来"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 29,
+          "quote": "看毕黑书，众妇女听了皆各叹息。"
+        }
+      ]
+    },
+    {
+      "title": "断气与装绑",
+      "text": "迎春醒后发现瓶儿已无气，家人赶来哭泣并整理头髻、挑取衣鞋，随后才移至前厅。原文的身体流血与未穿妥衣状态以非露骨文字留存，此事件未另作裸露或血渍配图。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 26,
+          "quote": "向床上视之，还面朝里，摸了摸，口内已无气矣"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "西门庆听见李瓶儿死了，和吴月娘两步做一步奔到前边"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "月娘正与金莲灯下替他整理头髻"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "众人七手八脚都装绑停当。"
+        }
+      ]
+    },
+    {
+      "title": "丧事启动与求传神",
+      "text": "天晓后报丧、给假、雇裁缝、备孝布与搭棚同时开展。西门庆想到忘了传神，吩咐来保请画师；本回仅写去请，不把肖像已经画成作为场景。他在悲恸中辱骂踢打家人，不能用哀痛替伤害开脱。",
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 30,
+          "quote": "然后分班差家下人各亲眷处报丧。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 30,
+          "quote": "又使人往衙门中给假，在家整理丧事。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 30,
+          "quote": "那里有写眞好画师？寻一个传神。我就把这件事忘了！"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 30,
+          "quote": "只是没好气，骂丫头、踢小厮"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "062-01",
+      "chapter": 62,
+      "title": "灯下分赠，泪眼托婢",
+      "excerpt": {
+        "chapter": 62,
+        "paragraph": 14,
+        "quote": "这绣春还不知甚么，那迎春听见李瓶儿嘱付他，接了首饰，一面哭的言语说不出来。"
+      },
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 14,
+          "quote": "敎迎春点着灯，打开箱子，取出几件衣服银饰来，放在旁边。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 14,
+          "quote": "李瓶儿一面呌过迎春绣春来，跪下"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 14,
+          "quote": "我每人与你这两对金裹头簪儿、两枝金花儿，做一念儿。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 14,
+          "quote": "我和迎春都答应大娘。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 5,
+          "quote": "次后渐渐饮食减少，形容消瘦"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 5,
+          "quote": "也不起的炕了"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "迎春",
+        "绣春"
+      ],
+      "place": "李瓶儿炕屋，西门庆离开后的灯下",
+      "event": "瓶儿已分赠王姑子、老冯和如意儿，继而唤迎春绣春跪下，赠首饰并商议去处。",
+      "why": "首饰兼作纪念；话语重心却在主母病危后婢女归谁拘管、是否能出门。",
+      "composition": "左瓶儿靠枕，右前迎春跪接首饰、右后绣春跪着抬头；恰三人，其他当夜相伴者在局部画幅外。",
+      "summary": "西门庆去别房后，瓶儿逐一安排身边人的日后生活。她把首饰给两个丫头，迎春听得哭不出话，绣春则坚持留下。本图只取两婢接赠的一刻；礼物很小，去留却牵涉一生。瓶儿仍病弱卧炕，不把灯下话别处理成轻松分赏。",
+      "psychology": {
+        "明写": "迎春接首饰后哭得说不出话；绣春说要与迎春同去答应大娘。瓶儿安排归属。",
+        "推断": "把两人的视线分别落在首饰与病人身上，是对两种反应的构图解释。"
+      },
+      "social": "婢女去留取决于家内安排，赠物也承载长期依附关系；不将“抬举”解释为现代劳动保障。",
+      "explicit": [
+        "赠首饰、二婢跪下、迎春哽咽有据。",
+        "当前仅据本回病况表现消瘦；无暴露身体、出血或性化表现。"
+      ],
+      "inference": [
+        "具体座次、包裹、首饰细形与闭领病衣为补足；画面不承担完整首饰清点。",
+        "绣春仍按既有年少脸参考，不据已婚、服侍等身份推定年龄。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第62回隔离包与第61回必要连续性；宋代故事设定和宽泛晚明美术参考分开。生成图不是历史证据，具体空间、服装和器物形制属于美术补足，未作精确复原。",
+      "references": [
+        "references/ping-013.png",
+        "assets/031-03.webp",
+        "assets/010-05.webp"
+      ],
+      "prompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks only Li Pinger face, small frame, tapering oval face and fine curved brows. Input image 2 locks ONLY Yingchun, the young female servant at FAR LEFT holding the ewer. Input image 3 locks ONLY Xiuchun, the young girl at FAR RIGHT holding the flower box, preserve her young ordinary face, never age her into a glamorous woman. Ignore other figures and old health, poses, costumes and background. Exactly THREE fully clothed females, quiet nonsexual bedside farewell. Left, twenty-seven-year-old Pinger is unable to leave her kang bed, half-propped on pillows, face and shoulders severely thin, sallow dull skin, hollow eyes with reddened swollen lids, dry cracked lips, genuine exhaustion and tears, not beautiful consumptive glamour. Closed plain grey-blue lined jacket, blanket fully covers lower body. She extends a little wrapped set of gold hair ornaments with one hand. Right foreground Yingchun kneels naturally beside the bed receiving it in both hands, tears and speechless grief, plain grey-green working jacket and dark skirt. Right rear Xiuchun kneels close, looking tearfully up at Pinger, plain brown closed jacket and dark skirt, practical black hair knot with wisps. Bedside small open storage chest and a few folded fabrics, dim wick oil lamp. Medium oblique intimate composition, worn wood and bedding, plausible distinct hands, three faces visible, no extra figures, no blood, nudity, ghosts, children in danger or erotic elements.",
+      "actualPrompt": "Use case: lighting-weather. Edit this existing literary gongbi illustration. Change ONLY the time-of-day lighting to deep NIGHT: the outdoors seen through BOTH lattice window areas must be dark blue-black, with leaves and roof barely readable in moonless darkness, absolutely no yellow daylight or sunset. The small wick oil lamp is the sole warm illumination; its local glow gently lights the three crying faces, hands and the little jewelry gift, while the background falls into deep soft shadow. Preserve exactly all three faces and their illness, ages, expressions, positions, all hands and jewelry, all costumes, bedding, chest and layout. Preserve 3:2 landscape gongbi fine ink lines and mineral color paint, no photorealism. Li Pinger is gravely ill and very thin, not prettified. Keep all subjects fully clothed and covered. No text or watermark.",
+      "image": "assets/062-01.webp",
+      "status": "generated",
+      "review": "已逐张实际打开初稿与夜色修订稿。恰三人：左瓶儿半卧，右前迎春跪接首饰，右后绣春跪望；三项旧参考在初稿实际传入，修订稿保留原脸与手势。瓶儿凹陷面颊、瘦肩、疲惫泪眼清楚，没有按健康底稿美化。修订后窗外转深蓝黑，灯光局部照亮，符合当夜。手部与赠物无明显失真。首饰细形、发饰、衣被纹样与包裹是补足，不按画面清点原文赠物数量。初稿保留未公开参考〔unpublished-reference-bd10ebb217f9；过程图或旧参考不随本包发布〕。采用夜色修订稿。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "062-02",
+      "chapter": 62,
+      "title": "三更灯坛，青衣俯伏",
+      "excerpt": {
+        "chapter": 62,
+        "paragraph": 22,
+        "quote": "西门庆穿青衣，俯伏阶下。左右尽皆屏去，再无一人在左右。灯烛荧煌，一齐点将起来。"
+      },
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 18,
+          "quote": "头戴云霞五岳冠，身穿皂布短褐袍。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 18,
+          "quote": "八字眉，两个杏子眼；四方口，一道落腮胡。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 21,
+          "quote": "用白灰界画，建立灯坛。以黄绢围之"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 21,
+          "quote": "不用酒脯，只用本命灯二十七盏"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 22,
+          "quote": "那潘道士在法座上披下发来，仗剑，口中念念有词"
+        }
+      ],
+      "people": [
+        "潘道士",
+        "西门庆"
+      ],
+      "place": "前边卷棚灯坛，三更",
+      "event": "潘道士高坐作法，西门庆穿青衣俯伏阶下，旁人已屏退。",
+      "why": "由找医问符转到亲身斋戒行礼；家主的无力感被身体低伏的姿态显出来。",
+      "composition": "高低斜线连接左后法座上的潘道士与右前俯伏的西门庆，只取坛前局部，若干近处灯盏可见。",
+      "summary": "本图取灯刚一齐点燃的时刻：潘道士披发仗剑，西门庆俯伏，左右无人。二十七盏是小说明确的全坛总数，画幅只截取其中一隅，不据画中灯数或布置声称还原全坛。随后叙述中的异象与法师的判断，另作文学叙事说明。",
+      "psychology": {
+        "明写": "西门庆按要求斋戒换净衣，祭时穿青衣俯伏；潘道士披发仗剑作法。",
+        "推断": "低伏的姿态与高座对照，可读作求救中的倚赖；不代言他已相信所有断语。"
+      },
+      "social": "救病愿望转化为仪式支出与身体实践。灯坛属于小说仪式叙事，不能当作现实疗效或医学证据。",
+      "explicit": [
+        "全坛本命灯二十七盏，白灰界画、黄绢围坛有据。",
+        "此刻取灯仍亮时，不把后来的熄灯或死亡提前加入。"
+      ],
+      "inference": [
+        "灯盏具体形制、局部灯数、法座高度、黄绢围法与空间为补足，不作道教科仪图谱。",
+        "潘道士具体五官是新艺术约定；八字眉、杏眼、四方口、落腮胡依原文，披发时不戴冠。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第62回隔离包与第61回必要连续性；宋代故事设定和宽泛晚明美术参考分开。生成图不是历史证据，具体空间、服装和器物形制属于美术补足，未作精确复原。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Ximen Qing face and long build, long face, straight brows, narrow long eyes. Ignore old pose, health and costume. Exactly TWO men in a curtained domestic veranda converted to a ritual area at midnight. Deliberately cropped intimate section of a much larger lamp altar: show only a handful of plain shallow wick oil lamps along the near edge, other lamps continue outside the frame; do not attempt a complete diagram or a count of the whole altar. Yellow silk screening, a short arc of white chalk boundary, a modest raised wooden ritual seat and restrained canopy above. Upper left new Daoist Pan Daoshi, ordinary mature weathered square face, outward-sloping eight-shaped brows, almond eyes, square mouth, substantial full cheek beard; black hair loosened over shoulders at this moment, no hat, no supernatural glow. He sits upright on the low raised seat, wearing short black coarse-cloth Daoist robe with mixed-color silk waist cord and plain double-ear hemp shoes; holds an old bronze straight sword upright in one hand, other hand in a restrained ritual gesture, mouth quietly reciting. Lower right Ximen Qing in clean BLUE plain robe prostrates at the step, forehead near his hands, his recognizable face visible in oblique profile. All other attendants have withdrawn and are outside this view. Warm lamps and cool night shadows, tense human ritual action. No ghosts, deities, monsters, blood, death, letters, talisman writing or modern objects. No heroic fantasy spectacle.",
+      "actualPrompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Ximen Qing face and long build, long face, straight brows, narrow long eyes. Ignore old pose, health and costume. Exactly TWO men in a curtained domestic veranda converted to a ritual area at midnight. Deliberately cropped intimate section of a much larger lamp altar: show only a handful of plain shallow wick oil lamps along the near edge, other lamps continue outside the frame; do not attempt a complete diagram or a count of the whole altar. Yellow silk screening, a short arc of white chalk boundary, a modest raised wooden ritual seat and restrained canopy above. Upper left new Daoist Pan Daoshi, ordinary mature weathered square face, outward-sloping eight-shaped brows, almond eyes, square mouth, substantial full cheek beard; black hair loosened over shoulders at this moment, no hat, no supernatural glow. He sits upright on the low raised seat, wearing short black coarse-cloth Daoist robe with mixed-color silk waist cord and plain double-ear hemp shoes; holds an old bronze straight sword upright in one hand, other hand in a restrained ritual gesture, mouth quietly reciting. Lower right Ximen Qing in clean BLUE plain robe prostrates at the step, forehead near his hands, his recognizable face visible in oblique profile. All other attendants have withdrawn and are outside this view. Warm lamps and cool night shadows, tense human ritual action. No ghosts, deities, monsters, blood, death, letters, talisman writing or modern objects. No heroic fantasy spectacle.",
+      "image": "assets/062-02.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰二人：左上潘道士披发、着深色短袍持古剑作法，右下青衣西门庆俯伏，旧脸参考实际传入且侧脸可识别。三盏近处灯只属全坛裁切局部，未声称展示二十七盏完整布局。黄绢、白灰线与深夜月色清楚，无鬼神实像；潘道士八字眉、落腮胡与方脸符合原文约束，具体五官为新艺术约定。剑刃向下、手势与法座样式均为补足，不作科仪考证。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "062-03",
+      "chapter": 62,
+      "title": "病榻相抱，哽咽话别",
+      "excerpt": {
+        "chapter": 62,
+        "paragraph": 25,
+        "quote": "两个说话之间，李瓶儿催促道：「你睡去罢，这早晚了！」西门庆道：「我不睡了，在这屋里守你守儿。」"
+      },
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 25,
+          "quote": "法官戒我休往房里去，我怎生忍得！"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 25,
+          "quote": "于是进入房中，见李瓶儿面朝里睡。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 25,
+          "quote": "那李瓶儿双手搂抱着西门庆脖子，呜呜咽咽悲哭，半日哭不出声"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 25,
+          "quote": "你又居着个官，今后也少要往那里去吃酒，早些儿来家，你家事要紧。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 25,
+          "quote": "眼眶儿也塌了，嘴唇儿也干了，耳轮儿也焦了"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "西门庆"
+      ],
+      "place": "李瓶儿病榻前，祭灯后",
+      "event": "西门庆不忍守着法师的禁戒，进房见瓶儿；两人相抱痛哭，她接着嘱咐处事与家务。",
+      "why": "在法师的禁戒与相守愿望之间，西门庆仍选择进房；瓶儿将话题落在他日常脾气和家事上。",
+      "composition": "瓶儿左倚枕，西门庆右坐炕沿俯身，瓶儿双臂环其颈肩；二人面部与紧握衣袖形成近景。",
+      "summary": "祭灯无济之后，西门庆在书房独坐，仍忍不住走进病房。瓶儿搂住他的脖子，哭到失声，继而劝他少冲动、少外出饮酒、顾惜家中人。这一刻既有依恋，也有具体劝诫；画面保留病容和笨拙相拥，不把濒危处境转成艳情。",
+      "psychology": {
+        "明写": "西门庆独坐哀恸，宁肯自己死也要厮守说话；两人相抱哭泣，瓶儿嘱他斟酌。",
+        "推断": "相拥时没有放松的姿势，是把哽咽和无力落实为动作；不替他们增加对白。"
+      },
+      "social": "临终劝诫把官身、饮酒、家计与妻妾关系连在一起，私人悲痛仍绕不开家庭治理。",
+      "explicit": [
+        "相抱、痛哭及嘱咐言语有据；瓶儿此刻仍活着。",
+        "年龄二十七为本回本人和西门庆所说，不用曲词或术数推定。"
+      ],
+      "inference": [
+        "闭领衣、枕褥、灯位、拥抱的具体角度为美术补足。",
+        "面部塌陷、干唇按本回言语塑造，不作现代医学诊断。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第62回隔离包与第61回必要连续性；宋代故事设定和宽泛晚明美术参考分开。生成图不是历史证据，具体空间、服装和器物形制属于美术补足，未作精确复原。",
+      "references": [
+        "references/ping-013.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks Li Pinger face and small frame only. Input image 2 locks Ximen Qing face and long build only, long face, straight brows, narrow long eyes. Do not copy old costume, robust health, smiles or locations. Exactly TWO fully clothed adults, a compassionate nonsexual terminal-illness farewell late at night. Left Pinger, explicitly twenty-seven in this chapter, is alive, weak and half-upright against plain bed pillows, severe thinness at face and shoulders, hollow eye sockets, swollen red eyelids, dull sallow skin, dry cracked lips and visible tears. Never prettify this suffering. Closed faded grey-blue lined jacket, blanket completely covers lower body, sparse untidy hair knot. Her TWO frail arms are around Ximen Qing neck and shoulders, hands naturally resting on his upper back or shoulder, no extra limbs. Right Ximen sits at the kang edge leaning in to support her shoulders, exhausted face wet with tears, blue plain robe, practical hair knot, no glamorous jewelry. Their faces remain separately readable in oblique three-quarter view, mouths quivering in grief rather than kissing. One dim wick lamp and worn timber in deep shadow, intimate off-center medium framing, physical weight and awkward vulnerability. No nudity, sexual action, blood, wounds, ghosts, children or medical treatment.",
+      "actualPrompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks Li Pinger face and small frame only. Input image 2 locks Ximen Qing face and long build only, long face, straight brows, narrow long eyes. Do not copy old costume, robust health, smiles or locations. Exactly TWO fully clothed adults, a compassionate nonsexual terminal-illness farewell late at night. Left Pinger, explicitly twenty-seven in this chapter, is alive, weak and half-upright against plain bed pillows, severe thinness at face and shoulders, hollow eye sockets, swollen red eyelids, dull sallow skin, dry cracked lips and visible tears. Never prettify this suffering. Closed faded grey-blue lined jacket, blanket completely covers lower body, sparse untidy hair knot. Her TWO frail arms are around Ximen Qing neck and shoulders, hands naturally resting on his upper back or shoulder, no extra limbs. Right Ximen sits at the kang edge leaning in to support her shoulders, exhausted face wet with tears, blue plain robe, practical hair knot, no glamorous jewelry. Their faces remain separately readable in oblique three-quarter view, mouths quivering in grief rather than kissing. One dim wick lamp and worn timber in deep shadow, intimate off-center medium framing, physical weight and awkward vulnerability. No nudity, sexual action, blood, wounds, ghosts, children or medical treatment.",
+      "image": "assets/062-03.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰二人，左瓶儿倚枕、两臂环住西门庆颈肩，右西门庆俯身相扶，二人的旧参考实际传入且面貌可辨。瓶儿瘦肩、细臂、红肿眼睑、干唇与泪痕清楚，动作有无力感，没有健康底稿的明丽姿态；西门庆亦落泪。双臂及手指关系合理、衣被完整、夜色明确，无亲吻、暴露、血渍或超自然物。发髻、衣被纹样、灯位和磨损墙面属于补足，不作经济处境或空间复原的依据。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "062-04",
+      "chapter": 62,
+      "title": "纸被覆身，前厅大恸",
+      "excerpt": {
+        "chapter": 62,
+        "paragraph": 28,
+        "quote": "西门庆在前厅，手拍着胸膛，由不的抚尸大恸，哭了又哭，把声都呼哑了，口口声声只呌「我的好性儿有仁义的姐姐」不住。"
+      },
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 28,
+          "quote": "把李瓶儿用板门抬出，停于正寝。下铺锦褥，上覆纸被。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 28,
+          "quote": "安放几筵香案，点起一盏随身灯来。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 28,
+          "quote": "一个打磬，一个烧纸。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "但见面容不改，体尚微温，脱然而逝"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "众人七手八脚都装绑停当。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 27,
+          "quote": "用四根金簪儿绾一方大鸦青手帕，旋勒停当。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "李瓶儿"
+      ],
+      "place": "前厅正寝，装殓衣服已穿妥之后",
+      "event": "瓶儿被抬到前厅停放，下锦褥、上纸被，西门庆抚尸拍胸痛哭。",
+      "why": "病房变成灵前，照护转为丧事；呼喊反复而无回应，呈现失去已经发生。",
+      "composition": "近景右侧西门庆一手拍胸、一手触纸被边，左侧只见瓶儿安静消瘦的脸和覆纸被的轮廓；其他侍奉者在画外。",
+      "summary": "迎春发现瓶儿已断气，家人赶来，先替她整理头髻与衣服，再抬到前厅。此图取安放后的局部：纸被和随身灯已在，西门庆仍哭到声音沙哑。画面不展示原文的血渍和未穿妥衣的身体，也不将死者变成无病容的美人。",
+      "psychology": {
+        "明写": "西门庆抚尸大恸、拍胸、反复呼叫，直至声哑。",
+        "推断": "他的重心压向停身处与空出的暗部相对，是对失去回应的视觉解释。"
+      },
+      "social": "收卷书画、设置帏屏、安排打磬烧纸，把家内空间迅速转成丧仪空间；图不据此复原制度细节。",
+      "explicit": [
+        "取装绑停当且已停放前厅的时刻，身体全覆，不混入刚断气时的未着衣状态。",
+        "锦褥、纸被、随身灯与拍胸呼喊有据。",
+        "装绑后以四根金簪绾鸦青手帕束髻，采用修订稿已补正。"
+      ],
+      "inference": [
+        "停放高度、帏屏位置、灯形和纸被纹理为补足。",
+        "两名小厮等在文字中保留，画幅仅截取死者与西门庆，不声称现场只有二人。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第62回隔离包与第61回必要连续性；宋代故事设定和宽泛晚明美术参考分开。生成图不是历史证据，具体空间、服装和器物形制属于美术补足，未作精确复原。",
+      "references": [
+        "references/ping-013.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks Li Pinger facial identity only, tapered oval face and small frame. Input image 2 locks Ximen Qing identity only, long face, straight brows, narrow long eyes and long build. Ignore old setting, costume, pose and smiles. A solemn NON-GRAPHIC domestic mourning scene in the front hall before dawn. Tight cropped composition showing only Ximen Qing and deceased Pinger; other attendants mentioned in the story are outside this frame. Left, Pinger lies horizontally on a low wooden door-board bier, already respectfully fully dressed and completely covered up to her neck by a plain pale paper shroud, patterned brocade mattress visible at its edge. Only her face above the high covering is visible, calm but still severely thin and sallow from her long illness, closed eyes, no smile or cosmetic beauty, no exposed chest, no blood, wound or decay. Right, Ximen Qing kneels or stoops alongside the bier, blue-grey simple robe, uncombed black hair knot with loose strands, tear-swollen reddened eyes, mouth open in hoarse uncontrolled crying. One hand beats his own chest and other hand rests on the covered edge of the bier, two anatomically plausible hands. A single low wick oil lamp, incense stand partly in shadow, plain draped screens after the pictures were removed. Grey-blue dawn and tiny warm flame, human weight and grief, no melodramatic supernatural effects. No nude skin beyond faces and hands, no kissing, violence, ghosts, children or text.",
+      "actualPrompt": "Use case: precise-object-edit and identity-preserve. Edit the existing non-graphic mourning illustration, changing ONLY the deceased woman's HEAD covering and restrained illness detail. Preserve the man exactly, including his two hands, grief, pose and face, preserve paper shroud, brocade, bier, lighting, background and 3:2 painted gongbi style. Her identity is the same small tapered oval-faced Li Pinger, dead after a long grave illness; her face should remain recognizably hers but a little more gaunt at cheeks and temples, dull sallow skin, no cosmetic glamour, no decay or wounds. IMPORTANT factual correction from this chapter: the women have already bound her hair with one large DARK RAVEN-BLUE HANDKERCHIEF, fastened by FOUR simple GOLD HAIRPINS. Replace the decorative floral jewelry in her hair with this single plain dark blue-black cloth wrapped neatly around the coiffure and temples, fastened by exactly four slim simple golden pins; no dangling ornaments, flowers, pearls or other hair jewels. Her peaceful closed eyes and face remain visible; the paper covering remains up to her neck so absolutely no exposed chest or body. Do not add readable writing, blood, supernatural elements or other people.",
+      "image": "assets/062-04.webp",
+      "status": "generated",
+      "review": "已逐张实际打开初稿与局部修订稿。右西门庆拍胸、抚纸被哭泣，左瓶儿已经装绑并全覆至颈，仅露闭目面部；两项旧脸在初稿实际传入，修订稿保留身份、动作与布局。修订补上深鸦青手帕束髻与清楚可数的四根素金簪，去掉初稿花饰，并收瘦面颊；死者不露身体、无血迹与腐败，纸被、锦褥、随身灯清楚。手指无明显失真。帕结法、板门高度、帏屏与灯具形制属于补足。其他侍奉者在裁切画幅外，不删改原文在场名单。初稿保留未公开参考〔unpublished-reference-3a61f1d265b9；过程图或旧参考不随本包发布〕。采用修订稿。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "062-05",
+      "chapter": 62,
+      "title": "伯爵劝后，终于进茶",
+      "excerpt": {
+        "chapter": 62,
+        "paragraph": 32,
+        "quote": "当时被伯爵一席话，说的西门庆心地透彻，茅塞顿开，也不哭了。须臾，拿上茶来吃了，便唤玳安：「后边说去，看饭来，我和你应二爹、温师父、谢爹吃。」伯爵道：「哥原来还未吃饭哩。」"
+      },
+      "evidence": [
+        {
+          "chapter": 62,
+          "paragraph": 31,
+          "quote": "三两夜没睡，头也没梳，脸也还没洗"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 31,
+          "quote": "爹的好朋友，大小酒席儿，那遭少了他两个？"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 32,
+          "quote": "一面让至厢房内，与温秀才叙礼坐下。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 32,
+          "quote": "虽有钱过北斗，成何大用！"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 32,
+          "quote": "死的自死了，存者还要过日子。哥要做个张主！"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "前厅旁厢房，应伯爵与谢希大来后",
+      "event": "伯爵以家业仍须主持劝解，西门庆停止哭泣、喝茶，并吩咐备饭。",
+      "why": "家内众人的劝食未成，熟识朋友的话终于使他进茶；这一转折连接亲疏、依赖与日常生活。",
+      "composition": "局部双人近景：左伯爵前倾低声劝，右西门庆捧小茶盏，脸上仍留泪痕；温秀才、谢希大与送茶者在画外。",
+      "summary": "西门庆一夜忙乱悲恸，直到将近晌午未进茶水饭食。应伯爵来后承认他的痛，又以家事、官身与存者生活相劝，他才停哭喝茶，叫备饭。本图停在茶盏到手之时，情绪稍缓仍疲惫；不把这几句话解释成所有悲痛已经结束。",
+      "psychology": {
+        "明写": "伯爵劝后西门庆不哭，进茶并唤饭；先前声哑、未食，头脸未整理。",
+        "推断": "保留泪痕、低垂视线，表示动作改变不等于悲痛全消。伯爵手势为补足。"
+      },
+      "social": "玳安预先指出朋友的劝说有效，显示家内照护与男性交游的不同话语位置；不据此断言关怀全真或全伪。",
+      "explicit": [
+        "两位朋友到场、温秀才在座；本图仅截取伯爵与西门庆的对话局部。",
+        "进茶在前、叫备饭在后，不把饭菜提前摆满桌。"
+      ],
+      "inference": [
+        "茶盏、桌椅、窗光、衣色与散发程度为补足；本图不把未梳洗自动画成完整成服服制。",
+        "梦中折簪只作人物转述，不画作预兆或现实器物。",
+        "采用图粗布磨损和补缀为画风补足，不作为家庭贫困的证据。"
+      ],
+      "history": "小说事实仅据用户梦梅馆MOBI第62回隔离包与第61回必要连续性；宋代故事设定和宽泛晚明美术参考分开。生成图不是历史证据，具体空间、服装和器物形制属于美术补足，未作精确复原。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Ximen Qing face and long build, long face, straight brows, narrow long eyes. Input image 2 locks ONLY Ying Bojue, the THIN LONG-FACED bearded man on the FAR LEFT, narrow moustache and pointed thin beard, weathered smile-lines but NOT smiling now. Ignore center and right men in image 2. Exactly TWO men visible in a close cropped section of a side room beside a mourning hall, near late morning. Other companions Xie Xida and tutor Wen are present elsewhere outside the crop, do not add invented faces. Left foreground Ying Bojue in a worn brown plain robe and modest cloth headwrap leans forward speaking quietly, a restrained open-palm advising gesture, serious natural face, no theatrical tears or grin. Right Ximen Qing in a simple blue-grey robe finally holds a small ceramic TEA cup with both hands, cup at lower chest level after stopping his sobs; exhausted red swollen eyes, tear marks and blotchy skin, dry lips, a slightly loose uncombed black topknot with stray hairs, still deeply grieved rather than happy. Modest wooden table between them with a small teapot and another cup ONLY, no meal has yet arrived. Pale draped mourning screen in distant shadow, cool diffused autumn daylight from lattice window, worn everyday textures. Two distinct non-glamorous faces, believable fingers and weight, candid conversation. No corpse visible, no blood, ghosts, child, food banquet, modern object or readable text.",
+      "actualPrompt": "Use case: illustration-story. Literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigments, matte painted texture, realistic varied natural faces, worn late-Ming domestic material life, cinematic narrative light and depth. Painted not photographic, not anime or fantasy. No readable text, lettering, signature or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Ximen Qing face and long build, long face, straight brows, narrow long eyes. Input image 2 locks ONLY Ying Bojue, the THIN LONG-FACED bearded man on the FAR LEFT, narrow moustache and pointed thin beard, weathered smile-lines but NOT smiling now. Ignore center and right men in image 2. Exactly TWO men visible in a close cropped section of a side room beside a mourning hall, near late morning. Other companions Xie Xida and tutor Wen are present elsewhere outside the crop, do not add invented faces. Left foreground Ying Bojue in a worn brown plain robe and modest cloth headwrap leans forward speaking quietly, a restrained open-palm advising gesture, serious natural face, no theatrical tears or grin. Right Ximen Qing in a simple blue-grey robe finally holds a small ceramic TEA cup with both hands, cup at lower chest level after stopping his sobs; exhausted red swollen eyes, tear marks and blotchy skin, dry lips, a slightly loose uncombed black topknot with stray hairs, still deeply grieved rather than happy. Modest wooden table between them with a small teapot and another cup ONLY, no meal has yet arrived. Pale draped mourning screen in distant shadow, cool diffused autumn daylight from lattice window, worn everyday textures. Two distinct non-glamorous faces, believable fingers and weight, candid conversation. No corpse visible, no blood, ghosts, child, food banquet, modern object or readable text.",
+      "image": "assets/062-05.webp",
+      "status": "generated",
+      "review": "已逐张实际打开核看。恰两名可见人物：左应伯爵低声举掌相劝，右西门庆双手捧小茶盏；两项旧参考实际传入，伯爵取合像最左瘦长脸细须者，无误取右侧圆脸。西门庆红眼、残泪、散发和疲惫可见，已止哭而未现笑容。桌上只有茶壶与茶盏，无提前到来的饭菜，手指与杯沿关系自然。温秀才、谢希大及送茶人仍在文字中保留，只未入双人裁切画幅。粗布、磨损与补缀、窗光、桌椅为美术补足，不据此推断人物贫困。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

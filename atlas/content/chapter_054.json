@@ -1,0 +1,578 @@
+{
+  "number": 54,
+  "title": "第五十四回应伯爵郊园会诸友　任医官豪家看病症",
+  "intro": "伯爵把随身小物的棋赌、郊园宴饮与歌唱串成一场热闹，书童的急报却把西门庆带回母子同病的家中。五幅从桌边争着转至池畔罚酒、耳语告急、帐前候脉和床边奉药，只依据本回已发生时刻。",
+  "supplements": [
+    {
+      "title": "从家中便饭到两只船",
+      "text": "伯爵请客先在家中便饭，再带食盒、酒与风炉器皿往郊园。原文并列的小碟名目与所称数量不强行校正；韩金钏吃素以及席间拿吃素取笑，均按人物言行保留，不转作宗教或饮食成效判断。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 9,
+          "quote": "两个食盒，一坛酒"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 9,
+          "quote": "唤一只小舡"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 9,
+          "quote": "又唤一只空舡载人"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 9,
+          "quote": "南门外三十里有余"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 9,
+          "quote": "那韩金钏吃素，再不用荤，只吃小菜"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 11,
+          "quote": "酒盒菜蔬风炉器皿"
+        }
+      ]
+    },
+    {
+      "title": "扇子与汗巾接着流转",
+      "text": "常时节赢来的扇子被金钏借来打板，又因众人劝说而赠出；金钏不肯独得，猜色后银儿赢去，常时节再把汗巾补给金钏。扇、巾不是另一次新增价款；席间谈笑与被撺掇的不情愿并存。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 14,
+          "quote": "常时节吃众人撺掇不过，只得送与他了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 14,
+          "quote": "就猜一色，是吴银儿赢了。金钏就递与银儿了。"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 14,
+          "quote": "我还有一条汗巾，送与金钏姐，补了扇罢"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 14,
+          "quote": "请完了旁赌的酒"
+        }
+      ]
+    },
+    {
+      "title": "园末的越界捉弄，本次不配图",
+      "text": "西门庆将离园时，伯爵借金钏私下如厕之机隔篱捉弄她，使她受惊并衣物沾湿，随后又对众人说笑。此处涉及隐私与越界触碰，保留非露骨文学说明及准确短锚点，不美化、不作性化图像；本次没有为该事件提交生图请求。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "伯爵蹑足潜踪寻去"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "韩金钏撒也撒不完，吃了一惊，就立起，裈腰都湿了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "带笑带骂出来"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "伯爵与众人说知，又笑了一番"
+        }
+      ]
+    },
+    {
+      "title": "母子同病与照护分工",
+      "text": "瓶儿胃脘疼痛，当日未进米食，只喝了汤；官哥昨夜仍头热、哭闹。西门庆担忧母子都病，迎春清理病室、烧香点茶并支持奶子。后如意儿怕孩子哭醒病人而哺乳安抚，此处不由表现确诊原因。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 23,
+          "quote": "今早至今，一粒米也没有用，只吃了两三瓯汤儿"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 23,
+          "quote": "昨夜还有头热，还要哭哩"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 23,
+          "quote": "娘儿两个都病了，怎的好"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 23,
+          "quote": "迎春打扫房里，抹净桌椅，烧香点茶"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "如意儿恐怕哭醒了李瓶儿"
+        }
+      ]
+    },
+    {
+      "title": "一两药金与同时取回的丸药",
+      "text": "西门庆遣玳安拿一两银子追去取药；医官先辞礼，见药金后收下，把煎剂及浅半瓶丸药都交出。主人的有钱能使鬼推磨是其评价，不据此造医官恒常品性或收费制度。药名、煎法是小说文本，不作现实用药指导。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 25,
+          "quote": "教玳安拿一两银子，赶上随去讨薬"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 25,
+          "quote": "见薬金盛了，就进去簇起煎剂，连瓶内丸子薬，也倒了浅半瓶"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "降火滋荣汤"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "水二锺，姜不用，煎至捌分，食远服，渣再煎"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "忌食麸面油腻炙煿等物"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "加味地黄丸"
+        }
+      ]
+    },
+    {
+      "title": "次早自述好些，只止于本回",
+      "text": "瓶儿次早自述睡得熟、心腹不十分疼；西门庆放心，迎春再煎第二锺。本回只记暂时变化，不引用结尾诗句作病程预言，也不带入以后发生的事。",
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 27,
+          "quote": "今早心腹里都觉不十分怪疼了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 27,
+          "quote": "迎春就煎起第二锺来，吃了"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "054-01",
+      "chapter": 54,
+      "title": "赌扇棋局起争执",
+      "excerpt": {
+        "chapter": 54,
+        "paragraph": 8,
+        "quote": "那常时节暗暗决他要悔，那白来创果然要拆几着子。一手撇去常时节着的子，说道：「差了差了，不要这着。」"
+      },
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 7,
+          "quote": "一个是诗画的白竹金扇，却是旧做骨子；一个是簇新的绣汗巾"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 8,
+          "quote": "常时节正在审局"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 8,
+          "quote": "伯爵奔出来道：「怎的闹起来？」"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 8,
+          "quote": "白来创又该找还常时节三个棋子"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 8,
+          "quote": "连忙数自家棋子，输了五个子"
+        }
+      ],
+      "people": [
+        "白来创",
+        "常时节",
+        "应伯爵"
+      ],
+      "place": "应伯爵家中，待客的棋桌旁",
+      "event": "白来创落于下风便要拆回数着，常时节抗议，伯爵调停；扇子与汗巾已作赌物。",
+      "why": "一把扇子先成为赌注，后又转作宴间赠物，玩笑里仍有计较和输赢。",
+      "composition": "斜俯棋桌，左白来创探手撤子，右常时节抬掌抗议，后方伯爵拿着两件赌物倾身调停。",
+      "summary": "正席未开，白来创与常时节先用扇子和绣汗巾赌棋。白来创棋势渐输，便伸手撤回已经下过的子；常时节不服，叫伯爵来评理。伯爵准他悔这一次，棋局仍须走完。本幅画的是争着一刻，不把桌面示意当成可复盘棋谱，也不混入后来罚酒的结果。",
+      "psychology": {
+        "明写": "白来创面红争辩，常时节不许随意悔棋，伯爵出面调停。",
+        "推断": "探手与抬掌形成相反方向，让小赌也要争体面的紧张可见。"
+      },
+      "social": "扇与汗巾既能作随身用物，也能被拿来估价、作赌；其二三钱说法不换算今币。",
+      "explicit": [
+        "双方以扇与绣汗巾下注；伯爵收持赌物。",
+        "白来创要拆回棋着，常时节抗议。"
+      ],
+      "inference": {
+        "判断边界": "只画争执局部三人，其他来客与仆从在画外；不据图断现场只有三人。",
+        "姓名": "本包写白来创，旧脸索引写白来抢；仅沿用该已有形象，不作异文校勘结论。"
+      },
+      "artisticAdditions": [
+        "棋盘局面、棋具尺寸、房间陈设与衣色为美术补足。",
+        "常时节索引无旧脸，普通成熟面貌为本章新建识别约定。"
+      ],
+      "history": "小说情节仅据用户梦梅馆校本MOBI本回隔离包；第53—57回的版本争议不据别本或模型记忆改文。宋代故事设定与宽泛晚明视觉参考分开，具体形制、尺度和衣装未考定。生成图不是历史证据；人物医理与疗效之说只按小说记载，不作医学证据。",
+      "references": [
+        "assets/035-02.webp",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: use ONLY the older man on the RIGHT pushing the door, Bai Laichuang, preserve his broad weathered oval face, eye wrinkles, short sparse moustache and short salt-and-pepper chin beard; ignore the left man and do not copy the ragged clothes. Input image 2: use ONLY the seated man on the LEFT, Ying Bojue, preserve his slimmer long face, fine moustache and goatee and eye wrinkles; ignore all other people. Exactly THREE fully clothed men, a candid oblique medium-wide composition around a low worn wood Go board table in an airy modest domestic reception room. Foreground LEFT Bai in clean faded off-white thin cloth robe and soft dark cloth cap leans forward impatiently, one hand just lifting a black stone from the board to undo moves, other hand at his knee, face flushed and brows raised in protest. Foreground RIGHT Chang Shijie is a distinct newly established ordinary mature man: lean oblong face, long straight nose, small deep-set eyes, short straight eyebrows, narrow lips, short uneven black-grey moustache and compact chin beard, greying temples, no resemblance to Bai or Ying; muted slate-blue light robe and dark cloth head wrap. Chang draws one hand away from the board and raises his other palm objecting, no physical fight. Behind the center of the board Ying in a faded olive-brown light robe bends between them mediating; he holds a CLOSED pale bamboo folding fan and a neatly folded colorful embroidered handkerchief together in one hand, his free hand calming them. A credible regular Go grid with black and white stones in an unspecified midgame, no chess pieces and no text. Clay tea cups at the edge, cleaned table, open lattice window with bright green summer foliage; dappled warm daylight. Triangle of faces focused on the disputing hand, no one faces the viewer. No food feast, no additional people.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: use ONLY the older man on the RIGHT pushing the door, Bai Laichuang, preserve his broad weathered oval face, eye wrinkles, short sparse moustache and short salt-and-pepper chin beard; ignore the left man and do not copy the ragged clothes. Input image 2: use ONLY the seated man on the LEFT, Ying Bojue, preserve his slimmer long face, fine moustache and goatee and eye wrinkles; ignore all other people. Exactly THREE fully clothed men, a candid oblique medium-wide composition around a low worn wood Go board table in an airy modest domestic reception room. Foreground LEFT Bai in clean faded off-white thin cloth robe and soft dark cloth cap leans forward impatiently, one hand just lifting a black stone from the board to undo moves, other hand at his knee, face flushed and brows raised in protest. Foreground RIGHT Chang Shijie is a distinct newly established ordinary mature man: lean oblong face, long straight nose, small deep-set eyes, short straight eyebrows, narrow lips, short uneven black-grey moustache and compact chin beard, greying temples, no resemblance to Bai or Ying; muted slate-blue light robe and dark cloth head wrap. Chang draws one hand away from the board and raises his other palm objecting, no physical fight. Behind the center of the board Ying in a faded olive-brown light robe bends between them mediating; he holds a CLOSED pale bamboo folding fan and a neatly folded colorful embroidered handkerchief together in one hand, his free hand calming them. A credible regular Go grid with black and white stones in an unspecified midgame, no chess pieces and no text. Clay tea cups at the edge, cleaned table, open lattice window with bright green summer foliage; dappled warm daylight. Triangle of faces focused on the disputing hand, no one faces the viewer. No food feast, no additional people.",
+      "image": "assets/054-01.webp",
+      "status": "generated",
+      "review": "已单独打开1536×1024成图核看：恰三人，左白来创与035-02右侧旧脸一致，后中伯爵沿用guests-030左侧瘦长脸，右常时节新面貌有别。白探手持棋子、常举掌抗议、伯爵居中调停，赌物扇与绣汗巾均可见；扇呈略张的收拢状态，是小幅美术差异，不改情节。棋盘与盘面清楚但仅示意，不能复盘或据图核算胜负。衣服没有带入旧脸参考的破损状态，无现代物、文字或额外人物。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "054-02",
+      "chapter": 54,
+      "title": "池畔满碗罚主人",
+      "excerpt": {
+        "chapter": 54,
+        "paragraph": 13,
+        "quote": "两个一齐推酒到嘴边，伯爵不好接一头，两手各接了一碗，就吃完了。连忙吃了些小菜，一时面都通红了。"
+      },
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "唱毕，又移酒到水池边，铺下毡单，都坐地了。"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "只说过了日中董娇儿不来，各罚主人三大碗"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "只说董姑娘在外来了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "韩金钏吴银儿各人斟了一碗送与应伯爵"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "怎的灌得闷不转的"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 13,
+          "quote": "也罢，就恕了你"
+        }
+      ],
+      "people": [
+        "应伯爵",
+        "韩金钏儿",
+        "吴银儿",
+        "西门庆"
+      ],
+      "place": "刘太监庄园，水池边的毡单上",
+      "event": "众人假报董娇儿到了，诱伯爵空寻一场，再依赌约逼他吃罚酒；金钏与银儿各递一碗。",
+      "why": "主人因未到的客人反成被戏弄的人，热闹与不适同时进入同一幅。",
+      "composition": "池水在后景，毡单铺地；伯爵居中两手各接一碗，左右女子倾身递酒，西门庆在后侧看着。",
+      "summary": "宴席移到水边，众人拿董娇儿迟到设赌，又让玳安假报她已来。伯爵兴冲冲出去寻人，回来便被追讨罚酒。金钏与银儿一人一碗递来，他两手接酒，脸已通红，随后求西门庆开恩才停斟。画面保留劝逼中的窘迫，不把过量饮酒只画成无害欢笑。",
+      "psychology": {
+        "明写": "伯爵面红，称灌得闷不转，又求饶；众人多次笑闹。",
+        "推断": "他收紧肩背、两手不得闲的姿势，表达笑声中无处躲避的尴尬。"
+      },
+      "social": "赌约、给主人面子和主客间的亲熟话语，能在席间成为劝逼的工具；只作本场关系观察。",
+      "explicit": [
+        "水池旁铺毡而坐。",
+        "两位女子各递一碗，伯爵两手接酒。",
+        "董娇儿未到，玳安所报为假。"
+      ],
+      "inference": {
+        "判断边界": "四人局部取景不代表其他客人消失；不把董娇儿画入席间。",
+        "年龄": "两位女子精确年龄未核，画面仅作完全着衣的普通递酒行为，不性化。"
+      },
+      "artisticAdditions": [
+        "毡单色泽、酒碗大小、池岸石纹及四人位置为美术补足。",
+        "女子衣色与伯爵酒后面红程度只是本刻转译，不作固定身份外观。"
+      ],
+      "history": "小说情节仅据用户梦梅馆校本MOBI本回隔离包；第53—57回的版本争议不据别本或模型记忆改文。宋代故事设定与宽泛晚明视觉参考分开，具体形制、尺度和衣装未考定。生成图不是历史证据；人物医理与疗效之说只按小说记载，不作医学证据。",
+      "references": [
+        "references/guests-030.png",
+        "references/ximen.png",
+        "assets/020-03.webp",
+        "assets/011-04.webp"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: ONLY the seated man on the LEFT is Ying Bojue, slim long mature face, fine moustache and goatee, eye wrinkles. Input image 2: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes, tall long-waisted build. Input image 3: ONLY the empty-handed singer at the FAR RIGHT is Han Jinchuan, slightly broad round face, raised natural brow arches and round jaw. Input image 4: ONLY the woman at the REAR CENTER playing the horizontal zither is Wu Yiner, slightly broad oval face, straighter eyebrows and a plain neat black hair bun. Preserve these four distinct face identities. Exactly FOUR fully clothed people in a lively but uncomfortable banquet fragment, viewed low and obliquely across a wool felt spread beside a green garden pond. CENTER Ying sits cross-legged in a faded olive-brown light robe, visibly flushed and strained with hunched shoulders, BOTH his hands occupied by TWO separate large ceramic wine bowls, one bowl in each hand. LEFT Han in a muted pale ochre summer jacket and deep brown skirt leans forward with a hand just withdrawing from one bowl she has handed him; RIGHT Wu in a muted lavender-grey jacket and dark sage skirt similarly withdraws a hand from his second bowl, both amused but no seductive poses. Behind to the left sits Ximen in a neat muted green thin robe and black cap watching with a small amused smile, hands on his own knees. Neither woman touches Ying body, no one force pours into his mouth; focus is the trapped expression and full bowls after insistent urging. A low wooden tray on the felt with small pickled vegetable plates, ordinary wine jug to one side, leafy pond reflections and irregular garden rocks, hot green midday light. No Dong Jiaoer, no other people, no instruments, no nudity or erotic imagery, no vomiting. Do not copy the reference banquet rooms or musical instruments.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: ONLY the seated man on the LEFT is Ying Bojue, slim long mature face, fine moustache and goatee, eye wrinkles. Input image 2: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes, tall long-waisted build. Input image 3: ONLY the empty-handed singer at the FAR RIGHT is Han Jinchuan, slightly broad round face, raised natural brow arches and round jaw. Input image 4: ONLY the woman at the REAR CENTER playing the horizontal zither is Wu Yiner, slightly broad oval face, straighter eyebrows and a plain neat black hair bun. Preserve these four distinct face identities. Exactly FOUR fully clothed people in a lively but uncomfortable banquet fragment, viewed low and obliquely across a wool felt spread beside a green garden pond. CENTER Ying sits cross-legged in a faded olive-brown light robe, visibly flushed and strained with hunched shoulders, BOTH his hands occupied by TWO separate large ceramic wine bowls, one bowl in each hand. LEFT Han in a muted pale ochre summer jacket and deep brown skirt leans forward with a hand just withdrawing from one bowl she has handed him; RIGHT Wu in a muted lavender-grey jacket and dark sage skirt similarly withdraws a hand from his second bowl, both amused but no seductive poses. Behind to the left sits Ximen in a neat muted green thin robe and black cap watching with a small amused smile, hands on his own knees. Neither woman touches Ying body, no one force pours into his mouth; focus is the trapped expression and full bowls after insistent urging. A low wooden tray on the felt with small pickled vegetable plates, ordinary wine jug to one side, leafy pond reflections and irregular garden rocks, hot green midday light. No Dong Jiaoer, no other people, no instruments, no nudity or erotic imagery, no vomiting. Do not copy the reference banquet rooms or musical instruments.",
+      "image": "assets/054-02.webp",
+      "status": "generated",
+      "review": "已单独打开1536×1024成图核看：恰四人，左金钏较宽圆脸、后左西门清瘦无须脸、中伯爵细须长脸、右银儿稍宽椭圆脸分别沿用实际传入的四张参考。伯爵两手各接一只酒碗、面红皱眉，两女子撤手递酒，西门在旁看着，未强灌或美化身体控制。水池、毡单、小菜与酒坛清楚；董娇儿未出现，无额外人物或性化表现。碗尺寸、花木与酒后面红程度为补足，局部取景不表原席只有四人。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "054-03",
+      "chapter": 54,
+      "title": "湖石旁一声急报",
+      "excerpt": {
+        "chapter": 54,
+        "paragraph": 22,
+        "quote": "正吃得热闹，只见书童抢进来，到西门庆身边，附耳低言道：「六娘身上不好的紧，快请爹回来。马也备在门外接了。」"
+      },
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "一面小小花框羯鼓"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "驮在湖山石后"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "又折一枝花来，要催花击鼓"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "西门庆听得，连忙走起告辞"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 22,
+          "quote": "西门庆原留琴童与伯爵收拾家活"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "书童"
+      ],
+      "place": "刘太监庄园，湖山石与宴饮毡单附近",
+      "event": "击鼓传花正热闹，书童进园附耳告知六娘病重，马已备在门外，西门庆立即辞席。",
+      "why": "低声急报截断喧闹，是郊园宴饮转入病室照护的明确枢纽。",
+      "composition": "近景书童从侧后俯身附耳，西门庆抬身欲起；前景停下的花枝与杯、后景石后小鼓提示宴乐被打断。",
+      "summary": "众人藏鼓于湖山石后击鼓传花，正闹得热烈，书童却赶到西门庆耳边报病。六娘不好，接人的马已备好。西门庆闻言立即告辞，把琴童留下协助收拾。画面仅截取耳语与起身之间的一瞬，不把书童误当先前假报董娇儿的玳安，也不把后来的病情画在园内。",
+      "psychology": {
+        "明写": "书童抢进来附耳低言，西门庆连忙起身。",
+        "推断": "未放稳的杯与转向的目光，表现注意力骤然从玩乐抽离。"
+      },
+      "social": "宴席能靠仆从带来的消息与备马迅速转向；告急和收拾家活是不同的劳动，不能只留下主人的反应。",
+      "explicit": [
+        "报信者是书童。",
+        "原文已说马在门外备好。",
+        "琴童被留下协助伯爵收拾。"
+      ],
+      "inference": {
+        "判断边界": "本幅只画局部两人，鼓手和其余宾客在画外；不加病人的幻影或后事象征。"
+      },
+      "artisticAdditions": [
+        "鼓的宽泛外观、花色、座位与石孔关系为美术补足，不复原乐器制度。",
+        "起身前仍托杯是动作化推断，未改变立即告辞的顺序。"
+      ],
+      "history": "小说情节仅据用户梦梅馆校本MOBI本回隔离包；第53—57回的版本争议不据别本或模型记忆改文。宋代故事设定与宽泛晚明视觉参考分开，具体形制、尺度和衣装未考定。生成图不是历史证据；人物医理与疗效之说只按小说记载，不作医学证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/034-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Ximen Qing only, long clean-shaven face, straight eyebrows, narrow long eyes and long-waisted build. Input image 2: ONLY the young servant on the RIGHT in pale jade clothing is Shu Tong, preserve his lean long oval face, straight brows, black eyes, no beard and tapered round chin; ignore the left man and all silver. Exactly TWO fully clothed people in a cinematic tight oblique medium shot beside perforated garden rocks and a leafy pond. Ximen, left foreground in a neat muted green thin robe and black cloth cap, sits at the edge of a spread felt but has abruptly turned his head right and braced one hand to rise, his other hand holds a small wine cup lowered away from his mouth. His face changes from relaxation to alert concern. Shu Tong, right side, plain pale blue-grey light servant robe and dark cap, bends forward hurriedly to whisper close to Ximen ear, one hand partly shielding his own mouth and the other gathering his robe near his thigh. Natural urgent whisper, faces distinct and visible in three-quarter view, no embrace. On the felt in the near corner a fresh small flowering twig lies beside a cup; behind the rock at the far left is just part of a small shallow decorative drum, no drummer in frame. Afternoon green foliage and dappled light, visual pause after noisy play. No horse in this tight shot, no sick woman, no apparitions, no other people, no writing.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Ximen Qing only, long clean-shaven face, straight eyebrows, narrow long eyes and long-waisted build. Input image 2: ONLY the young servant on the RIGHT in pale jade clothing is Shu Tong, preserve his lean long oval face, straight brows, black eyes, no beard and tapered round chin; ignore the left man and all silver. Exactly TWO fully clothed people in a cinematic tight oblique medium shot beside perforated garden rocks and a leafy pond. Ximen, left foreground in a neat muted green thin robe and black cloth cap, sits at the edge of a spread felt but has abruptly turned his head right and braced one hand to rise, his other hand holds a small wine cup lowered away from his mouth. His face changes from relaxation to alert concern. Shu Tong, right side, plain pale blue-grey light servant robe and dark cap, bends forward hurriedly to whisper close to Ximen ear, one hand partly shielding his own mouth and the other gathering his robe near his thigh. Natural urgent whisper, faces distinct and visible in three-quarter view, no embrace. On the felt in the near corner a fresh small flowering twig lies beside a cup; behind the rock at the far left is just part of a small shallow decorative drum, no drummer in frame. Afternoon green foliage and dappled light, visual pause after noisy play. No horse in this tight shot, no sick woman, no apparitions, no other people, no writing.",
+      "image": "assets/054-03.webp",
+      "status": "generated",
+      "review": "已单独打开1536×1024成图核看：恰两人，左西门与ximen参考无须长脸一致，右书童与034-03右侧清瘦长椭圆脸一致；书童靠耳掩口报信，西门转身一手撑地欲起、一手仍托杯，动作清楚。湖石后露小鼓、前景花枝与毡单提示宴乐；不见董娇儿、病人幻影或额外人物。杯与起身的相邻瞬间为动作化补足，窄幅局部不等于其他宾客已散。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "054-04",
+      "chapter": 54,
+      "title": "锦帐前澄心候脉",
+      "excerpt": {
+        "chapter": 54,
+        "paragraph": 24,
+        "quote": "迎春便把绣褥来衬起李瓶儿的手，又把锦帕来拥了玉臂，又把自己袖口笼着他纤指，従帐底下露出一段粉白的臂来，与太医看脉。"
+      },
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 23,
+          "quote": "任太医四角方巾，大袖衣服，骑马来了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 24,
+          "quote": "锦帐重围，玉钩齐下"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 24,
+          "quote": "太医澄心定气，候得脉来"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 24,
+          "quote": "胃虚气弱，血少肝经旺，心境不清，火在三焦"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 24,
+          "quote": "自従养了官哥，还不见十分来"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 24,
+          "quote": "如今先求煎剂，救得目前痛苦。还要求些丸薬"
+        }
+      ],
+      "people": [
+        "任医官",
+        "李瓶儿",
+        "迎春",
+        "西门庆"
+      ],
+      "place": "西门宅，李瓶儿的夜间卧房",
+      "event": "任医官被夜请到宅中，迎春用绣褥、锦帕与袖口安置病人的手臂，医官候脉后解释病症。",
+      "why": "诊治不只是一双搭脉的手；病室礼节、侍女的布置和家属的焦急都在其中。",
+      "composition": "左前医官侧身候脉，右侧帐下瓶儿卧枕，迎春在床头护住手指，西门庆在医官身后候着；烛灯照出安静的手臂与枕褥。",
+      "summary": "西门庆返家见瓶儿叫疼，连忙写帖夜请任医官。进房时，迎春已用绣褥托手、锦帕拥臂，又用袖口笼住手指。医官静心候脉，随后按自己的医理解释胃虚、血少等症，西门庆求先用煎剂解痛，再取丸药。画面只呈现候脉过程，不把人物诊断当作已证实的现代病名。",
+      "psychology": {
+        "明写": "任医官澄心定气；西门庆先前皱眉叹气，见诊说符合症候便谢不绝口。",
+        "推断": "医官低垂视线与主人前倾的姿态，让听候判断的悬心可见。"
+      },
+      "social": "豪家以茶礼和反复谦让迎医，侍女负责清扫、点茶与安排身体接触的礼节；财富与照护劳动同时可见。",
+      "explicit": [
+        "医官戴四角方巾、穿大袖衣服。",
+        "绣褥、锦帕与迎春的袖口分别参与安置病人手臂。",
+        "只露出手臂供诊脉，非赤裸身体。"
+      ],
+      "inference": {
+        "判断边界": "太医对病因与疗效的陈说是小说中人物判断，不能据此确证；不画脏腑、气流或药效神光。",
+        "年龄": "病人与侍女均完全着衣，普通医疗场景，不以身份推定具体年龄。"
+      },
+      "artisticAdditions": [
+        "任医官索引无旧脸，本章建立普通成熟医者的面容，不凭面相保证医术。",
+        "灯具、床帐纹样、椅子和前后站位宽泛示意，不作建筑或诊疗制度精确复原。"
+      ],
+      "history": "小说情节仅据用户梦梅馆校本MOBI本回隔离包；第53—57回的版本争议不据别本或模型记忆改文。宋代故事设定与宽泛晚明视觉参考分开，具体形制、尺度和衣装未考定。生成图不是历史证据；人物医理与疗效之说只按小说记载，不作医学证据。",
+      "references": [
+        "references/ping-013.png",
+        "assets/031-03.webp",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Li Pinger, preserve her petite build, pale slender melon-seed face and finely curved eyebrows; discard the old pink formal clothing and bright pose. Input image 2: ONLY the maid at the FAR LEFT holding the silver ewer is Yingchun, preserve her ordinary round-oval face, slightly broad nose and straight eyebrows; ignore the other three people and all props. Input image 3: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes. Exactly FOUR fully clothed people in a quiet night medical visit, camera obliquely at bedside height. RIGHT Li Pinger reclines high on cloth pillows behind partially gathered rich but worn brocade bed curtains, fully covered in a plain ivory long-sleeved inner garment and light muted rose bedcover up to her chest, face tired with small pain lines, hair in a simple practical loose bun. Her ONE forearm extends horizontally out from under the curtain to the LEFT, supported by a small embroidered cushion; a folded brocade cloth covers most of her arm but leaves a short wrist section accessible. LEFT foreground a newly established physician Ren sits in profile, ordinary mature narrow square face, slightly sunken eyes, calm natural straight eyebrows, short grey-black moustache and neat sparse chin beard, black four-corner square kerchief and dark brown wide-sleeved robe. Ren lightly places two or three fingertips of one hand on the exposed wrist, other hand resting on his own knee. At bedhead BEHIND the wrist, Yingchun in a plain grey-green light servant jacket uses the end of her own wide sleeve to gently cover ONLY Pinger fingertips; her other hand steadies the cloth cushion, no extra limbs. Ximen stands back LEFT behind the physician in the same muted green robe, tense brow, hands held still. All four faces visible and distinct. A small period open-flame oil lamp on a side table provides warm amber light; faint incense, dark timber and muted gilt curtain hooks recede into night. Clear separation of physician hand, patient wrist and maid sleeve. No baby in frame, no medical diagram, no modern medical tools, no eroticism, no other people.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Li Pinger, preserve her petite build, pale slender melon-seed face and finely curved eyebrows; discard the old pink formal clothing and bright pose. Input image 2: ONLY the maid at the FAR LEFT holding the silver ewer is Yingchun, preserve her ordinary round-oval face, slightly broad nose and straight eyebrows; ignore the other three people and all props. Input image 3: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes. Exactly FOUR fully clothed people in a quiet night medical visit, camera obliquely at bedside height. RIGHT Li Pinger reclines high on cloth pillows behind partially gathered rich but worn brocade bed curtains, fully covered in a plain ivory long-sleeved inner garment and light muted rose bedcover up to her chest, face tired with small pain lines, hair in a simple practical loose bun. Her ONE forearm extends horizontally out from under the curtain to the LEFT, supported by a small embroidered cushion; a folded brocade cloth covers most of her arm but leaves a short wrist section accessible. LEFT foreground a newly established physician Ren sits in profile, ordinary mature narrow square face, slightly sunken eyes, calm natural straight eyebrows, short grey-black moustache and neat sparse chin beard, black four-corner square kerchief and dark brown wide-sleeved robe. Ren lightly places two or three fingertips of one hand on the exposed wrist, other hand resting on his own knee. At bedhead BEHIND the wrist, Yingchun in a plain grey-green light servant jacket uses the end of her own wide sleeve to gently cover ONLY Pinger fingertips; her other hand steadies the cloth cushion, no extra limbs. Ximen stands back LEFT behind the physician in the same muted green robe, tense brow, hands held still. All four faces visible and distinct. A small period open-flame oil lamp on a side table provides warm amber light; faint incense, dark timber and muted gilt curtain hooks recede into night. Clear separation of physician hand, patient wrist and maid sleeve. No baby in frame, no medical diagram, no modern medical tools, no eroticism, no other people.",
+      "image": "assets/054-04.webp",
+      "status": "generated",
+      "review": "已单独打开1536×1024成图核看：恰四人，左后西门无须长脸、中迎春圆椭圆脸、右床上瓶儿小瓜子脸均沿用实际传入参考；左前任医官新建窄方成熟脸、短稀髭与细下颏须，四角方巾及大袖可见。医官指搭病人外伸手腕，绣褥托臂、锦帕覆盖、迎春护持布料，主要手臂无多肢失真；袖口笼指与锦帕具体叠覆层次未完全可分，仅作宽泛礼节示意，不声称逐层复原。瓶儿完全着衣，烛油灯与夜色清楚；无脏腑特效、药效神光、现代物或婴儿。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "054-05",
+      "chapter": 54,
+      "title": "一手扶颈一手奉药",
+      "excerpt": {
+        "chapter": 54,
+        "paragraph": 26,
+        "quote": "西门庆一手拿薬，一手扶着他头颈，李瓶儿吃了呌苦，迎春就拿滚水来过了口。"
+      },
+      "evidence": [
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "迎春把薬熬了，西门庆自家看薬泸清了渣出来"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "捧到李瓶儿床前，道：「六娘，薬在此了。」"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "迎春又烧些热汤护着，也连衣服假睡了"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 26,
+          "quote": "如意儿恐怕哭醒了李瓶儿"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 27,
+          "quote": "今早心腹里都觉不十分怪疼了"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "李瓶儿",
+        "迎春"
+      ],
+      "place": "西门宅，李瓶儿床前",
+      "event": "药取回煎成后，西门庆滤清药渣，扶着瓶儿头颈喂服；迎春接着用热水让她漱口。",
+      "why": "药袋之外是亲手滤药、扶颈和夜间守护，把照料落实为连续的小动作。",
+      "composition": "床沿近景，左侧西门庆一手捧碗一手托头颈，右侧瓶儿偏身小口饮药，后侧迎春端温水等候；灯光聚在手和碗。",
+      "summary": "玳安、书童带回煎剂与丸药，迎春先煎一帖，西门庆亲自滤去药渣，再捧到床边。他一手持碗，一手扶住瓶儿头颈；瓶儿叫苦，迎春便拿热水过口。画面将相邻的递药与备水压缩在一刻，另把守夜和次早疼痛减轻留在文字中，不据本回的暂时好转预断往后病程。",
+      "psychology": {
+        "明写": "瓶儿服药叫苦，西门庆扶颈喂药；迎春烧热汤并连衣假睡守候。",
+        "推断": "他弯身贴近床沿的谨慎动作，表现当下关切，不能据此概括恒常品性。"
+      },
+      "social": "私人关切依靠家内多人分工才能完成：请医、取药、煎滤、喂服与守夜，各有具体承担者。",
+      "explicit": [
+        "西门庆一手持药，一手扶头颈。",
+        "迎春取热水给瓶儿过口。",
+        "当夜睡下、次早自述疼痛减轻，均只按本回叙述。"
+      ],
+      "inference": {
+        "判断边界": "图中迎春先端水待用是相邻动作压缩；不把滚水直接灌入口中。",
+        "疗效": "不把人物谢天和次早好转推成药物安全性或病因的科学结论。"
+      },
+      "artisticAdditions": [
+        "病服、被褥纹样、药碗与水杯造型为美术补足。",
+        "药汤热气克制示意，不表示温度计测定；药名、禁忌只留文字短引，不生成人可读药签。"
+      ],
+      "history": "小说情节仅据用户梦梅馆校本MOBI本回隔离包；第53—57回的版本争议不据别本或模型记忆改文。宋代故事设定与宽泛晚明视觉参考分开，具体形制、尺度和衣装未考定。生成图不是历史证据；人物医理与疗效之说只按小说记载，不作医学证据。",
+      "references": [
+        "references/ximen.png",
+        "references/ping-013.png",
+        "assets/031-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes, tall long-waisted build. Input image 2: Li Pinger, petite, pale slender melon-seed face, fine curved eyebrows. Input image 3: ONLY the maid on the FAR LEFT holding the silver ewer is Yingchun, ordinary round-oval face, slightly broad nose, straight brows; ignore the others. Exactly THREE fully clothed people, an intimate but entirely non-erotic night caregiving narrative painting. Tight diagonal close-to-medium view from the footward side of a curtained bed, different framing from a medical consultation. RIGHT Pinger reclines on pillows under a light muted rose cover, wearing a modest plain ivory high-collared long-sleeved inner garment, black hair in a simple practical bun; her face is exhausted, eyes lowered, lips just touching the rim of a small plain ceramic medicine bowl and brow faintly pinched at its bitter taste. LEFT Ximen in a muted green light robe, black soft cap, bends carefully from a bedside stool; ONE hand holds that single medicine bowl steadily at her lips, his OTHER hand supports the back of her head and neck above the pillow, anatomically clear wrist and fingers, not embracing or restraining. At the rear CENTER Yingchun in a plain grey-green servant jacket stands ready with a small plain cup of rinse water on a shallow wood tray, watching Pinger mouth attentively; rinse water is being prepared for after the medicine, never poured boiling into the mouth. A small ceramic medicine pot and simple cloth strainer on a side table at lower left are credible but secondary. Warm period oil-lamp flame beyond the table, restrained steam from the medicine, deep night behind brocade bed curtains, ordinary worn folds and painted fine mineral color. No doctor, baby, bare shoulders, sexualized pose, extra people, extra cups in Ximen hands, text or supernatural light.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, 1536 by 1024. Chinese gongbi fine ink contours with layered mineral pigment wash and subtle silk texture, painted rather than photographic, not anime. Realistic varied ordinary faces, lived-in late-Ming daily materials, cinematic natural light and convincing spatial depth. Warm season with green foliage; exact calendar date unspecified. No lettering, readable writing, captions, signature, watermark, modern objects or glass-chimney lamps. Input images lock ONLY specified face identities, not old clothing, season, poses, rooms or objects. Input image 1: Ximen Qing, long clean-shaven face, straight eyebrows and narrow long eyes, tall long-waisted build. Input image 2: Li Pinger, petite, pale slender melon-seed face, fine curved eyebrows. Input image 3: ONLY the maid on the FAR LEFT holding the silver ewer is Yingchun, ordinary round-oval face, slightly broad nose, straight brows; ignore the others. Exactly THREE fully clothed people, an intimate but entirely non-erotic night caregiving narrative painting. Tight diagonal close-to-medium view from the footward side of a curtained bed, different framing from a medical consultation. RIGHT Pinger reclines on pillows under a light muted rose cover, wearing a modest plain ivory high-collared long-sleeved inner garment, black hair in a simple practical bun; her face is exhausted, eyes lowered, lips just touching the rim of a small plain ceramic medicine bowl and brow faintly pinched at its bitter taste. LEFT Ximen in a muted green light robe, black soft cap, bends carefully from a bedside stool; ONE hand holds that single medicine bowl steadily at her lips, his OTHER hand supports the back of her head and neck above the pillow, anatomically clear wrist and fingers, not embracing or restraining. At the rear CENTER Yingchun in a plain grey-green servant jacket stands ready with a small plain cup of rinse water on a shallow wood tray, watching Pinger mouth attentively; rinse water is being prepared for after the medicine, never poured boiling into the mouth. A small ceramic medicine pot and simple cloth strainer on a side table at lower left are credible but secondary. Warm period oil-lamp flame beyond the table, restrained steam from the medicine, deep night behind brocade bed curtains, ordinary worn folds and painted fine mineral color. No doctor, baby, bare shoulders, sexualized pose, extra people, extra cups in Ximen hands, text or supernatural light.",
+      "image": "assets/054-05.webp",
+      "status": "generated",
+      "review": "已单独打开1536×1024成图核看：恰三人，中左西门清瘦无须长脸、右床上瓶儿小瓜子脸、后左迎春圆椭圆脸与三张实际传入的旧参考一致。西门一手持药碗到瓶儿唇边，另一手托后头颈，手指数目和肢体连接清楚；瓶儿皱眉小口饮药，迎春托水杯候着，无直接灌热水。药煎器与滤布在左下，朴素衣物、灯火、锦帐与夜色清楚；无裸露、性化、医生、婴儿或现代物。端水候用是前后相邻动作压缩，不以药气表现奇效。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

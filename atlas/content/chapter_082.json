@@ -2,6 +2,35 @@
   "number": 82,
   "title": "第八十二回潘金莲月夜偷期　陈经济画楼双羙",
   "intro": "汗巾、扇、茶叶、凤仙花、茉莉与簪子：小东西递到谁手里，便改变谁知道什么，也留下不能直接作答的问题。",
+  "supplements": [
+    {
+      "title": "木香棚与荼蘼架不是一处写法",
+      "text": "约词说荼蘼架下等候，晚间金莲却先在木香棚下，经济藏荼蘼架旁。可以画相对的等候关系，不凭这几句补成有比例尺的园林测绘。",
+      "evidence": [
+        {
+          "chapter": 82,
+          "paragraph": 9,
+          "quote": "独立木香棚下"
+        },
+        {
+          "chapter": 82,
+          "paragraph": 9,
+          "quote": "走在荼蘼架下，远远望着"
+        }
+      ]
+    },
+    {
+      "title": "楼上佛像与药材",
+      "text": "中间供佛，两侧稍间堆药材香料。烧香、取货与取茶能让不同的人在这里相遇；不因有佛像就把任何动作自动解释为某种宗教寓意。",
+      "evidence": [
+        {
+          "chapter": 82,
+          "paragraph": 14,
+          "quote": "中间供养佛像，两边稍间堆放生薬香料"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "082-01",
@@ -34,13 +63,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow face, preserve identity; reference2 ONLY fine gongbi painted medium. ONE fully clothed ADULT woman in closed muted indigo spring jacket and long gray-green skirt stands outside a wooden latticed chamber window in a quiet April courtyard. Side medium-close view: her fingers release ONE SMALL silver-thread cloth-wrapped packet through an open lower window gap, pale jade embroidered sachet edge barely visible within wrapping, no readable stitching or loose body hair displayed. She watches the packet intently while looking slightly toward empty walkway, discreet ordinary action not seductive. Soft spring daylight, old sill wood, light shadows, inside room mostly dark and empty. No man in this frame, no future symbolism or giant evergreen tree, no letter text, ink contour mineral pigment on silk.",
       "references": [
-        "pan-solo-030（金莲）",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-01.png",
+      "image": "assets/082-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow face, preserve identity; reference2 ONLY fine gongbi painted medium. ONE fully clothed ADULT woman in closed muted indigo spring jacket and long gray-green skirt stands outside a wooden latticed chamber window in a quiet April courtyard. Side medium-close view: her fingers release ONE SMALL silver-thread cloth-wrapped packet through an open lower window gap, pale jade embroidered sachet edge barely visible within wrapping, no readable stitching or loose body hair displayed. She watches the packet intently while looking slightly toward empty walkway, discreet ordinary action not seductive. Soft spring daylight, old sill wood, light shadows, inside room mostly dark and empty. No man in this frame, no future symbolism or giant evergreen tree, no letter text, ink contour mineral pigment on silk."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan Jinlian narrow face, preserve identity; reference2 ONLY fine gongbi painted medium. ONE fully clothed ADULT woman in closed muted indigo spring jacket and long gray-green skirt stands outside a wooden latticed chamber window in a quiet April courtyard. Side medium-close view: her fingers release ONE SMALL silver-thread cloth-wrapped packet through an open lower window gap, pale jade embroidered sachet edge barely visible within wrapping, no readable stitching or loose body hair displayed. She watches the packet intently while looking slightly toward empty walkway, discreet ordinary action not seductive. Soft spring daylight, old sill wood, light shadows, inside room mostly dark and empty. No man in this frame, no future symbolism or giant evergreen tree, no letter text, ink contour mineral pigment on silk.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "082-02",
@@ -75,15 +106,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY Chen Jingji youthful ADULT smooth oval face; reference3 ONLY mature round-faced Yueniang; reference4 ONLY painted gongbi medium. THREE fully clothed adult people, quiet daytime door-curtain scene. Foreground Pan in closed pale green spring jacket and long dark skirt stands just OUTSIDE her room, receives a SMALL FLAT cloth-wrapped BAMBOO-RIM WHITE GAUZE HAND FAN at sleeve level from Chen in plain gray full robe, making a controlled polite neutral expression. Object modest size, NOT mechanical folding fan, no readable painting. Hands visible enough to understand discreet transfer, no bodily intimacy. Through half-raised door curtain at back Yueniang in plain pale mourning robe sits at tea table, head oriented toward doorway but not seeing the sleeve exchange, no knowing wink. Moderate light, spatial storytelling, fine drawn mineral pigments, no text.",
       "references": [
-        "pan-solo-030（金莲）",
-        "chen-030（经济）",
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/chen-030.png（原说明：chen-030（经济））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-02.png",
+      "image": "assets/082-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY Chen Jingji youthful ADULT smooth oval face; reference3 ONLY mature round-faced Yueniang; reference4 ONLY painted gongbi medium. THREE fully clothed adult people, quiet daytime door-curtain scene. Foreground Pan in closed pale green spring jacket and long dark skirt stands just OUTSIDE her room, receives a SMALL FLAT cloth-wrapped BAMBOO-RIM WHITE GAUZE HAND FAN at sleeve level from Chen in plain gray full robe, making a controlled polite neutral expression. Object modest size, NOT mechanical folding fan, no readable painting. Hands visible enough to understand discreet transfer, no bodily intimacy. Through half-raised door curtain at back Yueniang in plain pale mourning robe sits at tea table, head oriented toward doorway but not seeing the sleeve exchange, no knowing wink. Moderate light, spatial storytelling, fine drawn mineral pigments, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY Chen Jingji youthful ADULT smooth oval face; reference3 ONLY mature round-faced Yueniang; reference4 ONLY painted gongbi medium. THREE fully clothed adult people, quiet daytime door-curtain scene. Foreground Pan in closed pale green spring jacket and long dark skirt stands just OUTSIDE her room, receives a SMALL FLAT cloth-wrapped BAMBOO-RIM WHITE GAUZE HAND FAN at sleeve level from Chen in plain gray full robe, making a controlled polite neutral expression. Object modest size, NOT mechanical folding fan, no readable painting. Hands visible enough to understand discreet transfer, no bodily intimacy. Through half-raised door curtain at back Yueniang in plain pale mourning robe sits at tea table, head oriented toward doorway but not seeing the sleeve exchange, no knowing wink. Moderate light, spatial storytelling, fine drawn mineral pigments, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "082-03",
@@ -116,13 +149,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight-browed natural face, NONSEXUAL modest portrayal; reference2 ONLY fine gongbi painted medium. ONE fully clothed young female household attendant on an ordinary wooden staircase landing. Loose CLOSED blue-green spring jacket and full long muted yellow skirt, ordinary pinned hair, no makeup glamour, no bare skin beyond face and hands. She has abruptly STOPPED and is STEPPING BACK DOWN, one hand holds simple stair rail, the other lowered empty, eyes startled and averted, face respectfully distressed, not coy or excited. Upper doorway entirely concealed by a SOLID wooden screen and shadow, NO other person visible, no silhouette, no bed or intimate scene. Empty hands because she has not yet collected tea box. Plain storage-house stairs, soft daylight below and dark above, careful perspective and restrained emotional body language, matte silk mineral pigments, no text.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-03.png",
+      "image": "assets/082-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight-browed natural face, NONSEXUAL modest portrayal; reference2 ONLY fine gongbi painted medium. ONE fully clothed young female household attendant on an ordinary wooden staircase landing. Loose CLOSED blue-green spring jacket and full long muted yellow skirt, ordinary pinned hair, no makeup glamour, no bare skin beyond face and hands. She has abruptly STOPPED and is STEPPING BACK DOWN, one hand holds simple stair rail, the other lowered empty, eyes startled and averted, face respectfully distressed, not coy or excited. Upper doorway entirely concealed by a SOLID wooden screen and shadow, NO other person visible, no silhouette, no bed or intimate scene. Empty hands because she has not yet collected tea box. Plain storage-house stairs, soft daylight below and dark above, careful perspective and restrained emotional body language, matte silk mineral pigments, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight-browed natural face, NONSEXUAL modest portrayal; reference2 ONLY fine gongbi painted medium. ONE fully clothed young female household attendant on an ordinary wooden staircase landing. Loose CLOSED blue-green spring jacket and full long muted yellow skirt, ordinary pinned hair, no makeup glamour, no bare skin beyond face and hands. She has abruptly STOPPED and is STEPPING BACK DOWN, one hand holds simple stair rail, the other lowered empty, eyes startled and averted, face respectfully distressed, not coy or excited. Upper doorway entirely concealed by a SOLID wooden screen and shadow, NO other person visible, no silhouette, no bed or intimate scene. Empty hands because she has not yet collected tea box. Plain storage-house stairs, soft daylight below and dark above, careful perspective and restrained emotional body language, matte silk mineral pigments, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "082-04",
@@ -156,14 +191,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight brows, fully modest NONSEXUAL; reference2 ONLY Qiuju at BOTTOM LEFT panel, plain natural young female face, not other adults; reference3 ONLY painted gongbi medium. CLOSE household summer work scene with TWO fully clothed young maids, loose closed plain cotton jackets and full long skirts. Qiuju foreground right sits at small rough work table, carefully POUNDS pink balsam flower petals and a little peeled garlic in an ordinary small STONE MORTAR with pestle, eyes focused and tired, no injury or coercive gesture. Chunmei at left sorts freshly picked pink flowering stalks on a woven tray, no glamour. Tiny oil lamp, open lattice for warm night air, no bedroom visible and no bathing, not a magical potion. Show material texture, plant shapes plausible but not a botanical scientific claim, no text or exact recipe, ink contours mineral pigments.",
       "references": [
-        "chun-030（春梅）",
+        "references/chun-030.png（原说明：chun-030（春梅））",
         "others-030左下（秋菊）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-04.png",
+      "image": "assets/082-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight brows, fully modest NONSEXUAL; reference2 ONLY Qiuju at BOTTOM LEFT panel, plain natural young female face, not other adults; reference3 ONLY painted gongbi medium. CLOSE household summer work scene with TWO fully clothed young maids, loose closed plain cotton jackets and full long skirts. Qiuju foreground right sits at small rough work table, carefully POUNDS pink balsam flower petals and a little peeled garlic in an ordinary small STONE MORTAR with pestle, eyes focused and tired, no injury or coercive gesture. Chunmei at left sorts freshly picked pink flowering stalks on a woven tray, no glamour. Tiny oil lamp, open lattice for warm night air, no bedroom visible and no bathing, not a magical potion. Show material texture, plant shapes plausible but not a botanical scientific claim, no text or exact recipe, ink contours mineral pigments."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Chunmei young straight brows, fully modest NONSEXUAL; reference2 ONLY Qiuju at BOTTOM LEFT panel, plain natural young female face, not other adults; reference3 ONLY painted gongbi medium. CLOSE household summer work scene with TWO fully clothed young maids, loose closed plain cotton jackets and full long skirts. Qiuju foreground right sits at small rough work table, carefully POUNDS pink balsam flower petals and a little peeled garlic in an ordinary small STONE MORTAR with pestle, eyes focused and tired, no injury or coercive gesture. Chunmei at left sorts freshly picked pink flowering stalks on a woven tray, no glamour. Tiny oil lamp, open lattice for warm night air, no bedroom visible and no bathing, not a magical potion. Show material texture, plant shapes plausible but not a botanical scientific claim, no text or exact recipe, ink contours mineral pigments.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "082-05",
@@ -198,15 +235,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY young ADULT Chen smooth oval face; reference3 ONLY Chunmei young straight eyebrows modest NONSEXUAL; reference4 ONLY painted gongbi medium. THREE fully clothed people in a quiet summer daytime household room. Pan in closed pale gray-green jacket and full dark skirt sits at plain dressing table, tears begin at eyes as she listens, hands still, NO seductive pose. Chen stands a respectful step away near door in plain blue-gray full robe and cap, speaks softly holding only a small empty cloth purse, not smiling romantically. Chunmei in loose closed blue jacket and long yellow skirt carefully places TWO JASMINE SPRIGS in a small water cup on foreground table. Small tea tray nearby, no exposed body, bed intimacy, funeral corpse or readable money amounts. Quiet grief mixed with ordinary tasks, fine natural faces, delicate silk ink and mineral colors.",
       "references": [
-        "pan-solo-030（金莲）",
-        "chen-030（经济）",
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/chen-030.png（原说明：chen-030（经济））",
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-05.png",
+      "image": "assets/082-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY young ADULT Chen smooth oval face; reference3 ONLY Chunmei young straight eyebrows modest NONSEXUAL; reference4 ONLY painted gongbi medium. THREE fully clothed people in a quiet summer daytime household room. Pan in closed pale gray-green jacket and full dark skirt sits at plain dressing table, tears begin at eyes as she listens, hands still, NO seductive pose. Chen stands a respectful step away near door in plain blue-gray full robe and cap, speaks softly holding only a small empty cloth purse, not smiling romantically. Chunmei in loose closed blue jacket and long yellow skirt carefully places TWO JASMINE SPRIGS in a small water cup on foreground table. Small tea tray nearby, no exposed body, bed intimacy, funeral corpse or readable money amounts. Quiet grief mixed with ordinary tasks, fine natural faces, delicate silk ink and mineral colors."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY adult Pan narrow face; reference2 ONLY young ADULT Chen smooth oval face; reference3 ONLY Chunmei young straight eyebrows modest NONSEXUAL; reference4 ONLY painted gongbi medium. THREE fully clothed people in a quiet summer daytime household room. Pan in closed pale gray-green jacket and full dark skirt sits at plain dressing table, tears begin at eyes as she listens, hands still, NO seductive pose. Chen stands a respectful step away near door in plain blue-gray full robe and cap, speaks softly holding only a small empty cloth purse, not smiling romantically. Chunmei in loose closed blue jacket and long yellow skirt carefully places TWO JASMINE SPRIGS in a small water cup on foreground table. Small tea tray nearby, no exposed body, bed intimacy, funeral corpse or readable money amounts. Quiet grief mixed with ordinary tasks, fine natural faces, delicate silk ink and mineral colors.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "082-06",
@@ -240,42 +279,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished gongbi literary illustration on silk, landscape3:2, delicate ink contours and mineral pigment, cinematic narrative. Reference1 is the ONLY facial identity for Pan Jinlian, the ADULT CHINESE WOMAN in foreground, age32, feminine narrow oval natural face, soft female jaw, NO BEARD, NO MUSTACHE, NO FACIAL HAIR, pinned woman's hair bun. Reference2 is ONLY painted medium. Foreground Pan, clearly the SAME WOMAN as reference1, fully clothed in a closed indigo traditional WOMAN'S padded jacket and full dark long skirt, holds ONE slender gold-tipped LOTUS-PETAL hairpin close to her own eyes, looking suspicious and thoughtful. She has no man's headwrap or male robe. Background Chen Jingji is a DIFFERENT adult MAN with smooth oval young face, fully clothed plain blue full robe and cap, asleep on daybed, softly out of focus. EXACTLY ONE WOMAN foreground and ONE MAN background. No other face. Worn wood, quiet dusk window light. Pin engraving only abstract not readable. No intimacy, sexuality, nudity, violence, writing or future symbols. Make Pan clearly identifiable as the supplied woman and never a mustached man.",
       "references": [
-        "pan-solo-030（金莲面貌）",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲面貌））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/082-06.png",
+      "image": "assets/082-06.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished gongbi literary illustration on silk, landscape3:2, delicate ink contours and mineral pigment, cinematic narrative. Reference1 is the ONLY facial identity for Pan Jinlian, the ADULT CHINESE WOMAN in foreground, age32, feminine narrow oval natural face, soft female jaw, NO BEARD, NO MUSTACHE, NO FACIAL HAIR, pinned woman's hair bun. Reference2 is ONLY painted medium. Foreground Pan, clearly the SAME WOMAN as reference1, fully clothed in a closed indigo traditional WOMAN'S padded jacket and full dark long skirt, holds ONE slender gold-tipped LOTUS-PETAL hairpin close to her own eyes, looking suspicious and thoughtful. She has no man's headwrap or male robe. Background Chen Jingji is a DIFFERENT adult MAN with smooth oval young face, fully clothed plain blue full robe and cap, asleep on daybed, softly out of focus. EXACTLY ONE WOMAN foreground and ONE MAN background. No other face. Worn wood, quiet dusk window light. Pin engraving only abstract not readable. No intimacy, sexuality, nudity, violence, writing or future symbols. Make Pan clearly identifiable as the supplied woman and never a mustached man."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "木香棚与荼蘼架不是一处写法",
-      "text": "约词说荼蘼架下等候，晚间金莲却先在木香棚下，经济藏荼蘼架旁。可以画相对的等候关系，不凭这几句补成有比例尺的园林测绘。",
-      "evidence": [
-        {
-          "chapter": 82,
-          "paragraph": 9,
-          "quote": "独立木香棚下"
-        },
-        {
-          "chapter": 82,
-          "paragraph": 9,
-          "quote": "走在荼蘼架下，远远望着"
-        }
-      ]
-    },
-    {
-      "title": "楼上佛像与药材",
-      "text": "中间供佛，两侧稍间堆药材香料。烧香、取货与取茶能让不同的人在这里相遇；不因有佛像就把任何动作自动解释为某种宗教寓意。",
-      "evidence": [
-        {
-          "chapter": 82,
-          "paragraph": 14,
-          "quote": "中间供养佛像，两边稍间堆放生薬香料"
-        }
-      ]
+      "actualPrompt": "Finished gongbi literary illustration on silk, landscape3:2, delicate ink contours and mineral pigment, cinematic narrative. Reference1 is the ONLY facial identity for Pan Jinlian, the ADULT CHINESE WOMAN in foreground, age32, feminine narrow oval natural face, soft female jaw, NO BEARD, NO MUSTACHE, NO FACIAL HAIR, pinned woman's hair bun. Reference2 is ONLY painted medium. Foreground Pan, clearly the SAME WOMAN as reference1, fully clothed in a closed indigo traditional WOMAN'S padded jacket and full dark long skirt, holds ONE slender gold-tipped LOTUS-PETAL hairpin close to her own eyes, looking suspicious and thoughtful. She has no man's headwrap or male robe. Background Chen Jingji is a DIFFERENT adult MAN with smooth oval young face, fully clothed plain blue full robe and cap, asleep on daybed, softly out of focus. EXACTLY ONE WOMAN foreground and ONE MAN background. No other face. Worn wood, quiet dusk window light. Pin engraving only abstract not readable. No intimacy, sexuality, nudity, violence, writing or future symbols. Make Pan clearly identifiable as the supplied woman and never a mustached man.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

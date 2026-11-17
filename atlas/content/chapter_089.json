@@ -2,6 +2,30 @@
   "number": 89,
   "title": "第八十九回清明节寡妇上新坟　吴月娘悮入永福寺",
   "intro": "同一日里，有人返门，有人上坟，也有人在寺中重新见面。逐幅分开看，才能听见每个人对同一段关系说了什么。",
+  "supplements": [
+    {
+      "title": "谁被请去避一避",
+      "text": "长老原已摆斋，听说守备府小奶奶来，连忙请先到的月娘等转进小房。这个动作在相见之前；两边互礼是在之后，不能倒过来说长老当时就打算撮合旧人。",
+      "evidence": [
+        {
+          "chapter": 89,
+          "paragraph": 28,
+          "quote": "请列位菩萨且在小房避避"
+        }
+      ]
+    },
+    {
+      "title": "孩子帽上的一对簪",
+      "text": "春梅从头上拔一对金头银簪，插到孝哥儿帽上。月娘喜欢，也让如意抱孩子唱喏。这里是明确的赠物与回礼；没有用作之后命运的视觉记号。",
+      "evidence": [
+        {
+          "chapter": 89,
+          "paragraph": 33,
+          "quote": "插在孝哥儿帽儿上"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "089-01",
@@ -37,14 +61,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 Chinese household gate narrative. Reference1 ONLY adult Chen Jingji oval face; reference2 ONLY Xue Sao the mature WOMAN holding flower box at FAR LEFT, ignore right portrait; reference3 ONLY fine gongbi paint medium. Chen in dark blue full robe stands one pace INSIDE gate, palm out to refuse, frustrated controlled expression. Mature woman Xue Sao in closed plum jacket and full brown skirt beside a covered offering tray faces him, trying to explain. At left a SMALL COVERED SEDAN with curtain closed turns back into street carried by two plain-clothed adult bearers; only a little white sleeve at curtain edge, no clear face inside. Opposite motion of offering tray toward door and sedan away. No kicking, threats, injury or nudity, quiet early spring, detailed cloth and worn wood, no text.",
       "references": [
-        "chen-030（经济）",
+        "references/chen-030.png（原说明：chen-030（经济））",
         "matchmakers-030左（薛嫂）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/089-01.png",
+      "image": "assets/089-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 Chinese household gate narrative. Reference1 ONLY adult Chen Jingji oval face; reference2 ONLY Xue Sao the mature WOMAN holding flower box at FAR LEFT, ignore right portrait; reference3 ONLY fine gongbi paint medium. Chen in dark blue full robe stands one pace INSIDE gate, palm out to refuse, frustrated controlled expression. Mature woman Xue Sao in closed plum jacket and full brown skirt beside a covered offering tray faces him, trying to explain. At left a SMALL COVERED SEDAN with curtain closed turns back into street carried by two plain-clothed adult bearers; only a little white sleeve at curtain edge, no clear face inside. Opposite motion of offering tray toward door and sedan away. No kicking, threats, injury or nudity, quiet early spring, detailed cloth and worn wood, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 Chinese household gate narrative. Reference1 ONLY adult Chen Jingji oval face; reference2 ONLY Xue Sao the mature WOMAN holding flower box at FAR LEFT, ignore right portrait; reference3 ONLY fine gongbi paint medium. Chen in dark blue full robe stands one pace INSIDE gate, palm out to refuse, frustrated controlled expression. Mature woman Xue Sao in closed plum jacket and full brown skirt beside a covered offering tray faces him, trying to explain. At left a SMALL COVERED SEDAN with curtain closed turns back into street carried by two plain-clothed adult bearers; only a little white sleeve at curtain edge, no clear face inside. Opposite motion of offering tray toward door and sedan away. No kicking, threats, injury or nudity, quiet early spring, detailed cloth and worn wood, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "089-02",
@@ -82,17 +108,19 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Yueniang mature round face; reference2 ONLY Yulou tall slim adult WOMAN with subtle pockmarks; reference3 ONLY Ruyi mature WOMAN at right of gray-green picture; reference4 ONLY Wu Kai mature square-faced man FAR RIGHT, pale gray mustache from pilgrimage; reference5 ONLY painted style. Five fully clothed adults and ONE fully wrapped toddler in a spring cemetery landscape. Center Yueniang in closed white mourning robe distributes a small handful of thin unlit incense sticks, one toward Yulou in subdued ochre. Ruyi in plain dark green cradles a fully covered one-year-old child well away from incense and flame. Wu Kai in subdued blue and his mature wife in brown wait behind. Simple incense vessel and covered offering trays, low earthen mound, distant willow and faint travelers. Restrained grief, fresh light, no ornate mausoleum, apparitions, readable tablet or text. Gongbi line and muted mineral pigments.",
       "references": [
-        "moon-030（月娘）",
-        "yulou（玉楼）",
-        "072-01右（如意儿）",
-        "073-02右（吴铠）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "assets/072-01.webp（原说明：072-01右（如意儿））",
+        "assets/073-02.webp（原说明：073-02右（吴铠））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/089-02.png",
+      "image": "assets/089-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 成图中襁褓使孩子的年龄感偏小，正文明确写他周岁；香的根数以正文五根为准。",
       "knownDeviation": "成图中襁褓使孩子的年龄感偏小，正文明确写他周岁；香的根数以正文五根为准。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Yueniang mature round face; reference2 ONLY Yulou tall slim adult WOMAN with subtle pockmarks; reference3 ONLY Ruyi mature WOMAN at right of gray-green picture; reference4 ONLY Wu Kai mature square-faced man FAR RIGHT, pale gray mustache from pilgrimage; reference5 ONLY painted style. Five fully clothed adults and ONE fully wrapped toddler in a spring cemetery landscape. Center Yueniang in closed white mourning robe distributes a small handful of thin unlit incense sticks, one toward Yulou in subdued ochre. Ruyi in plain dark green cradles a fully covered one-year-old child well away from incense and flame. Wu Kai in subdued blue and his mature wife in brown wait behind. Simple incense vessel and covered offering trays, low earthen mound, distant willow and faint travelers. Restrained grief, fresh light, no ornate mausoleum, apparitions, readable tablet or text. Gongbi line and muted mineral pigments."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2. Reference1 ONLY Yueniang mature round face; reference2 ONLY Yulou tall slim adult WOMAN with subtle pockmarks; reference3 ONLY Ruyi mature WOMAN at right of gray-green picture; reference4 ONLY Wu Kai mature square-faced man FAR RIGHT, pale gray mustache from pilgrimage; reference5 ONLY painted style. Five fully clothed adults and ONE fully wrapped toddler in a spring cemetery landscape. Center Yueniang in closed white mourning robe distributes a small handful of thin unlit incense sticks, one toward Yulou in subdued ochre. Ruyi in plain dark green cradles a fully covered one-year-old child well away from incense and flame. Wu Kai in subdued blue and his mature wife in brown wait behind. Simple incense vessel and covered offering trays, low earthen mound, distant willow and faint travelers. Restrained grief, fresh light, no ornate mausoleum, apparitions, readable tablet or text. Gongbi line and muted mineral pigments.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "089-03",
@@ -126,13 +154,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 delicate painted gongbi silk. Reference1 ONLY Chunmei, straight eyebrows and natural youthful FEMALE face, same identity in a higher-status setting, modest NONSEXUAL; reference2 ONLY medium. Broad scene under ONE WHITE POPLAR beside a low simple earthen grave mound behind a temple. Chunmei is the central WOMAN, recognizable, clothed in closed HIGH-NECK SCARLET BROCADE full jacket and long CYAN-BLUE skirt with broad woven gold border, modest pinned crown with small phoenix hairpin. She bends to place an incense stick in a low burner, face sad, no beauty pose. TWO ordinary adult male attendants wait discreetly behind with covered trays. Pale green spring, quiet dirt and new grass, tomb no readable writing, no ghost, body, blood, fire spectacle or fetish. Natural material, emotional gesture, ink contours and matte pigments.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/089-03.png",
+      "image": "assets/089-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 delicate painted gongbi silk. Reference1 ONLY Chunmei, straight eyebrows and natural youthful FEMALE face, same identity in a higher-status setting, modest NONSEXUAL; reference2 ONLY medium. Broad scene under ONE WHITE POPLAR beside a low simple earthen grave mound behind a temple. Chunmei is the central WOMAN, recognizable, clothed in closed HIGH-NECK SCARLET BROCADE full jacket and long CYAN-BLUE skirt with broad woven gold border, modest pinned crown with small phoenix hairpin. She bends to place an incense stick in a low burner, face sad, no beauty pose. TWO ordinary adult male attendants wait discreetly behind with covered trays. Pale green spring, quiet dirt and new grass, tomb no readable writing, no ghost, body, blood, fire spectacle or fetish. Natural material, emotional gesture, ink contours and matte pigments."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 delicate painted gongbi silk. Reference1 ONLY Chunmei, straight eyebrows and natural youthful FEMALE face, same identity in a higher-status setting, modest NONSEXUAL; reference2 ONLY medium. Broad scene under ONE WHITE POPLAR beside a low simple earthen grave mound behind a temple. Chunmei is the central WOMAN, recognizable, clothed in closed HIGH-NECK SCARLET BROCADE full jacket and long CYAN-BLUE skirt with broad woven gold border, modest pinned crown with small phoenix hairpin. She bends to place an incense stick in a low burner, face sad, no beauty pose. TWO ordinary adult male attendants wait discreetly behind with covered trays. Pale green spring, quiet dirt and new grass, tomb no readable writing, no ghost, body, blood, fire spectacle or fetish. Natural material, emotional gesture, ink contours and matte pigments.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "089-04",
@@ -168,15 +198,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2, fine literary gongbi. Reference1 ONLY Chunmei in red closed jacket and cyan-blue gold-border skirt and matching hair, youthful FEMALE face, nonsexual; reference2 ONLY mature round-faced Yueniang WOMAN; reference3 ONLY tall slim Yulou WOMAN with natural subtle pockmarks; reference4 ONLY painted style. EXACTLY FOUR fully clothed WOMEN in a simple temple reception hall, NO men or facial hair. Chunmei at left in the same red and blue costume gently steadies Yueniang's forearms as the mature woman in plain white full robe begins to bow. Yulou in muted ochre full jacket and long skirt looks on close beside Yueniang. One older woman, distinctly lined face and simple brown clothing, stands half a step back. Empty prominent wooden guest chair behind and open curtain, no invented servants touching them. Realistic gestures, both awkwardness and warmth, modest spring daylight, no text, no supernatural effects.",
       "references": [
-        "089-03（春梅同日衣装）",
-        "moon-030（月娘）",
-        "yulou（玉楼）",
-        "065-01（媒介）"
+        "assets/089-03.webp（原说明：089-03（春梅同日衣装））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/089-04.png",
+      "image": "assets/089-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2, fine literary gongbi. Reference1 ONLY Chunmei in red closed jacket and cyan-blue gold-border skirt and matching hair, youthful FEMALE face, nonsexual; reference2 ONLY mature round-faced Yueniang WOMAN; reference3 ONLY tall slim Yulou WOMAN with natural subtle pockmarks; reference4 ONLY painted style. EXACTLY FOUR fully clothed WOMEN in a simple temple reception hall, NO men or facial hair. Chunmei at left in the same red and blue costume gently steadies Yueniang's forearms as the mature woman in plain white full robe begins to bow. Yulou in muted ochre full jacket and long skirt looks on close beside Yueniang. One older woman, distinctly lined face and simple brown clothing, stands half a step back. Empty prominent wooden guest chair behind and open curtain, no invented servants touching them. Realistic gestures, both awkwardness and warmth, modest spring daylight, no text, no supernatural effects."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2, fine literary gongbi. Reference1 ONLY Chunmei in red closed jacket and cyan-blue gold-border skirt and matching hair, youthful FEMALE face, nonsexual; reference2 ONLY mature round-faced Yueniang WOMAN; reference3 ONLY tall slim Yulou WOMAN with natural subtle pockmarks; reference4 ONLY painted style. EXACTLY FOUR fully clothed WOMEN in a simple temple reception hall, NO men or facial hair. Chunmei at left in the same red and blue costume gently steadies Yueniang's forearms as the mature woman in plain white full robe begins to bow. Yulou in muted ochre full jacket and long skirt looks on close beside Yueniang. One older woman, distinctly lined face and simple brown clothing, stands half a step back. Empty prominent wooden guest chair behind and open curtain, no invented servants touching them. Realistic gestures, both awkwardness and warmth, modest spring daylight, no text, no supernatural effects.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "089-05",
@@ -209,37 +241,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 quiet hand-painted gongbi on silk. Reference1 ONLY Meng Yulou, tall slim mature adult WOMAN, natural subtle pockmarks, not airbrushed; reference2 ONLY painted medium. ONE fully clothed woman in closed subdued ochre padded jacket and full gray-brown skirt kneels beside a SMALL plain yellow-earth mound at foot of a white poplar, some green mugwort-like shoots beside earth. She holds a plain white handkerchief near her cheek, crying quietly, one thin incense stick in a small safe pot and a few paper offerings in a shallow burner, no open fire near clothes. Sparse spring landscape and far temple roof beyond branches. No elaborate headstone, legible writing, ghost, body or other people. Quiet natural light, material texture, large breathing space, humane grief, ink and matte mineral pigment.",
       "references": [
-        "yulou（玉楼）",
-        "065-01（媒介）"
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/089-05.png",
+      "image": "assets/089-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 quiet hand-painted gongbi on silk. Reference1 ONLY Meng Yulou, tall slim mature adult WOMAN, natural subtle pockmarks, not airbrushed; reference2 ONLY painted medium. ONE fully clothed woman in closed subdued ochre padded jacket and full gray-brown skirt kneels beside a SMALL plain yellow-earth mound at foot of a white poplar, some green mugwort-like shoots beside earth. She holds a plain white handkerchief near her cheek, crying quietly, one thin incense stick in a small safe pot and a few paper offerings in a shallow burner, no open fire near clothes. Sparse spring landscape and far temple roof beyond branches. No elaborate headstone, legible writing, ghost, body or other people. Quiet natural light, material texture, large breathing space, humane grief, ink and matte mineral pigment."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "谁被请去避一避",
-      "text": "长老原已摆斋，听说守备府小奶奶来，连忙请先到的月娘等转进小房。这个动作在相见之前；两边互礼是在之后，不能倒过来说长老当时就打算撮合旧人。",
-      "evidence": [
-        {
-          "chapter": 89,
-          "paragraph": 28,
-          "quote": "请列位菩萨且在小房避避"
-        }
-      ]
-    },
-    {
-      "title": "孩子帽上的一对簪",
-      "text": "春梅从头上拔一对金头银簪，插到孝哥儿帽上。月娘喜欢，也让如意抱孩子唱喏。这里是明确的赠物与回礼；没有用作之后命运的视觉记号。",
-      "evidence": [
-        {
-          "chapter": 89,
-          "paragraph": 33,
-          "quote": "插在孝哥儿帽儿上"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Landscape 3:2 quiet hand-painted gongbi on silk. Reference1 ONLY Meng Yulou, tall slim mature adult WOMAN, natural subtle pockmarks, not airbrushed; reference2 ONLY painted medium. ONE fully clothed woman in closed subdued ochre padded jacket and full gray-brown skirt kneels beside a SMALL plain yellow-earth mound at foot of a white poplar, some green mugwort-like shoots beside earth. She holds a plain white handkerchief near her cheek, crying quietly, one thin incense stick in a small safe pot and a few paper offerings in a shallow burner, no open fire near clothes. Sparse spring landscape and far temple roof beyond branches. No elaborate headstone, legible writing, ghost, body or other people. Quiet natural light, material texture, large breathing space, humane grief, ink and matte mineral pigment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

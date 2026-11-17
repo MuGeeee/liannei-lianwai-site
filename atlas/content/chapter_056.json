@@ -1,0 +1,519 @@
+{
+  "number": 56,
+  "title": "第五十六回西门庆周济常时节　应伯爵举荐水秀才",
+  "intro": "严格据用户梦梅馆MOBI本回隔离正文，看求助如何通过熟人进门，十二两如何转成衣食，又看才学怎样被推荐为门面服务。不以别本或全书记忆补文，不把叙述者预告变成当前画面。",
+  "supplements": [
+    {
+      "title": "两位歌童：留下候唤",
+      "text": "承接前回被送而来的两位歌童，本回已发生的安排是留下祇候，吩咐遇呼唤不得有违，苗家人随后带回书礼物出门。本事件未另配图。",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 5,
+          "quote": "当日西门庆留下两个歌童祇候：「若遇有呼唤，不得有违。」两人应诺去了。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 5,
+          "quote": "随即打发苗家人回书礼物，又赏了些银钱。苗实苗秀磕头谢了出门。"
+        }
+      ]
+    },
+    {
+      "title": "一箱秋衣与四间房的急情",
+      "text": "书童画童抬入一箱绫绢衣服，西门说月娘的还只做一半；常时节感叹小户一匹布也难。伯爵提出门面、客坐、床房、厨灶共四间的需求。原文价银字样保留，不擅自改定或作现代折算，实际尚未成交。",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "书童和画童两个抬着一只箱子，都是绫绢衣服"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "方纔一箱是你大嫂子的，还做不完，纔够一半哩。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "小户人家，一疋布也难的。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "他两口儿也得一间门面，一间客坐，一间床房，一间厨灶：四间房子是少不得的。论着价银，也得三四个多银子。"
+        }
+      ]
+    },
+    {
+      "title": "银前的沉默与随后置衣",
+      "text": "妻子先怒而后见银欲近，常时节故作不理，二人沉默，随后他想到她受苦而主动解释。将妻子的反应只讲成贪银会失去这层转折。后来他买回夫妻所用衣物，明写共六两五钱；本回未给完整家计或最后余额，不补造账本。",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 13,
+          "quote": "两个人都闭着口，又没个人劝解，闷闷的坐着。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 13,
+          "quote": "妇人家也是难做。受了辛苦，埋怨人也怪他不的。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 15,
+          "quote": "共用去六两五钱银子。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 15,
+          "quote": "一面收拾箱笼放好，明日去买家活。"
+        }
+      ]
+    },
+    {
+      "title": "荐师终于未定：不能把夸辞当履历",
+      "text": "伯爵先夸水秀才，随后又用荒唐说辞辩解其曾被主人逐出的事。这里只保留为本回对话中所报，不将其改作亲眼可证的闪回或露骨场面。西门庆明言不敢领教，并提倪桂岩所说姓温秀才，且待他来再处；这不是已聘水秀才，也不交代后回结果。",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 25,
+          "quote": "后来不想被几个坏事的丫头小厮，见是一个圣人一般，反去日夜刮他。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 25,
+          "quote": "因此被主人逐出门来，哄动街坊，人人都说他无行。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 25,
+          "quote": "二哥虽与我相厚，那桩事不敢领教。前日敝僚友倪桂岩老先生，曾说他有个姓温的秀才，且待他来时再处。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "056-01",
+      "chapter": 56,
+      "title": "溪边早酒：求一个见面",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "房主又日夜催逼了不的"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "只见小小茅檐儿，靠着一湾流水，门前绿树阴中露出酒望子来。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "五七个火家，搬酒搬肉不住的走。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "摆下一盘熏肉，一盘鲜鱼。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "专求哥趂早；大官人还没出门时慢慢地候他。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 6,
+          "quote": "我今日好歹要大官人助你些就是了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 56,
+        "paragraph": 6,
+        "quote": "应伯爵道：「受人之托，必当终人之事。我今日好歹要大官人助你些就是了。」两个人又吃过几杯。"
+      },
+      "people": [
+        "常时节",
+        "应伯爵"
+      ],
+      "place": "靠流水的小酒店，清早",
+      "event": "常时节被房主催逼，又屡次见不到西门庆，早起请应伯爵吃酒，求他一同赶早候见。",
+      "why": "记忆点是求周济之前先花酒钱请托；贫困的急迫经熟人才能进入大宅。",
+      "composition": "两人隔小桌斜向相对；左常时节前倾，右伯爵回应，门外流水和店内忙碌分成前后景。",
+      "summary": "常时节先前求过住房周济，却赶上西门庆接连赴宴，往宅门屡问不在。房主催逼与妻子埋怨逼得他五更出门，拉应伯爵在流水边的小酒店吃早酒。熏肉、鲜鱼和几杯酒之间，他把急情再说一遍；伯爵答应今日设法相助，两人随即赶往大宅。",
+      "psychology": {
+        "明写": "常时节说房子催逼紧，昨夜被妻子埋怨；伯爵答应终人之事。",
+        "推断": "前倾求托可表现不敢再耽搁的焦急；这不是原文逐字规定的手势。"
+      },
+      "social": "日常酒食与中介交往相连；酒钱只写由常时节结清，没有确数，也不能据此计算求助成本。",
+      "explicit": [
+        "茅檐酒店靠流水，门前绿树与酒望",
+        "有搬酒搬肉的店伙",
+        "一盘熏肉、一盘鲜鱼",
+        "两人吃酒并相约赶早候见"
+      ],
+      "inference": [
+        "两人的具体座位、手势与粗细衣料为美术补足",
+        "画面只取一名店伙，其余五七人未全纳入画框",
+        "服色、光线、器皿形制与溪岸布局未精确考定"
+      ],
+      "history": "唯一情节依据为本章用户梦梅馆MOBI隔离正文。53—57回存在版本争议，本次不以别本补文，不作异文裁断或纸本版次核验。宋代故事设定与宽泛晚明美术参考分开；图像不是历史证据。",
+      "references": [
+        "assets/054-01.webp",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: a small clean thatch-eaved riverside wine shop in early morning. Exactly two main men at a modest square wooden table, with one distant shop worker carrying a wine jug across the rear counter; the other shop staff are outside this crop. The open doorway at left reveals green trees and a narrow curved stream, and a plain unlettered hanging cloth wine pennant. Input image 1: ONLY the RIGHT seated blue-gray-robed man is Chang Shijie; preserve his lean long rectangular oval face, long straight nose, sparse black-gray mustache and compact chin tuft. Put Chang at front left in a worn blue-gray robe and dark soft cloth headwrap, leaning anxiously forward, one palm open on the table while asking a favor. Input image 2: ONLY the LEFT seated man is Ying Bojue; preserve his slim elongated face, fine black mustache and small pointed black chin beard, do not age him into an elderly man. Ying sits right in a brown robe with simple tied hair, looking directly at Chang with a reassuring small hand gesture. Table: exactly one plate of sliced smoked meat, one plate of cooked whole fresh fish, a small ceramic wine ewer and two small cups, no lavish banquet. Lively shop depth contrasts with the intimate urgent exchange; neither man poses toward viewer. Natural soft morning light, fine painted mineral colors. No Ximen Qing, no silver exchange yet, no readable signs, no extra front-table people.",
+      "image": "assets/056-01.webp",
+      "status": "generated",
+      "review": "已单独打开采用图核看：前桌恰两人，左常时节、右应伯爵，后景一名店伙，其余原文五七个火家在画框外。实际传入054-01仅右常与guests-030仅左伯爵，清瘦长方脸、细须和尖短须可辨；未混入参考中其他人。常前倾张掌求托、伯爵举手回应，熏肉一盘、鲜鱼一盘、酒壶两杯、门外流水与无字酒望清楚。早酒交谈无提前交银，手部无明显异常。衣色、具体烹法、店内布局及手势为美术补足，非精确形制证据。采用，无需重生。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: a small clean thatch-eaved riverside wine shop in early morning. Exactly two main men at a modest square wooden table, with one distant shop worker carrying a wine jug across the rear counter; the other shop staff are outside this crop. The open doorway at left reveals green trees and a narrow curved stream, and a plain unlettered hanging cloth wine pennant. Input image 1: ONLY the RIGHT seated blue-gray-robed man is Chang Shijie; preserve his lean long rectangular oval face, long straight nose, sparse black-gray mustache and compact chin tuft. Put Chang at front left in a worn blue-gray robe and dark soft cloth headwrap, leaning anxiously forward, one palm open on the table while asking a favor. Input image 2: ONLY the LEFT seated man is Ying Bojue; preserve his slim elongated face, fine black mustache and small pointed black chin beard, do not age him into an elderly man. Ying sits right in a brown robe with simple tied hair, looking directly at Chang with a reassuring small hand gesture. Table: exactly one plate of sliced smoked meat, one plate of cooked whole fresh fish, a small ceramic wine ewer and two small cups, no lavish banquet. Lively shop depth contrasts with the intimate urgent exchange; neither man poses toward viewer. Natural soft morning light, fine painted mineral colors. No Ximen Qing, no silver exchange yet, no readable signs, no extra front-table people.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "056-02",
+      "chapter": 56,
+      "title": "藏春坞：新秋衣色",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "那时正是新秋时候，金风荐爽。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "西门庆连醉了几日，觉精神减了几分。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "只是和吴月娘、孟玉楼、潘金莲、李瓶儿，五个在花园里顽耍。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "西门庆头戴着忠靖冠，身穿柳绿纬罗直身，粉头靴儿。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "月娘上穿柳绿杭绢对衿袄儿，浅蓝水紬裙子，金红凤头高底鞋儿。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "孟玉楼上穿鸦青缎子袄儿，鹅黄紬裙子，桃红素罗羊皮金滚口高底鞋儿。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "潘金莲上穿着银红绉纱白绢里对衿衫子，荳绿沿边金红心比甲儿，白杭绢画拖裙子，粉红花罗高底鞋儿。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 7,
+          "quote": "只有李瓶儿上穿素青杭绢大衿袄儿，月白熟绢裙子，浅蓝玄罗高底鞋儿。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 56,
+        "paragraph": 7,
+        "quote": "那时正是新秋时候，金风荐爽。西门庆连醉了几日，觉精神减了几分。正遇周内相请酒，便推事故不去，自在花园藏春坞游玩。"
+      },
+      "people": [
+        "西门庆",
+        "吴月娘",
+        "孟玉楼",
+        "潘金莲",
+        "李瓶儿"
+      ],
+      "place": "后园藏春坞，新秋",
+      "event": "西门庆推辞一场酒请，在藏春坞与月娘、玉楼、金莲、瓶儿寻花游玩。",
+      "why": "记忆点是五套分明衣色与园外候见的急难并列；生活尺度在同一宅内截然有别。",
+      "composition": "五人沿曲径错落行走，近处两人看花，中景西门与月娘，远侧瓶儿回望；不用整齐合影。",
+      "summary": "新秋已到，藏春坞仍有果树鲜花。西门庆连日饮宴，觉得精神稍减，便推辞周内相的酒请，留在园里游玩。四位妻妾衣色各异，伴他寻花问柳。另一边，急求住房周济的常时节和伯爵正在厅上等候；此图只停在园内的闲适片刻，不把候见者并入同场。",
+      "psychology": {
+        "明写": "西门庆说连日醉饮而精神不足；叙述写五人在园内顽耍，称好不快活。",
+        "推断": "画面让他稍缓行而不画成醉倒；妻妾的具体视线与看花动作是叙事补足，不能据此断亲疏。"
+      },
+      "social": "衣物的绫绢与各色质地在本回被逐项写出；随后一箱秋衣和小户一匹布难得的话形成财力差距，不由图案推定制度等级。",
+      "explicit": [
+        "恰为西门与四位妻妾五人",
+        "新秋，园内有果树鲜花",
+        "五人的本回衣色均有逐项原文依据"
+      ],
+      "inference": [
+        "游园步位、回望和看花手势为美术补足",
+        "忠靖冠、鞋底、刺绣与花木物种只作宽泛转化，不声称精确复原",
+        "瓶儿当下随众游园，不照搬前回房内病态，也不由此断已痊愈"
+      ],
+      "history": "唯一情节依据为本章用户梦梅馆MOBI隔离正文。53—57回存在版本争议，本次不以别本补文，不作异文裁断或纸本版次核验。宋代故事设定与宽泛晚明美术参考分开；图像不是历史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp",
+        "references/yulou.png",
+        "references/pan-solo-030.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: an early-autumn private flower and fruit garden, lively blossoms still growing among mostly green leaves with a few first yellow edges. Exactly FIVE people, one man Ximen Qing and FOUR women, all fully clothed and casually strolling or pausing along a curved garden path, never a frontal lineup. Input 1 ONLY Ximen Qing face: long narrow face, straight brows, narrow long eyes, long-waisted build, now slightly tired but gently smiling. Put him near middle behind foreground flowers, wearing a simple black folded Zhongjing-style cap, willow-green silk gauze straight robe and pale-toed dark cloth boots; no fan required. Input 2 ONLY the RIGHT rounder-faced woman is Wu Yueniang, use her round face and steady fuller build; place her beside Ximen in willow-green front-opening jacket, pale-blue skirt, warm red-and-gold high-soled shoes. Do NOT copy the left woman from input 2 as another person. Input 3 is Meng Yulou: taller slender frame, elongated face with subtle facial pitting, put her near front left slightly leaning to see a flower, wearing raven-dark-blue satin jacket, goose-yellow skirt and peach-red gold-edged high-soled shoes. Input 4 is Pan Jinlian: narrow oval face and distinct brows; place her front center-left turned toward Yulou, in pale silvery-rose front-opening long-sleeve blouse, gold-red sleeveless vest bordered pea-green, white long painted-silk skirt with only abstract nonletter patterns, pale-pink high-soled shoes. Input 5 is Li Pinger: petite oval melon-seed face and fine arched brows, put her to right looking back toward group, in plain dark blue-green overlapping-front jacket, moon-white skirt and pale-blue high-soled shoes. Retain natural diverse faces; do not give all women one face, do not carry the old reference clothing or sickbed state. Blooming plants, worn stone, wooden garden pavilion deep in background as broad artistic staging. Distinct rhythmic poses and genuine interaction, soft fresh autumn sunlight, modest jewelry. No children, no servants, no other wives, no waiting guests, no readable plaques.",
+      "image": "assets/056-02.webp",
+      "status": "generated",
+      "review": "已单独打开采用图核看：恰五人，由左至右玉楼、金莲、西门、月娘、瓶儿，实际传入五项对应旧脸，玉楼微麻脸、月娘圆脸稳重体态、金莲窄脸与瓶儿小瓜子脸可以区分。玉楼鸦青袄鹅黄裙、金莲银红衫及绿边金红比甲白裙、月娘柳绿袄浅蓝裙、瓶儿素青袄月白裙、西门绿直身与黑冠的主色关系正确。两人看花、三人错落游园，不作整齐合影；没有婴儿、候见客或额外妻妾。西门绿袍偏沉橄榄绿，鞋与冠只作宽泛转化；花木物种、纹饰及新秋黄叶多少为美术补足，不声称花期与精确形制。瓶儿随众行走，未照搬前回病房状态或断言痊愈。无可读文字及明显肢体异常，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: an early-autumn private flower and fruit garden, lively blossoms still growing among mostly green leaves with a few first yellow edges. Exactly FIVE people, one man Ximen Qing and FOUR women, all fully clothed and casually strolling or pausing along a curved garden path, never a frontal lineup. Input 1 ONLY Ximen Qing face: long narrow face, straight brows, narrow long eyes, long-waisted build, now slightly tired but gently smiling. Put him near middle behind foreground flowers, wearing a simple black folded Zhongjing-style cap, willow-green silk gauze straight robe and pale-toed dark cloth boots; no fan required. Input 2 ONLY the RIGHT rounder-faced woman is Wu Yueniang, use her round face and steady fuller build; place her beside Ximen in willow-green front-opening jacket, pale-blue skirt, warm red-and-gold high-soled shoes. Do NOT copy the left woman from input 2 as another person. Input 3 is Meng Yulou: taller slender frame, elongated face with subtle facial pitting, put her near front left slightly leaning to see a flower, wearing raven-dark-blue satin jacket, goose-yellow skirt and peach-red gold-edged high-soled shoes. Input 4 is Pan Jinlian: narrow oval face and distinct brows; place her front center-left turned toward Yulou, in pale silvery-rose front-opening long-sleeve blouse, gold-red sleeveless vest bordered pea-green, white long painted-silk skirt with only abstract nonletter patterns, pale-pink high-soled shoes. Input 5 is Li Pinger: petite oval melon-seed face and fine arched brows, put her to right looking back toward group, in plain dark blue-green overlapping-front jacket, moon-white skirt and pale-blue high-soled shoes. Retain natural diverse faces; do not give all women one face, do not carry the old reference clothing or sickbed state. Blooming plants, worn stone, wooden garden pavilion deep in background as broad artistic staging. Distinct rhythmic poses and genuine interaction, soft fresh autumn sunlight, modest jewelry. No children, no servants, no other wives, no waiting guests, no readable plaques.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "056-03",
+      "chapter": 56,
+      "title": "十二两：先济眼前急",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "方纔一箱是你大嫂子的，还做不完，纔够一半哩。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "小户人家，一疋布也难的。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "今日先把几两碎银与他拿去，买件衣服，办些家活，盘搅过来。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "待寻下房子，我自兑银与你成交，可好么？"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "这一包碎银，是那日东京太师府赏封剩下的十二两，你拿去好杂用。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "打开与常时节看，都是三五钱一块的零碎纹银。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 8,
+          "quote": "常时节接过，放在衣袖里，就作揖谢了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 56,
+        "paragraph": 8,
+        "quote": "西门庆对常时节道：「这一包碎银，是那日东京太师府赏封剩下的十二两，你拿去好杂用。」打开与常时节看，都是三五钱一块的零碎纹银。常时节接过，放在衣袖里，就作揖谢了。"
+      },
+      "people": [
+        "西门庆",
+        "常时节",
+        "应伯爵"
+      ],
+      "place": "西门宅厅上，候见之后",
+      "event": "伯爵再为常时节催请，西门庆交付太师府赏封余下的十二两碎银，供衣服家用；买房银仍待寻下房子再兑。",
+      "why": "记忆点是大宅赏封余银成为小户的日用转机；十二两不能混作已经交清的购房款。",
+      "composition": "低近景以打开的碎银包为焦点；左西门递包，右常时节双手承接，伯爵在后中旁看。",
+      "summary": "久等之后，两人见到西门庆。搬入的一箱秋衣引出小户布匹难得的感叹，伯爵随后重提房主催逼与皮袄典当的急情。西门庆先交十二两碎银让常时节买衣置物、周转度日，并再许寻定房后兑买房银。图取银包交接一刻，未把许诺画成房契或已交付住房。",
+      "psychology": {
+        "明写": "西门庆先踌躇，后令书童取银；常时节接过银子，收袖并作揖称谢。",
+        "推断": "承接动作中的郑重可表现援助的分量；伯爵在旁神态为画面补足，不把称赞认作客观道德结论。"
+      },
+      "social": "伯爵把救急也说成西门的体面；财力、面子和熟人担保交织。原文数额保留为十二两，不作现代币值换算或足额房价判断。",
+      "explicit": [
+        "银包为太师府赏封剩下的十二两",
+        "碎块三五钱不等",
+        "书童已取包交西门，图从接过之后取时",
+        "买房兑银仍是条件未落实的许诺"
+      ],
+      "inference": [
+        "银碎块的个数、包装材质和每块外形为美术补足",
+        "本图只框三位谈事者，取银的书童在画外",
+        "厅堂布局、衣帽与手递姿态为宽泛叙事设计"
+      ],
+      "history": "唯一情节依据为本章用户梦梅馆MOBI隔离正文。53—57回存在版本争议，本次不以别本补文，不作异文裁断或纸本版次核验。宋代故事设定与宽泛晚明美术参考分开；图像不是历史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/054-01.webp",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: the domestic reception hall of Ximen Qing, early autumn daylight after a long wait. EXACTLY three men. Close low three-quarter composition focused on a small opened cloth-paper parcel containing irregular SMALL chopped silver fragments of varying size, not large uniform boat-shaped ingots and not coins. Input 1 ONLY Ximen Qing: preserve long face, straight brows, long narrow eyes, long-waisted build; put him seated at left in willow-green silk straight robe and black Zhongjing-style cap, leaning forward offering the open parcel. Input 2 ONLY the RIGHT seated blue-gray man is Chang Shijie; preserve lean rectangular oval face, long straight nose, sparse mustache and compact chin tuft, put him at right rising slightly from his chair with both hands extended respectfully under the offered parcel. He looks grateful and relieved, not greedy. Keep his worn blue-gray robe and dark soft cloth headwrap. Input 3 ONLY the LEFT seated man is Ying Bojue: slim elongated face, fine dark mustache and small pointed dark chin beard, black tied hair. Put Ying behind the small table between them in brown robe, looking at the handover, quietly attentive. Exactly one parcel and a visible cluster of small irregular silver bits, a few ordinary teacups only. Richer timber frame and fine lattice subtly contrast with Chang worn fabric. No house deed, no keys, no money-counting ledger, no extra servants, no visible large clothes trunk to distract. This is emergency living money, not an already purchased house. Show natural hand anatomy and clear distinct faces in painted mineral layers, no posing toward viewer, no text.",
+      "image": "assets/056-03.webp",
+      "status": "generated",
+      "review": "已单独打开采用图核看：恰三人，左西门、中后应伯爵、右常时节，实际传入ximen、054-01仅右常、guests-030仅左伯爵，身份面貌与前两幅可辨。打开的一包银中是大小不一的小碎块，双手递接清楚，未画大整锭、房契、钥匙或已购住房；常时节前倾接银，不作夸张贪相。伯爵在后旁看，无额外人物。西门帽形实际较接近旧参考的黑冠，具体冠式未精确复原；常时节稍离座的动作、衣料磨损、纸包与碎银个数皆美术补足，不影响十二两应急交付的事件。无可读文字或明显手部异常，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: the domestic reception hall of Ximen Qing, early autumn daylight after a long wait. EXACTLY three men. Close low three-quarter composition focused on a small opened cloth-paper parcel containing irregular SMALL chopped silver fragments of varying size, not large uniform boat-shaped ingots and not coins. Input 1 ONLY Ximen Qing: preserve long face, straight brows, long narrow eyes, long-waisted build; put him seated at left in willow-green silk straight robe and black Zhongjing-style cap, leaning forward offering the open parcel. Input 2 ONLY the RIGHT seated blue-gray man is Chang Shijie; preserve lean rectangular oval face, long straight nose, sparse mustache and compact chin tuft, put him at right rising slightly from his chair with both hands extended respectfully under the offered parcel. He looks grateful and relieved, not greedy. Keep his worn blue-gray robe and dark soft cloth headwrap. Input 3 ONLY the LEFT seated man is Ying Bojue: slim elongated face, fine dark mustache and small pointed dark chin beard, black tied hair. Put Ying behind the small table between them in brown robe, looking at the handover, quietly attentive. Exactly one parcel and a visible cluster of small irregular silver bits, a few ordinary teacups only. Richer timber frame and fine lattice subtly contrast with Chang worn fabric. No house deed, no keys, no money-counting ledger, no extra servants, no visible large clothes trunk to distract. This is emergency living money, not an already purchased house. Show natural hand anatomy and clear distinct faces in painted mineral layers, no posing toward viewer, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "056-04",
+      "chapter": 56,
+      "title": "米与羊肉：回到门口的笑",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 13,
+          "quote": "两个人都闭着口，又没个人劝解，闷闷的坐着。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 13,
+          "quote": "妇人家也是难做。受了辛苦，埋怨人也怪他不的。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 13,
+          "quote": "这十二两，是先教我盘搅过日子的。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 14,
+          "quote": "常二取栲栳望街上便走。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 14,
+          "quote": "不一时，买了米，栲栳上又放着一大块羊肉儿，笑哈哈跑进门来。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 14,
+          "quote": "那妇人迎门接住道：「这块羊肉又买他做甚？」"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 14,
+          "quote": "当下妇人做了饭，切了一碗羊肉，摆在桌儿上"
+        }
+      ],
+      "excerpt": {
+        "chapter": 56,
+        "paragraph": 14,
+        "quote": "不一时，买了米，栲栳上又放着一大块羊肉儿，笑哈哈跑进门来。那妇人迎门接住道：「这块羊肉又买他做甚？」"
+      },
+      "people": [
+        "常时节",
+        "常时节浑家"
+      ],
+      "place": "常家住处的门口，买米归来",
+      "event": "常时节和妻子从银前争执、沉默转为相劝，他为尚未吃饭的妻子买米，又加一块羊肉，笑着进门。",
+      "why": "记忆点是一只栲栳把抽象的银两变成可吃的米肉；夫妻的怨气与亲近随生活余地改变。",
+      "composition": "常时节在左前跨过门槛，双手托装米栲栳；妻子从右侧迎来接篮。狭窄屋内的灶与器皿只在深景。",
+      "summary": "银子刚摆上桌时，常妻急欲拿取，常时节却故意不理，引出惭愧与沉默。他想到妻子也受辛苦，便笑着说明周济来历，两人商量衣服家活。得知她还饿着，他出门买米，又在栲栳上添了一大块羊肉，笑哈哈回家。图只取迎门相接的日常动作，饭还没有做成。",
+      "psychology": {
+        "明写": "常时节想到妻子受苦，笑着解释银的来历；买米肉归来时笑哈哈，妻子迎门接住。",
+        "推断": "妻子从疑问转为稍带笑意是把随后对话压入单帧的轻微艺术处理，不宣称矛盾永久消除。"
+      },
+      "social": "饥饿、住房催逼、过冬衣服与置家活都落在这笔援助上；两人互相怨言亦与缺乏余地相连。保留文本复杂关系，不把妻子化为贪财符号。",
+      "explicit": [
+        "常时节买米，以栲栳携回",
+        "篮上另放一大块羊肉",
+        "妻子迎门接住并询问",
+        "此时仍为住处，未搬入所许新房"
+      ],
+      "inference": [
+        "妻子原文未具名，无旧面貌索引，本幅新建普通面容；不由婚姻判断精确年岁",
+        "米篮如何隔垫羊肉、门槛、灶位和器物形制为美术补足",
+        "衣色、局部修补、光线与笑意强弱均为艺术设定；不性化、不加入威胁动作"
+      ],
+      "history": "唯一情节依据为本章用户梦梅馆MOBI隔离正文。53—57回存在版本争议，本次不以别本补文，不作异文裁断或纸本版次核验。宋代故事设定与宽泛晚明美术参考分开；图像不是历史证据。",
+      "references": [
+        "assets/054-01.webp"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: a modest functional rented home doorway in early autumn. EXACTLY TWO people in a warm candid moment, not a studio portrait. Input 1 ONLY the RIGHT seated blue-gray-robed man from the reference is Chang Shijie; preserve his lean long rectangular oval face, long straight nose, sparse black-gray mustache and small compact chin beard. Chang at left has just stepped smiling over the low wooden threshold, wearing his same ordinary blue-gray robe and dark cloth headwrap. He carries with both hands a wide shallow woven grain basket filled with uncooked rice; on top a clean broad leaf or cloth supports ONE large plain piece of butchered mutton, no blood, no carcass, no bones protruding. The rice and meat must both be visually legible. His wife at right leans toward the basket to receive it with both hands, looking at the meat with a questioning expression softened by a small smile. New face for the unnamed wife: ordinary mature-looking woman, slightly broad oval face, natural cheekbones, slightly wide nose, fine eye creases, straight dark brows, dark hair in a practical compact bun, not a glamorous beauty and not a caricature. Exact age is unspecified; this is a nonsexual everyday fully clothed scene. She wears a practical faded brown-gray long-sleeve jacket and muted dark blue skirt, small simple hair pin. Inside behind her, a humble unlit cooking area, water jar, a few bowls and a small empty wooden table, no meal already cooked. Rough lime plaster and worn wood but habitable, not extreme destitution. Natural doorway light catches rice and their faces; visual story is food arriving after a quarrel has eased. No silver heap, no other people, no threats, no erotic gestures, no readable text.",
+      "image": "assets/056-04.webp",
+      "status": "generated",
+      "review": "已单独打开采用图核看：恰夫妻二人，左常时节持篮跨入门槛，右妻子俯身接篮；实际传054-01只取右常脸，清瘦长方脸、细髭与短尖须沿用，未混入其他参考人物。栲栳中米粒清楚，篮上叶垫一大块羊肉，无血污、骨骸或刺激细节；尚无做好的饭菜，屋内灶、水罐和空桌呈普通日常住处，没有新房交付暗示。夫妻笑意与迎接动作可辨，完全着衣、无胁迫或性化。索引未有妻子旧脸，本幅新建右侧稍宽椭圆脸、自然眼角纹、略宽鼻、实用发髻，确切年龄不据图认定。叶垫、门灶、服色和笑意程度为美术补足。双手持篮无明显异常，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: a modest functional rented home doorway in early autumn. EXACTLY TWO people in a warm candid moment, not a studio portrait. Input 1 ONLY the RIGHT seated blue-gray-robed man from the reference is Chang Shijie; preserve his lean long rectangular oval face, long straight nose, sparse black-gray mustache and small compact chin beard. Chang at left has just stepped smiling over the low wooden threshold, wearing his same ordinary blue-gray robe and dark cloth headwrap. He carries with both hands a wide shallow woven grain basket filled with uncooked rice; on top a clean broad leaf or cloth supports ONE large plain piece of butchered mutton, no blood, no carcass, no bones protruding. The rice and meat must both be visually legible. His wife at right leans toward the basket to receive it with both hands, looking at the meat with a questioning expression softened by a small smile. New face for the unnamed wife: ordinary mature-looking woman, slightly broad oval face, natural cheekbones, slightly wide nose, fine eye creases, straight dark brows, dark hair in a practical compact bun, not a glamorous beauty and not a caricature. Exact age is unspecified; this is a nonsexual everyday fully clothed scene. She wears a practical faded brown-gray long-sleeve jacket and muted dark blue skirt, small simple hair pin. Inside behind her, a humble unlit cooking area, water jar, a few bowls and a small empty wooden table, no meal already cooked. Rough lime plaster and worn wood but habitable, not extreme destitution. Natural doorway light catches rice and their faces; visual story is food arriving after a quarrel has eased. No silver heap, no other people, no threats, no erotic gestures, no readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "056-05",
+      "chapter": 56,
+      "title": "念罢拍手：被荐的才学",
+      "evidence": [
+        {
+          "chapter": 56,
+          "paragraph": 16,
+          "quote": "我一心要寻个先生儿在屋里，好教他写写，省些力气也好；只没个有才学的人。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 16,
+          "quote": "每年算还几两束修与他养家。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 16,
+          "quote": "第一要才学，第二就要人品了。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 18,
+          "quote": "他做的词赋也有在我处，只是不曾带得来哥看。"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 25,
+          "quote": "伯爵念罢，西门庆拍手大笑道：「应二哥把这样才学就做了班扬了！」"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 25,
+          "quote": "他人品比才学又高，如今且说他人品罢。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 56,
+        "paragraph": 25,
+        "quote": "伯爵念罢，西门庆拍手大笑道：「应二哥把这样才学就做了班扬了！」伯爵道：「他人品比才学又高，如今且说他人品罢。」西门庆道：「你且说来。」"
+      },
+      "people": [
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "西门宅厅上，常时节离开之后",
+      "event": "西门庆为流水般往来的书柬求馆师，伯爵夸水秀才才学与人品，又背念曲与文字；念罢西门庆拍手大笑。",
+      "why": "记忆点是拍手与夸才之间的反讽距离；推荐者的人情话语不能直接等同被荐者的真实履历。",
+      "composition": "伯爵在左侧转身念罢伸手接话，右侧西门庆坐着拍手而笑；二人之间留出空桌与视线。",
+      "summary": "书柬应酬太多，西门庆想请人住馆代笔，给房间并付束修。伯爵借机荐水秀才，夸其才学、人品，又不断改说田产、家口等情况。他未带实物文稿，只凭记忆念曲与告头巾文字。西门庆听罢拍手大笑，伯爵仍要继续夸人品；图不虚构水秀才本人或带来的书信。",
+      "psychology": {
+        "明写": "西门庆说要省代笔之力，听念罢拍手大笑；伯爵强调才学之外还要人品与好相处。",
+        "推断": "西门的笑含有质疑意味，可由本回他的批评支持；不能仅凭画面断定他已真心赏识或决定聘用。"
+      },
+      "social": "代笔把才学变为可付束修的服务，也能为主家门面增光；伯爵以熟人关系包装推荐，文本同时展示对可信度的追问。",
+      "explicit": [
+        "常时节已经离开，两人仍在厅上",
+        "西门求住馆写书柬的先生",
+        "伯爵口念，词赋实物没有带来",
+        "念罢西门拍手大笑"
+      ],
+      "inference": [
+        "伯爵起身、伸手和西门双掌相近的单帧为叙事动作补足",
+        "茶具、空桌和座位为美术设定，未把提及的头巾文字具象为旁人",
+        "水秀才只被谈及，不画想象闪回；其经历按伯爵所言保留，不当独立证实"
+      ],
+      "history": "唯一情节依据为本章用户梦梅馆MOBI隔离正文。53—57回存在版本争议，本次不以别本补文，不作异文裁断或纸本版次核验。宋代故事设定与宽泛晚明美术参考分开；图像不是历史证据。",
+      "references": [
+        "references/guests-030.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: after Chang Shijie has left, only TWO men remain in the domestic hall. A dynamic medium-wide painted composition with side light, unlike a static facing-camera discussion. Input 1 ONLY the LEFT seated man in the reference is Ying Bojue: preserve slim long face, fine black mustache, pointed short black chin beard and dark tied hair, avoid elderly broad-faced redesign. Put Ying at left in brown robe, just risen halfway beside his chair as he finishes reciting from MEMORY; his mouth still animated, one hand open outward and the other hand near his chest as he continues praising a recommended scholar. Input 2 is Ximen Qing: long face, straight brows, long narrow eyes, long-waisted build; at right seated in a willow-green silk straight robe and black Zhongjing-style cap, laughing openly and CLAPPING his two hands together at chest height, his eyes on Ying. Keep exactly two people, no scholar or imaginary apparition, no wife, no servant. A small wooden tea table between them with only a teapot and two cups; NO letter, NO book, NO paper manuscript because Ying has not brought the writings. Natural distinct hand anatomy, lifelike amusement rather than a sinister caricature. Wood lattice and garden glow behind. Emphasize the performance of praise and a skeptical amused listener through poses and the empty space, not captions or symbolic thought bubbles. Gongbi mineral-color narrative painting, not photograph. No readable text.",
+      "image": "assets/056-05.webp",
+      "status": "generated",
+      "review": "已单独打开采用图核看：恰伯爵与西门二人，左伯爵起身念罢伸手接话，右西门坐着大笑拍手，实际传guests-030仅左伯爵及ximen锁脸。伯爵瘦长脸、细黑髭与短尖下颏须，西门长脸窄长眼均同旧脸可辨。桌上只有壶与两杯，无并未带来的书信文稿，没有水秀才本人、想象闪回或常时节。拍手双掌接近而非合十祈祷，叙事动作可读，无明显多指或手臂错接。伯爵起身和手势、衣冠具体纹样、桌椅布局与光线为美术补足；不由西门大笑推定已真心赏识或决定聘用。无可读文字或现代物品，采用。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Create a complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and translucent mineral pigment layers, visible painted texture, natural varied human faces, convincing depth and cinematic storytelling. Everyday late-Ming material life as broad art direction, not a claim of exact historical reconstruction. Painted, not photographic, not anime, not fantasy, no glossy beauty filter. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Early autumn in this chapter. Use every input only for the explicitly named face identity, not its old clothing, physical condition, pose, props, surrounding people or camera setup. Scene: after Chang Shijie has left, only TWO men remain in the domestic hall. A dynamic medium-wide painted composition with side light, unlike a static facing-camera discussion. Input 1 ONLY the LEFT seated man in the reference is Ying Bojue: preserve slim long face, fine black mustache, pointed short black chin beard and dark tied hair, avoid elderly broad-faced redesign. Put Ying at left in brown robe, just risen halfway beside his chair as he finishes reciting from MEMORY; his mouth still animated, one hand open outward and the other hand near his chest as he continues praising a recommended scholar. Input 2 is Ximen Qing: long face, straight brows, long narrow eyes, long-waisted build; at right seated in a willow-green silk straight robe and black Zhongjing-style cap, laughing openly and CLAPPING his two hands together at chest height, his eyes on Ying. Keep exactly two people, no scholar or imaginary apparition, no wife, no servant. A small wooden tea table between them with only a teapot and two cups; NO letter, NO book, NO paper manuscript because Ying has not brought the writings. Natural distinct hand anatomy, lifelike amusement rather than a sinister caricature. Wood lattice and garden glow behind. Emphasize the performance of praise and a skeptical amused listener through poses and the empty space, not captions or symbolic thought bubbles. Gongbi mineral-color narrative painting, not photograph. No readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

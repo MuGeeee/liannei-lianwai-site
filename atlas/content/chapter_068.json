@@ -2,6 +2,41 @@
   "number": 68,
   "title": "第六十八回郑月儿卖俏透密意　玳安殷勤寻文嫂",
   "intro": "门内的私托、厅上的官话、席边的白髻与胡同里的红门：五个不同时刻，各自保留消息的来处。",
+  "supplements": [
+    {
+      "title": "经钱不止一场争执",
+      "text": "薛姑子原为断七法事而来，后来王姑子另来追问经钱，发现日期被说成另一日。月娘留布与剩斋相待。叙述者随后对这类人物作很重的批评；这是叙述的声音，不把它变成对所有宗教人员的常识判断。",
+      "evidence": [
+        {
+          "chapter": 68,
+          "paragraph": 8,
+          "quote": "他对着我说，咱家挪了日子，到初六念经"
+        }
+      ]
+    },
+    {
+      "title": "还礼的数目也有说话人",
+      "text": "黄四谢恩礼最初只被收下猪酒；后来说又添衣料与五十两谢钱主事。伯爵随即估计衣料价值。这些分别是当场礼物、西门庆回述和伯爵估价，不能揉成一份可完整复算的总账。",
+      "evidence": [
+        {
+          "chapter": 68,
+          "paragraph": 7,
+          "quote": "我只受了猪酒，添了两疋白鹇纻丝、两疋京缎、五十两银子"
+        }
+      ]
+    },
+    {
+      "title": "未画成宴席的十三岁演员",
+      "text": "原文说唱莺莺的韩消愁儿十三岁。本回相关表演与席间劝酒没有选作图像，不用未成年人的身体或宴席亲昵表现风月。",
+      "evidence": [
+        {
+          "chapter": 68,
+          "paragraph": 15,
+          "quote": "小名消愁儿，今年纔十三岁"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "068-01",
@@ -30,13 +65,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY Pan Jinlian identity: the naturally narrow oval face and fine alert eyes of that adult woman, not her old sewing clothes. Reference2 is ONLY painted linework and silk grain; include NONE of its men. Exactly TWO clearly ADULT women in a private household room. Pan wears a modestly rich fully closed deep-indigo padded jacket and muted rose skirt, bound dark hair with restrained small pins; she leans toward an older Chinese Buddhist nun Xue in a simple gray robe and plain cloth head covering. Under the edge of a small worn wooden table Pan discreetly offers ONE small plain silver piece, Xue holds out her hand to receive it. Pan looks briefly toward the closed door, tense but composed; Xue attentive, not a caricature. Cool winter daylight at the lattice, subdued teal and gray, a covered tea cup on the table. No pregnancy shown, no infant, no medicines being prepared, no ritual talismans or bodily material, no magic, no sexual contact. Clothing and physical handover are cautious staging. The action must be legible rather than two women posing.",
       "references": [
-        "pan-solo-030（面貌）",
-        "065-01（工笔风格）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（面貌））",
+        "assets/065-01.webp（原说明：065-01（工笔风格））"
       ],
-      "image": "assets/068-01.png",
+      "image": "assets/068-01.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY Pan Jinlian identity: the naturally narrow oval face and fine alert eyes of that adult woman, not her old sewing clothes. Reference2 is ONLY painted linework and silk grain; include NONE of its men. Exactly TWO clearly ADULT women in a private household room. Pan wears a modestly rich fully closed deep-indigo padded jacket and muted rose skirt, bound dark hair with restrained small pins; she leans toward an older Chinese Buddhist nun Xue in a simple gray robe and plain cloth head covering. Under the edge of a small worn wooden table Pan discreetly offers ONE small plain silver piece, Xue holds out her hand to receive it. Pan looks briefly toward the closed door, tense but composed; Xue attentive, not a caricature. Cool winter daylight at the lattice, subdued teal and gray, a covered tea cup on the table. No pregnancy shown, no infant, no medicines being prepared, no ritual talismans or bodily material, no magic, no sexual contact. Clothing and physical handover are cautious staging. The action must be legible rather than two women posing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY Pan Jinlian identity: the naturally narrow oval face and fine alert eyes of that adult woman, not her old sewing clothes. Reference2 is ONLY painted linework and silk grain; include NONE of its men. Exactly TWO clearly ADULT women in a private household room. Pan wears a modestly rich fully closed deep-indigo padded jacket and muted rose skirt, bound dark hair with restrained small pins; she leans toward an older Chinese Buddhist nun Xue in a simple gray robe and plain cloth head covering. Under the edge of a small worn wooden table Pan discreetly offers ONE small plain silver piece, Xue holds out her hand to receive it. Pan looks briefly toward the closed door, tense but composed; Xue attentive, not a caricature. Cool winter daylight at the lattice, subdued teal and gray, a covered tea cup on the table. No pregnancy shown, no infant, no medicines being prepared, no ritual talismans or bodily material, no magic, no sexual contact. Clothing and physical handover are cautious staging. The action must be legible rather than two women posing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "068-02",
@@ -71,13 +108,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing face: adult long face, straight brows, attentive narrow eyes, slightly tired natural skin; same man with a substantial adult torso, hair fully bound under a black formal official headdress. Reference2 ONLY supplies gongbi drawn line and silk-pigment medium. One continuous medium-wide household reception meal, TWO main adult men and one partially visible serving attendant. Ximen in restrained blue-green formal official robe sits listening at left. An Langzhong, a DIFFERENT middle-aged lean official with a squared chin, subtle short moustache and observant eyes, sits at right speaking with a small sober gesture; he wears a round-collared dark official robe with a stylized cloud-and-white-egret chest patch and worked gold belt. A partial foreground table holds a few bowls of well-cooked meat and soft rice in pale bowls with metal rims and small GOLD wine cups, food set as part of a larger table outside frame. A servant brings a covered food tray; not a uniformed military parade. A cold courtyard is glimpsed through the open bay. Keep scene ordinary and materially rich, not an imperial throne room; his discussion is about river-work burdens but do NOT invent a flood, map, workers or ruined bridge inside this frame. Clear speaking/listening and serving actions, no text on any scroll.",
       "references": [
-        "ximen（独立面貌）",
-        "065-01（风格）"
+        "references/ximen.png（原说明：ximen（独立面貌））",
+        "assets/065-01.webp（原说明：065-01（风格））"
       ],
-      "image": "assets/068-02.png",
+      "image": "assets/068-02.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing face: adult long face, straight brows, attentive narrow eyes, slightly tired natural skin; same man with a substantial adult torso, hair fully bound under a black formal official headdress. Reference2 ONLY supplies gongbi drawn line and silk-pigment medium. One continuous medium-wide household reception meal, TWO main adult men and one partially visible serving attendant. Ximen in restrained blue-green formal official robe sits listening at left. An Langzhong, a DIFFERENT middle-aged lean official with a squared chin, subtle short moustache and observant eyes, sits at right speaking with a small sober gesture; he wears a round-collared dark official robe with a stylized cloud-and-white-egret chest patch and worked gold belt. A partial foreground table holds a few bowls of well-cooked meat and soft rice in pale bowls with metal rims and small GOLD wine cups, food set as part of a larger table outside frame. A servant brings a covered food tray; not a uniformed military parade. A cold courtyard is glimpsed through the open bay. Keep scene ordinary and materially rich, not an imperial throne room; his discussion is about river-work burdens but do NOT invent a flood, map, workers or ruined bridge inside this frame. Clear speaking/listening and serving actions, no text on any scroll."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 locks ONLY Ximen Qing face: adult long face, straight brows, attentive narrow eyes, slightly tired natural skin; same man with a substantial adult torso, hair fully bound under a black formal official headdress. Reference2 ONLY supplies gongbi drawn line and silk-pigment medium. One continuous medium-wide household reception meal, TWO main adult men and one partially visible serving attendant. Ximen in restrained blue-green formal official robe sits listening at left. An Langzhong, a DIFFERENT middle-aged lean official with a squared chin, subtle short moustache and observant eyes, sits at right speaking with a small sober gesture; he wears a round-collared dark official robe with a stylized cloud-and-white-egret chest patch and worked gold belt. A partial foreground table holds a few bowls of well-cooked meat and soft rice in pale bowls with metal rims and small GOLD wine cups, food set as part of a larger table outside frame. A servant brings a covered food tray; not a uniformed military parade. A cold courtyard is glimpsed through the open bay. Keep scene ordinary and materially rich, not an imperial throne room; his discussion is about river-work burdens but do NOT invent a flood, map, workers or ruined bridge inside this frame. Clear speaking/listening and serving actions, no text on any scroll.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "068-03",
@@ -112,13 +151,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is Ximen identity only; reference2 is painted style only, no other faces. Three clearly ADULT figures in a winter evening entertainment-house dining room, no young performers in view. Ximen with the locked face wears a rich PURPLE velvet straight robe with subtle lion chest motif, black indoor headwrap; he has turned sideways from his own table to speak closely but nonsexually with Wu Yiner seated beside it. Yiner is a NEW distinct adult woman: naturally ROUNDER face, broad gentle brow, smaller chin, ordinary skin texture, no internet beauty filter. She wears a WHITE crinkled gauze hair covering over a compact hair arrangement, small pearl band with green decorative details, tiny gold stud earrings, a fully closed WHITE silk paired-front padded jacket and pale GREEN long skirt. Her hand makes a small explanatory gesture toward her white hair covering. Ximen listens with softened attention. Behind and to side one other adult woman in muted warm clothes offers a cup on a small tray, softly out of focus, not identical to Yiner. Warm brazier/candle light against cool dark lattice, partial cups and a fire basket at side, no touching or sexual activity, no memorial ghost, no children. Main narrative is a question about mourning clothes amid a convivial meal.",
       "references": [
-        "ximen（面貌）",
-        "065-01（风格）"
+        "references/ximen.png（原说明：ximen（面貌））",
+        "assets/065-01.webp（原说明：065-01（风格））"
       ],
-      "image": "assets/068-03.png",
+      "image": "assets/068-03.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is Ximen identity only; reference2 is painted style only, no other faces. Three clearly ADULT figures in a winter evening entertainment-house dining room, no young performers in view. Ximen with the locked face wears a rich PURPLE velvet straight robe with subtle lion chest motif, black indoor headwrap; he has turned sideways from his own table to speak closely but nonsexually with Wu Yiner seated beside it. Yiner is a NEW distinct adult woman: naturally ROUNDER face, broad gentle brow, smaller chin, ordinary skin texture, no internet beauty filter. She wears a WHITE crinkled gauze hair covering over a compact hair arrangement, small pearl band with green decorative details, tiny gold stud earrings, a fully closed WHITE silk paired-front padded jacket and pale GREEN long skirt. Her hand makes a small explanatory gesture toward her white hair covering. Ximen listens with softened attention. Behind and to side one other adult woman in muted warm clothes offers a cup on a small tray, softly out of focus, not identical to Yiner. Warm brazier/candle light against cool dark lattice, partial cups and a fire basket at side, no touching or sexual activity, no memorial ghost, no children. Main narrative is a question about mourning clothes amid a convivial meal. Keep Ximen face from reference1 only; do not copy its green robe, cap or fan into this differently clothed moment."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is Ximen identity only; reference2 is painted style only, no other faces. Three clearly ADULT figures in a winter evening entertainment-house dining room, no young performers in view. Ximen with the locked face wears a rich PURPLE velvet straight robe with subtle lion chest motif, black indoor headwrap; he has turned sideways from his own table to speak closely but nonsexually with Wu Yiner seated beside it. Yiner is a NEW distinct adult woman: naturally ROUNDER face, broad gentle brow, smaller chin, ordinary skin texture, no internet beauty filter. She wears a WHITE crinkled gauze hair covering over a compact hair arrangement, small pearl band with green decorative details, tiny gold stud earrings, a fully closed WHITE silk paired-front padded jacket and pale GREEN long skirt. Her hand makes a small explanatory gesture toward her white hair covering. Ximen listens with softened attention. Behind and to side one other adult woman in muted warm clothes offers a cup on a small tray, softly out of focus, not identical to Yiner. Warm brazier/candle light against cool dark lattice, partial cups and a fire basket at side, no touching or sexual activity, no memorial ghost, no children. Main narrative is a question about mourning clothes amid a convivial meal. Keep Ximen face from reference1 only; do not copy its green robe, cap or fan into this differently clothed moment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "068-04",
@@ -152,13 +193,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Two clearly ADULT people only, fully dressed, a NONSEXUAL private conversation in a warm Chinese household rear room. Reference1 locks Ximen face, reference2 painted gongbi style only. Ximen in a fully closed WHITE SILK everyday robe with high overlap collar sits at the LEFT edge of a wooden bed-platform or side bench, leaning his ear toward the speaker; his hands stay respectfully at his own lap, no erotic touching. Zheng Aiyue is an adult woman around late twenties as an art convention, distinct long phoenix-shaped eyes, fuller curved lips, more angular cheek contour than Yiner, natural skin; she sits at right in a muted smoky red patterned paired-front padded jacket, OCHRE-YELLOW long skirt, small dark fur forehead warmer and compact ornamented hair arrangement. She holds a SMALL COPPER-WIRE HAND BRAZIER enclosing an incense cake, partly beneath her sleeve, and quietly raises one finger near her mouth to request discretion. Distance and body orientation imply guarded private talk, not seduction posing. A closed inner door, a partly lit wooden screen, one candle to side, muted red and indigo shadows, no nudity, no kissing, no sexual acts, no women of the discussed household appearing in imagined panels, no money actually handed over, no text or labels.",
       "references": [
-        "ximen（面貌）",
-        "065-01（风格）"
+        "references/ximen.png（原说明：ximen（面貌））",
+        "assets/065-01.webp（原说明：065-01（风格））"
       ],
-      "image": "assets/068-04.png",
+      "image": "assets/068-04.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Two clearly ADULT people only, fully dressed, a NONSEXUAL private conversation in a warm Chinese household rear room. Reference1 locks Ximen face, reference2 painted gongbi style only. Ximen in a fully closed WHITE SILK everyday robe with high overlap collar sits at the LEFT edge of a wooden bed-platform or side bench, leaning his ear toward the speaker; his hands stay respectfully at his own lap, no erotic touching. Zheng Aiyue is an adult woman around late twenties as an art convention, distinct long phoenix-shaped eyes, fuller curved lips, more angular cheek contour than Yiner, natural skin; she sits at right in a muted smoky red patterned paired-front padded jacket, OCHRE-YELLOW long skirt, small dark fur forehead warmer and compact ornamented hair arrangement. She holds a SMALL COPPER-WIRE HAND BRAZIER enclosing an incense cake, partly beneath her sleeve, and quietly raises one finger near her mouth to request discretion. Distance and body orientation imply guarded private talk, not seduction posing. A closed inner door, a partly lit wooden screen, one candle to side, muted red and indigo shadows, no nudity, no kissing, no sexual acts, no women of the discussed household appearing in imagined panels, no money actually handed over, no text or labels. Keep Ximen face from reference1 only; do not copy its green robe, cap or fan into this differently clothed moment."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Two clearly ADULT people only, fully dressed, a NONSEXUAL private conversation in a warm Chinese household rear room. Reference1 locks Ximen face, reference2 painted gongbi style only. Ximen in a fully closed WHITE SILK everyday robe with high overlap collar sits at the LEFT edge of a wooden bed-platform or side bench, leaning his ear toward the speaker; his hands stay respectfully at his own lap, no erotic touching. Zheng Aiyue is an adult woman around late twenties as an art convention, distinct long phoenix-shaped eyes, fuller curved lips, more angular cheek contour than Yiner, natural skin; she sits at right in a muted smoky red patterned paired-front padded jacket, OCHRE-YELLOW long skirt, small dark fur forehead warmer and compact ornamented hair arrangement. She holds a SMALL COPPER-WIRE HAND BRAZIER enclosing an incense cake, partly beneath her sleeve, and quietly raises one finger near her mouth to request discretion. Distance and body orientation imply guarded private talk, not seduction posing. A closed inner door, a partly lit wooden screen, one candle to side, muted red and indigo shadows, no nudity, no kissing, no sexual acts, no women of the discussed household appearing in imagined panels, no money actually handed over, no text or labels. Keep Ximen face from reference1 only; do not copy its green robe, cap or fan into this differently clothed moment.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "068-05",
@@ -192,48 +235,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY the young male servant at FAR LEFT in the three-panel sheet: Daian with narrow attentive face and simply bound hair, not its middle fruit seller or right girl. Reference2 ONLY provides painted gongbi linework; include no men from that scene. A WIDE lived-in winter neighborhood alley in premodern China, slight rising path, a DOUBLE RED WOODEN DOOR as main spatial landmark. Daian has DISMOUNTED from a LARGE WHITE HORSE and stands at the red door holding a riding whip by the handle, gently tapping or just lowering it after knocking, no threat. A different fully clothed young ADULT man, the son of Wen, begins opening one red door panel, looking out. White horse waits beside Daian with plain saddle and reins, four anatomically coherent legs, no other mounted rider. Adjacent modest tofu workshop hinted by a simple vat and trays, worn plaster and timber, a little winter mud or thin old snow on shaded edges. Do not try to show the entire described route, bridges and abbey in this one frame. No readable shop signs. Dynamic diagonal red door / white horse / plain indigo servant, cool daylight, human-scale ordinary street rather than grand tourist avenue.",
       "references": [
-        "young-people-030左幅（玳安）",
-        "065-01（风格）"
+        "references/young-people-030.png（原说明：young-people-030左幅（玳安））",
+        "assets/065-01.webp（原说明：065-01（风格））"
       ],
-      "image": "assets/068-05.png",
+      "image": "assets/068-05.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存原图。按本轮要求未另做成图或网页验收；人物面貌、衣帽形制、器物材质及空间细部中的艺术补充，见上方说明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY the young male servant at FAR LEFT in the three-panel sheet: Daian with narrow attentive face and simply bound hair, not its middle fruit seller or right girl. Reference2 ONLY provides painted gongbi linework; include no men from that scene. A WIDE lived-in winter neighborhood alley in premodern China, slight rising path, a DOUBLE RED WOODEN DOOR as main spatial landmark. Daian has DISMOUNTED from a LARGE WHITE HORSE and stands at the red door holding a riding whip by the handle, gently tapping or just lowering it after knocking, no threat. A different fully clothed young ADULT man, the son of Wen, begins opening one red door panel, looking out. White horse waits beside Daian with plain saddle and reins, four anatomically coherent legs, no other mounted rider. Adjacent modest tofu workshop hinted by a simple vat and trays, worn plaster and timber, a little winter mud or thin old snow on shaded edges. Do not try to show the entire described route, bridges and abbey in this one frame. No readable shop signs. Dynamic diagonal red door / white horse / plain indigo servant, cool daylight, human-scale ordinary street rather than grand tourist avenue."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "经钱不止一场争执",
-      "text": "薛姑子原为断七法事而来，后来王姑子另来追问经钱，发现日期被说成另一日。月娘留布与剩斋相待。叙述者随后对这类人物作很重的批评；这是叙述的声音，不把它变成对所有宗教人员的常识判断。",
-      "evidence": [
-        {
-          "chapter": 68,
-          "paragraph": 8,
-          "quote": "他对着我说，咱家挪了日子，到初六念经"
-        }
-      ]
-    },
-    {
-      "title": "还礼的数目也有说话人",
-      "text": "黄四谢恩礼最初只被收下猪酒；后来说又添衣料与五十两谢钱主事。伯爵随即估计衣料价值。这些分别是当场礼物、西门庆回述和伯爵估价，不能揉成一份可完整复算的总账。",
-      "evidence": [
-        {
-          "chapter": 68,
-          "paragraph": 7,
-          "quote": "我只受了猪酒，添了两疋白鹇纻丝、两疋京缎、五十两银子"
-        }
-      ]
-    },
-    {
-      "title": "未画成宴席的十三岁演员",
-      "text": "原文说唱莺莺的韩消愁儿十三岁。本回相关表演与席间劝酒没有选作图像，不用未成年人的身体或宴席亲昵表现风月。",
-      "evidence": [
-        {
-          "chapter": 68,
-          "paragraph": 15,
-          "quote": "小名消愁儿，今年纔十三岁"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 is ONLY the young male servant at FAR LEFT in the three-panel sheet: Daian with narrow attentive face and simply bound hair, not its middle fruit seller or right girl. Reference2 ONLY provides painted gongbi linework; include no men from that scene. A WIDE lived-in winter neighborhood alley in premodern China, slight rising path, a DOUBLE RED WOODEN DOOR as main spatial landmark. Daian has DISMOUNTED from a LARGE WHITE HORSE and stands at the red door holding a riding whip by the handle, gently tapping or just lowering it after knocking, no threat. A different fully clothed young ADULT man, the son of Wen, begins opening one red door panel, looking out. White horse waits beside Daian with plain saddle and reins, four anatomically coherent legs, no other mounted rider. Adjacent modest tofu workshop hinted by a simple vat and trays, worn plaster and timber, a little winter mud or thin old snow on shaded edges. Do not try to show the entire described route, bridges and abbey in this one frame. No readable shop signs. Dynamic diagonal red door / white horse / plain indigo servant, cool daylight, human-scale ordinary street rather than grand tourist avenue.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

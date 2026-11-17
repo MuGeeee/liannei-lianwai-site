@@ -2,6 +2,24 @@
   "number": 96,
   "title": "第九十六回春梅游玩旧家池馆　守备使张胜寻经济",
   "intro": "一场带着礼数的旧宅归访，中间偏要去看一座少人打理的花园。转到城南水月寺，衣裳和称呼又让同一个人忽然换了位置。",
+  "supplements": [
+    {
+      "title": "床价要先认清是哪一张",
+      "text": "大姐那张卖八两支付县里差人，潘房那张给玉楼陪嫁，李瓶儿旧螺甸床卖三十五两。春梅听说过的六十多两，是她回忆的另一说法。",
+      "evidence": [
+        {
+          "chapter": 96,
+          "paragraph": 11,
+          "quote": "只卖了八两银子"
+        },
+        {
+          "chapter": 96,
+          "paragraph": 11,
+          "quote": "止卖了三十五两银子"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "096-01-v2",
@@ -37,20 +55,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chunmei, ref2 older round-faced Wu Yueniang, ref3 medium. Wide ceremonial gate interior. Chunmei in closed deep scarlet wide-sleeved formal robe, teal blue floral lower skirt, gold belt and restrained gold phoenix hair ornaments steps down by a large covered teal silk palanquin with gilt scrolling decoration; Wu in white silk mourning jacket and muted teal hem stands to receive her. Two adult bearers partly cropped; no children. Side-lit threshold, old plaster and wood, quiet dignified posture. No text, weapons or exact heraldic insignia.",
       "references": [
         "096-01（前稿，局部修正）",
-        "chun-030（春梅）",
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-01-v2.png",
+      "image": "assets/096-01-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 窗外改为正月冷景，鞋按原文改为红色；月娘冠样与袍上动物纹仍未逐项对应。",
       "actualPrompt": "Edit only outside vegetation and sky of this supplied scene, and the visible red-clad woman's shoe color. This happens in midwinter: replace the prominent bright orange maple leaves with spare bare branches and cool subdued pale blue winter light outside. No orange foliage. Change the visible shoe to muted red embroidered shoe with pale edge. Keep faces, hands, architecture, two bearers, gold-on-blue sedan and clothing exactly. No text.",
-      "baselineReferences": [
-        "chun-030（春梅）",
-        "moon-030（月娘）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "窗外改为正月冷景，鞋按原文改为红色；月娘冠样与袍上动物纹仍未逐项对应。"
+      "knownDeviation": "窗外改为正月冷景，鞋按原文改为红色；月娘冠样与袍上动物纹仍未逐项对应。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "096-02",
@@ -86,12 +101,14 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only fine gongbi ink and mineral-pigment material style. Empty old Chinese domestic garden after neglect; low-angle foreground of wet patterned terracotta floor bricks with tufts of green grass through the joints, leaning mossy painted wall at left. Beyond the brick, partial collapsed rock grotto with one delicate spiderweb, a worn timber pavilion and quiet edge of a shallow pond in the middle distance. Sparse leafless late winter shrubs, overcast daylight, no people, no text, no fantastical ruin or full garden plan. A weathered space that can still be walked through, melancholic but ordinary.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-02.png",
+      "image": "assets/096-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only fine gongbi ink and mineral-pigment material style. Empty old Chinese domestic garden after neglect; low-angle foreground of wet patterned terracotta floor bricks with tufts of green grass through the joints, leaning mossy painted wall at left. Beyond the brick, partial collapsed rock grotto with one delicate spiderweb, a worn timber pavilion and quiet edge of a shallow pond in the middle distance. Sparse leafless late winter shrubs, overcast daylight, no people, no text, no fantastical ruin or full garden plan. A weathered space that can still be walked through, melancholic but ordinary."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only fine gongbi ink and mineral-pigment material style. Empty old Chinese domestic garden after neglect; low-angle foreground of wet patterned terracotta floor bricks with tufts of green grass through the joints, leaning mossy painted wall at left. Beyond the brick, partial collapsed rock grotto with one delicate spiderweb, a worn timber pavilion and quiet edge of a shallow pond in the middle distance. Sparse leafless late winter shrubs, overcast daylight, no people, no text, no fantastical ruin or full garden plan. A weathered space that can still be walked through, melancholic but ordinary.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "096-03-v2",
@@ -127,18 +144,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei face and silhouette, ref2 paint medium. Quiet room interior with ONE adult Chinese woman at left edge in a closed dark emerald floral brocade jacket and pale violet woven skirt, seen mostly from behind and in profile, hands still. She looks toward a conspicuously empty stretch of tiled floor and wall. Exactly TWO sturdy old storage cupboards placed off to one side, no bed, no other furniture suggesting a bed, no memorial tablet or ghost. Window light on wear marks, intimate restrained frame, no lettering.",
       "references": [
         "096-03（前稿，局部修正）",
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-03-v2.png",
+      "image": "assets/096-03-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版以冷光与疏枝接续正月场景；窗外淡雪、柜形与摆位仍是美术补足。",
       "actualPrompt": "Edit the supplied narrative illustration only at the LEFT WINDOW. Replace warm orange foliage outside with bare branches and faint pale cool daylight, early lunar year and wintry. Preserve exact location of the woman seen in profile, her jade green patterned jacket and violet skirt, the old TWO cupboards and wide completely empty floor. No new objects, bed or words.",
       "knownDeviation": "修正版以冷光与疏枝接续正月场景；窗外淡雪、柜形与摆位仍是美术补足。",
-      "baselineReferences": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
-      ]
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "096-04-v2",
@@ -174,18 +189,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's face in corner, ref2 paint. Exactly three adult Chinese women fully dressed at a domestic evening banquet. Foreground musicians with visibly distinct adult faces: one playing a long horizontal multi-string Chinese zheng with movable bridges, the other holding a pear-shaped FOUR-string Chinese pipa upright, hands poised to pluck. Chunmei in dark green patterned jacket and violet skirt seated aside listens with a wine cup untouched. Cropped side view focus instruments, warm lamps, no lettered sheet, no extra figures or contact.",
       "references": [
         "096-04（前稿，局部修正）",
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-04-v2.png",
+      "image": "assets/096-04-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正窗外的季节与满月；筝、琵琶的制式与指法仍为图示。",
       "actualPrompt": "Edit the view through the window at upper left only. This event is after the 21st day of the first lunar month; remove the round full moon and turn the bright orange maple leaves into bare twigs. Keep instruments, faces, clothing, furniture and quiet interior lighting unchanged. Do not modify anything else or add a moon. No lettering.",
-      "baselineReferences": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正窗外的季节与满月；筝、琵琶的制式与指法仍为图示。"
+      "knownDeviation": "修正窗外的季节与满月；筝、琵琶的制式与指法仍为图示。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "096-05-v2",
@@ -221,18 +234,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult young Chen's face and worn garment only, ref2 fine painted medium. Wide outdoor Chinese temple construction site. Several fully clothed adult workers with two men lifting a simple wicker soil basket on a straight wooden pole, Chen a lean oval-faced worker in rough gray cotton at the near end. A square older foreman Hou with broom-like eyebrows and short three-part beard in weathered violet jacket gestures to adults mixing earth. Timber framing and low unfinished plaster walls in distance, ground mud and labor texture, no hard hats, machinery or writing. Candid everyday work.",
       "references": [
         "096-05（前稿，局部修正）",
-        "093-01（陈经济）",
-        "065-01（媒介）"
+        "assets/093-01.webp（原说明：093-01（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-05-v2.png",
+      "image": "assets/096-05-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版改用春叶。图着重抬筐、和泥的分工，木构和工序不作精确复原。",
       "actualPrompt": "In this image edit ONLY vegetation visible outside the construction area. Change bright orange maple foliage into light green spring foliage. Preserve precisely the two men carrying one soil basket, working hands, older foreman and worksite. No modern tools or extra figures, no text.",
       "knownDeviation": "修正版改用春叶。图着重抬筐、和泥的分工，木构和工序不作精确复原。",
-      "baselineReferences": [
-        "093-01（陈经济）",
-        "065-01（媒介）"
-      ]
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "096-06-v3",
@@ -267,38 +278,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult man Zhang Sheng, broad face and short beard, ignore woman; ref2 Chen Jingji face and rough gray cotton, ref3 paint. Two visible adult Chinese men by the outside wall of a working temple: Zhang in narrow-sleeved closed dark teal coat and subtle purple sash stands by a dun yellow horse with a low wicker basket of fresh garden peonies, making a slight formal bow. Young Chen half rises from a crouch by the wall, startled, rough clothes and soil basket nearby. Side composition, morning light, quiet open space, no other people, no injury or words.",
       "references": [
         "096-06-v2（前稿，局部修正）",
-        "094-02（张胜）",
-        "093-01（陈经济）",
-        "065-01（媒介）"
+        "assets/094-02.webp（原说明：094-02（张胜））",
+        "assets/093-01.webp（原说明：093-01（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/096-06-v3.png",
+      "image": "assets/096-06-v3.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版改成春叶，并明确由右侧的张胜手提花篮；马具和花篮尺寸为示意。",
       "actualPrompt": "Edit the supplied 3:2 painting, changing ONLY the location of the small wicker peony basket. The person on the RIGHT of the image wearing a DARK BLUE ROBE who is STANDING and BOWING is the courier Zhang; his right hand shall hang down by his own right side and visibly grasp the single wicker basket of pink peony flowers. The man on the LEFT wearing TATTERED BROWN is Chen; he is CROUCHING and both his hands MUST BE EMPTY, right on knee and left on ground. The horse holds nothing. Remove the basket from the crouching man's side completely. Keep two bodies, facial identities, temple wall, mild spring greenery, golden horse, rough clothes. No text. Clear readable relative roles, one basket on right, none on left.",
-      "baselineReferences": [
-        "094-02（张胜）",
-        "093-01（陈经济）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正版改成春叶，并明确由右侧的张胜手提花篮；马具和花篮尺寸为示意。"
-    }
-  ],
-  "supplements": [
-    {
-      "title": "床价要先认清是哪一张",
-      "text": "大姐那张卖八两支付县里差人，潘房那张给玉楼陪嫁，李瓶儿旧螺甸床卖三十五两。春梅听说过的六十多两，是她回忆的另一说法。",
-      "evidence": [
-        {
-          "chapter": 96,
-          "paragraph": 11,
-          "quote": "只卖了八两银子"
-        },
-        {
-          "chapter": 96,
-          "paragraph": 11,
-          "quote": "止卖了三十五两银子"
-        }
-      ]
+      "knownDeviation": "修正版改成春叶，并明确由右侧的张胜手提花篮；马具和花篮尺寸为示意。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

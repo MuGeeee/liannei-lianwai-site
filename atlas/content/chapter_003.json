@@ -1,0 +1,283 @@
+{
+  "number": 3,
+  "title": "第三回王婆定十件挨光计　西门庆茶房戏金莲",
+  "intro": "一套寿衣，把买料的人、做针线的人和茶坊主人接到同一张桌前。读这一回，既看招待如何一步步安排，也看说话的人怎样重新描画自己的家。",
+  "supplements": [
+    {
+      "title": "“十分光”不是一份概率表",
+      "text": "王婆把每一次不离开都算作多一分把握，这是她说服顾客并推进安排的算法。未离席并不等于无条件同意此后任何行为，也不能将她的话当作人物内心的客观量表。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "这光便有四分了"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "却不可躁爆便去动手动脚"
+        }
+      ]
+    },
+    {
+      "title": "武大为什么还教她带钱",
+      "text": "武大按邻里往来的道理，让金莲还礼，不愿只受人酒食。读者知道料子与宴饮另有安排，他却不掌握这一层；讽刺来自信息差，不应把维护人情本身解释为无知的罪过。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 9,
+          "quote": "休要失了人情"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 12,
+          "quote": "向袖中取出三百文钱来"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "003-01",
+      "chapter": 3,
+      "title": "十两谢钱与五件条件",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "却不要忘了许我那十两银子"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "最有闲工夫"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "王婆"
+      ],
+      "place": "王婆茶坊",
+      "event": "王婆将偷情所需条件与使钱联系起来，西门庆许下事成谢银。",
+      "why": "这里的热心有明确报酬，时间、耐心和钱一同成为可以调动的条件。",
+      "composition": "两人隔小桌，王婆慢慢伸指，西门庆前倾；杯茶已凉，银尚未兑现。",
+      "summary": "王婆把容貌、身体、财富、低声下气与闲工夫说成五件条件，又反复追问肯不肯使钱。西门庆许诺事成给十两。画面落在议价而非兑现：所谓撮合，首先是一份还没有完成的有偿安排。",
+      "psychology": "原文明写西门庆急切、王婆故意拖延和讨价；把他们的身体距离看作急与缓的对照，是本馆的镜头解释。",
+      "social": "钱不是抽象的富贵装饰：它将用于买料、置酒和付酬。十两谢银此时只是承诺，不能画成已经交付。",
+      "explicit": "两人商谈，许十两，王婆提出五项条件。",
+      "inference": "指势、服色、茶桌与神态为美术补足；不把言语中身体夸饰画成实体。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "西门庆旧像",
+        "王婆旧像",
+        "第65回工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Exactly two adults in a modest tea shop. Young 25-year-old Ximen Qing from first reference in green robe seated left leaning forward impatiently, elderly wrinkled Wang Po from second reference seated right deliberately counting conditions on her fingers, calm businesslike expression, worn table two tea cups, dim spring daylight, negotiation of a promised payment NOT completed payment, no pile of money. Medium close asymmetric composition. No sexual activity.",
+      "image": "assets/003-01.webp",
+      "status": "generated",
+      "review": "已打开检查：王婆伸指说明，西门庆前倾，两人谈条件，未提前画出十两付酬。手指数目不作为五项条件的精确图表；两只杯、桌面与服饰细纹为补足。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Exactly two adults in a modest tea shop. Young 25-year-old Ximen Qing from first reference in green robe seated left leaning forward impatiently, elderly wrinkled Wang Po from second reference seated right deliberately counting conditions on her fingers, calm businesslike expression, worn table two tea cups, dim spring daylight, negotiation of a promised payment NOT completed payment, no pile of money. Medium close asymmetric composition. No sexual activity. Keep the elderly woman face from second reference, only the young man face from first. No snow outside.",
+      "excerpt": {
+        "chapter": 3,
+        "paragraph": 5,
+        "quote": "「却不要忘了许我那十两银子！」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "003-02",
+      "chapter": 3,
+      "title": "一包料子先送进门",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "紬绢三疋，并十两清水好绵"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 5,
+          "quote": "名唤玳安，用包袱包了"
+        }
+      ],
+      "people": [
+        "王婆",
+        "玳安"
+      ],
+      "place": "王婆茶坊",
+      "event": "玳安把西门庆买来的绸绢与棉送到王婆家，王婆收下。",
+      "why": "眼前看似送终衣料的物品，来源却是这场事先商定的安排。",
+      "composition": "低机位看打开的包袱：三段不同布料与一团棉；门边一收一送。",
+      "summary": "话商量妥当，西门庆买下蓝绸、白绸、白绢和棉，叫玳安包了送往王婆家。王婆收下，随后才去借历日、央人裁衣。料子不是无来历的善举，读者此时已知道它怎样被买来、又将被怎样介绍。",
+      "psychology": "原文明写王婆欢喜收下；玳安只承担送物差事，原文未写他知道整套安排，画中不赋予共谋表情。",
+      "social": "家中的小厮把主人的消费送到邻里空间；物品流动与消息掌握并不同步。",
+      "explicit": "三疋布、棉、包袱，玳安送来，王婆接收。",
+      "inference": "不画可称量的十两棉；玳安年龄未核明，采用普通非性化少年仆役美术约定，不借后回补脸。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "王婆旧像",
+        "第65回工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Inside doorway of a modest tea shop in spring. Elderly Wang Po with deeply lined long face and gray bun receives an open cloth parcel from a plainly dressed young servant Dai An, standing by threshold. Main foreground subject three fabric lengths: blue silk, white silk, white gauze, plus loose white cotton inside brown bundle on table. No luxury chests or silver payment. Elderly woman's welcoming hands contrasted with servant's practical delivery. Medium low angle, daylight. Servant appearance deliberately ordinary; no sexual context.",
+      "image": "assets/003-02.webp",
+      "status": "generated",
+      "review": "已打开检查：玳安送包袱，三类蓝白布料与棉可见，王婆接收。小厮外貌与年龄感未有精确原文依据，属美术约定；背景两位茶客是气氛补足，无小说身份或参与该事的断言。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Inside doorway of a modest tea shop in spring. Elderly Wang Po with deeply lined long face and gray bun receives an open cloth parcel from a plainly dressed young servant Dai An, standing by threshold. Main foreground subject three fabric lengths: blue silk, white silk, white gauze, plus loose white cotton inside brown bundle on table. No luxury chests or silver payment. Elderly woman's welcoming hands contrasted with servant's practical delivery. Medium low angle, daylight. Servant appearance deliberately ordinary; no sexual context. Spring scene, no snow.",
+      "excerpt": {
+        "chapter": 3,
+        "paragraph": 5,
+        "quote": "于是作别了王婆，离了茶肆，就去街上买了紬绢三疋，并十两清水好绵。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "003-03",
+      "chapter": 3,
+      "title": "针线旁的一盏泡茶",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 9,
+          "quote": "胡桃松子泡茶"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 9,
+          "quote": "妇人量了长短，裁得完备"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "王婆"
+      ],
+      "place": "王婆房内",
+      "event": "潘金莲头一天来裁缝送终衣，王婆奉茶、夸手艺并安排午食。",
+      "why": "针线是真实劳动，招待也是精心安排；两件事在同一个日常场景里重叠。",
+      "composition": "俯看剪裁与针脚，茶盏在手边，王婆坐侧边注目；重点在劳动的手。",
+      "summary": "潘金莲先量布、裁剪，再一针一线缝起来。王婆端来胡桃松子泡茶，不断夸她手艺好，又请酒食点心。画面保留这件事的日常质地：她的劳动并非假做，围绕劳动的招待，却有读者已经知道的另一层目的。",
+      "psychology": "原文明写王婆假喝彩；金莲此刻已来做工，但不能仅凭接受茶食，就说她知道全部计划。",
+      "social": "“请人做活”使陌生男女后来同室显得有了理由。手艺既是她的能力，也被别人拿来布置相见的条件。",
+      "explicit": "裁缝、布料、针线、胡桃松子泡茶与王婆相陪。",
+      "inference": "剪刀、针盒、桌面尺度与衣装为补足；未将送终衣误画为正在服丧。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "潘金莲旧像",
+        "王婆旧像",
+        "第65回工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Top-down three-quarter view of Pan Jinlian sewing in Wang Po's modest back room, same face as Pan reference, white summer cloth shirt, blue sleeveless vest, rose skirt, fully dressed, bent over blue and white cloth with visible delicate stitchwork and small scissors. Elderly Wang Po sits aside watching and offering tea, natural wrinkled face from reference. Tea bowl with walnuts and pine kernels visible nearby, worn plaster, useful needle case, three fabric lengths, not mourning funeral scene, no coffin, no other people. Quiet spring daylight, skilled working hands central.",
+      "image": "assets/003-03.webp",
+      "status": "generated",
+      "review": "已打开检查并修正：采用素色蓝白衣料和直缝，撤下把劳动画成绣花的初稿。两人、针线、茶与桌面可辨；茶中配料的颗粒形状和剪刀形制仍为美术补足。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Top-down three-quarter view of Pan Jinlian sewing in Wang Po's modest back room, same face as Pan reference, white summer cloth shirt, blue sleeveless vest, rose skirt, fully dressed, bent over blue and white cloth with visible delicate stitchwork and small scissors. Elderly Wang Po sits aside watching and offering tea, natural wrinkled face from reference. Tea bowl with walnuts and pine kernels visible nearby, worn plaster, useful needle case, three fabric lengths, not mourning funeral scene, no coffin, no other people. Quiet spring daylight, skilled working hands central. EDIT the reference image. Preserve the two faces, clothing, room, tea, pose and light. Replace every floral-embroidered fabric on table with PLAIN unpatterned blue cloth and plain white silk. Pan is stitching a straight construction seam at the garment edge, NOT embroidering decoration. Remove pink fabric roll (the pink skirt she wears remains). The two other fabric rolls are plain blue and plain white. No flowers or decorative motifs on any cloth. Keep sewing needle at plain edge.",
+      "excerpt": {
+        "chapter": 3,
+        "paragraph": 9,
+        "quote": "那婆子欢喜无限，接入房裏坐下，便浓浓点一盏胡桃松子泡茶，与妇人吃了。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "003-04",
+      "chapter": 3,
+      "title": "拿起衣裳，认过彼此",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 14,
+          "quote": "上穿白夏布衫儿，桃红裙子，蓝比甲"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 14,
+          "quote": "西门庆把起衣服来看了"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "西门庆",
+        "王婆"
+      ],
+      "place": "王婆房内",
+      "event": "王婆把西门庆拉进房，说他是衣料施主；他拿起衣服赞针线，金莲低头还礼。",
+      "why": "相见被包装成看针线：一个劳动对象成了搭话和互相打量的中介。",
+      "composition": "布料横在三人之间：西门庆执衣，金莲手离针线，王婆在门与桌之间。",
+      "summary": "到了约定的日子，王婆把西门庆拖进房，介绍为送衣料的施主。他拿起衣服称赞针指，金莲放下生活还礼。两人明明已在街头见过，却又从“谁家娘子”问起；王婆在旁把陌生、偶遇和熟识重新排成一场客气。",
+      "psychology": "低头和还礼是原文动作，不能单独当作羞怯或拒绝的证据；这段还有之后的互看与谈话，画面只截取认人这一刻。",
+      "social": "“施主”把花钱说成布施，“浇手”把置酒说成酬劳。称呼与礼数让安排更顺畅，并不改变料子最初的来源。",
+      "explicit": "三人在房内，指定金莲衣色，西门庆执衣称赞。",
+      "inference": "桌门相对位置与两位配角服色未详，是构图约定。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "潘金莲旧像",
+        "西门庆旧像",
+        "王婆旧像",
+        "第65回工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Narrative three-adult group in modest tea-shop workroom. Pan Jinlian seated left in explicitly white coarse summer shirt, blue sleeveless bijia vest and rose pink skirt, same face reference, puts down needlework and lowers gaze. Ximen Qing young green robe right lifts a partly sewn blue-white garment politely to examine stitches. Elderly Wang Po behind between doorway and table introduces them, calculating but not caricature. Cloth visibly connects their hands, small sewing tools on worn table, no wine yet, natural spring light. Capture introduction through the clothing rather than posed portraits.",
+      "image": "assets/003-04.webp",
+      "status": "generated",
+      "review": "已打开检查：金莲衣色为白衫、蓝比甲、桃红裙；西门庆执衣，王婆在旁介绍。两人此前低头还礼的次序压在同一个认人瞬间；衣服裁剪形制、窗景与席次为补足。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Narrative three-adult group in modest tea-shop workroom. Pan Jinlian seated left in explicitly white coarse summer shirt, blue sleeveless bijia vest and rose pink skirt, same face reference, puts down needlework and lowers gaze. Ximen Qing young green robe right lifts a partly sewn blue-white garment politely to examine stitches. Elderly Wang Po behind between doorway and table introduces them, calculating but not caricature. Cloth visibly connects their hands, small sewing tools on worn table, no wine yet, natural spring light. Capture introduction through the clothing rather than posed portraits. Plain blue and white cloth being sewn into a garment, no embroidered flowers; Wang Po identity elderly woman only from third reference. No snow.",
+      "excerpt": {
+        "chapter": 3,
+        "paragraph": 14,
+        "quote": "西门庆睁眼看着那妇人：云鬟迭翠，粉面生春；上穿白夏布衫儿，桃红裙子，蓝比甲；正在房裏做衣服。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "003-05",
+      "chapter": 3,
+      "title": "酒席上，谁家成了“无主”",
+      "evidence": [
+        {
+          "chapter": 3,
+          "paragraph": 22,
+          "quote": "如今身边枉自有三五七口人吃饭，都不管事"
+        },
+        {
+          "chapter": 3,
+          "paragraph": 22,
+          "quote": "我自主张，谁敢说个不字"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "潘金莲",
+        "王婆"
+      ],
+      "place": "王婆房内酒桌",
+      "event": "西门庆在酒席上抱怨家中妻妾不管事，又声明婚娶由自己作主；王婆顺势夸金莲。",
+      "why": "这一席话将自家人说成欠缺、把眼前人抬成例外；请把它当作当场的说辞，而不是家宅实况的全貌。",
+      "composition": "金莲近景侧面听，西门庆隔桌向她说，王婆斟酒接话；针线收在桌角。",
+      "summary": "酒过数巡，话题从手艺、年龄转到西门庆的家。他称亡妻能干，抱怨现有妻妾不能料理，又说父母俱没、婚娶自己作主。王婆不断拿金莲与别人比较。读者听见的，是他在此刻对一位新相识女子讲述的自家生活。",
+      "psychology": "原文明写西门庆夸赞金莲、说家中不管事。把这些话理解为迎合眼前人，有对话次序支持；家中每人究竟做了什么，此席话不能独立证明。",
+      "social": "他一面说家无主，一面强调自己有最终决定权。两句话并列，使“缺人料理”与“谁可作主”显出不同含义。",
+      "explicit": "三人吃酒，王婆说合，西门庆述家事，衣料已收。",
+      "inference": "盘中鹅鸭熟肉依据本段前文；数量、席次、灯光为补足。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "本回衣料相见图",
+        "西门庆旧像",
+        "第65回工笔画风"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Intimate but non-explicit dinner conversation of exactly three adults at modest tea room. Foreground Pan Jinlian in white summer shirt blue vest rose skirt seen three-quarter profile listening, recognizable face. Across the table young Ximen Qing green robe gestures toward himself while speaking confidently. Elderly Wang Po to side pours wine while watching both. On small table cooked goose, duck, ordinary sliced meat and little fruit dishes, three small wine cups; folded sewing set pushed to edge. Unequal conversational triangle, medium-close over-shoulder framing, daylight softening, not palace banquet, no flirtatious touching.",
+      "image": "assets/003-05.webp",
+      "status": "generated",
+      "review": "已打开检查：三人、酒食、收边针线和西门庆自指讲话清楚。鹅鸭与熟肉据前文，但盘数、瓜果品种、杯形与倒酒的手势是美术处理，不等于精确宴席清单。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Intimate but non-explicit dinner conversation of exactly three adults at modest tea room. Foreground Pan Jinlian in white summer shirt blue vest rose skirt seen three-quarter profile listening, recognizable face. Across the table young Ximen Qing green robe gestures toward himself while speaking confidently. Elderly Wang Po to side pours wine while watching both. On small table cooked goose, duck, ordinary sliced meat and little fruit dishes, three small wine cups; folded sewing set pushed to edge. Unequal conversational triangle, medium-close over-shoulder framing, daylight softening, not palace banquet, no flirtatious touching. No snow. Same faces as the introduction image.",
+      "excerpt": {
+        "chapter": 3,
+        "paragraph": 22,
+        "quote": "「休说我先妻，若在他在时，却不恁的家无主，屋倒竖。如今身边枉自有三五七口人吃饭，都不管事。」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

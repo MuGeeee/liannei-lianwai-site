@@ -1,0 +1,491 @@
+{
+  "number": 36,
+  "title": "第三十六回翟谦寄书寻女子　西门庆结交蔡状元",
+  "intro": "一封京信同时牵出寻亲与接客；本回从月娘催媒说起，经新河口远迎、园中厚款，收束于蔡安二人的赠赆。阅读确认仍64；只据本回及此前，未以结尾引向后回。",
+  "supplements": [
+    {
+      "title": "十两贺礼、五两路费与回书的边界",
+      "text": "翟谦寄十两贺礼，又托招待蔡状元。下书人次日说明翟愿补还蔡所需路费，西门庆答应，并把回书与五两路费交使者。此处不是已经偿还的账，也不能把回信中的“女子寻下”当成事实。",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 7,
+          "quote": "薄具帖金十两奉贺"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 9,
+          "quote": "写书去翟爹那裏，如数补还。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 9,
+          "quote": "临去，交割回书，又与了他五两路费。"
+        }
+      ]
+    },
+    {
+      "title": "托寻女子中的年龄与绣春：本次只留文字",
+      "text": "西门庆自述翟谦无子而托寻女子，话中列十五六至十七八，并提出把绣春送去；月娘以西门庆已经收过绣春为由反对。这些是本回人物说法，不把未成年候选对象性化，也不绘候选女子或所谓交付场面；至本回没有找到或送走女子。",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "说无子，来央及我这裏替他寻个女子。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "或十五六，十七八的也罢！"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "那丫头你又收过他，怎好打发去的！"
+        }
+      ]
+    },
+    {
+      "title": "同榜、名号与礼物：按本回说法保留",
+      "text": "本回叙述安忱头甲受议论而蔡蕴擢第一，蔡投蔡京做假子，任秘书省正字；不据小说作制度史断言。蔡自称号一泉，安自称号凤山，西门庆再三被问才答四泉。入门前两客都着官袍乌纱，带来书帕、茶扇等贽仪，园中款待不是无来由偶遇。",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 10,
+          "quote": "把蔡蕴擢为第一，做了状元。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 10,
+          "quote": "投在蔡京门下，做了假子，升秘书省正字，给假省亲。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 13,
+          "quote": "学生蔡蕴，本贯滁州之匡庐人也，贱号一泉。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 13,
+          "quote": "贱号凤山。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 13,
+          "quote": "贱号四泉。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 12,
+          "quote": "各具官袍乌纱，先投拜帖进去。"
+        }
+      ]
+    },
+    {
+      "title": "园中曲宴与留宿：文学说明，本次未配表演图",
+      "text": "四名苏州演员为苟子孝、周顺、袁琰、胡慥；另叫书童装扮，共三个旦、两个生，先唱《香囊记》。安对书童的赞赏与牵手递酒由叙述明确写出。本回沿用上回十六岁的年龄约束，不把书童当成年人来表现这种性化注视；本次不绘书童表演、递酒或牵手。曲中“始笄”是所唱角色的话，不能另算书童年龄。夜里藏春坞、翡翠轩均设床帐，并派书童、玳安答应；本回没有明叙进一步性行为，不能据此添加。",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 14,
+          "quote": "共三个旦、两个生，在席上先唱〈香囊记〉。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 14,
+          "quote": "小的是装生的，呌苟子孝；那一个装旦的，呌周顺；一个贴旦，呌袁琰；那一个装小生的，呌胡慥。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 22,
+          "quote": "见书童儿唱的好，拉着他手儿，两个一递一口吃酒。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 21,
+          "quote": "弱质始笄年"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 26,
+          "quote": "西门庆藏春坞翡翠轩两处俱设床帐，铺陈绫锦被褥，就派书童玳安两个小厮答应。"
+        },
+        {
+          "chapter": 35,
+          "paragraph": 24,
+          "quote": "西门庆道：「他今年纔交十六岁。」"
+        }
+      ]
+    },
+    {
+      "title": "称羡花园与歌辞的季节",
+      "text": "蔡见池台馆与花木森秀而心中大喜，称“胜蓬瀛”，这是宾客赞语，不是园林测绘结论。白天游园下棋，夜间入藏春坞再饮均已发生；歌辞里的东风、御柳、上林春早不能当作实际季节已转春。",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 14,
+          "quote": "心中大喜，极口称羡"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 14,
+          "quote": "诚乃胜蓬瀛也！"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 22,
+          "quote": "转过粉墙，来到藏春坞"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 23,
+          "quote": "青归御柳，莺啼上林春早。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "036-01",
+      "chapter": 36,
+      "title": "一封催书，连夜补作回音",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 5,
+          "quote": "走到上房，取书拆开"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 7,
+          "quote": "薄具帖金十两奉贺"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "就把这事忘死了，想不起来。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "只说女子寻下了，只是衣服妆奁未办"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 8,
+          "quote": "一面呌将陈经济来，隔夜修了回书。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 36,
+        "paragraph": 8,
+        "quote": "西门庆看毕，只顾咨嗟不已，说道：「快教小厮叫媒人去！我什么营生就忘死了，再想不起来。」"
+      },
+      "people": [
+        "西门庆",
+        "吴月娘"
+      ],
+      "place": "西门宅上房",
+      "event": "翟谦寄信催问托寻女子一事；西门庆才想起旧托，月娘斥其性急，又出主意先以妆奁未办回复。",
+      "why": "一封书既催婚事又牵官场扶持；记住此处尚未寻下女子，回信是缓期说辞。",
+      "composition": "左西门庆坐在灯下持展开书，右月娘稳坐抬掌说话；两人之间留出桌面距离，不出现候选女子。",
+      "summary": "翟谦来书，十两贺礼与留饭之托一并到家。西门庆这才想起替他寻女子的旧事，急着叫媒人，甚至提议把绣春送去。月娘先斥他临时着忙，再教他回称女子已寻、妆奁未办，留出踏看时间。陈经济当夜修书。画面停在二人商议之际，尚无婚事落实。",
+      "psychology": {
+        "明写": "西门庆咨嗟、急叫媒人，后来笑称说得有理。月娘当面斥责并提出拖延办法。",
+        "推断": "西门庆怕失去京中照拂，可从其“怪死了”与扶持做官的自述读出；不画成已获允诺的事实。"
+      },
+      "social": "私人托事、财礼和官场帮扶在西门庆自述中相连。月娘所谓慢慢踏看与先作虚覆同时存在，不能把她的应对概括成已解决婚姻。",
+      "explicit": [
+        "翟信十两贺礼、请求接待蔡状元。",
+        "西门庆自述忘事；月娘提出先虚覆再寻。",
+        "实际已发生的是议论与隔夜修书。"
+      ],
+      "inference": [
+        "灯下读信为按“至晚来家、隔夜修书”的取景推定。",
+        "木桌、灯形、两人衣色与座次是美术补足；纸上不写可读文字。",
+        "提示词以early autumn辅助秋意，具体旬日未由本图另定；承上回八月二十四日之后，图中叶色不作日期证据。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离包；宋代故事设定与宽泛晚明视觉参考分开。未考定的服装、器物与空间均为美术补足，不当历史测绘。",
+      "references": [
+        "references/ximen.png",
+        "assets/020-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 locks Ximen Qing face only: long narrow face, straight brows, narrow eyes and long waist. Input 2 locks ONLY the RIGHT seated woman Wu Yueniang: rounder face and steady fuller build, not the woman on the left. Scene: an evening conversation in the upper room of a prosperous but lived-in Chinese house. Exactly two fully clothed adults, Ximen seated on the LEFT in an unadorned dark olive long robe and black cloth cap, holding a single unfolded letter with both hands over the edge of a wooden table, looking worried toward Yueniang. Yueniang seated on the RIGHT in a muted rust-brown jacket and dark plum skirt, neat practical bun, one hand raised in a firm explanatory gesture and the other resting on her lap. A small period oil lamp sits safely at the back of the table, dim evening latticed window. The paper has no readable writing. Modest household room, restrained gestures, candid mid-conversation, no extra people, no marriage ceremony, no bride or silver displayed. Clear hands, exactly four arms.",
+      "image": "assets/036-01.webp",
+      "status": "generated",
+      "review": "已实际打开内置成图核看：恰两人，左西门庆长脸、直眉、窄眼，右月娘圆脸与旧参考一致；四只手清楚，庆双手持无可读字信纸，月娘抬一掌说话、另一手置膝，油灯与窗外暮色相合。没有候选女子、婚仪或银物提前交付。衣色、灯形、座次和窗外黄叶为美术补足；灯火形态不作器物考据。无需返修。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 locks Ximen Qing face only: long narrow face, straight brows, narrow eyes and long waist. Input 2 locks ONLY the RIGHT seated woman Wu Yueniang: rounder face and steady fuller build, not the woman on the left. Scene: an evening conversation in the upper room of a prosperous but lived-in Chinese house. Exactly two fully clothed adults, Ximen seated on the LEFT in an unadorned dark olive long robe and black cloth cap, holding a single unfolded letter with both hands over the edge of a wooden table, looking worried toward Yueniang. Yueniang seated on the RIGHT in a muted rust-brown jacket and dark plum skirt, neat practical bun, one hand raised in a firm explanatory gesture and the other resting on her lap. A small period oil lamp sits safely at the back of the table, dim evening latticed window. The paper has no readable writing. Modest household room, restrained gestures, candid mid-conversation, no extra people, no marriage ceremony, no bride or silver displayed. Clear hands, exactly four arms.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "036-02",
+      "chapter": 36,
+      "title": "拿帖儿来说，媒人各处打听",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 11,
+          "quote": "使小厮呌了老冯、薛嫂儿，并别的媒人来"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 11,
+          "quote": "人家有好女子，拿帖儿来说。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 36,
+        "paragraph": 11,
+        "quote": "且说月娘家中，使小厮呌了老冯、薛嫂儿，并别的媒人来，吩咐各处打听，「人家有好女子，拿帖儿来说。」不在话下。"
+      },
+      "people": [
+        "吴月娘",
+        "冯妈妈",
+        "薛嫂儿",
+        "其他媒人"
+      ],
+      "place": "西门宅内",
+      "event": "月娘召来媒人，吩咐各处打听合适女子，有线索再拿帖来说。",
+      "why": "回信声称女子寻下，实际调查却刚开始；这是办事的第二条线。",
+      "composition": "右月娘正面说话，左冯妈妈清楚侧脸；两名别的媒人从背后或侧后入画，不为薛嫂另定面貌。",
+      "summary": "回书送走前后，月娘家中召集老冯、薛嫂儿和其他媒人。她把口头托付变成各处寻访，约定有合适人选再拿帖来说。图中只有传话和听吩咐，没有展示待选女子，也不假定具体人家已被选定。媒人的确切人数原文未记，四人构图只是取其工作场面。",
+      "psychology": {
+        "明写": "月娘命人召集媒人并交代打听。",
+        "推断": "说话与侧耳听候的神情用来呈现办事场面；原文没有逐人记载此时的内心。"
+      },
+      "social": "婚配信息经媒人传递，“拿帖儿来说”说明托寻与具体人选仍有程序距离；不能据此补出已经谈妥的财礼。",
+      "explicit": [
+        "有老冯、薛嫂儿及其他媒人。",
+        "指令为各处打听，有好女子拿帖来。"
+      ],
+      "inference": [
+        "原文未记会面确切时辰和房间。",
+        "画中两位清楚人物加两位背侧影、普通服装、案上茶盏、座次均为美术补足；此时不添人选帖。",
+        "提示词以early autumn辅助秋意，具体旬日未由本图另定；承上回八月二十四日之后，图中叶色不作日期证据。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离包；宋代故事设定与宽泛晚明视觉参考分开。未考定的服装、器物与空间均为美术补足，不当历史测绘。",
+      "references": [
+        "assets/020-02.webp",
+        "assets/017-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference: ONLY RIGHT woman is Wu Yueniang, round face and steady fuller build. Input 2 identity reference: ONLY LEFT older woman is Feng Mama, broad slightly angular aged face, natural brow, fine wrinkles, greying hair under brown cloth headwrap. Create an early autumn daylight household instruction scene, not a wedding or a bride market. Exactly FOUR fully clothed women. Wu Yueniang seated at RIGHT, rust-brown everyday jacket, dark plum skirt and neat bun, calmly gesturing outward with one hand as she speaks. Feng Mama stands LEFT of center facing her, modest brown coarse jacket and indigo skirt, attentive weathered face, hands loosely together at waist. At far LEFT foreground and center background are two other middle-aged or older matchmakers shown from rear or side-rear with indistinct facial details, in ordinary faded gray-blue and dark tan garments; no new glamour portraits. Maintain visual focus on Wu and Feng. Simple wooden screen, daylight lattice window, small table with two plain tea cups, lived-in worn surfaces, no documents representing selected candidates, no children, no young women presented, no readable text.",
+      "image": "assets/036-02.webp",
+      "status": "generated",
+      "review": "已实际打开核看：恰四女，右月娘、左中冯妈妈面貌与旧图一致，冯妈妈有自然细纹和头巾；另两媒人为背侧影，没有误新增薛嫂清楚面貌。月娘抬掌指派、冯双手相合，桌上两盏茶，无待选女子、人选帖或婚事落实的画面。后景媒人背向室内取正在转身的瞬间，属于构图补足，不据此断其态度。人数为取景示意而非原文总人数。无需返修。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference: ONLY RIGHT woman is Wu Yueniang, round face and steady fuller build. Input 2 identity reference: ONLY LEFT older woman is Feng Mama, broad slightly angular aged face, natural brow, fine wrinkles, greying hair under brown cloth headwrap. Create an early autumn daylight household instruction scene, not a wedding or a bride market. Exactly FOUR fully clothed women. Wu Yueniang seated at RIGHT, rust-brown everyday jacket, dark plum skirt and neat bun, calmly gesturing outward with one hand as she speaks. Feng Mama stands LEFT of center facing her, modest brown coarse jacket and indigo skirt, attentive weathered face, hands loosely together at waist. At far LEFT foreground and center background are two other middle-aged or older matchmakers shown from rear or side-rear with indistinct facial details, in ordinary faded gray-blue and dark tan garments; no new glamour portraits. Maintain visual focus on Wu and Feng. Simple wooden screen, daylight lattice window, small table with two plain tea cups, lived-in worn surfaces, no documents representing selected candidates, no children, no young women presented, no readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "036-03",
+      "chapter": 36,
+      "title": "来保登船，先送一分嗄程",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 12,
+          "quote": "西门庆使来保往新河口，打听蔡状元船只"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 12,
+          "quote": "原来和同榜进士安忱同船。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 12,
+          "quote": "来保拿着西门庆拜帖来到船上拜见，就送了一分嗄程，酒面鸡鹅嗄饭盐酱之类。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 12,
+          "quote": "见西门庆差人远来迎接，又馈送如此大礼，心中甚喜。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 36,
+        "paragraph": 12,
+        "quote": "一日，西门庆使来保往新河口，打听蔡状元船只，原来和同榜进士安忱同船。这安进士亦因家贫未续亲，东也不成，西也不就，辞朝还家续亲，因此二人同船。来到新河口，来保拿着西门庆拜帖来到船上拜见，就送了一分嗄程，酒面鸡鹅嗄饭盐酱之类。"
+      },
+      "people": [
+        "来保",
+        "蔡蕴（蔡一泉）",
+        "安忱（安凤山）"
+      ],
+      "place": "新河口船上",
+      "event": "来保奉命打听船只，登船投帖并送行程食物；蔡与安同船。",
+      "why": "宴席前，名帖与实物先抵船头；蔡已听过翟谦的介绍。",
+      "composition": "左来保双手奉闭合拜帖，右中蔡状元接见，右后安进士；船头一组食物篮与封口酒坛，河岸留在远处。",
+      "summary": "来保到新河口，在船上见到同来的蔡状元与安进士，奉上西门庆的拜帖和一分嗄程。酒、面、鸡鹅、盐酱使迎接在登门前就变得具体。蔡早已听翟谦称道西门庆，见远接厚馈，叙述明写他心中甚喜。两位客人的游历衣色、船舱形制和容貌细节在这里作美术约定。",
+      "psychology": {
+        "明写": "蔡因远接与厚馈心中甚喜。安未续亲和家贫由本回叙述交代。",
+        "推断": "图中安在旁观看的平静神情是补足；不把贫穷画成固定褴褛外观。"
+      },
+      "social": "拜帖先行、仆人远接、行食相赠构成待客程序。此图只示类别，不把鸡鹅酒面数量或船型当作完整物流账。",
+      "explicit": [
+        "来保在新河口登船，投西门庆拜帖并送嗄程。",
+        "蔡、安同船；蔡心中甚喜。"
+      ],
+      "inference": [
+        "两客确切年纪与相貌未明，成熟面貌为艺术约定。",
+        "旅行便服、船型、岸景和食物包装为补足，篮中不穷尽全部礼物；无官阶补子考证。",
+        "提示词以early autumn辅助秋意，具体旬日未由本图另定；承上回八月二十四日之后，图中叶色不作日期证据。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离包；宋代故事设定与宽泛晚明视觉参考分开。未考定的服装、器物与空间均为美术补足，不当历史测绘。",
+      "references": [
+        "assets/018-01.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference ONLY the nearest LEFT-FRONT kneeling brown-robed man is Lai Bao: lean angular face, high cheekbones, sparse short mustache, naturally weathered skin and tied greying-black hair. Change his pose and clothing to this event. Scene on a modest wooden river boat moored at Xinhekou in early autumn daylight, river and low quay softly receding. Exactly THREE fully clothed mature men, natural narrative interaction. Lai Bao at LEFT, standing with a slight respectful bend, wearing a faded brown travelling long robe and simple black cloth cap, offers ONE CLOSED red-brown visiting-card envelope with both hands. At CENTER-RIGHT Cai Yun receives him with pleased reserved attention: establish a distinct mature narrow oval face with high cheekbones, fine arched straight brows, a fine neat black mustache and sparse pointed chin beard, plain muted blue-gray travelling long robe and black folded cloth hat. At FAR RIGHT An Chen observes: distinct mature broader squared oval face, broad nose, higher natural forehead and fuller short black mustache, short rounded chin beard, plain slate-brown travelling robe and black folded cloth hat. Cai and An are scholars, no exact historical age implied; not glamorous actors. Cai gently extends one hand toward the envelope, his second rests at his waist; An has both hands visible loosely clasped. One tightly grouped provisioning basket at lower left contains a cloth flour parcel, covered food packages and a pair of dressed poultry only partly visible; one sealed ceramic wine jar alongside. These represent only some provisions, not exact counts. No banquet, no extra servants, no swords, no readable text. Show boat railing and covered cabin without exotic ship design.",
+      "image": "assets/036-03.webp",
+      "status": "generated",
+      "review": "已实际打开内置成图核看：恰三男六手，左来保瘦长颧骨面貌承旧参考，双手奉一只闭合红褐拜帖；中右蔡为窄长成熟脸、细髭尖下颏须，最右安为宽椭圆脸、较丰短髭圆下颏须，两客区分清楚，作为本章新锁脸参考。蔡伸掌接见，安拱手在旁；船栏、河岸与舱室关系可辨，篮内面包封、禽与酒坛只代表部分嗄程，不穷尽或计数全礼单。原文未定船型、衣色、帽式和人物确切年龄，均按补足标示；无额外人、无可读字、无身份动作明显错误。无需返修。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference ONLY the nearest LEFT-FRONT kneeling brown-robed man is Lai Bao: lean angular face, high cheekbones, sparse short mustache, naturally weathered skin and tied greying-black hair. Change his pose and clothing to this event. Scene on a modest wooden river boat moored at Xinhekou in early autumn daylight, river and low quay softly receding. Exactly THREE fully clothed mature men, natural narrative interaction. Lai Bao at LEFT, standing with a slight respectful bend, wearing a faded brown travelling long robe and simple black cloth cap, offers ONE CLOSED red-brown visiting-card envelope with both hands. At CENTER-RIGHT Cai Yun receives him with pleased reserved attention: establish a distinct mature narrow oval face with high cheekbones, fine arched straight brows, a fine neat black mustache and sparse pointed chin beard, plain muted blue-gray travelling long robe and black folded cloth hat. At FAR RIGHT An Chen observes: distinct mature broader squared oval face, broad nose, higher natural forehead and fuller short black mustache, short rounded chin beard, plain slate-brown travelling robe and black folded cloth hat. Cai and An are scholars, no exact historical age implied; not glamorous actors. Cai gently extends one hand toward the envelope, his second rests at his waist; An has both hands visible loosely clasped. One tightly grouped provisioning basket at lower left contains a cloth flour parcel, covered food packages and a pair of dressed poultry only partly visible; one sealed ceramic wine jar alongside. These represent only some provisions, not exact counts. No banquet, no extra servants, no swords, no readable text. Show boat railing and covered cabin without exotic ship design.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "036-04",
+      "chapter": 36,
+      "title": "掌灯更衣处，开口借路费",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 22,
+          "quote": "看看吃至掌灯，二人出来更衣。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 22,
+          "quote": "蔡状元拉西门庆说话：「此去学生回乡省亲，路费缺少……」"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 22,
+          "quote": "西门庆道：「不劳老先生吩咐，云峯尊命，一定谨领。」"
+        }
+      ],
+      "excerpt": {
+        "chapter": 36,
+        "paragraph": 22,
+        "quote": "看看吃至掌灯，二人出来更衣。蔡状元拉西门庆说话：「此去学生回乡省亲，路费缺少……」西门庆道：「不劳老先生吩咐，云峯尊命，一定谨领。」"
+      },
+      "people": [
+        "蔡蕴（蔡一泉）",
+        "西门庆"
+      ],
+      "place": "花园宴饮处外的更衣途中",
+      "event": "宴饮至掌灯，蔡状元拉西门庆说回乡路费不足，庆承翟谦之命答应。",
+      "why": "白日礼赞转入夜间具体资助，关系通过一句未说尽的求助落地。",
+      "composition": "左蔡轻搭庆的衣袖说话，右庆回身倾听；廊下灯光照见二人脸，不出现钱袋或交付。",
+      "summary": "宴饮、游园、下棋以后，席间已掌灯。两位客人出来更衣，蔡状元拉住西门庆，说回乡省亲路费缺少。西门庆接过话，称翟云峯之命一定谨领。这里是提出与承诺，银物尚未送出；图只画廊下低声说话，不预先摆出次日的赠赆。",
+      "psychology": {
+        "明写": "蔡主动拉西门庆说路费不足，庆以云峯之命回答。",
+        "推断": "稍靠近而放低声音是把私下攀谈画清的处理，原文没有写羞惭、威胁或清算。"
+      },
+      "social": "翟谦事先托借盘缠，到当面开口时成为施受关系；不能先把次日赠送数量移入此刻。",
+      "explicit": [
+        "时间是掌灯以后。",
+        "蔡提路费，西门庆承诺遵翟谦之命。"
+      ],
+      "inference": [
+        "“更衣”不作裸露画面；廊道为会话取景补足。",
+        "触袖的手势、灯笼形制、两人具体衣色与院落空间为美术补足。",
+        "提示词以early autumn辅助秋意，具体旬日未由本图另定；承上回八月二十四日之后，图中叶色不作日期证据。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离包；宋代故事设定与宽泛晚明视觉参考分开。未考定的服装、器物与空间均为美术补足，不当历史测绘。",
+      "references": [
+        "references/ximen.png",
+        "assets/036-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 locks Ximen Qing face only: long face, straight brows, narrow eyes and long waist. Input 2 locks ONLY CENTER-RIGHT blue-gray-robed scholar Cai Yun from the boat scene: mature narrow oval face, high cheekbones, fine black mustache, sparse pointed chin beard. Do not include Lai Bao or An from that reference. Create an early-autumn evening confidential conversation outside a garden banquet, a plain covered walkway beside a white plaster wall. Exactly TWO fully clothed adult men, no undressing. Cai at LEFT in a simple dark blue-gray robe and black folded cap, turns toward Ximen and lightly touches the OUTSIDE of Ximen sleeve at the forearm with one hand, his other hand at his own waist, quietly explaining his shortage of travel funds. Ximen at RIGHT in dark olive robe and black cloth cap, turns back with calm attentive acknowledgment, one open hand low at his own waist, other resting naturally. Clear separate hands and sleeves, not an embrace, not a confrontation. One hanging paper lantern casts warm light and cool dusk is visible beyond the corridor; modest weathered garden setting, no moon required. Frame at three-quarter length so faces and light touch on sleeve are clear. No money, no exchange parcel, no extra people, no bed, no performance, no readable text.",
+      "image": "assets/036-04.webp",
+      "status": "generated",
+      "review": "已实际打开内置成图核看：恰两男，左蔡与036-03中蓝灰衣者面貌相接，右庆承固定长脸参考；四手清楚，蔡一手轻触庆上臂外侧衣袖、另一手在腰，庆回身以低掌回应；触点比提示词前臂略高，仍是原文拉住说话的非暴力表现，无需改图。灯笼暖光、窗外暮色明确，无裸体、床帐、表演、钱银或礼包，未把承诺提前画成已经交付。廊道、灯形与触袖细节均标为艺术补足。无需返修。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 locks Ximen Qing face only: long face, straight brows, narrow eyes and long waist. Input 2 locks ONLY CENTER-RIGHT blue-gray-robed scholar Cai Yun from the boat scene: mature narrow oval face, high cheekbones, fine black mustache, sparse pointed chin beard. Do not include Lai Bao or An from that reference. Create an early-autumn evening confidential conversation outside a garden banquet, a plain covered walkway beside a white plaster wall. Exactly TWO fully clothed adult men, no undressing. Cai at LEFT in a simple dark blue-gray robe and black folded cap, turns toward Ximen and lightly touches the OUTSIDE of Ximen sleeve at the forearm with one hand, his other hand at his own waist, quietly explaining his shortage of travel funds. Ximen at RIGHT in dark olive robe and black cloth cap, turns back with calm attentive acknowledgment, one open hand low at his own waist, other resting naturally. Clear separate hands and sleeves, not an embrace, not a confrontation. One hanging paper lantern casts warm light and cool dusk is visible beyond the corridor; modest weathered garden setting, no moon required. Frame at three-quarter length so faces and light touch on sleeve are clear. No money, no exchange parcel, no extra people, no bed, no performance, no readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "036-05",
+      "chapter": 36,
+      "title": "辞了再辞，百两与三十两俱收",
+      "evidence": [
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "教两个小厮，方盒捧出礼物"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "白金一百两"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "白金三十两"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "蔡状元固辞再三"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "一面令家人各收下去，入毡包内。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 27,
+          "quote": "送二人到门首，看着上马而去。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 36,
+        "paragraph": 27,
+        "quote": "到次日，蔡状元安进士跟従人夫轿马来接。西门庆厅上摆酒伺候；攒盘酒饭，与脚下人吃。教两个小厮，方盒捧出礼物：蔡状元是金缎一端、领绢二端、合香五百、白金一百两；安进士是色缎一端、领绢一端、合香三百、白金三十两。"
+      },
+      "people": [
+        "西门庆",
+        "蔡蕴（蔡一泉）",
+        "安忱（安凤山）",
+        "两名小厮"
+      ],
+      "place": "西门宅厅上",
+      "event": "次日为蔡、安备厚赠，两人推辞后命家人收下，庆送至门首。",
+      "why": "银物数量明确且两客有别；口头谦辞最终与实际收受并存。",
+      "composition": "左庆劝领，中蔡与右安在席旁起身拱手；前方两名背侧影男仆各捧一方盒，内有折叠绸与闭合包。",
+      "summary": "次日客人将行，西门庆把送别办成第二席。两名小厮捧出礼物：蔡得金缎、领绢、合香及一百两白金；安得色缎、领绢、合香及三十两白金。蔡称只借十数金足够，安也说不当，最后二人谢领并令家人收进毡包。图抓住劝领与拱手之间，不凭包裹大小称银重。",
+      "psychology": {
+        "明写": "蔡固辞再三，安也推让；二人谢德并命家人收下。",
+        "推断": "图中含笑而克制的礼让神情是叙事表达，不据面貌断其真诚程度。"
+      },
+      "social": "礼单将客人地位化为有差等的资助；金额与数量只按小说所列记，不换算购买力，也不虚构完整招待开销。",
+      "explicit": [
+        "蔡：金缎一端、领绢二端、合香五百、白金一百两。",
+        "安：色缎一端、领绢一端、合香三百、白金三十两。",
+        "推辞后谢领，家人收进毡包。"
+      ],
+      "inference": [
+        "“合香”计量单位原文未明，不擅补重量。",
+        "礼盒开合、衣色、位置与包封形态为补足，银重由文字标示；两名小厮非本回明确定名，背侧影不新增面貌。",
+        "采用图香束露出细棒形态，不据此认定“合香”确切制式；银包数量和体量均不代表实际重量。",
+        "提示词以early autumn辅助秋意，具体旬日未由本图另定；承上回八月二十四日之后，图中叶色不作日期证据。"
+      ],
+      "history": "小说依据仅为用户梦梅馆词话本MOBI本回隔离包；宋代故事设定与宽泛晚明视觉参考分开。未考定的服装、器物与空间均为美术补足，不当历史测绘。",
+      "references": [
+        "references/ximen.png",
+        "assets/036-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference Ximen Qing only, long narrow face, straight eyebrows and narrow eyes, long waist. Input 2 identity reference: CENTER-RIGHT blue-gray scholar is Cai Yun, narrow oval mature face, fine mustache and sparse pointed chin beard; FAR RIGHT slate-brown scholar is An Chen, broad square-oval face, broader nose, fuller short mustache and rounded chin beard. Do not include Lai Bao. Scene next morning inside the reception hall of Ximen house, early autumn bright diffuse daylight. Exactly FIVE fully clothed people: THREE clearly recognizable mature principals and TWO ordinary young male attendants seen in side-rear view, no sexual presentation. Ximen stands LEFT wearing dark olive robe and black cloth cap, open palm low in courteous urging. Cai stands CENTER in muted blue-gray long robe and black folded scholar cap, facing Ximen with both hands together in a reserved thanking gesture. An stands RIGHT in slate-brown robe and black folded cap, both hands together thanking, distinct broader face visible. At LOWER LEFT and LOWER RIGHT two attendants each hold exactly ONE separate square wooden serving box with both hands, clearly four attendant hands, box edges separate from sleeves; understated plain gray-brown and faded blue clothes, faces indistinct. In each box show folded silk bolts and closed wrapped silver packages plus a small sealed incense bundle. Left box has a golden brocade fold and right box a muted colored silk fold; no precise silver count or weight depicted. The central men do not touch packages at this instant. One dining table behind, worn wood pillars, restrained natural gestures. No wedding, no horses inside, no extra servants, no badges or labels, no readable text.",
+      "image": "assets/036-05.webp",
+      "status": "generated",
+      "review": "已实际打开内置成图核看：共五人，左庆长脸、中蔡窄长脸细髭尖须、右安宽脸短丰髭，身份连续清楚；两客拱手谢领，庆伸掌相劝，前景左右两名仆人各捧一只方盒，盒子与人物分离、无多生肢体。仆人各有一手清楚、另一支撑手在盒后自然遮挡，庆另一手也受身体遮挡，不误称十手全见。两盒分别有金色与彩色折绸、闭合银包和香束；香的细棒形态为未考定美术补足，不能据图确定“合香”精确器形、计量或银重。五人动作、盒数与礼让时刻符合，未画婚仪。无需返修。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic lighting and convincing depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, readable writing, signature or watermark, no modern objects or glass-chimney lamps. Early autumn. Input 1 identity reference Ximen Qing only, long narrow face, straight eyebrows and narrow eyes, long waist. Input 2 identity reference: CENTER-RIGHT blue-gray scholar is Cai Yun, narrow oval mature face, fine mustache and sparse pointed chin beard; FAR RIGHT slate-brown scholar is An Chen, broad square-oval face, broader nose, fuller short mustache and rounded chin beard. Do not include Lai Bao. Scene next morning inside the reception hall of Ximen house, early autumn bright diffuse daylight. Exactly FIVE fully clothed people: THREE clearly recognizable mature principals and TWO ordinary young male attendants seen in side-rear view, no sexual presentation. Ximen stands LEFT wearing dark olive robe and black cloth cap, open palm low in courteous urging. Cai stands CENTER in muted blue-gray long robe and black folded scholar cap, facing Ximen with both hands together in a reserved thanking gesture. An stands RIGHT in slate-brown robe and black folded cap, both hands together thanking, distinct broader face visible. At LOWER LEFT and LOWER RIGHT two attendants each hold exactly ONE separate square wooden serving box with both hands, clearly four attendant hands, box edges separate from sleeves; understated plain gray-brown and faded blue clothes, faces indistinct. In each box show folded silk bolts and closed wrapped silver packages plus a small sealed incense bundle. Left box has a golden brocade fold and right box a muted colored silk fold; no precise silver count or weight depicted. The central men do not touch packages at this instant. One dining table behind, worn wood pillars, restrained natural gestures. No wedding, no horses inside, no extra servants, no badges or labels, no readable text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "number": 26,
+  "title": "第二十六回来旺儿递解徐州　宋惠连含羞自缢",
+  "intro": "本回从撤换差遣、授本钱转入夜间栽罪与官府受贿。阴孔目争持仍未免来旺递解；惠莲在消息封锁、反复许诺与家内冲突间两次自缢，第一次获救，第二次身亡。最后宋仁拦住焚棺，叙事止于停棺，尚无后续裁断。",
+  "supplements": [
+    {
+      "title": "改差与酒店本钱",
+      "text": "来保与吴主管替来旺押生辰担，三月廿八日出发。惠莲经玉箫联络，在厨后问西门庆；西门庆许来旺酒店买卖，后给六包合三百两。来旺寻主管未成而醉归。数字分别为三百两本钱、此后县中三十两送银等，不作当代币值换算。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 5,
+          "quote": "交付与来保和吴主管，三月廿八日起身往东京去了"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 6,
+          "quote": "我教他搭个主管，在家门首开酒店"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 7,
+          "quote": "今日这六包银子三百两"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 7,
+          "quote": "主管也寻不成，又吃的大醉来家"
+        }
+      ]
+    },
+    {
+      "title": "夜间扣押、劝阻与受贿刑讯",
+      "text": "来旺闻喊赶贼，拖梢棒入内，在厢房角门被凳子绊倒，一把刀落地；正文未直接交代谁抛刀或掉换银包。次日月娘劝留家处分不成，来旺押至提刑院。西门庆先送夏提刑与贺千户一百石白米，来旺申述被夺妻陷罪，夏不纳并令刑讯。图不画血腥刑罚，不将来旺的醉话等同已实施行刺。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 8,
+          "quote": "不防黑影抛出一条凳子来"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 8,
+          "quote": "一把刀子落地"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 9,
+          "quote": "你要拉剌剌出去，惊官动府做甚么"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 10,
+          "quote": "西门庆先差玳安下了一百石白米与夏提刑、贺千户"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 10,
+          "quote": "打了二十大棍"
+        }
+      ]
+    },
+    {
+      "title": "承诺、亲密与两次改意",
+      "text": "西门庆瞒刑讯，许来旺很快回家；惠莲信后与他亲密，赠香袋，他又许乔家三间房。此处两人均为此前明确的成年人，文学说明保留关系，不配露骨动作。孟玉楼把消息告金莲，金莲怒而在书房阻放。乔家房、编银丝䯼髻、丫头扶侍仍是所许、所传，不当作已购置完成。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 11,
+          "quote": "一两日还放他出来，还教他做买卖"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 11,
+          "quote": "我明日买了对过乔家房，收拾三间房子与你住"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 11,
+          "quote": "香袋儿"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 12,
+          "quote": "一五一十说了一遍"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 13,
+          "quote": "几句又把西门庆又念翻了"
+        }
+      ]
+    },
+    {
+      "title": "递解徐州，消息封锁",
+      "text": "阴孔目争持后，来旺仍被责四十递解原籍为民。两个公人应其请求押到西门庆门前求衣箱，邻人代言被家人打出。宋仁资助一两银，又给公人钱米，来旺四月初旬上路。惠莲却被瞒住，送监的饭在外被吃，直到玳安说出实情；这些是本回已发生事实，不补徐州以后的处境。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 14,
+          "quote": "论个「递解原籍徐州为民」"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 15,
+          "quote": "不许在门首缠扰"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 15,
+          "quote": "打发了他一两银子"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 15,
+          "quote": "従四月初旬离了清河县"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 18,
+          "quote": "小厮一般的替他送饭，到外边众人都吃了"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 18,
+          "quote": "打了四十板，递解原籍徐州家去了"
+        }
+      ]
+    },
+    {
+      "title": "第一次获救后，仍被要求留下",
+      "text": "惠莲第一次自缢由一丈青发现，平安入房解救；本次不展示方法或操作。获救后惠莲责问西门庆，酒食送来又被拒。玉箫与其他妇人劝她改依主人，不代表这种安排是惠莲同意的。西门庆追查泄密，玳安躲金莲房，被金莲夺鞭护下；这是另一条控制消息的线。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 19,
+          "quote": "一面解救下来"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 20,
+          "quote": "如何留下我做甚么"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 21,
+          "quote": "趁早与我都拿了去"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 22,
+          "quote": "那惠莲听了，只是哭涕，每日饭粥也不吃"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 23,
+          "quote": "乞金莲向前把马鞭子夺了"
+        }
+      ]
+    },
+    {
+      "title": "传话激嫌、扭打与最终死亡",
+      "text": "金莲先向雪娥说惠莲的是非，再向惠莲转说雪娥辱骂，使两边记恨。四月十八日李娇儿生日，雪娥来催赴席，两人争骂、掌掴、揪扭，一丈青劝开，月娘训诫。惠莲随后闭门，掌灯时自缢身死，亡年二十五；本次不配伤害过程。月娘没有把这场争吵告西门庆，只说惠莲思夫；县中报状又改为失银器畏责。各说法与本回叙事分别保留，不能用单一“贞节”解释遮去已写的处境。",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 24,
+          "quote": "说的两下都怀仇记恨"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 25,
+          "quote": "四月十八日，李娇儿生日"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 25,
+          "quote": "两个就揪扭打在一处"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 25,
+          "quote": "自缢身死，亡年二十五岁"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "只说惠莲因思想他汉子"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "他失落一件银锺，恐家主查问见责，自缢身死"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "026-01",
+      "chapter": 26,
+      "title": "灯下六包，原封之辩",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 8,
+          "quote": "来旺儿道：「我是来旺儿！进来赶贼，如何颠倒把我拿住了？」"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 8,
+          "quote": "内中止有一包银两，余者都是锡铅锭子"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 8,
+          "quote": "你的六包银子，我收着，原封儿不动，平白怎的抵换了？"
+        }
+      ],
+      "excerpt": {
+        "chapter": 26,
+        "paragraph": 8,
+        "quote": "一面开箱子，取出六包银两来，拿到厅上。西门庆灯下打开观看，内中止有一包银两，余者都是锡铅锭子。"
+      },
+      "people": [
+        "西门庆",
+        "来旺",
+        "宋惠莲",
+        "来兴儿"
+      ],
+      "place": "夜间前厅",
+      "event": "来旺闻声持梢棒赶贼，却在角门被绊倒擒住。六包财物取至灯下，西门庆以刀与铅锡追罪，惠莲跪地坚持银包原封未动。",
+      "why": "同一组银包从买卖本钱变成指罪物，主人与家人的说法当面冲突。",
+      "composition": "左前来旺跪地，右前惠莲仰面申辩；后右西门庆在案后查看六个摊开的布包，来兴立侧，刀平放远离人物。",
+      "summary": "夜里一声赶贼将酒未醒的来旺引入内院；角门处凳子与落刀接连出现，他反被家人拿住。厅上灯火明亮，惠莲取回自己收藏的六包财物，西门庆说只有一包银，其余铅锡。她跪着强调原封未动，指责这是主人所做的圈套；图停在两种说法正面相撞的一刻。",
+      "psychology": {
+        "明写": "来旺说自己进来赶贼；西门庆大怒，惠莲哭跪并斥其设局。",
+        "推断": "夫妇靠近而主人隔案俯视，用空间表现辩说地位的不对等，不把表情当作案情证据。"
+      },
+      "social": "银包和刀被主人直接组合为“赃证”，家内权威掌握解释与拘锁。惠莲说原封不动是当场申辩；本回没有直接叙出谁在何时掉包或投刀，不为图补出作案者。",
+      "explicit": [
+        "六包合三百两先在第7段交给来旺作酒店本钱；第8段灯下开包一银五铅锡。",
+        "来旺先持梢棒，角门被凳绊倒后刀落地；不能画成来旺持刀行刺。",
+        "来兴展示刀、随后被叫来作证；本图将他置于案旁作构图压缩。",
+        "惠莲云鬓蓬松、衣裙不整但全身衣着完整。"
+      ],
+      "inference": [
+        "包装材质、六包在桌面的排布、银与铅锡的光泽对比为美术补足，不从外观鉴定金属。",
+        "室内座次、衣色、烛台样式和来兴此刻站姿未有精确明文。",
+        "其余小厮在画外，不表示当场仅四人。"
+      ],
+      "history": "小说依据仅为本章隔离的用户梦梅馆词话本MOBI及第25回连续性说明。宋代故事设定与宽泛晚明视觉参考分开；衣装、器物与空间未作精确考证，画面不是历史证据。",
+      "references": [
+        "references/ximen.png",
+        "assets/018-01.webp",
+        "assets/022-01.webp",
+        "assets/025-04.webp"
+      ],
+      "prompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly FOUR visible figures in a candlelit household front hall at night. Image 1 locks Ximen Qing: clean-shaven long face, straight brows, narrow long eyes, long-waisted build; seated at BACK RIGHT behind a worn wooden table in plain dark moss-green robe and simple black cap, coldly inspecting money bundles, no weapon in his hands. Image 2 locks ONLY Laiwang, the blue-grey clad broad-square-faced clean-shaven man at the BACK LEFT of that reference, NOT its front moustached men or official. Laiwang now kneels LEFT FOREGROUND in worn blue-grey work clothes, palms open pleading, uninjured visible skin, no blood. Image 3 locks ONLY Song Huilian, round-ended soft broad oval face of the woman in red at LEFT FRONT of reference; now RIGHT FOREGROUND kneeling in modest faded brick-red lightweight jacket and dark brown long skirt, slightly untidy black bun and loose side strands, fully clothed, looking up at Ximen and speaking firmly through tears. Image 4 locks ONLY Laixing, the moustached man lifting curtain at LEFT; now stands BACK LEFT beside the table in brown-grey robe and cloth headwrap, broad forehead and narrow eyes, thin short moustache, no curtain. Exactly SIX separate opened small plain cloth money packets clearly countable on the table: ONE packet contains softly bright silver-colored ingots and FIVE packets contain dull dark-grey base-metal lumps, one cluster per cloth. A single small pointed utility knife rests flat on far side of table, untouched, not in Laiwang hands; no swinging weapons, no attack, no gore. Candles in simple open holders provide warm light against deep blue night doorway. Tense four-person triangular staging, natural hands and distinct faces, no extra people, no written accusation or symbolic future objects.",
+      "actualPrompt": "Edit this existing historical narrative painting with a SINGLE narrowly targeted correction. Preserve the four people, all four exact facial identities, their positions and expressions, the candlelit night setting, clothing, knife resting flat on far right table, painting style and all SIX opened cloth money packets (one bright silver packet and five dull grey packets) EXACTLY. REMOVE ONLY the stack of paper slips currently held in seated Ximen Qing's hands at upper right. Replace those slips with empty hands: his left hand resting naturally on the table's back edge and his right hand making a small open gesture toward the six money packets. No object in either hand. No paper currency, no banknotes, no written document. Do not add any people or other props, do not alter the grieving woman's hand or the kneeling man. Natural anatomy, no readable text, no watermark. Keep all other pixels and scene content as close as possible.",
+      "image": "assets/026-01.webp",
+      "status": "generated",
+      "review": "实际打开修正版核看：恰四人，左前来旺宽方脸无明显须、后左来兴长椭圆脸短髭、前右惠莲宽椭圆脸散发跪辩、后右西门庆长脸无须，身份与旧参考相合。六个摊开包裹呈两排三包，恰一包明亮银色、五包暗灰锭；刀平放远端，来旺没有持刀。首稿西门庆手里多出的纸片经一次定向修改移除，现双手空手自然，人物、六包及夜厅保持。无血腥或行刺动作，手部未见明显失真；包装、金属明暗、花瓶与布置为美术补足，不能据图鉴别银铅。首稿已保留在未公开参考〔unpublished-reference-ed7c0c362c0e；过程图或旧参考不随本包发布〕，采用修正版。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "026-02",
+      "chapter": 26,
+      "title": "翡翠轩前，止住放人帖",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 13,
+          "quote": "西门庆在花园中翡翠轩书房裏坐的"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 13,
+          "quote": "要教陈经济来写帖子，往夏提刑处说要放来旺儿出来"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 13,
+          "quote": "几句又把西门庆又念翻了，把帖子写就了，送与提刑院"
+        }
+      ],
+      "excerpt": {
+        "chapter": 26,
+        "paragraph": 13,
+        "quote": "几句又把西门庆又念翻了，把帖子写就了，送与提刑院。教夏提刑限三日提出来受一顿拷讯，拶打的通不像模样。"
+      },
+      "people": [
+        "潘金莲",
+        "西门庆"
+      ],
+      "place": "傍晚花园翡翠轩书房",
+      "event": "西门庆原要叫陈经济写帖放来旺，金莲来到书桌前叫停传唤，以主仆身份与家内体面为由劝他改意。",
+      "why": "帖子尚未写成，意向已被一席话扭转；同样的文书渠道可指向释放或加刑。",
+      "composition": "西门庆坐左侧案后停手听，金莲坐右侧近旁微俯书桌说话，桌上只有空白纸与搁置的笔。",
+      "summary": "西门庆曾向惠莲许诺让来旺出监，又许住处，惠莲将消息露给众人。金莲听后气恼，傍晚径到翡翠轩，先止住叫陈经济来的小厮，再以主人与奴仆妻子的名分、家内威信等话劝他。西门庆再次改意，送往提刑院的帖子转而催重讯；图取金莲说话、原拟放人帖尚未落笔之刻。",
+      "psychology": {
+        "明写": "金莲听闻惠莲将获房屋等许诺后忿气满怀；她在书桌旁阻止传唤，西门庆再被说动。",
+        "推断": "金莲前倾与庆收住手势表现交谈压力，不把她所说的未来尴尬场面当成已发生事实。"
+      },
+      "social": "“体面”在劝说中成为惩罚家人的理由。金莲谈及主人、仆役与妻子的相见难题，是她的论辩，不能当作客观且必然的社会结论。",
+      "explicit": [
+        "书房名翡翠轩，时在到晚；陈经济尚未受召，画中不出现他。",
+        "原计划写帖释放，最后写帖催提讯，画面只呈说话中段。",
+        "金莲关于日后名分与相见的场景全部属于设想，不再现为事实。"
+      ],
+      "inference": [
+        "座次、无字纸张的数量、衣色和开窗角度为美术补足。"
+      ],
+      "history": "小说依据仅为本章隔离的用户梦梅馆词话本MOBI及第25回连续性说明。宋代故事设定与宽泛晚明视觉参考分开；衣装、器物与空间未作精确考证，画面不是历史证据。",
+      "references": [
+        "references/pan-solo-030.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly TWO figures in the Feicui Xuan garden study at early evening. Image 1 locks Pan Jinlian face only: narrow oval face, clear natural brows and black hair, no reference basket or reference costume. She sits RIGHT beside the desk in a modest muted dark rose lightweight jacket and charcoal long skirt, leans forward with one forearm resting on desk, other hand making a small firm low open-palmed stop gesture, speaking intently, restrained anger. Image 2 locks Ximen Qing face and long-waisted build only: long clean-shaven face, straight brows, narrow eyes; he sits LEFT behind desk in plain moss-green robe and black soft cap, turned toward her, his hand paused above an untouched blank sheet rather than writing. Plain inkstone and brush lying horizontally on rest, no readable writing at all. Medium-wide two-shot through worn wooden study pillars with a small view of fresh green garden at dusk, the cooling blue outside and one warm candle near the wall deepen the indoor conversation. The action is a changed intention before a letter is written, no messenger, no clerk, no other people, no violence, no imagined future confrontation, no jewelry display or sexualized pose. Keep both faces distinct and recognizable, fine matte mineral color on paper.",
+      "actualPrompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly TWO figures in the Feicui Xuan garden study at early evening. Image 1 locks Pan Jinlian face only: narrow oval face, clear natural brows and black hair, no reference basket or reference costume. She sits RIGHT beside the desk in a modest muted dark rose lightweight jacket and charcoal long skirt, leans forward with one forearm resting on desk, other hand making a small firm low open-palmed stop gesture, speaking intently, restrained anger. Image 2 locks Ximen Qing face and long-waisted build only: long clean-shaven face, straight brows, narrow eyes; he sits LEFT behind desk in plain moss-green robe and black soft cap, turned toward her, his hand paused above an untouched blank sheet rather than writing. Plain inkstone and brush lying horizontally on rest, no readable writing at all. Medium-wide two-shot through worn wooden study pillars with a small view of fresh green garden at dusk, the cooling blue outside and one warm candle near the wall deepen the indoor conversation. The action is a changed intention before a letter is written, no messenger, no clerk, no other people, no violence, no imagined future confrontation, no jewelry display or sexualized pose. Keep both faces distinct and recognizable, fine matte mineral color on paper.",
+      "image": "assets/026-02.webp",
+      "status": "generated",
+      "review": "实际打开保存图核看：恰二人，左西门庆长脸直眉无须，右金莲窄椭圆脸，身份与参考一致。金莲坐侧俯案伸手说话，西门庆停手听；空白纸、搁置毛笔与墨砚清楚，陈经济、小厮未入画。门外青绿傍晚与一烛暖光对应到晚，手臂、手指及座椅无明显失真。无处分执行、无未来象征。衣色、插花、座次、灯具为美术补足，首稿采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "026-03",
+      "chapter": 26,
+      "title": "当案不肯，阴孔目抗言",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 14,
+          "quote": "内中有一当案的孔目阴先生，名唤阴骘，乃山西孝义县人，极是个仁慈正直之士。"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 14,
+          "quote": "再三不肯做文书送问"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 14,
+          "quote": "只把当厅责了他四十，论个「递解原籍徐州为民」"
+        }
+      ],
+      "excerpt": {
+        "chapter": 26,
+        "paragraph": 14,
+        "quote": "因见提刑官吏上下受了西门庆贿赂，要陷害此人，图谋他妻子，故入他「奴婢图财，持刀谋杀家长」的重罪，再三不肯做文书送问；与提刑官抵面相讲，说做官的养儿养女也往上长，也要天理，以此掣肘难行。"
+      },
+      "people": [
+        "阴骘",
+        "夏提刑"
+      ],
+      "place": "提刑院当案处",
+      "event": "阴孔目见官吏受贿陷人，拒绝为重罪做文书，并与提刑官当面争论；他还关照狱卒宽待来旺。",
+      "why": "在几乎贯通的买通链条中，文书制作的一次拒绝构成实际阻力，不把它夸大成来旺无罪获释。",
+      "composition": "左前阴孔目站在案侧，闭合文卷压在掌下、毛笔搁置；右后夏提刑坐案，抬眼与他对视。",
+      "summary": "提刑院上下收受西门庆财物，来旺又无钱打点，阴孔目仍不肯照重罪做文书。他当面以天理劝争，并吩咐狱卒看顾。几日后，来旺仍受四十责打，递解徐州为民；这不是撤销指控或无伤离狱。图画拒做文书的对峙，让一道不肯落下的笔留下可见分量。",
+      "psychology": {
+        "明写": "叙述者称阴骘仁慈正直，写他悯念负屈者、再三不肯做重罪文书。",
+        "推断": "按住卷子、搁笔的动作是拒绝办理的视觉化，原文没有交代具体手势；不据面貌证明操守。"
+      },
+      "social": "孔目承担当案文书工作，拒写使送问受阻，但正文没有给出完整司法程序、法条和准确量刑依据；不从小说画面补造制度图解。",
+      "explicit": [
+        "阴先生名阴骘、山西孝义人；当案孔目。",
+        "提刑官吏受贿、图谋人妻与故入重罪为本段叙述者判断，与人物自辩区分。",
+        "来旺最终递解徐州为民，阴先生另关照监狱，不画成当堂释放。"
+      ],
+      "inference": [
+        "阴骘首次建脸：瘦长面、宽额、自然细纹、灰黑短须为美术约定，不是史料肖像。",
+        "两人单独面对、文卷被按住及堂内陈设均为叙事构图；其他官吏置画外。",
+        "孔目衣帽、官案陈设未作制度复原。"
+      ],
+      "history": "小说依据仅为本章隔离的用户梦梅馆词话本MOBI及第25回连续性说明。宋代故事设定与宽泛晚明视觉参考分开；衣装、器物与空间未作精确考证，画面不是历史证据。",
+      "references": [
+        "assets/019-03.webp"
+      ],
+      "prompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly TWO men in a modest judicial paperwork chamber, daylight, no prisoner, no corporal punishment. Reference image locks ONLY official Xia Ti Xing, the seated official on the RIGHT behind desk, broad-long face, slightly heavy upper eyelids, straight natural brows, short grey-black moustache and longer short chin beard. He is seated BACK RIGHT at a plain worn wooden desk in muted indigo robe and simple black official hat, looks up sternly toward the standing clerk, one hand resting on chair arm. Do NOT copy the reference petitioners or their props. NEW distinct clerk YIN ZHI, LEFT FOREGROUND: mature older Chinese man with a lean long face, broad forehead, slight hollow cheeks, subtle natural forehead lines, narrow attentive eyes, modest grey-black close-cropped moustache and short squared chin beard, a plain dark cloth scholar cap without wings, muted grey-brown long robe. He stands upright facing Xia, one palm firmly resting on a CLOSED plain paper dossier on the nearer side of desk and the other hand making a restrained open gesture in principled argument. A dry brush lies untouched on the brush rest beside an inkstone, emphasizing refusal to prepare paperwork; closed papers have no visible letters. Natural daylight from lattice at left illuminates their separate faces and still hands. Restrained serious dispute, no heroic halo, no moral grotesque faces, no weapons, no execution equipment, no modern legal objects, no signage, no other figures. New Yin must differ clearly from Xia in face shape, beard, and plain cap.",
+      "actualPrompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly TWO men in a modest judicial paperwork chamber, daylight, no prisoner, no corporal punishment. Reference image locks ONLY official Xia Ti Xing, the seated official on the RIGHT behind desk, broad-long face, slightly heavy upper eyelids, straight natural brows, short grey-black moustache and longer short chin beard. He is seated BACK RIGHT at a plain worn wooden desk in muted indigo robe and simple black official hat, looks up sternly toward the standing clerk, one hand resting on chair arm. Do NOT copy the reference petitioners or their props. NEW distinct clerk YIN ZHI, LEFT FOREGROUND: mature older Chinese man with a lean long face, broad forehead, slight hollow cheeks, subtle natural forehead lines, narrow attentive eyes, modest grey-black close-cropped moustache and short squared chin beard, a plain dark cloth scholar cap without wings, muted grey-brown long robe. He stands upright facing Xia, one palm firmly resting on a CLOSED plain paper dossier on the nearer side of desk and the other hand making a restrained open gesture in principled argument. A dry brush lies untouched on the brush rest beside an inkstone, emphasizing refusal to prepare paperwork; closed papers have no visible letters. Natural daylight from lattice at left illuminates their separate faces and still hands. Restrained serious dispute, no heroic halo, no moral grotesque faces, no weapons, no execution equipment, no modern legal objects, no signage, no other figures. New Yin must differ clearly from Xia in face shape, beard, and plain cap.",
+      "image": "assets/026-03.webp",
+      "status": "generated",
+      "review": "实际打开保存图核看：恰二人，左新建阴骘瘦长脸、宽额、自然细纹、灰黑短髭及短下颏须，右夏提刑宽长脸、厚上眼睑与略长下颏须，符合旧参考且与阴骘区分。阴手按闭合卷册、另一手面对提刑说话，笔搁置、纸面无字；无来旺、无刑具或身体伤害，未误作释放场景。双手与桌案关系自然，布帽、褐袍、卷册与空间属美术补足，阴的衣袍磨旧纹理不能推定其身份贫富。首稿采用，可作阴骘脸部参考。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "026-04",
+      "chapter": 26,
+      "title": "冷地坐哭，拆穿放人话",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 18,
+          "quote": "打了四十板，递解原籍徐州家去了"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 19,
+          "quote": "一面解救下来，开了房门，取姜汤撅灌"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 20,
+          "quote": "你原来就是个弄人的刽子手！"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 20,
+          "quote": "暗暗不透风，就解发远远的去了"
+        }
+      ],
+      "excerpt": {
+        "chapter": 26,
+        "paragraph": 20,
+        "quote": "只见西门庆掀帘子进来，也看见他坐在冷地下哭泣，令玉箫：「你搊他炕上去罢。」玉箫道：「刚纔娘教他上去，他不肯去。」"
+      },
+      "people": [
+        "宋惠莲",
+        "玉箫",
+        "西门庆"
+      ],
+      "place": "惠莲房内，第一次获救后",
+      "event": "惠莲得知来旺已递解而非即将释放，第一次自缢被邻人救下。西门庆入房安抚，她仍坐在地上，斥责他一再哄骗与暗中发遣。",
+      "why": "她明确说出自己为何悲愤，不能将其压缩为“想丈夫”或认作图中安抚已有效。",
+      "composition": "左前惠莲坐地，玉箫在侧蹲身扶臂；右后西门庆掀帘入内，隔着低矮空地听她质问。",
+      "summary": "众人曾瞒着惠莲，把送给来旺的饭在外吃掉，反复说他即将归家。玳安终于说出来旺已受责发遣，她悲痛自缢，邻人一丈青等及时救下。西门庆来房里仍称孩子、劝她上炕，她却摇头揭穿隐瞒，问为何不让夫妻一同离去。图取救援后清醒质问，不呈自伤方法或过程。",
+      "psychology": {
+        "明写": "惠莲听明实情闭门大哭，获救后不肯上炕；对西门庆摇头，长篇质问。",
+        "推断": "她与西门庆之间的空地表现信任破裂，玉箫扶臂表示现场照应；不能断言她此刻全部心理。"
+      },
+      "social": "家人的饭食与消息渠道共同维持一层封锁。安抚既有照料动作，也继续回避来旺去向；惠莲自己的话是理解此刻处境的直接材料。",
+      "explicit": [
+        "这是第一次自缢获救后的活人对话，不能与第25段最终死亡混同。",
+        "玉箫在场回答，贲四嫂此时也在屋中，本图将其置于画外。",
+        "图不呈现悬吊、绳结、可模仿步骤或伤口；文学事件与先后仍明写于说明。"
+      ],
+      "inference": [
+        "衣色、坐地位置、扶臂姿势、低炕形制与余留汤碗为美术补足。",
+        "人物疲倦与轻微散发依本回状态，颈部保持被衣领遮护且无伤害细节。"
+      ],
+      "history": "小说依据仅为本章隔离的用户梦梅馆词话本MOBI及第25回连续性说明。宋代故事设定与宽泛晚明视觉参考分开；衣装、器物与空间未作精确考证，画面不是历史证据。",
+      "references": [
+        "assets/022-01.webp",
+        "assets/022-02.webp",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly THREE visible fully clothed figures in a humble household room after a distressing crisis has already ended, a scene of conversation and supportive care, no dangerous act shown. Image 1 locks ONLY Song Huilian, the soft broad oval-faced woman at LEFT FRONT in red, rounded chin, natural curved brows; now LEFT FOREGROUND seated upright on the cool brick floor, knees and body entirely covered by a long dark-brown skirt and faded muted brick-red high-collared lightweight jacket. Her black hair bun is disordered with loose side strands, tearful pale-yellowish face, exhausted but alert, she looks firmly toward the man at doorway and speaks in accusation, shaking head slightly. No visible neck injury, no blood, no rope, no scarf overhead, no self-harm objects or method. Image 2 locks ONLY Yuxiao, the small narrow oval-faced woman at LEFT holding fabric in that reference, natural straight brows, short round chin, plain compact black bun. Yuxiao now CENTER kneeling beside Song in modest grey-blue work jacket and brown skirt, gently supporting Song upper forearm with one hand and the other steadying her shoulder; anatomically clear hands and compassionate serious face, no fabric gift. Image 3 locks Ximen Qing face only, long clean-shaven face straight brows narrow eyes; he stands RIGHT BACK in the open doorway holding up a cloth curtain with one hand, plain dark moss-green robe, an uneasy attempt at reassurance, no physical intimacy. A low raised heated-platform bed in shadow LEFT BACK, simple ceramic bowl on small stool as residue of care, no medicine labels. Soft natural shaded daylight, a deliberate strip of empty floor between Song and Ximen. Other visitors remain outside frame. Show survival, care, and a woman's spoken complaint without glamorizing suffering, no sexualized posture, no violence, no children or extra figures.",
+      "actualPrompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly THREE visible fully clothed figures in a humble household room after a distressing crisis has already ended, a scene of conversation and supportive care, no dangerous act shown. Image 1 locks ONLY Song Huilian, the soft broad oval-faced woman at LEFT FRONT in red, rounded chin, natural curved brows; now LEFT FOREGROUND seated upright on the cool brick floor, knees and body entirely covered by a long dark-brown skirt and faded muted brick-red high-collared lightweight jacket. Her black hair bun is disordered with loose side strands, tearful pale-yellowish face, exhausted but alert, she looks firmly toward the man at doorway and speaks in accusation, shaking head slightly. No visible neck injury, no blood, no rope, no scarf overhead, no self-harm objects or method. Image 2 locks ONLY Yuxiao, the small narrow oval-faced woman at LEFT holding fabric in that reference, natural straight brows, short round chin, plain compact black bun. Yuxiao now CENTER kneeling beside Song in modest grey-blue work jacket and brown skirt, gently supporting Song upper forearm with one hand and the other steadying her shoulder; anatomically clear hands and compassionate serious face, no fabric gift. Image 3 locks Ximen Qing face only, long clean-shaven face straight brows narrow eyes; he stands RIGHT BACK in the open doorway holding up a cloth curtain with one hand, plain dark moss-green robe, an uneasy attempt at reassurance, no physical intimacy. A low raised heated-platform bed in shadow LEFT BACK, simple ceramic bowl on small stool as residue of care, no medicine labels. Soft natural shaded daylight, a deliberate strip of empty floor between Song and Ximen. Other visitors remain outside frame. Show survival, care, and a woman's spoken complaint without glamorizing suffering, no sexualized posture, no violence, no children or extra figures.",
+      "image": "assets/026-04.webp",
+      "status": "generated",
+      "review": "实际打开保存图核看：恰三人。左惠莲软宽椭圆脸、散发含泪，整衣坐地并向门边质问；中玉箫窄小椭圆脸、朴素髻，扶肩和上臂；右西门庆长脸无须、长腰身，掀帘停门边。人物可辨，照应手势与衣袖无明显畸变；惠莲清醒存活，颈部有衣领，无伤口、绳具、悬吊或过程暗示。炕、汤碗、花瓶、衣色和室内空间为美术补足；贲四嫂等在画外，未称仅三人在场。首稿采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "026-05",
+      "chapter": 26,
+      "title": "寺中未火，宋仁拦棺",
+      "evidence": [
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "又送了知县三十两银子"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "不想他老子卖棺材宋仁，打听得知，走来拦住，叫起寃屈来"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "口称：「西门庆因倚强奸耍他，我家女儿贞节不従，威逼身死。"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 28,
+          "quote": "那众火家都乱走了，不敢烧"
+        }
+      ],
+      "excerpt": {
+        "chapter": 26,
+        "paragraph": 28,
+        "quote": "那众火家都乱走了，不敢烧。贲四来兴少不的把棺材停在寺裏，来家回话。"
+      },
+      "people": [
+        "宋仁",
+        "贲四",
+        "来兴儿"
+      ],
+      "place": "门外地藏寺，棺材待火化处",
+      "event": "惠莲死后，西门庆报失银器畏罪自尽，送银请县里草草勘验。棺材送到地藏寺将焚，宋仁赶来喊冤拦住，火家离散不敢烧。",
+      "why": "父亲的到场使匆忙结案与焚化暂时停住；本回只到停棺，不为告状补出结果。",
+      "composition": "左侧宋仁一手扶闭合棺盖，另一手对右侧来兴与贲四伸出制止；棺旁柴薪未点燃，寺院深处空无人。",
+      "summary": "四月十八日惠莲与雪娥争吵扭打，月娘劝梳头赴席后，她独自闭门，最终自缢身亡。西门庆报县的说法却是失银锺畏责，另送银三十两。棺材送到地藏寺将焚，父亲宋仁赶来阻拦并喊冤。火家不敢再烧，贲四与来兴只得停棺回话；图止于尚未点火的一刻。",
+      "psychology": {
+        "明写": "宋仁得知消息赶到，喊女儿死得不明并提出上告；火家乱走不敢烧，贲四来兴回话。",
+        "推断": "宋仁扶棺与伸手拦阻是对“拦住”的构图解释；不从姿态推定他已掌握全部经过。"
+      },
+      "social": "死亡原因在不同人嘴里出现不同版本：县中呈报是西门庆的说辞，贞节不从、威逼身死是宋仁的控告。二者都不能替代本回已叙述的长期欺瞒、冲突与最终死亡过程。",
+      "explicit": [
+        "本回明写惠莲亡年二十五岁；第22回参考曾记二十四，不据此统一生年。",
+        "棺材已买并送地藏寺，有柴薪而尚未焚化；画中棺盖闭合，不展示遗体。",
+        "宋仁卖棺材是其身份，父女与控诉内容只据本回，不补后续诉讼。"
+      ],
+      "inference": [
+        "宋仁首次建脸：偏宽有骨棱、灰黑发、短胡须和风霜纹为美术设定，未作真实肖像考证。",
+        "寺院待焚空间、棺式、柴薪码法、日色与手势为美术补足。",
+        "火家已退在画外，仅显示本回明确在场的三名男子。"
+      ],
+      "history": "小说依据仅为本章隔离的用户梦梅馆词话本MOBI及第25回连续性说明。宋代故事设定与宽泛晚明视觉参考分开；衣装、器物与空间未作精确考证，画面不是历史证据。",
+      "references": [
+        "assets/018-04.webp",
+        "assets/025-04.webp"
+      ],
+      "prompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly THREE men in a plain side courtyard of Dizang Temple, a restrained literary scene of an elderly father stopping a planned cremation before any fire is lit. A CLOSED plain wooden coffin lies horizontally on low trestles across center foreground, fully sealed with NO visible body, NO blood, NO injury, NO skeleton. A small neat pile of unlit firewood at far back, no flames, no smoke, no burning objects. NEW father SONG REN at LEFT, mature older Chinese tradesman with a weathered broad angular face, strong cheekbones, short grey-black moustache and rough short chin beard, grey streaks at temples, plain brown cloth headwrap and worn brown-grey robe. He has urgently stepped to coffin, one open palm resting on closed lid, his other hand extended toward the men in a firm stop gesture, tearful eyes and mouth open speaking, dignified grief without theatrical distortions. Image 1 locks ONLY Ben Si, the standing broad-long-faced moustached man pointing to timber on RIGHT FRONT of that reference; now RIGHT REAR of coffin in muted brown robe and black cloth cap, hands pulling back in startled hesitation, no timber work tools. Image 2 locks ONLY Laixing, the curtain-lifting moustached man at LEFT of reference, elongated oval face broad forehead narrow eyes thin short moustache; now FAR RIGHT closer to viewer wearing brown-grey work clothes and dark headwrap, turned toward father, holding a small folded UNWRITTEN paper low against his body. Both servants keep away from father's hands, no fighting. Empty doorway and simple aged temple masonry suggest workers have stepped away outside frame, no invented deity statues or temple lettering. Cool late-day natural light, green late-spring foliage visible above courtyard wall, no snow. Cinematic depth, restrained fine mineral paint, no inscriptions, no supernatural soul, no future trial or verdict, no weapons, no extra figures.",
+      "actualPrompt": "Use case: historical-scene. Asset type: complete literary narrative illustration. 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash on softly textured paper, realistic varied Chinese faces, worn everyday late-Ming material life, natural cinematic light and spatial depth. Painted, not photographic, not anime, not glossy fantasy. No lettering, labels, signature, watermark or readable text. No modern objects or glass-chimney lamps. Late spring to early summer, no snow or autumn foliage. Reference images lock only specified facial identities, not previous clothes, emotion, props, season or staging. Exactly THREE men in a plain side courtyard of Dizang Temple, a restrained literary scene of an elderly father stopping a planned cremation before any fire is lit. A CLOSED plain wooden coffin lies horizontally on low trestles across center foreground, fully sealed with NO visible body, NO blood, NO injury, NO skeleton. A small neat pile of unlit firewood at far back, no flames, no smoke, no burning objects. NEW father SONG REN at LEFT, mature older Chinese tradesman with a weathered broad angular face, strong cheekbones, short grey-black moustache and rough short chin beard, grey streaks at temples, plain brown cloth headwrap and worn brown-grey robe. He has urgently stepped to coffin, one open palm resting on closed lid, his other hand extended toward the men in a firm stop gesture, tearful eyes and mouth open speaking, dignified grief without theatrical distortions. Image 1 locks ONLY Ben Si, the standing broad-long-faced moustached man pointing to timber on RIGHT FRONT of that reference; now RIGHT REAR of coffin in muted brown robe and black cloth cap, hands pulling back in startled hesitation, no timber work tools. Image 2 locks ONLY Laixing, the curtain-lifting moustached man at LEFT of reference, elongated oval face broad forehead narrow eyes thin short moustache; now FAR RIGHT closer to viewer wearing brown-grey work clothes and dark headwrap, turned toward father, holding a small folded UNWRITTEN paper low against his body. Both servants keep away from father's hands, no fighting. Empty doorway and simple aged temple masonry suggest workers have stepped away outside frame, no invented deity statues or temple lettering. Cool late-day natural light, green late-spring foliage visible above courtyard wall, no snow. Cinematic depth, restrained fine mineral paint, no inscriptions, no supernatural soul, no future trial or verdict, no weapons, no extra figures.",
+      "image": "assets/026-05.webp",
+      "status": "generated",
+      "review": "实际打开保存图核看：恰三名男子，左宋仁灰黑发须、风霜宽角面含泪，一掌按闭合棺盖、另一掌制止；中右贲四宽长方脸短髭，后撤举手；最右来兴偏长椭圆脸、宽额、短细髭持无字折纸，二人可按旧参考识别。棺盖完整闭合，柴薪在远处未点燃，无烟火、遗体、伤口或超自然形象。手部与支架无明显失真，停棺阻焚明确；寺院外观、棺式、柴薪码法、服装和折纸为美术补足。宋仁年龄与具体五官未有原文依据，标为新建艺术参考。首稿采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

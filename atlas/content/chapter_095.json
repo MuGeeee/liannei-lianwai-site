@@ -2,6 +2,40 @@
   "number": 95,
   "title": "第九十五回平安偷盗假当物　薛嫂乔计说人情",
   "intro": "同是一件失窃，柜台前争的是原物，巡检厅里却扯出另一桩指控。两家之间的请托和还礼，也各有自己的分寸。",
+  "supplements": [
+    {
+      "title": "典当时长是谁说的",
+      "text": "叙述交代约一个月后来赎，失主在门口争论时说两个月；保留两处说法，不替这一笔账算精确利息。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "paragraph": 8,
+          "quote": "只把银子使了一个月"
+        },
+        {
+          "chapter": 95,
+          "paragraph": 10,
+          "quote": "我当了两个月"
+        }
+      ]
+    },
+    {
+      "title": "供词不能作独立证明",
+      "text": "吴典恩先提出月娘与玳安有私的说法，平安先答不知道，被逼才改口。那条指控与偷走匣子的叙述，证据地位不同。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "paragraph": 9,
+          "quote": "小的不知道"
+        },
+        {
+          "chapter": 95,
+          "paragraph": 9,
+          "quote": "爷休拶小的，等小的说就是了"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "095-01",
@@ -34,12 +68,14 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Single adult Chinese male shop servant aged 22, Ping'an, broad jaw and slightly high cheekbones, brown cloth cap, plain umber closed coat. Low oblique view from inside a large old wooden pawnshop cabinet as one hand steadily lifts ONE small closed lacquer jewelry casket. Narrow daylight and raking grain across cabinet, face partly visible checking toward the empty storefront. A believable hand action and clear closed box; no spilled jewelry, labels, writing, accomplices or romantic staging.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/095-01.png",
+      "image": "assets/095-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Single adult Chinese male shop servant aged 22, Ping'an, broad jaw and slightly high cheekbones, brown cloth cap, plain umber closed coat. Low oblique view from inside a large old wooden pawnshop cabinet as one hand steadily lifts ONE small closed lacquer jewelry casket. Narrow daylight and raking grain across cabinet, face partly visible checking toward the empty storefront. A believable hand action and clear closed box; no spilled jewelry, labels, writing, accomplices or romantic staging."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 painted medium only. Single adult Chinese male shop servant aged 22, Ping'an, broad jaw and slightly high cheekbones, brown cloth cap, plain umber closed coat. Low oblique view from inside a large old wooden pawnshop cabinet as one hand steadily lifts ONE small closed lacquer jewelry casket. Narrow daylight and raking grain across cabinet, face partly visible checking toward the empty storefront. A believable hand action and clear closed box; no spilled jewelry, labels, writing, accomplices or romantic staging.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "095-02-v2",
@@ -74,20 +110,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only mature round face Wu Yueniang in subdued mourning beige, ref2 only LEFT older matchmaker Xue Sao in muted plum, ref3 painted medium. High oblique macro tabletop at a Chinese house, opened flat carrying case holding TWO separate historic headdress frontals: one cloud scrollwork in deep blue-green over gilt, another curved fine gilt multiple tiny phoenix birds each with dangling bead and plaque, no claim count legible. Two adult women only at top edges, Xue opening case and Wu looking, focus on delicate metalwork and human hand scale. No rhinestones, text, modern jewelry boxes, loose unrelated ornaments or people.",
       "references": [
         "095-02（前稿，局部修正）",
-        "moon-030（月娘）",
+        "references/moon-030.png（原说明：moon-030（月娘））",
         "matchmakers-030左（薛嫂）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/095-02-v2.png",
+      "image": "assets/095-02-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版把前件改成九只可辨金凤；凤口垂珠和下排金牌的连缀属示意。",
       "actualPrompt": "Edit only the FRONT of the two metal headpieces in the supplied picture. Rebuild its ornament as precisely NINE SMALL distinct gold phoenixes in a single readable arc, each separated by a visible gap and each beak with one tiny bead pendant. No other birds. Use smaller birds so nine fit across the arc. Keep rear blue-green cloud ornament, box, hands, women and their faces unchanged. No lettering or numbers.",
-      "baselineReferences": [
-        "moon-030（月娘）",
-        "matchmakers-030左（薛嫂）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正版把前件改成九只可辨金凤；凤口垂珠和下排金牌的连缀属示意。"
+      "knownDeviation": "修正版把前件改成九只可辨金凤；凤口垂珠和下排金牌的连缀属示意。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "095-03",
@@ -121,13 +154,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's distinctive face and dark brows, ref2 painted medium. Exactly two fully clothed Chinese adults seated in a late-Ming-inspired domestic room after dinner. Chunmei with neat restrained hair and closed wine-colored jacket passes one small folded blank petition across a table to adult commander Zhou, broad-faced middle-aged with straight black beard and plain charcoal informal robe, NO official hat. Small single candle, two humble wine cups, lattice window in night, thoughtful attentive exchange, paper clear and not legibly lettered, no child or extra people.",
       "references": [
-        "chun-030（春梅）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/095-03.png",
+      "image": "assets/095-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's distinctive face and dark brows, ref2 painted medium. Exactly two fully clothed Chinese adults seated in a late-Ming-inspired domestic room after dinner. Chunmei with neat restrained hair and closed wine-colored jacket passes one small folded blank petition across a table to adult commander Zhou, broad-faced middle-aged with straight black beard and plain charcoal informal robe, NO official hat. Small single candle, two humble wine cups, lattice window in night, thoughtful attentive exchange, paper clear and not legibly lettered, no child or extra people."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult Chunmei's distinctive face and dark brows, ref2 painted medium. Exactly two fully clothed Chinese adults seated in a late-Ming-inspired domestic room after dinner. Chunmei with neat restrained hair and closed wine-colored jacket passes one small folded blank petition across a table to adult commander Zhou, broad-faced middle-aged with straight black beard and plain charcoal informal robe, NO official hat. Small single candle, two humble wine cups, lattice window in night, thoughtful attentive exchange, paper clear and not legibly lettered, no child or extra people.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "095-04-v2",
@@ -163,18 +198,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only the two adult MALE attendants, Zhang broader and Li leaner, NOT the woman; ref2 painted medium. Three adult Chinese men in an understated clerical room, two standing officials' messengers in plain blue and brown robes bring a sealed long folded brown document; slightly older Inspector Wu seated at desk has just parted the opening and looks down, an unfinished sheet remains to the side. Strong side composition and modest daylight, paper fibres, minimal inkstone. No legible marks beyond a tiny red seal without characters, no ranks, weapons, extra people or bodily punishment.",
       "references": [
         "095-04（前稿，局部修正）",
-        "088-03（张胜、李安）",
-        "065-01（媒介）"
+        "assets/088-03.webp（原说明：088-03（张胜、李安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/095-04-v2.png",
+      "image": "assets/095-04-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 改掉初稿过大的文书和挂绳；成图取交接封套尚未完全拆开的瞬间，朱记与纸制不作实物复原。",
       "actualPrompt": "In the supplied painting edit ONLY the paper objects at the men's hands. Replace the oversized brown case with a modest hand-length folded paper document sleeve, with a flat cinnabar-red ink mark on paper, no dangling cord or Western red wax. Keep number, faces, clothing, table and handoff framing. Remove the stray red signature stamp at bottom right. No legible lettering.",
-      "baselineReferences": [
-        "088-03（张胜、李安）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "改掉初稿过大的文书和挂绳；成图取交接封套尚未完全拆开的瞬间，朱记与纸制不作实物复原。"
+      "knownDeviation": "改掉初稿过大的文书和挂绳；成图取交接封套尚未完全拆开的瞬间，朱记与纸制不作实物复原。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "095-05",
@@ -209,48 +242,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Chunmei, ref2 only LEFT adult man Dai'an (do not use right woman), ref3 paint medium. Exactly two fully clothed Chinese adults in residential reception hall. Dai'an, young adult in a teal silk robe and cloth headwrap, politely presents a small single lacquered black box with delicate gold floral edging holding a letter. Chunmei sits composed in restrained formal embroidered closed jacket and long brocade skirt, gold beam crown and small phoenix pins. A bolt of wrapped silk and a covered food box at low side table, no raw animal. Medium diagonal view with formal distance. No readable writing, no extravagant throne, no other figures.",
       "references": [
-        "chun-030（春梅）",
-        "young-people-030左（玳安）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "references/young-people-030.png（原说明：young-people-030左（玳安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/095-05.png",
+      "image": "assets/095-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Chunmei, ref2 only LEFT adult man Dai'an (do not use right woman), ref3 paint medium. Exactly two fully clothed Chinese adults in residential reception hall. Dai'an, young adult in a teal silk robe and cloth headwrap, politely presents a small single lacquered black box with delicate gold floral edging holding a letter. Chunmei sits composed in restrained formal embroidered closed jacket and long brocade skirt, gold beam crown and small phoenix pins. A bolt of wrapped silk and a covered food box at low side table, no raw animal. Medium diagonal view with formal distance. No readable writing, no extravagant throne, no other figures."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "典当时长是谁说的",
-      "text": "叙述交代约一个月后来赎，失主在门口争论时说两个月；保留两处说法，不替这一笔账算精确利息。",
-      "evidence": [
-        {
-          "chapter": 95,
-          "paragraph": 8,
-          "quote": "只把银子使了一个月"
-        },
-        {
-          "chapter": 95,
-          "paragraph": 10,
-          "quote": "我当了两个月"
-        }
-      ]
-    },
-    {
-      "title": "供词不能作独立证明",
-      "text": "吴典恩先提出月娘与玳安有私的说法，平安先答不知道，被逼才改口。那条指控与偷走匣子的叙述，证据地位不同。",
-      "evidence": [
-        {
-          "chapter": 95,
-          "paragraph": 9,
-          "quote": "小的不知道"
-        },
-        {
-          "chapter": 95,
-          "paragraph": 9,
-          "quote": "爷休拶小的，等小的说就是了"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Chunmei, ref2 only LEFT adult man Dai'an (do not use right woman), ref3 paint medium. Exactly two fully clothed Chinese adults in residential reception hall. Dai'an, young adult in a teal silk robe and cloth headwrap, politely presents a small single lacquered black box with delicate gold floral edging holding a letter. Chunmei sits composed in restrained formal embroidered closed jacket and long brocade skirt, gold beam crown and small phoenix pins. A bolt of wrapped silk and a covered food box at low side table, no raw animal. Medium diagonal view with formal distance. No readable writing, no extravagant throne, no other figures.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

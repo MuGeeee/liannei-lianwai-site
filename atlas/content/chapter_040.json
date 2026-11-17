@@ -1,0 +1,372 @@
+{
+  "number": 40,
+  "title": "第四十回抱孩童瓶儿希宠　妆丫鬟金莲市爱",
+  "intro": "夜话求子、抱子唤醒、装丫头的笑场和递酒索衣，串起本回几条家内关系。图画只取已发生的时刻；符药传说、买人谎话与将来宴约分别留在文字，不作事实画面。",
+  "supplements": [
+    {
+      "title": "回述的失足，不重演为本夜现场",
+      "text": "月娘将八月在乔家楼梯失足、小产及玉楼扶住她的事讲给王姑子听。本回是夜谈回述，原文有关月份和孩子性别也是她当时的话；画面不重演小产，不作医学因果判断。",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 7,
+          "quote": "还亏了孟三姐，一手扶住我，不然一直掉下来了。"
+        }
+      ]
+    },
+    {
+      "title": "符药与一两银子，只记录委托",
+      "text": "王姑子引荐薛姑子、声称符药能使人受孕。晚夕月娘给她一两银子并嘱不要告诉大师父，她答应十六日才来并代寻所需物件。此处只到允诺委托，未发生服药或证实灵验。",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 10,
+          "quote": "月娘悄悄与了他一两银子，叫他休对大师父说，好歹请薛姑子带了符薬来。"
+        }
+      ]
+    },
+    {
+      "title": "香笼取暖与私室就寝，保留文字",
+      "text": "金莲在西厢摸到热炕，取烘砚铜丝火笼与甜香饼取暖。后段私席之后的亲密、就寝只作非露骨文学说明，本次没有配图，不能从省略推定没有发生。",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 9,
+          "quote": "这原来是个套炕子。"
+        }
+      ]
+    },
+    {
+      "title": "看灯邀请与酬答仍是安排",
+      "text": "乔家下帖约十二日看灯酒；庆吩咐次晨送四样肴品、一坛南酒，又计划十四日在家请客、做烟火、扮《西厢记》。本回只写帖子与安排，未把后日的宴会、戏曲和烟火画为完成的现场。",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 18,
+          "quote": "明早叫来兴儿买四样肴品，一坛南酒，送了去就是了。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "040-01",
+      "chapter": 40,
+      "title": "同炕夜话，月娘不肯损人",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 7,
+          "quote": "话说当夜月娘和王姑子一炕睡"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 7,
+          "quote": "缘何损别人，安自己的！"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 7,
+          "quote": "你却休对人说。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 40,
+        "paragraph": 7,
+        "quote": "月娘道：「缘何损别人，安自己的！我与你银子，你替我慢慢另寻便了。」"
+      },
+      "people": [
+        "吴月娘",
+        "王姑子"
+      ],
+      "place": "月娘上房，同炕夜话",
+      "event": "王姑子劝月娘求符药，并提议动用前头孩子的衣胞；月娘拒绝损人，答应另出银子寻找。",
+      "why": "月娘求子的急切与她当刻划出的界限并存，不能把两者压成单一评语。",
+      "composition": "仅两人同坐暖炕，月娘左侧伸掌止话，王姑子右侧稍俯身说话；低烛与厚褥收拢夜间空间。",
+      "summary": "说经散后，王姑子问起月娘为何没有喜事。月娘讲述自己八月失足小产的旧事，王姑子随即推介薛姑子的符药，并提出借用李瓶儿孩子衣胞的办法。月娘以“缘何损别人，安自己的”拒绝，仍愿出银子另寻，并叮嘱保密。画面停在两人夜话，不把转述的旧事重演，也不表现药效。",
+      "psychology": {
+        "明写": "月娘拒绝以损别人来安自己，要求另寻并保密；王姑子反复保证符药灵验。",
+        "推断": "伸掌与凝神表现月娘既被求子之说牵动、又对具体办法有所抗拒；不是她永久性格的判词。"
+      },
+      "social": "女眷生育忧虑与出入宅门的尼僧关系在谈话中相连；符药及灵验例证仅是人物说法，不作医学事实。",
+      "explicit": [
+        "同炕夜话、询问喜事、月娘回述小产",
+        "王姑子提出求符药及借衣胞，月娘拒绝并愿另给银子",
+        "月娘嘱其不要对人说"
+      ],
+      "inference": [
+        "画中暂停手势与凝神是依谈话作的表情推断",
+        "炕的格局、烛台、褥纹及月娘素褐冬衣为美术补足",
+        "不画胎儿、衣胞、神迹或服药现场；本刻没有现成药包"
+      ],
+      "history": "小说依据仅为本章用户梦梅馆词话本MOBI隔离包；宋代故事设定与宽泛晚明视觉参考分开，未考定形制与空间为美术补足。",
+      "references": [
+        "assets/020-02.webp",
+        "assets/039-05.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Depict a quiet fully clothed conversation at night, exactly TWO women sitting upright on the same broad heated kang with thick bedding. LEFT is Wu Yueniang, round face and steady build: use the RIGHT woman in reference 1 for her identity; simple dark russet winter jacket and skirt, hair in a less ornamented domestic bun. She faces right with one open palm gently raised in a firm refusal, the other hand resting on her own knee. RIGHT is Wang the nun: use only the FAR RIGHT blue-gray-robed nun in reference 2, broad square-oval mature face, cheek creases, slightly curved brows and broad nose, gray cloth head wrap and plain gray-blue robe. She leans slightly forward speaking, hands relaxed together on her own lap, no wooden clapper. Low candlelight on a small table in foreground, dark lattice window and closed fabric curtain, intimate thoughtful atmosphere. Show exactly two people, each with exactly two natural hands. This is a nonviolent conversation about seeking help and refusing a suggested act. No medicinal ingredients, no medicine bag, no pregnancy depiction, no child, no flashback, no supernatural effects. No one lying down, no undressing.",
+      "image": "assets/040-01.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具成图：左月娘、右王姑子同坐炕上，仅两人四手；月娘圆脸体态及王姑子宽方脸与参考相承。伸掌止话、尼僧前倾说话清楚，无药包、胎儿、衣胞、儿童或神迹。炕褥、器形、窗外积雪及衣纹为美术补足，雪不是本夜已证天气。无明显肢体错误，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Depict a quiet fully clothed conversation at night, exactly TWO women sitting upright on the same broad heated kang with thick bedding. LEFT is Wu Yueniang, round face and steady build: use the RIGHT woman in reference 1 for her identity; simple dark russet winter jacket and skirt, hair in a less ornamented domestic bun. She faces right with one open palm gently raised in a firm refusal, the other hand resting on her own knee. RIGHT is Wang the nun: use only the FAR RIGHT blue-gray-robed nun in reference 2, broad square-oval mature face, cheek creases, slightly curved brows and broad nose, gray cloth head wrap and plain gray-blue robe. She leans slightly forward speaking, hands relaxed together on her own lap, no wooden clapper. Low candlelight on a small table in foreground, dark lattice window and closed fabric curtain, intimate thoughtful atmosphere. Show exactly two people, each with exactly two natural hands. This is a nonviolent conversation about seeking help and refusing a suggested act. No medicinal ingredients, no medicine bag, no pregnancy depiction, no child, no flashback, no supernatural effects. No one lying down, no undressing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "040-02",
+      "chapter": 40,
+      "title": "小道士在怀，酒醒的笑脸",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 8,
+          "quote": "李瓶儿抱定官哥儿，潘金莲便跟着"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 8,
+          "quote": "金莲与李瓶儿一边一个，坐在床上，把孩子放在他面前"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 8,
+          "quote": "头上戴着销金道髻儿，身穿小道衣儿，项圈符索"
+        }
+      ],
+      "excerpt": {
+        "chapter": 40,
+        "paragraph": 8,
+        "quote": "睁开眼，看见官哥儿在面前，头上戴着销金道髻儿，身穿小道衣儿，项圈符索，喜欢的眉开眼笑。连忙接过来，抱到怀裏，与他亲个嘴儿。"
+      },
+      "people": [
+        "西门庆",
+        "李瓶儿",
+        "潘金莲",
+        "官哥儿"
+      ],
+      "place": "前边西厢书房的炕床",
+      "event": "西门庆从庙里归家后酣睡，李瓶儿与金莲抱着穿道衣的官哥儿来唤他吃饭，孩子使他醒来欢笑。",
+      "why": "前回寄名道衣在家中的实际使用，与父母、金莲围着孩子的关系连在一起。",
+      "composition": "庆坐起在炕床中央，双手稳抱全着衣的孩子；瓶儿左坐、金莲右坐，三人围出小三角。",
+      "summary": "月娘叫李瓶儿把官哥儿装扮成小道士，抱给刚回家的父亲看。金莲跟去，二人在西厢炕床两旁把他弄醒。西门庆见孩子戴着销金道髻、穿着道衣，眉开眼笑，接到怀中亲近。画面取接抱后抬眼笑的瞬间，不以孩子的笑或哭预示未来，也不把寄名仪式画成出家。",
+      "psychology": {
+        "明写": "西门庆见孩子后眉开眼笑；金莲催他起身并埋怨昨日未回。",
+        "推断": "瓶儿靠近孩子、金莲带笑观看的神态，是对当场陪伴的视觉解释，不据此断定两人心境相同。"
+      },
+      "social": "官哥儿的道衣、项牌与符索从宗教仪式物件转入家庭亲子场面；“小道士”“吴应元”都是当场称呼。",
+      "explicit": [
+        "庆在西厢炕床酣睡，瓶儿与金莲一边一个",
+        "孩子戴销金道髻、穿小道衣、带项圈符索及鞋袜",
+        "庆接抱孩子，欢笑亲近"
+      ],
+      "inference": [
+        "取接抱后略离面端详的一刻，嘴不必正接触，避免遮挡孩子",
+        "母亲衣装为暖灰紫冬衣；金莲蜜褐色挑绣裙为本段明文",
+        "炕床形制、枕褥和窗纸为美术补足；不将前幅孩子闭眼害怕的状态固定沿用"
+      ],
+      "history": "小说依据仅为本章用户梦梅馆词话本MOBI隔离包；宋代故事设定与宽泛晚明视觉参考分开，未考定形制与空间为美术补足。",
+      "references": [
+        "references/ximen.png",
+        "assets/039-04.webp",
+        "references/pan-solo-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly THREE adults and ONE fully clothed infant in a warm daytime west study room. CENTER Ximen Qing has just sat upright on a heated kang-bed after sleep, long face, straight brows, narrow eyes, long torso; match reference 1 identity, no fan, no formal official badge. Dark olive winter home robe, tied closed, black hair loosely gathered. He smiles warmly down at the infant, safely holding the child upright against his chest with both arms, one hand under the child's bottom, one supporting back. Use only the INFANT and the LEFT MOTHER in reference 2: round-cheeked small infant wears dark miniature Taoist robe, a dark gold-trimmed Taoist cap with a small raised crest, neck medallion and two fine amulet cords, white socks and little blue shoes. Infant eyes naturally open, no crying, no grown-up appearance. LEFT side seated on bed is Li Ping'er, pale small melon-seed face, fine arched brows, from left woman in reference 2; warm gray-lilac padded jacket and modest skirt, both hands resting on lap after handing over the baby. RIGHT side seated is Pan Jinlian, narrow oval face, clear brow and eyes, reference 3 identity; muted tan padded upper jacket and honey-brown embroidered skirt as this chapter specifies, conventional domestic bun. She smiles while lightly speaking, hands on own knees. Show three distinct adult faces and the infant separately, no extra people or hands. Soft winter daylight, thick folded quilt, simple wooden bed surround and floor brazier in the distance. Family moment, all fully dressed, no adult intimacy. No divine halo, no ceremonial altar, no modern toys.",
+      "image": "assets/040-02.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具成图：左瓶儿、中庆抱官哥、右金莲，恰三成人一婴儿；各脸可辨，庆双手托住孩子腿臀与背侧，孩子全着衣、项牌双索、白袜蓝鞋可见。图取接抱后端详，未画嘴部接触，金莲蜜褐绣裙符合本段。道帽金边及形制仅示意，窗外积雪为艺术补足，不定月龄或真实天气。无明显身份或肢体错误，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly THREE adults and ONE fully clothed infant in a warm daytime west study room. CENTER Ximen Qing has just sat upright on a heated kang-bed after sleep, long face, straight brows, narrow eyes, long torso; match reference 1 identity, no fan, no formal official badge. Dark olive winter home robe, tied closed, black hair loosely gathered. He smiles warmly down at the infant, safely holding the child upright against his chest with both arms, one hand under the child's bottom, one supporting back. Use only the INFANT and the LEFT MOTHER in reference 2: round-cheeked small infant wears dark miniature Taoist robe, a dark gold-trimmed Taoist cap with a small raised crest, neck medallion and two fine amulet cords, white socks and little blue shoes. Infant eyes naturally open, no crying, no grown-up appearance. LEFT side seated on bed is Li Ping'er, pale small melon-seed face, fine arched brows, from left woman in reference 2; warm gray-lilac padded jacket and modest skirt, both hands resting on lap after handing over the baby. RIGHT side seated is Pan Jinlian, narrow oval face, clear brow and eyes, reference 3 identity; muted tan padded upper jacket and honey-brown embroidered skirt as this chapter specifies, conventional domestic bun. She smiles while lightly speaking, hands on own knees. Show three distinct adult faces and the infant separately, no extra people or hands. Soft winter daylight, thick folded quilt, simple wooden bed surround and floor brazier in the distance. Family moment, all fully dressed, no adult intimacy. No divine halo, no ceremonial altar, no modern toys.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "040-03",
+      "chapter": 40,
+      "title": "盖头揭开，五娘先笑了",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 13,
+          "quote": "戴着两个金灯笼坠子，贴着三个面花儿，带着紫销金箍儿"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 13,
+          "quote": "寻了一套大红织金袄儿，下着翠蓝缎子裙"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 13,
+          "quote": "这六姐成精死了罢！把俺们哄的信了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 40,
+        "paragraph": 13,
+        "quote": "一面揭了盖头。那潘金莲插烛也似磕下头去，忍不住扑矻的笑了。玉楼道：「好丫头，不与你主子磕头，且笑！」"
+      },
+      "people": [
+        "潘金莲",
+        "吴月娘",
+        "孟玉楼"
+      ],
+      "place": "月娘上房",
+      "event": "金莲装成新买的丫头，由众人配合玩笑；揭开红布盖头后她自己先笑，月娘才知受骗。",
+      "why": "身份与买人谎话暂时变成家内玩笑，衣妆、磕头步态和笑声是识破的关键。",
+      "composition": "金莲跪在前景、刚磕头后抬起脸，红盖头已落在肩；月娘与玉楼坐炕上笑，其他听众留画外。",
+      "summary": "金莲卸下䯼髻、改打揸髻，穿红织金袄与翠蓝裙，盖头入上房。众人先被陈经济编出的买丫头故事蒙住；盖头揭开，她磕下头却忍不住笑，月娘这才认出。玉楼说早从磕头后倒退两步的习惯看出端倪。本图只截取金莲与两位姊妹，不把笑场等同真实买入了新人。",
+      "psychology": {
+        "明写": "金莲忍不住笑，月娘笑说被哄信，玉楼说自己不信并解释识破的依据。",
+        "推断": "月娘由惊疑转为笑意、玉楼从容看破的表情为美术解读；不能据此证明她们此前全无猜疑。"
+      },
+      "social": "编造的新丫头价钱与年岁属于谎话，前后说成二十五岁、二十岁，不是金莲的年龄证据，也不拿来计算通行身价。",
+      "explicit": [
+        "金莲红织金袄、翠蓝缎裙、两个灯笼坠子、三个面花、紫销金箍",
+        "红盖头揭开，金莲磕头时笑出声",
+        "月娘与玉楼笑谈，玉楼以平昔磕头步态辨出她"
+      ],
+      "inference": [
+        "取磕头后抬脸笑的姿态，省去正在揭盖头的玉箫与其余在场人",
+        "红布停在肩侧、炕上座次和灯烛位置为美术补足",
+        "织金花纹与面花式样不作历史复原"
+      ],
+      "history": "小说依据仅为本章用户梦梅馆词话本MOBI隔离包；宋代故事设定与宽泛晚明视觉参考分开，未考定形制与空间为美术补足。",
+      "references": [
+        "references/pan-solo-030.png",
+        "assets/020-02.webp",
+        "references/yulou.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. A humorous reveal inside the main room at night, exactly THREE fully clothed women, no men and no servants visible. FOREGROUND CENTER Pan Jinlian is kneeling upright on the floor immediately AFTER completing a formal bow, laughing uncontrollably, her face clearly visible. Use reference 1 only for her narrow oval face. She is an adult wife PLAYFULLY disguised as a newly arrived maid; do not change her age or identity. She wears the text's bright red gold-woven padded jacket and turquoise-blue satin skirt covering her knees, a simple coiled forked bun with a purple gold-speckled hairband, exactly two tiny gold lantern earrings and exactly three delicate floral forehead/cheek decals; a red cloth veil has already been lifted and lies over her shoulder, NOT over her face. Both hands natural, on her own knees. BACK LEFT Wu Yueniang sits on the kang laughing in surprise, round face and solid build: use RIGHT woman in reference 2; dark russet winter robe. BACK RIGHT Meng Yulou sits on same kang, longish freckled face and tall figure from reference 3, quiet knowing amusement, muted teal patterned winter jacket. Each has two hands loosely in lap, no hands lifting a veil. Low tea table with three cups near the kang; warm candlelight; carved wood, modest lived-in textiles. Keep exact three people, clearly distinct faces, no crowd, no eroticism, no kneeling child, no new stranger, no head-covering bridal ceremony. Natural candid gesture, not posing.",
+      "image": "assets/040-03.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具成图：前景金莲磕头后跪起大笑，左后月娘、右后玉楼，恰三人六手。红织金袄、翠蓝裙、紫金箍、双灯笼耳坠和三处面花均可辨，红盖头已落肩侧，未混作新娘或真实新丫头。金莲笑时眼闭是当刻表情；面花形状、织纹、炕上座次及窗外雪为补足。未画本刻其余听众，省略已在构图说明。无明显人数或肢体错误，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. A humorous reveal inside the main room at night, exactly THREE fully clothed women, no men and no servants visible. FOREGROUND CENTER Pan Jinlian is kneeling upright on the floor immediately AFTER completing a formal bow, laughing uncontrollably, her face clearly visible. Use reference 1 only for her narrow oval face. She is an adult wife PLAYFULLY disguised as a newly arrived maid; do not change her age or identity. She wears the text's bright red gold-woven padded jacket and turquoise-blue satin skirt covering her knees, a simple coiled forked bun with a purple gold-speckled hairband, exactly two tiny gold lantern earrings and exactly three delicate floral forehead/cheek decals; a red cloth veil has already been lifted and lies over her shoulder, NOT over her face. Both hands natural, on her own knees. BACK LEFT Wu Yueniang sits on the kang laughing in surprise, round face and solid build: use RIGHT woman in reference 2; dark russet winter robe. BACK RIGHT Meng Yulou sits on same kang, longish freckled face and tall figure from reference 3, quiet knowing amusement, muted teal patterned winter jacket. Each has two hands loosely in lap, no hands lifting a veil. Low tea table with three cups near the kang; warm candlelight; carved wood, modest lived-in textiles. Keep exact three people, clearly distinct faces, no crowd, no eroticism, no kneeling child, no new stranger, no head-covering bridal ceremony. Natural candid gesture, not posing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "040-04",
+      "chapter": 40,
+      "title": "私酒一杯，索取赶做的新衣",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 19,
+          "quote": "那个大伙裏酒儿不算，这个是奴家业儿，与你递锺酒儿"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 19,
+          "quote": "你把南边新治来那衣服，一家分散几件子，裁与俺们穿了罢"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 19,
+          "quote": "多带几个人来，替你们趱造两三件出来"
+        }
+      ],
+      "excerpt": {
+        "chapter": 40,
+        "paragraph": 19,
+        "quote": "西门庆笑道：「既是恁的，明日叫了赵裁来，与你们裁了罢。」金莲道：「及至明日叫裁缝做，只差两日儿，做着还迟了哩。」"
+      },
+      "people": [
+        "潘金莲",
+        "西门庆"
+      ],
+      "place": "金莲前边房里，私席",
+      "event": "金莲重新设私席递酒，趁谈乔家赴宴与自家请客，要求把南边新来的衣料分做衣裳，并催着赶工。",
+      "why": "递酒的亲昵与衣料分配的协商相接，文中的主动要求比单纯艳妆更有叙事价值。",
+      "composition": "两人坐在小桌两边，金莲递出小酒杯，庆伸手接，案上整齐果菜；只截餐叙，侍者在画外。",
+      "summary": "众人席后，金莲另备一桌果菜，说大伙里的酒不算，自己还要单独递酒。谈到将赴乔家看灯酒，她把姊妹们的衣裳与体面摆上桌面，要求动用南边新来的衣料，又说两日已很赶。西门庆答应叫赵裁多带人来。画面取两人递接酒杯、商量新衣的时刻，后面的就寝叙述不成图。",
+      "psychology": {
+        "明写": "金莲以衣裳不足、赴宴不愿惹笑为由索衣并催工；庆笑答应，称她随处掐尖。",
+        "推断": "金莲手势与目光显出说服的主动，庆的笑表现此刻松动，不将答应等同均等分配。"
+      },
+      "social": "赴宴体面、内宅排序与奢侈织物的分配在家内谈话中显现。她的“没衣裳”是索取时的自述，不是完整衣柜清单。",
+      "explicit": [
+        "金莲另设果菜酒席、再递酒",
+        "以乔家赴宴及自家宴客为由要求裁新衣",
+        "西门庆答应叫赵裁多带人赶做"
+      ],
+      "inference": [
+        "为使对话清楚，采用桌两边分坐的构图，而非照搬原文搂坐腿上的姿势",
+        "仍沿用红袄蓝裙，改挽杭州攒的发髻；具体发具式样不考定",
+        "侍者省于画外，烛台、杯盘和空间为补足"
+      ],
+      "history": "小说依据仅为本章用户梦梅馆词话本MOBI隔离包；宋代故事设定与宽泛晚明视觉参考分开，未考定形制与空间为美术补足。",
+      "references": [
+        "references/pan-solo-030.png",
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly TWO fully clothed adults at a small private supper table inside a wife's room at night. LEFT Pan Jinlian, narrow oval face and clear eyes from reference 1, red and gold-woven winter jacket fully closed and turquoise-blue skirt, hair restyled into a neat updo with an understated dark hair ornament, lightly powdered face and red lips. She sits on her OWN chair, talking persuasively about having new clothes made, and offers a small ceramic wine cup in her RIGHT hand. Her left hand rests on table. RIGHT Ximen Qing from reference 2, long face, straight brows, narrow long eyes, dark olive home robe, sits on a separate chair smiling and reaching his LEFT hand toward the offered cup while his right hand rests on his own knee. The cup is clearly held by her fingers with his hand approaching, no merged hands. Quiet domestic negotiation, natural eye contact. Table with neatly arranged fruit and small dishes, low wine pot, one candle in simple candlestick; no lavish fantasy palace. Both subjects waist-up to seated knees, two hands each. No lap-sitting, kissing, bed, undressing or sexual gesture. No servants visible, no money or bolts of cloth yet, since those belong to the following morning. No writing or readable pattern.",
+      "image": "assets/040-04.webp",
+      "status": "generated",
+      "review": "已实际打开本地生成文件核看：左金莲、右西门庆，各自分坐，恰两人四手，金莲持小杯、庆伸手接近，未见融手或杯悬空。红袄蓝裙、私席果菜、烛光清楚，衣料尚未提前出现。分坐及省略侍者为文案明示的构图处理，非逐字复刻搂坐动作；冠具、器形、菜式与窗外雪为美术补足。无明显身份或动作错误，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly TWO fully clothed adults at a small private supper table inside a wife's room at night. LEFT Pan Jinlian, narrow oval face and clear eyes from reference 1, red and gold-woven winter jacket fully closed and turquoise-blue skirt, hair restyled into a neat updo with an understated dark hair ornament, lightly powdered face and red lips. She sits on her OWN chair, talking persuasively about having new clothes made, and offers a small ceramic wine cup in her RIGHT hand. Her left hand rests on table. RIGHT Ximen Qing from reference 2, long face, straight brows, narrow long eyes, dark olive home robe, sits on a separate chair smiling and reaching his LEFT hand toward the offered cup while his right hand rests on his own knee. The cup is clearly held by her fingers with his hand approaching, no merged hands. Quiet domestic negotiation, natural eye contact. Table with neatly arranged fruit and small dishes, low wine pot, one candle in simple candlestick; no lavish fantasy palace. Both subjects waist-up to seated knees, two hands each. No lap-sitting, kissing, bed, undressing or sexual gesture. No servants visible, no money or bolts of cloth yet, since those belong to the following morning. No writing or readable pattern.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "040-05",
+      "chapter": 40,
+      "title": "毡条铺开，赵裁先裁月娘衣",
+      "evidence": [
+        {
+          "chapter": 40,
+          "paragraph": 32,
+          "quote": "桌上铺着毡条，取出剪尺来，先裁月娘的"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 32,
+          "quote": "孙雪娥只是两套，就没与他袍儿"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 32,
+          "quote": "共裁剪三十件衣服，兑了五两银子，与赵裁做工钱"
+        }
+      ],
+      "excerpt": {
+        "chapter": 40,
+        "paragraph": 32,
+        "quote": "不一时走到，见西门庆坐在上面，连忙磕了头。桌上铺着毡条，取出剪尺来，先裁月娘的：一件大红遍地锦五彩妆花通袖百兽朝麒麟补子缎袍儿，一件玄色五彩遍地锦葫芦样鸾凤穿花罗袍，一套大红缎子遍地金通袖麒麟补子袄儿，翠蓝宽拖遍地金裙，一套沉香色妆花补子遍地锦罗袄儿，大红金枝緑叶百花拖泥裙。"
+      },
+      "people": [
+        "西门庆",
+        "赵裁"
+      ],
+      "place": "宅内卷棚，裁衣桌前",
+      "event": "次日西门庆取出南边罗缎，叫赵裁到卷棚裁衣，先裁月娘，再按各人不同份额裁剪，共三十件并兑五两工钱。",
+      "why": "一句席间许诺转成成批衣物劳动；月娘与诸房、雪娥之间的份额差异显出分配次序。",
+      "composition": "赵裁在前景毡条桌上裁红缎，剪子与木尺清楚可见；庆在后侧坐看，成叠罗缎在桌角，其他裁缝尚未进入画面。",
+      "summary": "西门庆次日开柜取出南边织造的罗缎，叫来赵裁。赵裁连饭也顾不上吃，带着剪尺赶到，先在铺毡的桌上裁月娘的衣料。随后几房各得衣裳，月娘较多，雪娥只有两套而无袍。合计裁三十件、工钱五两，另叫十来个裁缝赶做；图取最先裁剪，未把未缝成的新衣画作已经穿用。",
+      "psychology": {
+        "明写": "赵裁闻召丢饭碗，带剪尺赶来，见庆先磕头；庆安排衣料和工钱。",
+        "推断": "裁者专注手势及庆坐看的从容为画面解释；不从叙事诗的揶揄直接给赵裁画奸诈面相。"
+      },
+      "social": "锦绮的分配既关乎家内地位，也牵动赶工劳动。三十件与五两是本次记账，不能换算成普遍工价或现代购买力。",
+      "explicit": [
+        "卷棚裁衣、桌上毡条、剪尺",
+        "先裁月娘；四人有袍、雪娥无袍",
+        "三十件、五两工钱，另叫十来个裁缝赶造"
+      ],
+      "inference": [
+        "本图只画赵裁先裁月娘的时刻，十来个帮工在随后",
+        "赵裁成熟窄方脸、短须、素布帽为新面貌艺术约定，年龄未明",
+        "红缎金彩花禽纹只作织纹示意，不能以生成图判麒麟补子、罗缎工艺及裁片尺寸"
+      ],
+      "history": "小说依据仅为本章用户梦梅馆词话本MOBI隔离包；宋代故事设定与宽泛晚明视觉参考分开，未考定形制与空间为美术补足。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly TWO men in a domestic covered veranda called juanpeng in winter daylight, an active tailoring scene. FOREGROUND LEFT new character Zhao the tailor, mature ordinary artisan with a narrow square-oval weathered face, natural straight brows, short sparse mustache and chin stubble, gray-black hair under a simple dark brown cloth cap, plain layered brown-gray work robe. His face must be visually distinct from the long-faced householder. He bends slightly over a solid table covered in a gray FELT STRIP, carefully cutting a length of rich RED satin brocade with gold and mineral-colored floral and bird-like woven motifs. His RIGHT hand holds old-style iron tailoring scissors at the fabric edge, his LEFT hand flat on the cloth safely away from blades. A separate straight wooden ruler lies on the felt, with no legible graduations; no measuring tape, no modern scissors. BACK RIGHT Ximen Qing sits on a wooden armchair overseeing the work, use reference 1 long face, straight brows, narrow eyes and long torso; dark olive winter robe, no fan, both hands resting on his chair and lap. On one end of table folded dark patterned silk and turquoise cloth, not finished clothes. Natural light from wood lattice screens, plain courtyard roof visible. No other workers yet, no women wearing new clothes, no sewing machine, no coins or written ledger, no huge fabric shop. Detailed credible hands and tool placement. Pattern is painted suggestive weaving, not an exact historical diagram.",
+      "image": "assets/040-05.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具成图：左前赵裁、右后西门庆，恰两人四手；赵裁右手持铁剪沿缎缘剪裁，左掌压布且避开剪刃，木尺另置毡条，动作关系完整。桌上红金缎与黑、翠蓝叠料是未缝衣料，未提前画成衣穿用。新裁者脸与庆明显不同，成熟年岁感和五官为艺术设定；花禽织纹只示意，不据图认定麒麟补子精确样式。雪景、空间器形及帽式为补足。无明显身份、人数或工具失真，采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment wash, tactile worn late-Ming everyday materials, realistic varied faces and hands, naturally cinematic lighting and convincing depth. Painted, not photographic, not anime, not fantasy. No lettering, readable text, signature, watermark, modern objects or glass-chimney lamps. A winter first-month domestic setting. References lock only faces and painting language; change clothes and objects to this scene. Exactly TWO men in a domestic covered veranda called juanpeng in winter daylight, an active tailoring scene. FOREGROUND LEFT new character Zhao the tailor, mature ordinary artisan with a narrow square-oval weathered face, natural straight brows, short sparse mustache and chin stubble, gray-black hair under a simple dark brown cloth cap, plain layered brown-gray work robe. His face must be visually distinct from the long-faced householder. He bends slightly over a solid table covered in a gray FELT STRIP, carefully cutting a length of rich RED satin brocade with gold and mineral-colored floral and bird-like woven motifs. His RIGHT hand holds old-style iron tailoring scissors at the fabric edge, his LEFT hand flat on the cloth safely away from blades. A separate straight wooden ruler lies on the felt, with no legible graduations; no measuring tape, no modern scissors. BACK RIGHT Ximen Qing sits on a wooden armchair overseeing the work, use reference 1 long face, straight brows, narrow eyes and long torso; dark olive winter robe, no fan, both hands resting on his chair and lap. On one end of table folded dark patterned silk and turquoise cloth, not finished clothes. Natural light from wood lattice screens, plain courtyard roof visible. No other workers yet, no women wearing new clothes, no sewing machine, no coins or written ledger, no huge fabric shop. Detailed credible hands and tool placement. Pattern is painted suggestive weaving, not an exact historical diagram.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

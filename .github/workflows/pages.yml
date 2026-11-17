@@ -30,24 +30,38 @@ jobs:
           cp -R atlas _site/atlas
           test -f _site/index.html
           test -f _site/atlas/index.html
+          test -f _site/atlas/content/chapter_001.js
+          test -f _site/atlas/content/chapter_064.js
           test -f _site/atlas/content/chapter_065.js
           test -f _site/atlas/content/chapter_066.js
           test -f _site/atlas/content/chapter_067.js
           test -f _site/atlas/content/chapter_100.js
           test -f _site/garden/outputs/garden_020.glb
           python - <<'PY'
-          import json
+          import json, re
           from pathlib import Path
           root = Path('_site/atlas')
           manifest = json.loads((root/'MANIFEST.json').read_text())
-          assert manifest['productionThrough'] == 100 and manifest['images'] == 186
+          assert manifest['productionRange'] == [1,100] and manifest['images'] == 507
+          assert manifest['chapters'] == list(range(1,101))
+          assert not manifest['missingChapters']
           assert manifest['readThrough'] == 64
           scenes = []
           for n in manifest['chapters']:
               chapter = json.loads((root/f'content/chapter_{n:03d}.json').read_text())
               scenes.extend(chapter['scenes'])
-          assert len(scenes) == 186
+          assert len(scenes) == 507
+          assert len({s['id'] for s in scenes}) == 507
           assert all((root/s['image']).is_file() for s in scenes)
+          assert all(s['image'].endswith('.webp') for s in scenes)
+          forbidden = {'.mobi', '.epub', '.blend', '.zip', '.py'}
+          assert not any(p.suffix.lower() in forbidden for p in root.rglob('*') if p.is_file())
+          assert not (root/'production').exists()
+          for path in root.rglob('*'):
+              if path.suffix.lower() in {'.js','.json','.html','.css','.md'}:
+                  text = path.read_text(encoding='utf-8')
+                  assert not re.search(r'(?<![A-Za-z0-9])[A-Za-z]:[\\/]', text), path
+                  assert '.codex-remote-attachments' not in text, path
           size = sum(p.stat().st_size for p in Path('_site').rglob('*') if p.is_file())
           assert size < 1024**3, size
           print(f'Published site: {size} bytes, {len(scenes)} selected atlas images')

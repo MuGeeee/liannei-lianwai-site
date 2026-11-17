@@ -2,6 +2,24 @@
   "number": 99,
   "title": "第九十九回刘二醉骂王六儿　张胜忿杀陈经济",
   "intro": "一页诗被人取出，一串巡铃被人按住，一方帕在坟前摊开。几处小动作改变了谁能知道什么，也让热闹的酒楼和府门内外渐渐走向不同的结局。",
+  "supplements": [
+    {
+      "title": "从窗下到仪门，中间发生了什么",
+      "text": "张胜偷听之后杀害陈经济；春梅因孩子突发病状先行离开，李安在仪门拦住张胜。家中后事与周秀的处置是再往后的段落，本回插画不画杀害和受刑。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "paragraph": 32,
+          "quote": "快请奶奶看去"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 33,
+          "quote": "被李安拦住"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "099-01",
@@ -36,13 +54,15 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Han Aijie, same eyebrows and indigo jacket; ref2 only adult man Chen; ref3 ink-paint medium. Close high view of a low wood desk upstairs in a Chinese canal inn, two separate fully dressed adults across its corner, Chen lifts the edge of one small pale floral sheet from under a heavy inkstone while Aijie quietly looks at it. Summer light, green summer foliage only, clear believable hands, composed physical distance. Paper turned away and no readable words, no contact or bed, two people only.",
       "references": [
         "098-05（韩爱姐）",
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-01.png",
+      "image": "assets/099-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Han Aijie, same eyebrows and indigo jacket; ref2 only adult man Chen; ref3 ink-paint medium. Close high view of a low wood desk upstairs in a Chinese canal inn, two separate fully dressed adults across its corner, Chen lifts the edge of one small pale floral sheet from under a heavy inkstone while Aijie quietly looks at it. Summer light, green summer foliage only, clear believable hands, composed physical distance. Paper turned away and no readable words, no contact or bed, two people only."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult woman Han Aijie, same eyebrows and indigo jacket; ref2 only adult man Chen; ref3 ink-paint medium. Close high view of a low wood desk upstairs in a Chinese canal inn, two separate fully dressed adults across its corner, Chen lifts the edge of one small pale floral sheet from under a heavy inkstone while Aijie quietly looks at it. Summer light, green summer foliage only, clear believable hands, composed physical distance. Paper turned away and no readable words, no contact or bed, two people only.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "099-02",
@@ -78,14 +98,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 match two adult Chinese managers from the counter, slim blue Lu and heavy brown Xie; ref2 Chen young adult only; ref3 paint medium. Exactly three adult men visible, two managers near the foot of a timber stair, Chen in muted teal above a few steps asking them what happened. A tipped wooden wine table and a few broken empty ceramic dishes in foreground. Focus on the hesitating look between the managers. Summer evening light and simple rail. No one harmed, no injuries, blood, wine stains resembling blood, text or weapons.",
       "references": [
-        "098-03（陆秉义、谢三郎）",
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "assets/098-03.webp（原说明：098-03（陆秉义、谢三郎））",
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-02.png",
+      "image": "assets/099-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 match two adult Chinese managers from the counter, slim blue Lu and heavy brown Xie; ref2 Chen young adult only; ref3 paint medium. Exactly three adult men visible, two managers near the foot of a timber stair, Chen in muted teal above a few steps asking them what happened. A tipped wooden wine table and a few broken empty ceramic dishes in foreground. Focus on the hesitating look between the managers. Summer evening light and simple rail. No one harmed, no injuries, blood, wine stains resembling blood, text or weapons."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 match two adult Chinese managers from the counter, slim blue Lu and heavy brown Xie; ref2 Chen young adult only; ref3 paint medium. Exactly three adult men visible, two managers near the foot of a timber stair, Chen in muted teal above a few steps asking them what happened. A tipped wooden wine table and a few broken empty ceramic dishes in foreground. Focus on the hesitating look between the managers. Summer evening light and simple rail. No one harmed, no injuries, blood, wine stains resembling blood, text or weapons.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "099-03",
@@ -119,13 +141,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right adult male Zhou, broad forehead and black beard; ref2 painted medium. Two principal adult Chinese men in a vast understated government timber hall. Broad older Zhou kneels formally to hear a standing messenger read one unfolded narrow pale paper scroll across a low incense table with a single bronze burner. Clean negative space and calm side light, no gold throne, no other figures, no legible text or weapons, no exaggerated fireworks.",
       "references": [
-        "095-03（周秀）",
-        "065-01（媒介）"
+        "assets/095-03.webp（原说明：095-03（周秀））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-03.png",
+      "image": "assets/099-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right adult male Zhou, broad forehead and black beard; ref2 painted medium. Two principal adult Chinese men in a vast understated government timber hall. Broad older Zhou kneels formally to hear a standing messenger read one unfolded narrow pale paper scroll across a low incense table with a single bronze burner. Clean negative space and calm side light, no gold throne, no other figures, no legible text or weapons, no exaggerated fireworks."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right adult male Zhou, broad forehead and black beard; ref2 painted medium. Two principal adult Chinese men in a vast understated government timber hall. Broad older Zhou kneels formally to hear a standing messenger read one unfolded narrow pale paper scroll across a low incense table with a single bronze burner. Clean negative space and calm side light, no gold throne, no other figures, no legible text or weapons, no exaggerated fireworks.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "099-04-v2",
@@ -159,18 +183,16 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only adult man Zhang Sheng's broad bearded face, not the woman; ref2 paint. Single fully dressed adult man outside a closed opaque latticed window of a Chinese estate study, dark navy work robe and plain cap. Close focus on his gloved-free palm gently holding ONE small hanging bronze patrol bell to stop it sounding, the rim and grip clear. His cheek and intent eyes at one edge, window lit softly but absolutely no figures, interior or silhouettes visible. Autumn grey light, no blade, gore, writing or reflected people.",
       "references": [
         "099-04（前稿，局部修正）",
-        "094-02（张胜）",
-        "065-01（媒介）"
+        "assets/094-02.webp（原说明：094-02（张胜））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-04-v2.png",
+      "image": "assets/099-04-v2.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 修正版把初稿误挂在屋檐的铃改作手持巡铃；铜铃形制未详。",
       "actualPrompt": "Make one narrow local correction to this painting. The bronze bell must be PORTABLE because the man was walking with it. Remove all cord above the bell, detach it from the roof, preserve the shape of hand and bell where possible: grasp a small handheld bell with a short leather loop resting loose over his knuckles and press its lower rim with palm to stop sound. No object attached to the building. Keep face, window, background, composition exactly. No text.",
-      "baselineReferences": [
-        "094-02（张胜）",
-        "065-01（媒介）"
-      ],
-      "knownDeviation": "修正版把初稿误挂在屋檐的铃改作手持巡铃；铜铃形制未详。"
+      "knownDeviation": "修正版把初稿误挂在屋檐的铃改作手持巡铃；铜铃形制未详。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "099-05",
@@ -204,13 +226,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right older broad bearded man Zhou; ref2 painted medium. Wide dawn muster outside a plain north-Chinese walled town. Zhou, a fully dressed adult commander with weathered broad face and black beard, on one plain dark horse at front of a small organized group of adult riders and foot attendants, mute cloth standards and a drum cart in mist. Calm readiness, no battle, captives, injuries or battle spoils, no text, no exact historical armor or weapon close-ups. Open pale sky and clear silhouettes.",
       "references": [
-        "095-03（周秀）",
-        "065-01（媒介）"
+        "assets/095-03.webp（原说明：095-03（周秀））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-05.png",
+      "image": "assets/099-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right older broad bearded man Zhou; ref2 painted medium. Wide dawn muster outside a plain north-Chinese walled town. Zhou, a fully dressed adult commander with weathered broad face and black beard, on one plain dark horse at front of a small organized group of adult riders and foot attendants, mute cloth standards and a drum cart in mist. Calm readiness, no battle, captives, injuries or battle spoils, no text, no exact historical armor or weapon close-ups. Open pale sky and clear silhouettes."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 only right older broad bearded man Zhou; ref2 painted medium. Wide dawn muster outside a plain north-Chinese walled town. Zhou, a fully dressed adult commander with weathered broad face and black beard, on one plain dark horse at front of a small organized group of adult riders and foot attendants, mute cloth standards and a drum cart in mist. Calm readiness, no battle, captives, injuries or battle spoils, no text, no exact historical armor or weapon close-ups. Open pale sky and clear silhouettes.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "099-06",
@@ -246,33 +270,17 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY adult woman Han Aijie long brows and fair oval face, ref2 ONLY adult woman Chunmei, ref3 ONLY petite adult violet-clad woman Ge Cuiping NOT men, ref4 painted medium. Exactly three fully dressed Chinese adult women at a modest fresh earthen burial mound in late autumn under grey daylight. Aijie at center with plain off-white mourning layers and simple hair holds open ONE small white silk handkerchief, pattern subtle and no readable writing. Chunmei in sober deep teal and Ge in dusty violet lean just enough to see. A low dish of spent paper away from cloth. No fainting, corpse, blood, open grave, extra person or ornament. Quiet close eye-level framing with all three distinct.",
       "references": [
         "098-05（韩爱姐）",
-        "chun-030（春梅）",
-        "098-01（葛翠屏）",
-        "065-01（媒介）"
+        "references/chun-030.png（原说明：chun-030（春梅））",
+        "assets/098-01.webp（原说明：098-01（葛翠屏））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/099-06.png",
+      "image": "assets/099-06.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 吴绫帕上原有四句诗；成图用无字织纹，以页外原文为准。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 ONLY adult woman Han Aijie long brows and fair oval face, ref2 ONLY adult woman Chunmei, ref3 ONLY petite adult violet-clad woman Ge Cuiping NOT men, ref4 painted medium. Exactly three fully dressed Chinese adult women at a modest fresh earthen burial mound in late autumn under grey daylight. Aijie at center with plain off-white mourning layers and simple hair holds open ONE small white silk handkerchief, pattern subtle and no readable writing. Chunmei in sober deep teal and Ge in dusty violet lean just enough to see. A low dish of spent paper away from cloth. No fainting, corpse, blood, open grave, extra person or ornament. Quiet close eye-level framing with all three distinct.",
-      "knownDeviation": "吴绫帕上原有四句诗；成图用无字织纹，以页外原文为准。"
-    }
-  ],
-  "supplements": [
-    {
-      "title": "从窗下到仪门，中间发生了什么",
-      "text": "张胜偷听之后杀害陈经济；春梅因孩子突发病状先行离开，李安在仪门拦住张胜。家中后事与周秀的处置是再往后的段落，本回插画不画杀害和受刑。",
-      "evidence": [
-        {
-          "chapter": 99,
-          "paragraph": 32,
-          "quote": "快请奶奶看去"
-        },
-        {
-          "chapter": 99,
-          "paragraph": 33,
-          "quote": "被李安拦住"
-        }
-      ]
+      "knownDeviation": "吴绫帕上原有四句诗；成图用无字织纹，以页外原文为准。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

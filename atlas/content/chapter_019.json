@@ -1,0 +1,479 @@
+{
+  "number": 19,
+  "title": "第十九回草裏蛇逻打蒋竹山　李瓶儿情感西门庆",
+  "intro": "花园装修完备，内眷在新空间游赏；西门庆则借街头熟人和提刑门路报复蒋竹山。瓶儿搬出这段婚姻、携家什再嫁，却面对迟来的迎接与连续三夜冷落。本回按已发生的动作呈现，不用后文解释人物，不以奉承、辱骂或暴力收场来盖过其中的压力。",
+  "supplements": [
+    {
+      "title": "药铺闹事、追银与搬出",
+      "text": "鲁华、张胜先以“狗黄”“氷灰”取笑，再编称蒋竹山借银。蒋否认后遭拳打，药材被撒抢，天福儿也被踢开；本章不添暴力图。提刑院责三十大板并追银，瓶儿最终交出三十两，随后催蒋搬走。她出资置办的货物留下，蒋原旧药材、药碾药筛与箱笼搬出，不能混说家产全归一人。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 14,
+          "quote": "竹山听了，唬了个立睁，说道：「我并没借他甚么银子。」"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 14,
+          "quote": "一面把架上薬材撒了一街。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 17,
+          "quote": "痛责三十大板"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 19,
+          "quote": "但是妇人本钱置买的货物都留下；把他原旧的薬材、薬碾、薬筛、箱笼之物，实时催他搬去"
+        }
+      ]
+    },
+    {
+      "title": "送礼、传话与过门之间",
+      "text": "瓶儿在八月十五给月娘送生日礼，玳安传达她悔婚思嫁之意。西门庆准许抬她来，家什雇扛抬运四五日，未先对月娘说明；不能把玳安所述“比旧时瘦了”转成精确身体数据。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 23,
+          "quote": "四盘羹菓，两盘寿桃面，一疋尺头，又与大娘做了一双鞋"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 23,
+          "quote": "比旧时瘦了好些儿"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 24,
+          "quote": "次日，雇了五六副扛，整抬运四五日。西门庆也不对吴月娘说，都堆在新盖的玩花楼上。"
+        }
+      ]
+    },
+    {
+      "title": "获救之后仍有胁迫",
+      "text": "瓶儿获救后，西门庆仍称她装死，带鞭入房，威吓她再次自伤，并鞭打、逼令脱衣跪下，追问招赘原因。这些是本回发生的控制与暴力，不画成调情。瓶儿以狐缠和蒋欺骗解释前事，属于她的答话；“你是个天，他是块砖”等是受威逼时的奉承，不作事实等级。西门庆承认使计陷害蒋后怒气渐消，最后叫取酒菜；不能由收鞭、拥抱断言此前暴力已被正当化或家庭已和睦。该段本次只留非露骨文学说明，没有性行为或胁迫配图，也未遭工具拦截。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 27,
+          "quote": "到晚夕，见西门庆袖着马鞭子，进他房中去了。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 28,
+          "quote": "袖中取出鞭子来，抽了几鞭子"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 28,
+          "quote": "前者打太医那两个人，是如此如此、这般这般使的手段。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 28,
+          "quote": "即丢了鞭子，用手把妇人拉将起来，穿上衣裳，搂在怀裏"
+        }
+      ]
+    },
+    {
+      "title": "话语归给说话人",
+      "text": "西门庆讲蒋诊病忘鱼、向病人问猫的笑话，金莲当面表示不信；此事不作为已被旁证的医案。瓶儿关于狐缠、招赘受骗的申诉也只按人物话语保存，不把狐狸画成客观存在。叙述者在南瓦子段预告张胜后来得差、本回章末引向后回的句子均未用于本章画面或判断。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 12,
+          "quote": "妇人道：「可可儿的来，我不信。一个文墨人儿，他干这个营生？」"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 28,
+          "quote": "你不信，只问老冯和两个丫头便知端的。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "019-01",
+      "chapter": 19,
+      "title": "扑蝶之后，楼上唤人",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 5,
+          "quote": "装修油漆完备，前后焕然一新。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 6,
+          "quote": "一日，八月初旬天气"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 8,
+          "quote": "惟有金莲，且在山子前花池边用白纱团扇扑蝴蝶为戏"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 8,
+          "quote": "被妇人顺手只一推，把小伙儿推了一跤。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 8,
+          "quote": "却不想玉楼在玩花楼远远瞧见，叫道：「五姐，你走这裏来，我和你说话。」"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 8,
+          "quote": "头上天青罗帽，身穿紫绫深衣，脚下粉头皂靴"
+        }
+      ],
+      "excerpt": {
+        "chapter": 19,
+        "paragraph": 8,
+        "quote": "被妇人顺手只一推，把小伙儿推了一跤。却不想玉楼在玩花楼远远瞧见，叫道：「五姐，你走这裏来，我和你说话。」金莲方纔撇了经济上楼去了。"
+      },
+      "people": [
+        "潘金莲",
+        "陈经济",
+        "孟玉楼"
+      ],
+      "place": "新花园山子、花池与玩花楼之间",
+      "event": "金莲扑蝶时被经济靠近，推得他跌倒；玉楼从玩花楼叫她，她便离开。",
+      "why": "新园第一次成为内眷同游和彼此窥见的空间；一声招呼截断了眼前动作。",
+      "composition": "金莲持白纱团扇转向楼梯，经济在花池边坐倒欲起；玉楼在后方高处招手。其余游园者置于画外。",
+      "summary": "八月初旬，新花园装修已完。酒后金莲在假山、花池边扑蝶，经济从背后靠近。图取她将他推倒后、听见楼上玉楼招呼的一刻：团扇仍在手中，经济坐倒，目光被楼上的人打断。园中的远近与高低让私下接近也可能被人看见。",
+      "psychology": {
+        "明写": "经济归房后心中怏然不楽；金莲推他，随后听唤上楼。",
+        "推断": "金莲转身离开可显出骤然被打断的紧张；玉楼招呼是否有意解围，原文没有直说。"
+      },
+      "social": "家内的楼、亭、花径各有观看位置。本图只显示本次可见关系，不据此复原整座园林平面。",
+      "explicit": [
+        "八月初旬，花园装修完备。",
+        "白纱团扇、花池、山子、玩花楼；经济天青帽、紫绫深衣。",
+        "金莲推倒经济，玉楼在楼上唤她。"
+      ],
+      "inference": [
+        "金莲衣色沿同日后段所述沉香色对衿衫、白裙衔接，属同一游园服装的合理推断。",
+        "楼梯、花木数量、花色与站位为美术补足；不把四时铺陈的花木当作八月同时盛开实录。",
+        "经济的精确年龄未据职业或婚姻推算，本图没有亲密接触或性化。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明日用视觉参考分开；人物具体五官、未考定器物、服装和空间不冒充历史实证。",
+      "references": [
+        "references/pan-solo-030.png",
+        "references/chen-030.png",
+        "references/yulou.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Pan Jinlian face only: narrow oval face, clear natural brows. Input 2 locks Chen Jingji face only: youthful face, straight brows, rounder jaw; do not alter age. Input 3 locks Meng Yulou face only: long figure, subtle facial freckles. Early eighth lunar month, warm early-autumn daylight, private garden newly finished, green bamboo, rockery, shallow flower pond and a modest timber garden upper floor. EXACTLY THREE people. Foreground LEFT Chen Jingji has just stumbled and sits on the stone path, one hand naturally braced on the ground, beginning to get up, clothed fully in purple figured-silk long robe, sky-blue soft gauze cap, black boots with pale toes. He is not touching anyone. Foreground CENTER Pan Jinlian is turning away toward the stairs, carrying a WHITE ROUND SILK FAN by its handle, wearing a modest closed agarwood-brown gauze outer jacket over opaque layers and a white long skirt, hair in an elegant ordinary jeweled bun. Her expression alert and slightly unsettled. At upper RIGHT behind a wooden railing Meng Yulou in muted blue-gray intact robe calls her over with a small raised hand. Use clear depth and diagonal eyelines, not a three-person portrait. A single pale butterfly above foliage; restrained scattered flowers, no impossible all-season bloom display. No kiss, embrace, erotic gesture, exposure, injury or threatening action. Garden geometry and costume details are illustrative, not an architectural reconstruction.",
+      "image": "assets/019-01.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰三人，经济着天青帽紫衣坐倒，金莲持白底团扇转往台阶，玉楼在高处唤人，均沿指定参考面貌；无亲密接触、露肤、伤害或肢体明显失真。画面楼梯与高处栏窗只给出园林局部，不能据此复原玩花楼层数或平面。扇面花纹、局部莲花与小菊、枝叶、发饰、衣纹均为美术补足；白裙与沉香色衫沿同日后段衔接，材料精细形制未作考证。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Pan Jinlian face only: narrow oval face, clear natural brows. Input 2 locks Chen Jingji face only: youthful face, straight brows, rounder jaw; do not alter age. Input 3 locks Meng Yulou face only: long figure, subtle facial freckles. Early eighth lunar month, warm early-autumn daylight, private garden newly finished, green bamboo, rockery, shallow flower pond and a modest timber garden upper floor. EXACTLY THREE people. Foreground LEFT Chen Jingji has just stumbled and sits on the stone path, one hand naturally braced on the ground, beginning to get up, clothed fully in purple figured-silk long robe, sky-blue soft gauze cap, black boots with pale toes. He is not touching anyone. Foreground CENTER Pan Jinlian is turning away toward the stairs, carrying a WHITE ROUND SILK FAN by its handle, wearing a modest closed agarwood-brown gauze outer jacket over opaque layers and a white long skirt, hair in an elegant ordinary jeweled bun. Her expression alert and slightly unsettled. At upper RIGHT behind a wooden railing Meng Yulou in muted blue-gray intact robe calls her over with a small raised hand. Use clear depth and diagonal eyelines, not a three-person portrait. A single pale butterfly above foliage; restrained scattered flowers, no impossible all-season bloom display. No kiss, embrace, erotic gesture, exposure, injury or threatening action. Garden geometry and costume details are illustrative, not an architectural reconstruction.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "019-02",
+      "chapter": 19,
+      "title": "马上倒出碎银",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 10,
+          "quote": "西门庆见他两个在那裏耍钱，勒住马，近前说话。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 10,
+          "quote": "这西门庆附耳低言，便把蒋竹山要了李瓶儿之事，说了一遍"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 10,
+          "quote": "因在马上搂起衣底，顺袋中还有四五两碎银子，都倒与二人。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 10,
+          "quote": "鲁华一面接了银子，趴倒地下磕了个头"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 10,
+          "quote": "张胜道：「只望大官人到明日把小人送与提刑所夏老爹那裏答应就够了小人了。」"
+        }
+      ],
+      "excerpt": {
+        "chapter": 19,
+        "paragraph": 10,
+        "quote": "因在马上搂起衣底，顺袋中还有四五两碎银子，都倒与二人。便道：「你两个拿去打酒吃。只要替我干得停当，还谢你二人。」"
+      },
+      "people": [
+        "西门庆",
+        "鲁华",
+        "张胜"
+      ],
+      "place": "南瓦子街边",
+      "event": "西门庆在马上将碎银交给鲁华、张胜，要他们替自己出气。",
+      "why": "一件婚姻上的怨恨被当街转成可执行的托付，钱与求差事的请求同时出现。",
+      "composition": "马侧近景：西门庆从软袋倒出数块碎银，鲁华以双手接；张胜在旁仰头说话，马头与街屋构成斜线。随从在画外。",
+      "summary": "西门庆从夏提刑的生日宴归来，在南瓦子遇到平日受自己资助的鲁华、张胜。他说起蒋竹山招赘之事，要二人替他出气，并倒出四五两碎银。鲁华先推辞后收下，张胜还开口求被送往夏提刑处答应。图取授银的动作，不把未发生的差事画成已落实。",
+      "psychology": {
+        "明写": "西门庆明说要二人替他出气；鲁华、张胜承诺办事，张胜当面求差。",
+        "推断": "画中两人的殷勤姿态用于表现利益依附，不借绰号画蛇鼠或用丑貌判定品性。"
+      },
+      "social": "受资助者以办事回报、以差役机会为诉求，私人关系已接近官府门径；本场还未进入审理。",
+      "explicit": [
+        "西门庆骑马勒住，附耳说蒋竹山之事。",
+        "四五两碎银交付；鲁华先辞后接。",
+        "张胜请求送往夏提刑处答应。"
+      ],
+      "inference": [
+        "碎银形状与数量、钱袋、马色、街屋、两人的衣装和具体五官为美术补足，不据图称重。",
+        "取最初倒银时刻，未拼入随后磕头；随从在画外而非声称没有随从。",
+        "不使用叙述者预告张胜后来得差的句子。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明日用视觉参考分开；人物具体五官、未考定器物、服装和空间不冒充历史实证。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Ximen Qing face and long-waisted build only: long face, straight brows, narrow long eyes. At a late-afternoon entertainment-quarter street edge in the early eighth lunar month, EXACTLY THREE visible adult men and ONE saddled brown horse. Ximen Qing sits naturally astride the horse at LEFT, in an intact understated dark moss-green summer robe and black cloth cap, leaning down slightly, pouring a few irregular SMALL SILVER FRAGMENTS from an open plain soft waist pouch into the cupped hands of Lu Hua at CENTER. Make the transfer mechanically clear and the silver pieces small, not gold coins or full ingots. Lu Hua is a mature ordinary lean man with a somewhat broad angular face, higher cheekbones, natural brows, sparse short moustache, brown cloth headwrap and faded ochre-brown intact robe, standing close to the horse. Zhang Sheng stands at RIGHT watching the transfer and speaking upward, a different mature face, narrower long jaw, slightly fuller brows and short neat moustache, dark blue-gray cloth cap and blue-gray intact robe. Both are everyday local men, no villain caricatures or animal features. Ximen looks intent rather than heroic. Horse anatomy and saddle plausible with legs partly cropped; reins safely gathered in his other hand. Timber shopfronts and muted pedestrians absent, modest daylight street, no readable signs, dice table or cups needed. The four attendants stated in the narrative remain outside this tight frame. Natural asymmetrical cinematic composition, no front-facing pose, no combat or blood.",
+      "image": "assets/019-02.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰三名男子一匹马，西门庆左侧骑坐，腰袋向中间鲁华的双手倒出小块碎银，右侧张胜仰头说话；手、钱袋、碎银与马头无显著错误，未把碎银画成金锭。面貌各异，西门庆沿既有长脸参考。马腿与部分随从在画外，鞍具、街屋、花枝、两名新人物具体面貌衣装为艺术补足；碎银不可据图称重，未画随后磕头或未来得差。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Ximen Qing face and long-waisted build only: long face, straight brows, narrow long eyes. At a late-afternoon entertainment-quarter street edge in the early eighth lunar month, EXACTLY THREE visible adult men and ONE saddled brown horse. Ximen Qing sits naturally astride the horse at LEFT, in an intact understated dark moss-green summer robe and black cloth cap, leaning down slightly, pouring a few irregular SMALL SILVER FRAGMENTS from an open plain soft waist pouch into the cupped hands of Lu Hua at CENTER. Make the transfer mechanically clear and the silver pieces small, not gold coins or full ingots. Lu Hua is a mature ordinary lean man with a somewhat broad angular face, higher cheekbones, natural brows, sparse short moustache, brown cloth headwrap and faded ochre-brown intact robe, standing close to the horse. Zhang Sheng stands at RIGHT watching the transfer and speaking upward, a different mature face, narrower long jaw, slightly fuller brows and short neat moustache, dark blue-gray cloth cap and blue-gray intact robe. Both are everyday local men, no villain caricatures or animal features. Ximen looks intent rather than heroic. Horse anatomy and saddle plausible with legs partly cropped; reins safely gathered in his other hand. Timber shopfronts and muted pedestrians absent, modest daylight street, no readable signs, dice table or cups needed. The four attendants stated in the narrative remain outside this tight frame. Natural asymmetrical cinematic composition, no front-facing pose, no combat or blood.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "019-03",
+      "chapter": 19,
+      "title": "一纸借契到了堂上",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 15,
+          "quote": "即差人吩咐地方，明日早解提刑院；这裏又拿帖子，对夏大人说了。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 15,
+          "quote": "小的通不认得此人，并没借他银子。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 15,
+          "quote": "这张胜便是保人，望爷察情。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 15,
+          "quote": "一面怀中取出文契，递上去。夏提刑展开观看"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 16,
+          "quote": "凭保人张胜，借到鲁华名下白银三十两，月利三分"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 17,
+          "quote": "妇人不得已，拿三十两雪花银子与他，当官交与鲁华，扯碎了文书，方纔了事。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 19,
+        "paragraph": 15,
+        "quote": "一面怀中取出文契，递上去。"
+      },
+      "people": [
+        "夏提刑",
+        "蒋竹山",
+        "鲁华",
+        "张胜"
+      ],
+      "place": "提刑院厅上",
+      "event": "鲁华将借契呈上，夏提刑展开观看；蒋竹山仍否认曾借银。",
+      "why": "私人谋划在厅上披上文契与保人的形式；申辩并未使审理转向查证。",
+      "composition": "蒋竹山在左前方急切申说；鲁华、张胜在侧，夏提刑在右后案上展契。文契不可读，官服与厅式只取宽泛明代视觉。",
+      "summary": "药铺争闹之后，西门庆预先向地方与夏提刑递话。次日厅上，蒋竹山否认借钱，鲁华却称他因发送妻丧借银，并以张胜作保，递出文契。夏提刑只凭眼前的契与保人便认定抵赖，随后责打并催追三十两。图停在展契时，文字保留其后结果，不画行刑。",
+      "psychology": {
+        "明写": "蒋竹山否认认识对方及借银；鲁华提出债务，夏提刑接受文契。",
+        "推断": "蒋竹山伸手申辩与夏提刑的冷硬神态是将对话视觉化；不把契上的陈述当真实借贷。"
+      },
+      "social": "本回展示文书、保人、地方押解与私人递帖如何合流；这只是小说中的一次枉断，不据此概括全部司法制度。",
+      "explicit": [
+        "西门庆事先对夏大人递话。",
+        "鲁华出示文契，称张胜为保人；竹山否认借贷。",
+        "契称本金三十两、月利三分；实际追交三十两。"
+      ],
+      "inference": [
+        "街上索称本利四十八两、契载三十两与月利三分、最后交三十两分别记录，不强行为其重算一个正确债额。",
+        "人物位置、无字文契、案椅、黑帽蓝袍、厅上规制与夏提刑具体面貌均为美术补足，不作官制考据。",
+        "伤势不特写，图取责打之前；无刑具、无血迹。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明日用视觉参考分开；人物具体五官、未考定器物、服装和空间不冒充历史实证。",
+      "references": [
+        "assets/017-04.webp",
+        "assets/019-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks ONLY the right-hand seated doctor Jiang Zhushan face: compact build, narrow oval face, short rounded chin, thin sparse moustache and a little chin beard. Do not bring the sick woman, bed or his diagnostic gesture into this scene. Input 2 locks ONLY the faces of the two men standing beside the horse: Lu Hua at center in ochre-brown, lean angular face and high cheekbones; Zhang Sheng at right in blue-gray, fuller cheeks and longer jaw. Do not bring the horse, Ximen Qing or silver into this scene. A modest local court hall in morning light, warm eighth lunar month. EXACTLY FOUR visible adult men. LEFT foreground Jiang Zhushan kneels upright fully clothed in an intact rumpled gray-brown robe and black soft cloth cap, urgently denying a charge, one hand raised in restrained open-palmed explanation. No open wounds, no blood. At CENTER middle distance Lu Hua stands slightly bowed with hands now empty after passing a paper contract; beside him at far left-middle Zhang Sheng stands as the claimed guarantor, their faces distinct and matching input 2. At RIGHT rear behind a wooden desk the magistrate Xia, a mature man with broad long face, naturally heavy eyelids, neat short greying moustache and chin beard, black official cloth hat and muted dark blue official robe, opens and looks down at ONE folded paper contract with both hands. The paper has only indistinct soft brush traces, NO READABLE TEXT. Clearly unequal seated height, deep diagonal space, not a group portrait. A few plain tied document bundles on desk, undecorated plaster and timber hall, no imperial palace, no ornate dragon throne or courtroom plaques. Do not show flogging, punitive weapons, bonds, blood or any active violence; this is the examination before sentencing. Costume and room details are illustrative and not a precise bureaucratic reconstruction.",
+      "image": "assets/019-03.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰四名成年男子，蒋竹山左前跪着申辩，鲁华中间黄褐衣、张胜左后蓝灰衣，与授银图面貌相连；右侧夏提刑展看一张折契，手纸关系自然，纸面无可读文字。未画刑罚、血迹或伤口。蒋的袍上出现粗针补缀，属美术额外细节，不能据此认定其贫困或将粗衣当原文明示；跪垫、桌案、花枝、官帽官袍与夏提刑面貌均非考证复原。四人动作与关键文契清楚，没有需重做的明显人数、身份或肢体错误。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks ONLY the right-hand seated doctor Jiang Zhushan face: compact build, narrow oval face, short rounded chin, thin sparse moustache and a little chin beard. Do not bring the sick woman, bed or his diagnostic gesture into this scene. Input 2 locks ONLY the faces of the two men standing beside the horse: Lu Hua at center in ochre-brown, lean angular face and high cheekbones; Zhang Sheng at right in blue-gray, fuller cheeks and longer jaw. Do not bring the horse, Ximen Qing or silver into this scene. A modest local court hall in morning light, warm eighth lunar month. EXACTLY FOUR visible adult men. LEFT foreground Jiang Zhushan kneels upright fully clothed in an intact rumpled gray-brown robe and black soft cloth cap, urgently denying a charge, one hand raised in restrained open-palmed explanation. No open wounds, no blood. At CENTER middle distance Lu Hua stands slightly bowed with hands now empty after passing a paper contract; beside him at far left-middle Zhang Sheng stands as the claimed guarantor, their faces distinct and matching input 2. At RIGHT rear behind a wooden desk the magistrate Xia, a mature man with broad long face, naturally heavy eyelids, neat short greying moustache and chin beard, black official cloth hat and muted dark blue official robe, opens and looks down at ONE folded paper contract with both hands. The paper has only indistinct soft brush traces, NO READABLE TEXT. Clearly unequal seated height, deep diagonal space, not a group portrait. A few plain tied document bundles on desk, undecorated plaster and timber hall, no imperial palace, no ornate dragon throne or courtroom plaques. Do not show flogging, punitive weapons, bonds, blood or any active violence; this is the examination before sentencing. Costume and room details are illustrative and not a precise bureaucratic reconstruction.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "019-04",
+      "chapter": 19,
+      "title": "抱瓶进门，迟来的迎接",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 24,
+          "quote": "择了八月二十日，一顶大轿，一疋缎子红，四对灯笼"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 25,
+          "quote": "妇人轿子，落在大门首。半日没个人出去迎接。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 25,
+          "quote": "这吴月娘欲待出去接他，心中恼，又不下气；欲待不出去，又怕西门庆性子不是好的。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 25,
+          "quote": "妇人抱着寳瓶，径往他那边新房裏去了。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 25,
+          "quote": "排行他是六娘。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 19,
+        "paragraph": 25,
+        "quote": "沉吟了一回，于是轻移莲步，款蹙湘裙，出来迎接。妇人抱着寳瓶，径往他那边新房裏去了。"
+      },
+      "people": [
+        "李瓶儿",
+        "吴月娘"
+      ],
+      "place": "西门家大门与通往新房的门道",
+      "event": "玉楼劝后，月娘终于出来迎接；李瓶儿抱着宝瓶往新房走。",
+      "why": "入门有轿、有礼物，却从长久无人迎接开始；迎接动作承载着家内的怨与顾虑。",
+      "composition": "瓶儿抱一只无字瓷瓶跨门槛；月娘稍侧身引入。大门外露出停轿的一角，具体轿制与瓶样不作考定。",
+      "summary": "八月二十日，李瓶儿被轿子抬到西门家。此前家什已搬了数日，西门庆在卷棚等着，却无人出门迎接。孟玉楼提醒月娘，月娘迟疑后才出来。图取瓶儿抱着宝瓶越过门槛的一步：她终于进了门，人与人之间却还没有同样顺畅的接纳。",
+      "psychology": {
+        "明写": "月娘既恼而不肯下气，又怕西门庆的性子；沉吟后出来迎接。",
+        "推断": "瓶儿低垂目光与抱瓶的拘谨是美术表情，不能据此替她补一句内心独白。"
+      },
+      "social": "家主出迎与排行见面具有家庭秩序意义；本图不以瓷瓶样式推断特定成婚礼制，也不把进门称为获得平等地位。",
+      "explicit": [
+        "八月二十日过门，轿停大门。",
+        "半日无人迎接，玉楼劝月娘；月娘迟疑后迎出。",
+        "瓶儿抱宝瓶往新房；次日排行六娘。"
+      ],
+      "inference": [
+        "宝瓶的瓷质、素青釉、大小及盖形均不详，画作艺术补足。",
+        "瓶儿红衣沿本回新婚夜明确红衣衔接，但入门衣色本段未直接明写。",
+        "月娘常服、门道、轿篷样式与此刻光线为补足；图外的跟轿人、灯笼与玉楼不意味着不在场。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明日用视觉参考分开；人物具体五官、未考定器物、服装和空间不冒充历史实证。",
+      "references": [
+        "references/ping-013.png",
+        "references/moon-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Li Pinger face only: small build, pale tapered oval face, fine curved eyebrows. Input 2 locks Wu Yueniang round full face and steady fuller build only; remove all winter clothing, fur headband, snow, worship objects and prior poses. Late afternoon on the twentieth day of the eighth lunar month, warm early autumn. EXACTLY TWO visible women at a wealthy but lived-in household main doorway. At CENTER LEFT Li Pinger, fully clothed in a modest opaque muted vermilion-red long bridal jacket and long matching skirt, simple neat jeweled black hair bun with no face-covering veil, carefully steps over a low wooden threshold. She holds ONE plain pale celadon ceramic treasure bottle upright close to her chest with both hands, modest rounded vessel and narrow neck, no readable characters or figurative symbols. Her expression quiet and hesitant, natural face matching input 1. At RIGHT Wu Yueniang, round face and steady body, in an intact sober muted warm-brown long jacket and ochre skirt appropriate to mild weather, plain unadorned black hair bun with one small pin, has just come out to receive her; small reserved sideways open-hand gesture toward the inner room, face restrained, not smiling at camera. Leave a visible gap between them. At far left through the outer doorway show only the edge of one stationary covered sedan chair under subdued red cloth, no visible bearers or other people. Timber posts, plaster wall, worn stone paving and warm oblique light, natural long shadows. No palace gate, lavish fantasy wedding props, piles of gold, readable inscriptions, silk face veil, fur trim, snow or modern objects. The bottle design and doorway are illustration, not a claim of exact historical ritual.",
+      "image": "assets/019-04.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰两名女子，瓶儿红衣双手抱一只素青瓷瓶跨门槛，月娘圆润脸、朴素髻，侧身做引入手势，二人有可见间隔；左边只露轿的一角，无多余迎接人或现代道具。瓶儿沿瓜子脸参考，月娘没有误带冬季毛皮额饰。宝瓶材质形制、红衣沿后段新婚夜衔接的推断、衣纹、门环门道、停轿局部、花木与光线均按艺术补足处理，不作婚礼制度或建筑精度证据。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Li Pinger face only: small build, pale tapered oval face, fine curved eyebrows. Input 2 locks Wu Yueniang round full face and steady fuller build only; remove all winter clothing, fur headband, snow, worship objects and prior poses. Late afternoon on the twentieth day of the eighth lunar month, warm early autumn. EXACTLY TWO visible women at a wealthy but lived-in household main doorway. At CENTER LEFT Li Pinger, fully clothed in a modest opaque muted vermilion-red long bridal jacket and long matching skirt, simple neat jeweled black hair bun with no face-covering veil, carefully steps over a low wooden threshold. She holds ONE plain pale celadon ceramic treasure bottle upright close to her chest with both hands, modest rounded vessel and narrow neck, no readable characters or figurative symbols. Her expression quiet and hesitant, natural face matching input 1. At RIGHT Wu Yueniang, round face and steady body, in an intact sober muted warm-brown long jacket and ochre skirt appropriate to mild weather, plain unadorned black hair bun with one small pin, has just come out to receive her; small reserved sideways open-hand gesture toward the inner room, face restrained, not smiling at camera. Leave a visible gap between them. At far left through the outer doorway show only the edge of one stationary covered sedan chair under subdued red cloth, no visible bearers or other people. Timber posts, plaster wall, worn stone paving and warm oblique light, natural long shadows. No palace gate, lavish fantasy wedding props, piles of gold, readable inscriptions, silk face veil, fur trim, snow or modern objects. The bottle design and doorway are illustration, not a claim of exact historical ritual.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "019-05",
+      "chapter": 19,
+      "title": "灯下缓过一口气",
+      "evidence": [
+        {
+          "chapter": 19,
+          "paragraph": 25,
+          "quote": "西门庆又不进入他房中，往后边孟玉楼房裏歇去了。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 26,
+          "quote": "金莲搂着他坐的"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 26,
+          "quote": "五姐，你灌了他些姜汤儿没有？"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 26,
+          "quote": "金莲道：「我救下来时，就灌了些来了。」"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 26,
+          "quote": "那妇人只顾喉中哽咽了一回，方哭出声。月娘众人一块石头纔落地。好好安抚他睡下，各归房歇息。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 19,
+        "paragraph": 26,
+        "quote": "那妇人只顾喉中哽咽了一回，方哭出声。月娘众人一块石头纔落地。好好安抚他睡下，各归房歇息。"
+      },
+      "people": [
+        "李瓶儿",
+        "潘金莲",
+        "吴月娘"
+      ],
+      "place": "李瓶儿新房灯下",
+      "event": "瓶儿自缢被救醒后，金莲搂扶她坐着；月娘询问是否已灌姜汤，听见她哭出声才放下心。",
+      "why": "图停在危险过去后众人照料的一刻，把新婚受冷落的压力与具体救助分开呈现。",
+      "composition": "瓶儿红衣坐床边，金莲从旁搂扶其肩背；月娘俯身听她呼吸。矮桌留一小碗已用姜汤，无悬吊物、无伤口特写。",
+      "summary": "入门后三夜，西门庆都没有进瓶儿房中。深夜她做出伤害自己的举动，丫鬟发现并呼救，金莲与春梅将她救下。本图只取已经苏醒后的片刻：金莲搂扶她坐着，月娘询问姜汤，等瓶儿哭出声，众人才稍稍安心。后来发生的责骂与胁迫另在文字中说明，不用和解姿态遮去。",
+      "psychology": {
+        "明写": "瓶儿先饱哭，获救后喉中哽咽才哭出声；众人这时放下心。",
+        "推断": "灯下靠扶、凝神听息和低垂目光用于显示照料与余悸，不赋予自伤行为浪漫或道德成全的意义。"
+      },
+      "social": "新婚房中的孤立与受冷落会形成压迫；眼前照料是已发生的行动，不能由此推断家内冲突已解决。姜汤只是小说所写，不作为救治建议。",
+      "explicit": [
+        "瓶儿新婚三夜受冷落。",
+        "丫鬟呼救，金莲、春梅救下；瓶儿红衣。",
+        "金莲搂扶她坐，已灌姜汤；月娘询问，众人安抚。"
+      ],
+      "inference": [
+        "图取救醒之后，省去自伤动作与工具；未改写其发生。",
+        "床式、烛台、姜汤碗、衣饰、照明方向与三人站位为艺术补足。",
+        "春梅、丫鬟、西门庆等在画外；不据侍女身份认定她们成年，本图无性化。"
+      ],
+      "history": "小说依据为用户梦梅馆词话本MOBI。宋代故事设定与宽泛晚明日用视觉参考分开；人物具体五官、未考定器物、服装和空间不冒充历史实证。",
+      "references": [
+        "references/ping-013.png",
+        "references/pan-solo-030.png",
+        "references/moon-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Li Pinger face and small build only: pale tapered oval face, fine curved brows. Input 2 locks Pan Jinlian face only: narrow oval face, naturally clear brows. Input 3 locks Wu Yueniang round full face and steady fuller body only; do not carry over snow, fur, winter headdress, worship objects, or earlier clothing. Quiet late-night scene in a modestly rich private bedchamber during the warm eighth lunar month. EXACTLY THREE fully clothed women, a compassionate scene AFTER a household medical crisis has passed. Li Pinger at CENTER sits upright at the edge of a wooden curtained bed, wearing an opaque modest closed-collar vermilion-red long jacket and red skirt, both feet down and safely supported; she has just recovered consciousness and is crying softly, pale but alive, eyes open, no injuries visible. Pan Jinlian sits immediately beside her at LEFT in a modest opaque gray-blue long jacket and pale skirt, gently supporting Pinger shoulder and upper back with one arm, her other hand steady on Pinger forearm. Pan looks attentive and concerned, not erotic. Wu Yueniang at RIGHT bends slightly toward them and asks after her condition, hands calmly together near her waist, no medicine being force-fed; she wears a plain muted ochre-brown long jacket and dark skirt, neat black hair bun without fur. On a small nearby side table sits ONE small ceramic bowl with the ginger soup already used, beside a simple period candle in a low metal holder. Restrained warm candlelight, dark timber and muted textile texture, unsentimental intimate framing, anatomically natural support gesture. Do not show any self-harm method, hanging, rope, ligature, stool, beam emphasis, weapon, wound, bruise, blood, nudity, threat, romance or celebratory atmosphere. This is a literary illustration of care after rescue, not a medical demonstration.",
+      "image": "assets/019-05.webp",
+      "status": "generated",
+      "review": "已打开工作区PNG核看：恰三人，瓶儿红衣坐床边、眼睁且有泪，金莲左侧一手搂扶肩背一手扶其上臂，月娘右侧俯身询问，三张脸沿指定参考并有区别；无肢体明显失真。小碗与烛台在旁，无喂灌动作、自伤工具、伤口、血迹或浪漫化姿态。支撑手落在上臂而非提示词的前臂，属不影响救后照料的细微差异；衣饰、床帘、花枝、汤碗、烛台与照明均为美术补足。其余在场者位于画外，未据图断言只有三人参与救助。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours and layered mineral pigment wash on subtly textured paper, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Input 1 locks Li Pinger face and small build only: pale tapered oval face, fine curved brows. Input 2 locks Pan Jinlian face only: narrow oval face, naturally clear brows. Input 3 locks Wu Yueniang round full face and steady fuller body only; do not carry over snow, fur, winter headdress, worship objects, or earlier clothing. Quiet late-night scene in a modestly rich private bedchamber during the warm eighth lunar month. EXACTLY THREE fully clothed women, a compassionate scene AFTER a household medical crisis has passed. Li Pinger at CENTER sits upright at the edge of a wooden curtained bed, wearing an opaque modest closed-collar vermilion-red long jacket and red skirt, both feet down and safely supported; she has just recovered consciousness and is crying softly, pale but alive, eyes open, no injuries visible. Pan Jinlian sits immediately beside her at LEFT in a modest opaque gray-blue long jacket and pale skirt, gently supporting Pinger shoulder and upper back with one arm, her other hand steady on Pinger forearm. Pan looks attentive and concerned, not erotic. Wu Yueniang at RIGHT bends slightly toward them and asks after her condition, hands calmly together near her waist, no medicine being force-fed; she wears a plain muted ochre-brown long jacket and dark skirt, neat black hair bun without fur. On a small nearby side table sits ONE small ceramic bowl with the ginger soup already used, beside a simple period candle in a low metal holder. Restrained warm candlelight, dark timber and muted textile texture, unsentimental intimate framing, anatomically natural support gesture. Do not show any self-harm method, hanging, rope, ligature, stool, beam emphasis, weapon, wound, bruise, blood, nudity, threat, romance or celebratory atmosphere. This is a literary illustration of care after rescue, not a medical demonstration.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

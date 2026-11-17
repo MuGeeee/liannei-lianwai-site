@@ -2,6 +2,40 @@
   "number": 92,
   "title": "第九十二回陈经济被陷严州府　吴月娘大闹授官厅",
   "intro": "一张冒名帖、一包从墙内送出的银、一艘离泊的船、两处官署：这回许多转折都系于谁能先取得消息，又由谁把事情写进文书。",
+  "supplements": [
+    {
+      "title": "旧簪能证明什么",
+      "text": "本回叙述者交代陈经济曾在花园拾得簪子，又写玉楼私下反驳他的说法。簪子的来路在这一回得到补充；持有一支簪子，仍不足以证实他自称的关系。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "paragraph": 11,
+          "quote": "昔日在花园中拾了孟玉楼那根簪子"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 18,
+          "quote": "休说平日又无连手"
+        }
+      ]
+    },
+    {
+      "title": "招卷是另一场戏",
+      "text": "递状与改卷都发生在清河县，不能同前面严州府审库银的案子混作一件。这里写的是县官收了暗送的银两后改卷。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "paragraph": 36,
+          "quote": "暗暗送与知县"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 36,
+          "quote": "知县一夜把招卷改了"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "092-01",
@@ -40,15 +74,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only adult woman Meng Yulou, tall slender oval mature face with faint pockmarks, not smoothed; reference 2 only adult man Chen Jingji, slim youthful oval face and dark cloth cap; reference 3 painted medium. Two people ONLY. Late-Ming-inspired domestic reception hall from inside a slightly raised curtain: half-length profile of Yulou at right edge in muted ochre fully closed robe, discreetly looking through cloth into a spacious daylit timber hall. Chen stands at middle distance alone with small closed folded cream visiting card in hands, restrained teal outer robe, subtle insincere courtesy. Nothing romantic or intimate, no glances into camera, no extra figures, no readable writing. Focus on the moment of recognition, cloth and empty floor divide them.",
       "references": [
-        "yulou（玉楼）",
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/yulou.png（原说明：yulou（玉楼））",
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/092-01.png",
+      "image": "assets/092-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 成图为突出认出冒名者，让折帖由陈经济拿在手中；正文中帖先由门上传入，不能凭画确认当时由谁拿帖。",
       "knownDeviation": "成图为突出认出冒名者，让折帖由陈经济拿在手中；正文中帖先由门上传入，不能凭画确认当时由谁拿帖。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only adult woman Meng Yulou, tall slender oval mature face with faint pockmarks, not smoothed; reference 2 only adult man Chen Jingji, slim youthful oval face and dark cloth cap; reference 3 painted medium. Two people ONLY. Late-Ming-inspired domestic reception hall from inside a slightly raised curtain: half-length profile of Yulou at right edge in muted ochre fully closed robe, discreetly looking through cloth into a spacious daylit timber hall. Chen stands at middle distance alone with small closed folded cream visiting card in hands, restrained teal outer robe, subtle insincere courtesy. Nothing romantic or intimate, no glances into camera, no extra figures, no readable writing. Focus on the moment of recognition, cloth and empty floor divide them."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only adult woman Meng Yulou, tall slender oval mature face with faint pockmarks, not smoothed; reference 2 only adult man Chen Jingji, slim youthful oval face and dark cloth cap; reference 3 painted medium. Two people ONLY. Late-Ming-inspired domestic reception hall from inside a slightly raised curtain: half-length profile of Yulou at right edge in muted ochre fully closed robe, discreetly looking through cloth into a spacious daylit timber hall. Chen stands at middle distance alone with small closed folded cream visiting card in hands, restrained teal outer robe, subtle insincere courtesy. Nothing romantic or intimate, no glances into camera, no extra figures, no readable writing. Focus on the moment of recognition, cloth and empty floor divide them.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "092-02",
@@ -82,14 +118,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only youthful oval-faced adult Chinese man Chen Jingji, dark cloth cap; reference 2 painted medium. Exactly TWO adult Chinese MEN outside a high plastered brick garden compound wall at night, both fully dressed. Chen in subdued teal stretches toward ONE small dense cloth parcel suspended from a single rope from the top of the wall; the lean older servant Chen An in simple brown jacket stays one step away and watches. The parcel is still hanging, distinct rope silhouette catches a little moonlight. Side-angle medium wide shot, slate blue shadows, worn bricks, fine ink. No third figure, no woman, nobody on top or through the wall, no contact, violence, writing or weapons.",
       "references": [
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/092-02.png",
+      "image": "assets/092-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 成图包裹仍悬在半空且偏小，不据此判断二百两银的包裹大小或实际重量；月相、旁门灯笼为美术处理。",
       "knownDeviation": "成图包裹仍悬在半空且偏小，不据此判断二百两银的包裹大小或实际重量；月相、旁门灯笼为美术处理。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only youthful oval-faced adult Chinese man Chen Jingji, dark cloth cap; reference 2 painted medium. Exactly TWO adult Chinese MEN outside a high plastered brick garden compound wall at night, both fully dressed. Chen in subdued teal stretches toward ONE small dense cloth parcel suspended from a single rope from the top of the wall; the lean older servant Chen An in simple brown jacket stays one step away and watches. The parcel is still hanging, distinct rope silhouette catches a little moonlight. Side-angle medium wide shot, slate blue shadows, worn bricks, fine ink. No third figure, no woman, nobody on top or through the wall, no contact, violence, writing or weapons."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference 1 only youthful oval-faced adult Chinese man Chen Jingji, dark cloth cap; reference 2 painted medium. Exactly TWO adult Chinese MEN outside a high plastered brick garden compound wall at night, both fully dressed. Chen in subdued teal stretches toward ONE small dense cloth parcel suspended from a single rope from the top of the wall; the lean older servant Chen An in simple brown jacket stays one step away and watches. The parcel is still hanging, distinct rope silhouette catches a little moonlight. Side-angle medium wide shot, slate blue shadows, worn bricks, fine ink. No third figure, no woman, nobody on top or through the wall, no contact, violence, writing or weapons.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "092-03",
@@ -125,15 +163,17 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only adult Chen Jingji's young oval face, ref 2 match servant Chen An as the adult man in a plain brown garment (not Chen in teal), ref 3 paint medium. Court hall oblique medium-wide shot, exactly FOUR adult Chinese men. Seated prefect Xu Feng older, lean and controlled, closed dark blue-green official robe, turning directly to question the standing older graying broad-faced deputy magistrate Li in restrained russet. Two released men, young Chen in teal and lean older servant in brown, at a respectful distance at the foot of the hall. Blank paper on plain wood bench, shadowed corridor. No punishment, weapons, ropes, injury, spectators, readable text, or exact rank badges.",
       "references": [
-        "chen-030（陈经济）",
-        "092-02左近（陈安）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/092-02.webp（原说明：092-02左近（陈安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/092-03.png",
+      "image": "assets/092-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 成图的李通判戴布巾，官服身份辨识度不足；人物按从左至右为陈经济、陈安、李通判、徐凤。",
       "knownDeviation": "成图的李通判戴布巾，官服身份辨识度不足；人物按从左至右为陈经济、陈安、李通判、徐凤。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only adult Chen Jingji's young oval face, ref 2 match servant Chen An as the adult man in a plain brown garment (not Chen in teal), ref 3 paint medium. Court hall oblique medium-wide shot, exactly FOUR adult Chinese men. Seated prefect Xu Feng older, lean and controlled, closed dark blue-green official robe, turning directly to question the standing older graying broad-faced deputy magistrate Li in restrained russet. Two released men, young Chen in teal and lean older servant in brown, at a respectful distance at the foot of the hall. Blank paper on plain wood bench, shadowed corridor. No punishment, weapons, ropes, injury, spectators, readable text, or exact rank badges."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only adult Chen Jingji's young oval face, ref 2 match servant Chen An as the adult man in a plain brown garment (not Chen in teal), ref 3 paint medium. Court hall oblique medium-wide shot, exactly FOUR adult Chinese men. Seated prefect Xu Feng older, lean and controlled, closed dark blue-green official robe, turning directly to question the standing older graying broad-faced deputy magistrate Li in restrained russet. Two released men, young Chen in teal and lean older servant in brown, at a respectful distance at the foot of the hall. Blank paper on plain wood bench, shadowed corridor. No punishment, weapons, ropes, injury, spectators, readable text, or exact rank badges.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "092-04",
@@ -167,14 +207,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only young adult male Chen Jingji oval face dark cap, ref 2 use Chen An face and brown attire, ref 3 painted medium. Expansive bleak river landing inspired by late imperial Chinese canal trade; low uneven worn steps with an empty wooden mooring post close in the foreground. Two small distinct adult Chinese men in rear three-quarter view on the bank, younger in muted teal and older servant in brown, both looking where their boat should be. A wide stretch of completely empty gray water ahead, low distant opposite bank and autumn haze. No boats in foreground or middle distance, no cargo, no one in the water, no writing, avoid picturesque grandeur. Soft ink wash with precise dock textures.",
       "references": [
-        "chen-030（陈经济）",
-        "092-02（陈安）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/092-02.webp（原说明：092-02（陈安））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/092-04.png",
+      "image": "assets/092-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only young adult male Chen Jingji oval face dark cap, ref 2 use Chen An face and brown attire, ref 3 painted medium. Expansive bleak river landing inspired by late imperial Chinese canal trade; low uneven worn steps with an empty wooden mooring post close in the foreground. Two small distinct adult Chinese men in rear three-quarter view on the bank, younger in muted teal and older servant in brown, both looking where their boat should be. A wide stretch of completely empty gray water ahead, low distant opposite bank and autumn haze. No boats in foreground or middle distance, no cargo, no one in the water, no writing, avoid picturesque grandeur. Soft ink wash with precise dock textures."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only young adult male Chen Jingji oval face dark cap, ref 2 use Chen An face and brown attire, ref 3 painted medium. Expansive bleak river landing inspired by late imperial Chinese canal trade; low uneven worn steps with an empty wooden mooring post close in the foreground. Two small distinct adult Chinese men in rear three-quarter view on the bank, younger in muted teal and older servant in brown, both looking where their boat should be. A wide stretch of completely empty gray water ahead, low distant opposite bank and autumn haze. No boats in foreground or middle distance, no cargo, no one in the water, no writing, avoid picturesque grandeur. Soft ink wash with precise dock textures.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "092-05",
@@ -208,48 +250,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only the mature round-faced woman Wu Yueniang; ref 2 painted medium. Exactly two adult Chinese people in a quiet county hearing room. Wu Yueniang, a fully clothed mature woman with round face, closed off-white mourning layers and plain hair, presents one folded legal petition with both hands from below desk height; county magistrate Huo, sober middle-aged man in dark navy robe and soft black official cap, seated across the low broad dark wood desk looking down at the folded paper. Framed from the side with daylight falling on paper. No other people, no prisoner, no corpse or weapons, no blood, no readable words, no wealth or bribery in this instant. Unshowy timber room with worn surfaces.",
       "references": [
-        "moon-030（月娘）",
-        "065-01（媒介）"
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/092-05.png",
+      "image": "assets/092-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 图取递状动作，低处凳面、官员衣纹及陈设无对应原文；不据此确认月娘递状时的具体姿势。",
       "knownDeviation": "图取递状动作，低处凳面、官员衣纹及陈设无对应原文；不据此确认月娘递状时的具体姿势。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only the mature round-faced woman Wu Yueniang; ref 2 painted medium. Exactly two adult Chinese people in a quiet county hearing room. Wu Yueniang, a fully clothed mature woman with round face, closed off-white mourning layers and plain hair, presents one folded legal petition with both hands from below desk height; county magistrate Huo, sober middle-aged man in dark navy robe and soft black official cap, seated across the low broad dark wood desk looking down at the folded paper. Framed from the side with daylight falling on paper. No other people, no prisoner, no corpse or weapons, no blood, no readable words, no wealth or bribery in this instant. Unshowy timber room with worn surfaces."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "旧簪能证明什么",
-      "text": "本回叙述者交代陈经济曾在花园拾得簪子，又写玉楼私下反驳他的说法。簪子的来路在这一回得到补充；持有一支簪子，仍不足以证实他自称的关系。",
-      "evidence": [
-        {
-          "chapter": 92,
-          "paragraph": 11,
-          "quote": "昔日在花园中拾了孟玉楼那根簪子"
-        },
-        {
-          "chapter": 92,
-          "paragraph": 18,
-          "quote": "休说平日又无连手"
-        }
-      ]
-    },
-    {
-      "title": "招卷是另一场戏",
-      "text": "递状与改卷都发生在清河县，不能同前面严州府审库银的案子混作一件。这里写的是县官收了暗送的银两后改卷。",
-      "evidence": [
-        {
-          "chapter": 92,
-          "paragraph": 36,
-          "quote": "暗暗送与知县"
-        },
-        {
-          "chapter": 92,
-          "paragraph": 36,
-          "quote": "知县一夜把招卷改了"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref 1 only the mature round-faced woman Wu Yueniang; ref 2 painted medium. Exactly two adult Chinese people in a quiet county hearing room. Wu Yueniang, a fully clothed mature woman with round face, closed off-white mourning layers and plain hair, presents one folded legal petition with both hands from below desk height; county magistrate Huo, sober middle-aged man in dark navy robe and soft black official cap, seated across the low broad dark wood desk looking down at the folded paper. Framed from the side with daylight falling on paper. No other people, no prisoner, no corpse or weapons, no blood, no readable words, no wealth or bribery in this instant. Unshowy timber room with worn surfaces.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

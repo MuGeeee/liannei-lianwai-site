@@ -2,6 +2,30 @@
   "number": 66,
   "title": "第六十六回翟管家寄书致赙　黄真人炼度荐亡",
   "intro": "白日来信，夜里炼度。纸面上的预报与坛场上的言说，都需要辨认：谁说了什么，事情实际做到哪一步。",
+  "supplements": [
+    {
+      "title": "仪式之外，生意仍在安排",
+      "evidence": [
+        {
+          "chapter": 66,
+          "paragraph": 5,
+          "quote": "三个人都去。明年先打发崔大哥押一船杭州货来"
+        }
+      ],
+      "text": "本回开头仍在商量二十四日开船、打包与各处买布。这里只保留当场的采购计划，不把计划当成已完成的货运，也不扩写尚未发生的收益。"
+    },
+    {
+      "title": "本回外观补记：黄真人",
+      "text": "约三十、广颊长髯，黑髯而非白发老仙人；夜坛为金冠绛衣，与白日登坛鹤氅分开。",
+      "evidence": [
+        {
+          "chapter": 66,
+          "paragraph": 14,
+          "quote": "黄真人年约三旬"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "066-01",
@@ -36,14 +60,16 @@
       "history": "未另引历史资料。坛场只依本回列出的器物与动作作文学还原；画面的形制与道像不代表宗教考据结论。",
       "prompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. Three men in a household reception canopy after a vegetarian meal. Ximen at right, same long face and slim torso as the first reference, wearing pale mourning robe and off-white headcloth, leans forward watching. Wen the scholar, a different narrow middle-aged face with a short dark goatee and simple brown scholar robe, sits at the center, one hand just drawing back toward his sleeve. Ying Bojue at left is the SLIM mustached man at the LEFT of the second reference (NOT its plump right-hand man); he has reached across and taken an OPEN FOLDED LETTER, now looking down at it with absorbed curiosity. One letter only, visible paper face blank or turned away, no legible writing. A couple of covered tea cups, a modest bowl from lunch, folded unsealed letter sleeve. Dynamic crossed reaching arms, clear three independent pairs of hands. The point is a private letter passing into another pair of hands, not a generic conversation. Pale daylight, dark indigo shadows, distinct individual faces.",
       "references": [
-        "ximen",
-        "guests-030"
+        "references/ximen.png（原说明：ximen）",
+        "references/guests-030.png（原说明：guests-030）"
       ],
-      "image": "assets/066-01.png",
+      "image": "assets/066-01.webp",
       "status": "generated_reviewed",
       "review": "已查看定稿：伯爵左持信，温秀才中间收手，西门庆右侧观察；三张脸及一封信可辨。图取已取到手正在看的时刻，不是收信前同时动作。纸面留空，不生成假信文；未把升迁预报画成任命。",
       "actualPrompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. Three men in a household reception canopy after a vegetarian meal. Ximen at right, same long face and slim torso as the first reference, wearing pale mourning robe and off-white headcloth, leans forward watching. Wen the scholar, a different narrow middle-aged face with a short dark goatee and simple brown scholar robe, sits at the center, one hand just drawing back toward his sleeve. Ying Bojue at left is the SLIM mustached man at the LEFT of the second reference (NOT its plump right-hand man); he has reached across and taken an OPEN FOLDED LETTER, now looking down at it with absorbed curiosity. One letter only, visible paper face blank or turned away, no legible writing. A couple of covered tea cups, a modest bowl from lunch, folded unsealed letter sleeve. Dynamic crossed reaching arms, clear three independent pairs of hands. The point is a private letter passing into another pair of hands, not a generic conversation. Pale daylight, dark indigo shadows, distinct individual faces.",
-      "styleEditPrompt": ""
+      "styleEditPrompt": "",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "066-02",
@@ -84,13 +110,15 @@
       "history": "未另引历史资料。坛场只依本回列出的器物与动作作文学还原；画面的形制与道像不代表宗教考据结论。",
       "prompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. A wide nighttime view under a Chinese household hall canopy converted into a Taoist ritual space. On a modest raised seat, Huang the ritual master is CLEARLY AROUND THIRTY, broad cheeks, bright eyes and a LONG BLACK BEARD, not elderly, wearing a gold ritual crown and deep crimson gauze robe with cloud motifs. He recites solemnly. Exactly four clearly visible young ceremonial attendants, fully clothed in plain loose robes, stand two at each side holding ritual implements such as a simple basin, staff, or sheathed ritual sword; no threat or violence. Taoists seated in two rows with small musical instruments. In the foreground a constructed basin of water glows cold blue on one side; a separate contained low ritual brazier or fire basin glows red-orange on the other; a SMALL constructed colored bridge behind them leads toward the ritual area. Lamps and incense haze create cinematic depth and hand-painted brush light. Depict HUMAN performance and material objects ONLY: no ghosts, no deity walking in the room, no flying deceased woman, no bodies burning, no imperial throne. Hanging images are muted painted scrolls, absolutely no lettering. Night indigo / crimson / silver palette.",
       "references": [
-        "style-065-01"
+        "assets/065-01.webp（原说明：style-065-01）"
       ],
-      "image": "assets/066-02.png",
+      "image": "assets/066-02.webp",
       "status": "generated_reviewed",
       "review": "首图误把参考中的主人、温秀才面貌放进乐人，并使水面发光，已定向修正。定稿中两名灰蓝衣乐人面貌独立、水面仅反射灯光，四名侍者、高座、彩桥与火盆可辨。法冠、法器、浮灯、坛场结构和道像为艺术补足，不是精准宗教器物复原，未画客观鬼神显现。",
       "actualPrompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. A wide nighttime view under a Chinese household hall canopy converted into a Taoist ritual space. On a modest raised seat, Huang the ritual master is CLEARLY AROUND THIRTY, broad cheeks, bright eyes and a LONG BLACK BEARD, not elderly, wearing a gold ritual crown and deep crimson gauze robe with cloud motifs. He recites solemnly. Exactly four clearly visible young ceremonial attendants, fully clothed in plain loose robes, stand two at each side holding ritual implements such as a simple basin, staff, or sheathed ritual sword; no threat or violence. Taoists seated in two rows with small musical instruments. In the foreground a constructed basin of water glows cold blue on one side; a separate contained low ritual brazier or fire basin glows red-orange on the other; a SMALL constructed colored bridge behind them leads toward the ritual area. Lamps and incense haze create cinematic depth and hand-painted brush light. Depict HUMAN performance and material objects ONLY: no ghosts, no deity walking in the room, no flying deceased woman, no bodies burning, no imperial throne. Hanging images are muted painted scrolls, absolutely no lettering. Night indigo / crimson / silver palette.",
-      "styleEditPrompt": "Precise corrections to this existing painted scene only; preserve composition, master on raised seat, four standing attendants, bridge, basin, brazier and all other characters. 1) The TWO SEATED MUSICIANS on the LEFT must NOT resemble Ximen or Wen from any reference. Replace the leftmost white-mourning-clothed flute player with an unrelated middle-aged Taoist musician, round weathered face, sparse beard, dark plain Taoist cloth cap, gray-blue loose Taoist robe WITHOUT white mourning head-wrap. Replace the brown-robed seated drummer beside him with a different older Taoist musician, broader jaw, graying beard and gray-blue Taoist robe. Their instruments and positions remain. They are ordinary professional Daoist ritual musicians, not the merchant host or his scholar. 2) The water basin must NOT glow electrically or contain luminous sparkles. Make it dark, still natural water with a very soft cool reflection from night sky and lamps, and dim floating ordinary lamps if retained. Realistic material water, not magic or neon. Preserve red contained ritual fire. Keep clearly hand-drawn gongbi contour line and mineral pigments. No added text, ghosts, nudity or gore."
+      "styleEditPrompt": "Precise corrections to this existing painted scene only; preserve composition, master on raised seat, four standing attendants, bridge, basin, brazier and all other characters. 1) The TWO SEATED MUSICIANS on the LEFT must NOT resemble Ximen or Wen from any reference. Replace the leftmost white-mourning-clothed flute player with an unrelated middle-aged Taoist musician, round weathered face, sparse beard, dark plain Taoist cloth cap, gray-blue loose Taoist robe WITHOUT white mourning head-wrap. Replace the brown-robed seated drummer beside him with a different older Taoist musician, broader jaw, graying beard and gray-blue Taoist robe. Their instruments and positions remain. They are ordinary professional Daoist ritual musicians, not the merchant host or his scholar. 2) The water basin must NOT glow electrically or contain luminous sparkles. Make it dark, still natural water with a very soft cool reflection from night sky and lamps, and dim floating ordinary lamps if retained. Realistic material water, not magic or neon. Preserve red contained ritual fire. Keep clearly hand-drawn gongbi contour line and mineral pigments. No added text, ghosts, nudity or gore.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "066-03",
@@ -126,38 +154,16 @@
       "history": "未另引历史资料。坛场只依本回列出的器物与动作作文学还原；画面的形制与道像不代表宗教考据结论。",
       "prompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. Exactly four men in a medium-close slightly elevated view at a household dining table in late evening. Ximen with the locked long-faced identity, pale mourning clothes, stands at right receiving a small cup. In front of him THREE fully clothed adult men kneel together: Wu the maternal uncle at center holds the small CUP forward; Ying Bojue at left, the SLIM mustached man at LEFT of second reference, holds a plain wine JUG; Xie Xida at right of the trio, the heavier rounder man at RIGHT of second reference, holds a plate of cooked food. Give each role a separate clear prop and coherent hands. Their warm earnest sociability meets Ximen fatigued gratitude. A few dishes on table behind; rolled ritual scrolls at far edge hint the ceremony has finished. Painted candlelit amber on faces against indigo night, drawn contour lines, no generic golden palace. No Taoist ghosts, no crane, no visible dead woman. No speech text, no calligraphy. Focus on the bodily offer of shared drink after ritual.",
       "references": [
-        "ximen",
-        "guests-030"
+        "references/ximen.png（原说明：ximen）",
+        "references/guests-030.png（原说明：guests-030）"
       ],
-      "image": "assets/066-03.png",
+      "image": "assets/066-03.webp",
       "status": "generated_reviewed",
       "review": "已查看修正版：三名跪者各持杯、壶、菜，西门庆完整着衣受酒。吴大舅首图误沿用温秀才面貌，已改为方脸、短满须、贴头巾，与温秀才分开。未画伯爵声称的乘鹤显现；左右位置、酒器及菜品是补足。",
       "actualPrompt": "A finished 3:2 landscape literary illustration. Use the attached first image ONLY for fine gongbi ink-contour drawing, mineral pigment shading, silk texture, and the identity of Ximen (left seated man in that reference). Not a photograph, not anime, not stage posing. Late-Ming everyday material language, historically cautious, no modern items, no text or pseudo-calligraphy anywhere, no watermark, no nudity or gore. Exactly four men in a medium-close slightly elevated view at a household dining table in late evening. Ximen with the locked long-faced identity, pale mourning clothes, stands at right receiving a small cup. In front of him THREE fully clothed adult men kneel together: Wu the maternal uncle at center holds the small CUP forward; Ying Bojue at left, the SLIM mustached man at LEFT of second reference, holds a plain wine JUG; Xie Xida at right of the trio, the heavier rounder man at RIGHT of second reference, holds a plate of cooked food. Give each role a separate clear prop and coherent hands. Their warm earnest sociability meets Ximen fatigued gratitude. A few dishes on table behind; rolled ritual scrolls at far edge hint the ceremony has finished. Painted candlelit amber on faces against indigo night, drawn contour lines, no generic golden palace. No Taoist ghosts, no crane, no visible dead woman. No speech text, no calligraphy. Focus on the bodily offer of shared drink after ritual.",
-      "styleEditPrompt": "Targeted identity correction only to the MIDDLE KNEELING MAN HOLDING THE CUP. He is Wu, the wife's elder brother, NOT the scholar Wen. Preserve his kneeling posture, both hands and cup, brown robe and all scene layout. Give him a DISTINCT naturally broad square face, stronger thick brows, a SHORT FULL dark beard along the jaw instead of Wen's pointed goatee, slightly broader nose and fuller cheeks, clearly adult around forties as an artistic convention. Change his simple cap to a plain dark close-fitting headcloth. Preserve every other face exactly: slim Ying at LEFT holding jug, plumper Xie holding plate, and Ximen at RIGHT in mourning. No extra men, no added props. Preserve hand-drawn fine gongbi contours and mineral color on silk, not photographic smoothing. No text anywhere."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "仪式之外，生意仍在安排",
-      "evidence": [
-        {
-          "chapter": 66,
-          "paragraph": 5,
-          "quote": "三个人都去。明年先打发崔大哥押一船杭州货来"
-        }
-      ],
-      "text": "本回开头仍在商量二十四日开船、打包与各处买布。这里只保留当场的采购计划，不把计划当成已完成的货运，也不扩写尚未发生的收益。"
-    },
-    {
-      "title": "本回外观补记：黄真人",
-      "text": "约三十、广颊长髯，黑髯而非白发老仙人；夜坛为金冠绛衣，与白日登坛鹤氅分开。",
-      "evidence": [
-        {
-          "chapter": 66,
-          "paragraph": 14,
-          "quote": "黄真人年约三旬"
-        }
-      ]
+      "styleEditPrompt": "Targeted identity correction only to the MIDDLE KNEELING MAN HOLDING THE CUP. He is Wu, the wife's elder brother, NOT the scholar Wen. Preserve his kneeling posture, both hands and cup, brown robe and all scene layout. Give him a DISTINCT naturally broad square face, stronger thick brows, a SHORT FULL dark beard along the jaw instead of Wen's pointed goatee, slightly broader nose and fuller cheeks, clearly adult around forties as an artistic convention. Change his simple cap to a plain dark close-fitting headcloth. Preserve every other face exactly: slim Ying at LEFT holding jug, plumper Xie holding plate, and Ximen at RIGHT in mourning. No extra men, no added props. Preserve hand-drawn fine gongbi contours and mineral color on silk, not photographic smoothing. No text anywhere.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

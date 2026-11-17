@@ -2,6 +2,35 @@
   "number": 93,
   "title": "第九十三回王杏庵仗义赒贫　任道士因财惹祸",
   "intro": "从雪夜的冷铺到河闸旁的庙，再到酒楼的小阁。陈经济一路遇到给他饭、住处和差事的人，每一处的门槛都不一样。",
+  "supplements": [
+    {
+      "title": "钱米铺为何设在码头",
+      "text": "原文把船到闸、进庙求福以及布施钱米写在一处。多出的粮钱再由徒弟处理，连起了庙中事务与码头买卖。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 32,
+          "quote": "都来庙里或求神福"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 32,
+          "quote": "在马头上开设钱米铺"
+        }
+      ]
+    },
+    {
+      "title": "杏庵所说的年纪",
+      "text": "任道士问年纪时，陈经济自己也说交新春二十四；这与杏庵入庙介绍的年岁相合。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "paragraph": 30,
+          "quote": "交新春二十四岁了"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "093-01",
@@ -34,14 +63,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen Jingji face only, age 24, youthful oval face, leaner unshaven from hardship, ref2 painting medium only. A lone fully clothed Chinese young man trudges through a late-imperial narrow brick alley at night in thick blowing snow, shoulders hunched, one hand holding a small cluster of bronze hand bells, wearing a threadbare gray-brown cotton coat and cloth cap. Low angle with black ice and crusted snow, buildings recede into flurries, dim warm distant window. No bystanders, no fire drama; bells clear, hands believable.",
       "references": [
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/093-01.png",
+      "image": "assets/093-01.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 衣服破损与铃串尺寸为美术处理；图只见铃，原文另写打梆。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen Jingji face only, age 24, youthful oval face, leaner unshaven from hardship, ref2 painting medium only. A lone fully clothed Chinese young man trudges through a late-imperial narrow brick alley at night in thick blowing snow, shoulders hunched, one hand holding a small cluster of bronze hand bells, wearing a threadbare gray-brown cotton coat and cloth cap. Low angle with black ice and crusted snow, buildings recede into flurries, dim warm distant window. No bystanders, no fire drama; bells clear, hands believable.",
-      "knownDeviation": "衣服破损与铃串尺寸为美术处理；图只见铃，原文另写打梆。"
+      "knownDeviation": "衣服破损与铃串尺寸为美术处理；图只见铃，原文另写打梆。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "093-02",
@@ -75,14 +106,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 face of adult Chen Jingji only; ref2 paint only. Exactly two adult Chinese men at a modest furnished reception table: affluent yet plainspoken Wang Xuan aged 60+, gentle squared weathered face with short gray beard, layered black kerchief and muted pale blue Dao-style robe; exhausted young Chen in worn charcoal cotton receives a folded indigo padded robe across the table. Small strings of cash, a silver lump, a cup, simple cold winter daylight, no elaborate gold, no text, medium side shot focused on handoff.",
       "references": [
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/093-02.png",
+      "image": "assets/093-02.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 铜钱串数、银块大小按画面需要处理；数额看原文，不按成图估算。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 face of adult Chen Jingji only; ref2 paint only. Exactly two adult Chinese men at a modest furnished reception table: affluent yet plainspoken Wang Xuan aged 60+, gentle squared weathered face with short gray beard, layered black kerchief and muted pale blue Dao-style robe; exhausted young Chen in worn charcoal cotton receives a folded indigo padded robe across the table. Small strings of cash, a silver lump, a cup, simple cold winter daylight, no elaborate gold, no text, medium side shot focused on handoff.",
-      "knownDeviation": "铜钱串数、银块大小按画面需要处理；数额看原文，不按成图估算。"
+      "knownDeviation": "铜钱串数、银块大小按画面需要处理；数额看原文，不按成图估算。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "093-03",
@@ -117,14 +150,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use only older man Wang from the gift scene as face and kerchief reference; ref2 painted medium. Wide dusk exterior, historic Chinese canal temple near Linqing: flaring red walls at a splayed angle on either side of three dark vermilion doors, tall old pines and cypresses. In lower corner older Wang by his horse and young Chen in a new muted teal Dao robe by a smaller donkey, plus two adult attendants with a shared shoulder pole and covered gift boxes. At distance below, many modest wooden canal boats moored, reflected sunset and a suggestion of a low bridge. No exact plan or readable signs. Focus on geographic connection to working canal and modest scale of travelers.",
       "references": [
-        "093-02（王杏庵）",
-        "065-01（媒介）"
+        "assets/093-02.webp（原说明：093-02（王杏庵））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/093-03.png",
+      "image": "assets/093-03.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。 只示意山门、河闸与泊船之间的联系；成图不作可定位的测绘。",
       "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 use only older man Wang from the gift scene as face and kerchief reference; ref2 painted medium. Wide dusk exterior, historic Chinese canal temple near Linqing: flaring red walls at a splayed angle on either side of three dark vermilion doors, tall old pines and cypresses. In lower corner older Wang by his horse and young Chen in a new muted teal Dao robe by a smaller donkey, plus two adult attendants with a shared shoulder pole and covered gift boxes. At distance below, many modest wooden canal boats moored, reflected sunset and a suggestion of a low bridge. No exact plan or readable signs. Focus on geographic connection to working canal and modest scale of travelers.",
-      "knownDeviation": "只示意山门、河闸与泊船之间的联系；成图不作可定位的测绘。"
+      "knownDeviation": "只示意山门、河闸与泊船之间的联系；成图不作可定位的测绘。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "093-04",
@@ -157,13 +192,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 Chen adult male face, ref2 painted medium. One young adult Chinese novice in closed plain teal Dao robe at a used temple kitchen stove. Hands tipping a shallow brass long-handled scoop of warmed pale rice wine toward a plain small ceramic bowl beside one large glazed brown jar. At far side cooked pieces of chicken on a dish with a small dish of garlic vinegar, no raw or graphic remains. Low close tabletop, human face visible behind action; orange ember glow restrained, dark wood, no phoenix or symbols, no writing.",
       "references": [
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/093-04.png",
+      "image": "assets/093-04.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 Chen adult male face, ref2 painted medium. One young adult Chinese novice in closed plain teal Dao robe at a used temple kitchen stove. Hands tipping a shallow brass long-handled scoop of warmed pale rice wine toward a plain small ceramic bowl beside one large glazed brown jar. At far side cooked pieces of chicken on a dish with a small dish of garlic vinegar, no raw or graphic remains. Low close tabletop, human face visible behind action; orange ember glow restrained, dark wood, no phoenix or symbols, no writing."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 Chen adult male face, ref2 painted medium. One young adult Chinese novice in closed plain teal Dao robe at a used temple kitchen stove. Hands tipping a shallow brass long-handled scoop of warmed pale rice wine toward a plain small ceramic bowl beside one large glazed brown jar. At far side cooked pieces of chicken on a dish with a small dish of garlic vinegar, no raw or graphic remains. Low close tabletop, human face visible behind action; orange ember glow restrained, dark wood, no phoenix or symbols, no writing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "093-05",
@@ -197,42 +234,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face only; ref2 painting medium. Exactly TWO fully dressed adults. Moment of recognition at the top of wood stairs in a canal-side inn private alcove. A mature adult Chinese performer Feng Jinbao with long cheeks, slightly arched brows, restrained dark brick red closed jacket and tied hair holds a palm-size bronze hand gong by a short cord and has stopped as she recognizes a lean young Chinese man in a plain teal Dao outer robe across a small ebony table. Red lacquer stool, simple wine and fruit, green rail, quiet eye contact and a moist eye, warm inside light cool outside. No embrace, no lute or other people, no text.",
       "references": [
-        "chen-030（陈经济）",
-        "065-01（媒介）"
+        "references/chen-030.png（原说明：chen-030（陈经济））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/093-05.png",
+      "image": "assets/093-05.webp",
       "status": "generated",
       "review": "内置 image_gen 实际生成并本地保存；沿用无需另验收的要求。图像的小构件、面貌、服饰及空间细部不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face only; ref2 painting medium. Exactly TWO fully dressed adults. Moment of recognition at the top of wood stairs in a canal-side inn private alcove. A mature adult Chinese performer Feng Jinbao with long cheeks, slightly arched brows, restrained dark brick red closed jacket and tied hair holds a palm-size bronze hand gong by a short cord and has stopped as she recognizes a lean young Chinese man in a plain teal Dao outer robe across a small ebony table. Red lacquer stool, simple wine and fruit, green rail, quiet eye contact and a moist eye, warm inside light cool outside. No embrace, no lute or other people, no text."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "钱米铺为何设在码头",
-      "text": "原文把船到闸、进庙求福以及布施钱米写在一处。多出的粮钱再由徒弟处理，连起了庙中事务与码头买卖。",
-      "evidence": [
-        {
-          "chapter": 93,
-          "paragraph": 32,
-          "quote": "都来庙里或求神福"
-        },
-        {
-          "chapter": 93,
-          "paragraph": 32,
-          "quote": "在马头上开设钱米铺"
-        }
-      ]
-    },
-    {
-      "title": "杏庵所说的年纪",
-      "text": "任道士问年纪时，陈经济自己也说交新春二十四；这与杏庵入庙介绍的年岁相合。",
-      "evidence": [
-        {
-          "chapter": 93,
-          "paragraph": 30,
-          "quote": "交新春二十四岁了"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Ref1 adult Chen male face only; ref2 painting medium. Exactly TWO fully dressed adults. Moment of recognition at the top of wood stairs in a canal-side inn private alcove. A mature adult Chinese performer Feng Jinbao with long cheeks, slightly arched brows, restrained dark brick red closed jacket and tied hair holds a palm-size bronze hand gong by a short cord and has stopped as she recognizes a lean young Chinese man in a plain teal Dao outer robe across a small ebony table. Red lacquer stool, simple wine and fruit, green rail, quiet eye contact and a moist eye, warm inside light cool outside. No embrace, no lute or other people, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

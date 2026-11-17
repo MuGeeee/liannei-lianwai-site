@@ -1,0 +1,566 @@
+{
+  "number": 27,
+  "title": "第二十七回李瓶儿私语翡翠轩　潘金莲醉闹葡萄架",
+  "intro": "本回由东京回话、宋仁拦棺的惩处和赶造寿礼，转入六月初一的园中避暑。分花、合乐和投壶以物与动作相连，瓶儿的孕事自述、金莲的刺语与后段伤害则另作清楚说明。所有判断只据本回和已给的前回连续性，不借后事证明此刻人物。",
+  "supplements": [
+    {
+      "title": "来保复命与释盐客之请",
+      "text": "来保回话说太师收下揭帖礼物，并答应致书巡抚，令十二名寄监盐客释放。这是来保所报的指令与承诺，本回此段未另写十二人实际出监。来保此趟得盐商王四峯五十两，并奉差回乔大户；不把盐客王霁云与王四峯混为一人。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 5,
+          "quote": "太师老爷看了揭帖，把礼物收进去，交付明白。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 5,
+          "quote": "把山东沧州盐客王霁云等一十二名寄监者尽行释放。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 5,
+          "quote": "来保此遭回来，赚了盐商王四峯五十两银子。"
+        }
+      ]
+    },
+    {
+      "title": "宋仁被惩处，惠莲被烧化",
+      "text": "得知宋仁拦棺后，西门庆差人写帖送李知县。宋仁反被问作诈财图赖，受责打并被禁止缠扰；地方火甲受命眼同家人烧化尸身。正文接写宋仁归家着重气、害时疫，数日身死。这是本回已写结果，不推成单一病因，也不把县衙供案当作无辜与否的唯一证据。本次不画伤口、尸身与刺激刑罚。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "即令小厮：「请你姐夫来写帖儿。」"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "反问他打网诈财，倚尸图赖"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "再不许到西门庆家缠扰。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "即将尸烧化讫来回话。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "归家着了重气，害了一场时疫，不上几日，呜呼哀哉死了。"
+        }
+      ]
+    },
+    {
+      "title": "来旺儿差杭州：保留本回措辞",
+      "text": "本回寿礼段称“打发来旺儿杭州织造蟒衣”，而前回已经写来旺递解。这里仅保留此处原文措辞及前回的连续性疑点，不凭后回或全书知识改名、造一次返家，也不把杭州这件事画成已见人物旅程。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "西门庆打发来旺儿杭州织造蟒衣"
+        }
+      ]
+    },
+    {
+      "title": "避暑的贫富对照",
+      "text": "本回说话人先列农夫、客旅、边塞战士怕热，又列皇宫、富室、琳宫梵刹能避热，随后切入西门庆在宅避暑。此为叙述铺陈和批评的对照，不能把铺陈中的水晶桌、风车、冰山等尽数安到西门宅里。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 15,
+          "quote": "世上有三等人怕热，有三等人不怕热。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 15,
+          "quote": "原来这三等人不怕热。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "这西门庆起来，遇见天热，不曾出门，在家撒发披襟避暑。"
+        }
+      ]
+    },
+    {
+      "title": "瓶儿私语与席间刺语",
+      "text": "在翡翠轩私语中，瓶儿说自己已怀临月孕，请西门庆将就。临月孕先按瓶儿自述标注，不据本段推算受孕日期、月份或未来结果。金莲回来潜听，玉楼到后两人入轩。席间金莲借冰水、生果与“冰了胎”的话相刺，瓶儿羞窘。亲密过程本次未配图；侍女与儿童不放入成人性化场景。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 19,
+          "quote": "奴身中已怀临月孕，望你将就些儿。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 19,
+          "quote": "走在翡翠轩槅子外潜听。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "两个一齐走到轩内"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "我老人家不怕冰了胎，怕甚么？"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "羞的李瓶儿在傍脸上红一块，白一块。"
+        }
+      ]
+    },
+    {
+      "title": "雨后送行与折石榴花",
+      "text": "酒中大雨，少顷雨止、残虹与西日显现。小玉来请玉楼继续穿珠花，瓶儿说同往；西门庆送她们，玉楼弹月琴，众人唱到角门。两人回后边后，金莲想走被西门庆拉住；春梅留下月琴离去。金莲在太湖石畔折一枝雨后石榴花簪头。拉扯、调笑与后来亲密分开记，不自动美化为两人完全对等的自主。歌辞不全作园景实录。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 21,
+          "quote": "一阵大雨来，轩前花草皆湿。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 21,
+          "quote": "少顷雨止，天外残虹，西边透出日色来"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 25,
+          "quote": "玉楼把月琴递与春梅，和李瓶儿同往后去了。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 25,
+          "quote": "被西门庆一把手拉住了"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 25,
+          "quote": "见太湖石畔石榴花经雨盛开，戏折一枝，簪于云鬓之傍"
+        }
+      ]
+    },
+    {
+      "title": "投壶后的灌醉与伤害：未配图",
+      "text": "正文由投壶饮酒写到金莲被灌醉，继而出现束缚、成人性行为和伤害；春梅的参与也有叙述，年龄本章未核，不据职业或画面认作成年。后段金莲失去知觉，西门庆慌忙解缚，半日后她苏醒并明确说险丧性命、今后不可如此。只作非露骨文学说明，不复制操作细节，不据她中途话语消除醉态、权力或伤害问题。本次未向工具请求此类露骨图，故无工具拒绝事件。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 33,
+          "quote": "投了十数壶，把妇人灌的醉了"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 36,
+          "quote": "妇人则目瞑气息，微有声嘶，舌尖冰冷，四肢不收，亸然于袵席之上矣。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 36,
+          "quote": "西门庆慌了，急解其缚"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 36,
+          "quote": "今后再不可这般所为，不是耍处。"
+        }
+      ]
+    },
+    {
+      "title": "暮归与小铁棍索果",
+      "text": "日色已西，西门庆替金莲披衣，叫春梅秋菊收拾并扶她归房。随后春梅回来收拾、将关园门时，小铁棍从花架下钻出索果，她给他李子桃子并让去前边。文本未交代儿童此前究竟看见甚么，不造偷看场景，不把他画入成人性事旁观。",
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 37,
+          "quote": "叫了春梅秋菊来收拾衾枕，同扶他归房。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 37,
+          "quote": "来昭的儿子小铁棍儿従花架下钻出来"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 37,
+          "quote": "把了几个李子桃子与他"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "027-01",
+      "chapter": 27,
+      "title": "卷棚耳语，拦棺消息",
+      "excerpt": {
+        "chapter": 27,
+        "paragraph": 6,
+        "quote": "只见贲四来兴走来，见西门庆在卷棚内和来保说话，立在傍边。来保便往乔大户家去了。"
+      },
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "那贲四不敢言语。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "来兴儿向前附耳低言"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 6,
+          "quote": "听了心中大怒"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "来兴儿",
+        "贲四"
+      ],
+      "place": "西门宅卷棚",
+      "event": "来保离开后，贲四与来兴回报宋仁拦棺；贲四不敢开口，来兴近身低言。",
+      "why": "上一回的拦棺在此变成主人下令惩处的触发点，消息进入家内的姿态值得单独看。",
+      "composition": "左前西门庆坐，来兴在中间近身回话；贲四稍后停步，三人构成紧张三角。",
+      "summary": "来保刚回东京复命，又被差往乔家；贲四与来兴接着回禀丧事。贲四沉默，来兴附耳说出宋仁在化人场阻拦烧化的消息。西门庆由听信转为大怒。本图停在低声回话的一刻，随后动用县衙惩处宋仁的过程与结果另留文字，不能把拦棺写成无事收场。",
+      "psychology": {
+        "明写": "贲四不敢言语，来兴附耳低言，西门庆听后大怒。",
+        "推断": "一人沉默、一人压低声音，可读作对主人反应有所顾忌；具体目光与手势为构图表达。"
+      },
+      "social": "私宅中的一个口信紧接着变成送县的帖子，显示本回叙事中家内权势与衙门处分相接的路径；不据此推广为完整制度史。",
+      "explicit": [
+        "来保已经离开，不加入画面。",
+        "本图只有西门庆、来兴、贲四三人。",
+        "宋仁拦棺是所报之事，不另造他在卷棚同场。"
+      ],
+      "inference": {
+        "推断": "西门庆绷紧肩背与搁住的手，表现闻报后的怒意。",
+        "美术补足": "竹帘、坐具、灰绿色常服、日光方向及三人站位；无当场书写帖子的新增动作。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；器物尺度、衣色、工艺和园林空间未考定部分均为美术补足，不据生成图作史证。",
+      "references": [
+        "references/ximen.png",
+        "assets/025-04.webp",
+        "assets/018-04.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference roles: image 1 is Ximen Qing face/body only; image 2 use ONLY the man at the left holding a curtain for Lai Xing face; image 3 use ONLY the mature brown-clothed man pointing at timber for Ben Si face. Do not copy the women, workers, timber, or prior clothing. Exactly three men in a sheltered wooden roll-roof verandah in late spring or early summer daylight. Left foreground Ximen Qing, a tall slender adult with long face, straight brows and narrow eyes, seated in an understated sage robe, one hand resting tense on a plain armrest, lips tightened, listening rather than speaking. At center Lai Xing, mature long oval face, broad forehead, thin short moustache and small chin beard, dark cloth headwrap, plain brown-grey work robe, leans close to Ximen's ear and speaks quietly with one hand held modestly near his own chest. He does not touch Ximen. Behind him on the right Ben Si, mature broad rectangular face, short sparse moustache, brown cloth cap and taupe robe, stands silent and hesitant, hands held together low. Natural varied faces, no villain caricature. Table may hold only one plain closed tea cup, no letters, no writing, no weapons. Warm outdoor light beyond bamboo blind, darker intimate foreground. No other people and no punishment depicted.",
+      "image": "assets/027-01.webp",
+      "status": "generated",
+      "review": "已实际查看工具返回图并打开采用文件：恰三人，左西门庆、中来兴附耳、右贲四沉默；旧面貌差异保留，长脸与短髭身份可辨，手臂结构自然。无来保、宋仁或刑罚误入，无可读字。灰绿衣、案上盖盏、帘与站位均为美术补足，未改变回话时刻。可采用，无必须修改项。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference roles: image 1 is Ximen Qing face/body only; image 2 use ONLY the man at the left holding a curtain for Lai Xing face; image 3 use ONLY the mature brown-clothed man pointing at timber for Ben Si face. Do not copy the women, workers, timber, or prior clothing. Exactly three men in a sheltered wooden roll-roof verandah in late spring or early summer daylight. Left foreground Ximen Qing, a tall slender adult with long face, straight brows and narrow eyes, seated in an understated sage robe, one hand resting tense on a plain armrest, lips tightened, listening rather than speaking. At center Lai Xing, mature long oval face, broad forehead, thin short moustache and small chin beard, dark cloth headwrap, plain brown-grey work robe, leans close to Ximen's ear and speaks quietly with one hand held modestly near his own chest. He does not touch Ximen. Behind him on the right Ben Si, mature broad rectangular face, short sparse moustache, brown cloth cap and taupe robe, stands silent and hesitant, hands held together low. Natural varied faces, no villain caricature. Table may hold only one plain closed tea cup, no letters, no writing, no weapons. Warm outdoor light beyond bamboo blind, darker intimate foreground. No other people and no punishment depicted.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "027-02",
+      "chapter": 27,
+      "title": "金银趱造，太师寿礼",
+      "excerpt": {
+        "chapter": 27,
+        "paragraph": 9,
+        "quote": "西门庆刚了毕宋惠莲之事，就打点三百两金银，交顾银率领许多银匠，在家中卷棚内，打造蔡太师上寿的四阳捧寿的银人，每一座高尺有余；又打了两把金寿字壶，寻了两副玉桃杯，不消半月光景，都趱造完备。"
+      },
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "打点三百两金银"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "在家中卷棚内"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "四阳捧寿的银人，每一座高尺有余"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "两把金寿字壶"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "两副玉桃杯"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 9,
+          "quote": "五月二十八日离清河县"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "银匠"
+      ],
+      "place": "家中卷棚的临时作业处",
+      "event": "顾银率领银匠在宅内打造寿礼，西门庆出金银置办银人、金壶和玉杯。",
+      "why": "接在惠莲与宋仁遭遇之后的大额寿礼，使本回的金银、关系与日常享用形成具体衔接。",
+      "composition": "近景一名无名银匠低头锤整银制人形，另一名收拢小件；西门庆在右后侧观看，前案分列两壶与四杯。",
+      "summary": "惠莲之事刚了，西门庆便打点三百两金银，由顾银领银匠赶造蔡太师寿礼。银人、金壶与玉桃杯在半月内备妥，来保和吴主管五月二十八日启程。本图取宅中制作的过程；器物有原文名称与数量依据，具体样式未考定，不用画面冒充“四阳捧寿”的精确复原。",
+      "psychology": {
+        "明写": "寿礼赶造、购买并打包，随后由来保与吴主管送往东京。",
+        "推断": "家中组织工匠作业表现资源动员；西门庆亲看台案的站姿是美术补足，不是原文另记的一次监工。"
+      },
+      "social": "寿礼与前段释盐客消息接连出现，显示礼物在人情往来中的位置；三百两是本段金银数，不改写为全套费用或现代币值。",
+      "explicit": [
+        "三百两金银交顾银率领银匠。",
+        "银人每座高尺有余，原文未给全部数量。",
+        "金壶两把，玉桃杯两副；图按两副作四只成对小杯的美术解释。"
+      ],
+      "inference": {
+        "推断": "画中观看者置为西门庆，属于对宅中赶造工作的叙事整合。",
+        "美术补足": "银匠的匿名面貌、锤整方法、工具、桌案、杯的四只排列；银人造型与寿字壶精确形制未考，不画文字铭刻，不立器物考证结论。 银人画为通用立姿，不能识为四阳捧寿原式；金壶无可读寿字，玉杯叶纹从简。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；器物尺度、衣色、工艺和园林空间未考定部分均为美术补足，不据生成图作史证。",
+      "references": [
+        "未公开参考〔unpublished-reference-15df9833a7c7；过程图或旧参考不随本包发布〕"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit ONLY the four pale-jade peach-shaped vessels on the far right of the foreground table in the supplied image. They currently look like closed peach boxes. Convert EACH of these exactly FOUR jade objects into an OPEN drinking cup: remove the upper domed peach lid portion, retain the lower leaf-carved pale-jade base, show a thin peach-shaped oval rim and clearly visible shallow hollow interior seen from above. No lids anywhere. Keep them as two separated PAIRS, four total. Preserve the silver statuette, exactly two gold ewers, all three men, their faces, hands, garments, tool positions, wooden architecture, foliage, lighting, framing and the 3:2 painted gongbi/mineral-pigment style completely unchanged. Do not add inscriptions, tools, people or extra cups. The only change is four visibly open cup mouths.",
+      "image": "assets/027-02.webp",
+      "status": "generated",
+      "review": "首稿实际核看发现四玉器闭合似盖盒，已保留并一次定向编辑。现已查看编辑返回并打开采用图：恰三人、两金壶，右侧四只小玉杯均有明确口沿和空腔，两两成对；银人、人物与工匠动作保持。银人只是一座通用人形，非“四阳捧寿”的考证复原，玉杯叶纹与金壶形制均为美术处理，图无可读寿字。庆旁观是整合构图，不冒充明文监工。无须继续修改。",
+      "initialPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Use the reference only for Ximen Qing's long face, straight brows, narrow eyes and tall slender body. Create an early-summer household metalworking scene beneath a shaded Chinese wooden verandah, not a modern factory. Exactly three adult men. Foreground left an anonymous mature silver worker in plain dark brown work clothes bends his head down, tapping a small hammer against ONE upright unfinished silver human-form statuette roughly a little more than one traditional chi in height on the bench. Facial details of the anonymous worker are understated. Center-back one other anonymous worker handles a small plain tool tray, head inclined. Right-back Ximen stands in a muted grey-green robe and dark simple cap quietly watching the work. On the FRONT RIGHT of the bench place exactly TWO modestly ornate golden ewers with no readable inscriptions, and FOUR small pale-jade peach-shaped cups in two visibly paired groups. Separate silver figure on left, two gold ewers in middle-right, four cups far right so objects are countable and not overlapping. The exact historical form of the novel's auspicious silver figure and gold vessels is unknown: use restrained provisional human statuette and period-plausible ewer forms, no elaborate invented iconographic scene. No calligraphy. Worn hand tools, subdued summer light, silver and gold surfaces gently gleaming in the shade. No coins scattered, no bundles of money, no furnace spectacle, no other people.",
+      "actualPrompt": "Use case: precise-object-edit. Edit ONLY the four pale-jade peach-shaped vessels on the far right of the foreground table in the supplied image. They currently look like closed peach boxes. Convert EACH of these exactly FOUR jade objects into an OPEN drinking cup: remove the upper domed peach lid portion, retain the lower leaf-carved pale-jade base, show a thin peach-shaped oval rim and clearly visible shallow hollow interior seen from above. No lids anywhere. Keep them as two separated PAIRS, four total. Preserve the silver statuette, exactly two gold ewers, all three men, their faces, hands, garments, tool positions, wooden architecture, foliage, lighting, framing and the 3:2 painted gongbi/mineral-pigment style completely unchanged. Do not add inscriptions, tools, people or extra cups. The only change is four visibly open cup mouths.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "027-03",
+      "chapter": 27,
+      "title": "瑞香分花，翡翠轩前",
+      "excerpt": {
+        "chapter": 27,
+        "paragraph": 18,
+        "quote": "原来西门庆把傍边小开头早已摘下几朵来，浸在一只翠磁胆瓶内。"
+      },
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "在家撒发披襟避暑"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "西门庆递了一朵与李瓶儿。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "于是先抢过一枝来，插在头上。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "李瓶儿是大红蕉布比甲，金莲是银红比甲"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 18,
+          "quote": "密合色纱挑线穿花凤缕金拖泥裙子"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "潘金莲",
+        "李瓶儿"
+      ],
+      "place": "花园翡翠轩卷棚前",
+      "event": "西门庆把先摘的瑞香分给两人，金莲已先簪一枝，瓶儿接过一朵。",
+      "why": "花的分配把身体装饰、人际亲近和随后相互试探接在同一个夏日小动作中。",
+      "composition": "西门庆在左，金莲在中偏后已经簪花；李瓶儿右侧伸手接花，翠磁胆瓶置前案。",
+      "summary": "六月初一天热，西门庆披襟散发留在家中。金莲与瓶儿穿白银条纱衫、相近裙装而以比甲色分辨，携手来到翡翠轩。金莲先抢瑞香簪上，西门庆又递一朵给瓶儿。取景只到分花，未把随后私语与孕事提前化成夸大的身体暗示。",
+      "psychology": {
+        "明写": "两人携手笑来；金莲抢花插头，西门庆递花给瓶儿。",
+        "推断": "金莲侧看瓶儿接花，表现对分配的留意；此刻眼神不当作未来嫉恨的定论。"
+      },
+      "social": "纱衫、比甲、金边、网髻和面花是本段细写的居家妆饰。画中纱衣用不透的里层处理，材质纹理与密合色的具体色相只作美术解释。",
+      "explicit": [
+        "金莲银红比甲，瓶儿大红蕉布比甲，两人白银条纱衫与密合色裙。",
+        "金莲不戴冠，丝网髻、三枚翠面花。",
+        "翠磁胆瓶浸着先摘瑞香，金莲簪花后瓶儿接花。"
+      ],
+      "inference": {
+        "推断": "分花的前后动作压在相邻一刻，人物不同时做多项动作。",
+        "美术补足": "密合色处理为浅蜜米色，裙面金线纹样从简；花盆、案、椅和栏格位置不作空间考证。瓶儿孕态不另行夸画。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；器物尺度、衣色、工艺和园林空间未考定部分均为美术补足，不据生成图作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/pan-solo-030.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference 1 Ximen Qing face and body only. Reference 2 Pan Jinlian face only, narrow oval face with clear eyebrows; DO NOT carry over the indigo vest or peach skirt. Reference 3 Li Ping'er face only, smaller delicate oval face, fine arched brows; DO NOT carry over pink jacket or fan. Exactly THREE fully clothed people in a quiet shaded garden pavilion on a very hot June afternoon. Left Ximen with loosened black hair, pale jade-grey summer robe casually open ONLY a little at collar over a fully opaque white inner garment, torso covered. He offers ONE small cut daphne flower sprig with his right hand toward Li Ping'er on the right. Pan Jinlian stands middle slightly behind the offered flower, wearing an opaque-lined white fine silver-striped summer shirt, a SILVERY ROSE-RED sleeveless long vest edged with restrained gold and a pale honey-beige long skirt with fine flower-bird gold embroidery. No crown: black silk hairnet around a loose coiled bun, exactly three tiny green floral forehead/temple ornaments, and one daphne sprig already tucked beside the bun. Her hands relaxed together at waist while watching. Li Ping'er stands right, wearing matching opaque-lined white silver-striped shirt, a distinctly DEEP SCARLET RED sleeveless vest edged with gold and pale honey-beige embroidered long skirt. She gently receives the flower with one hand. Natural modest posture, no emphasis on chest or belly. Foreground a tiny turquoise-green glazed narrow-neck vase holds a few cut daphne blossoms in water; nearby a potted flowering daphne shrub. No attendants in the frame, no other people. Dense midsummer greens beyond, dry bright garden outside and cool subdued shade inside. Painted not photo.",
+      "image": "assets/027-03.webp",
+      "status": "generated",
+      "review": "已实际看返回图并打开采用文件：恰三人，左庆散发、中金莲已簪瑞香、右瓶儿接花；两女银红与深红比甲、白银条衣及浅蜜米裙可辨，翠磁胆瓶与花枝到位，手势衔接自然。无透视身体、无夸张孕肚、无侍女误入。三枚翠面花图中简化为额鬓小绿饰，具体细数不强调为复原；衣纹及花纹为美术补足。可采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference 1 Ximen Qing face and body only. Reference 2 Pan Jinlian face only, narrow oval face with clear eyebrows; DO NOT carry over the indigo vest or peach skirt. Reference 3 Li Ping'er face only, smaller delicate oval face, fine arched brows; DO NOT carry over pink jacket or fan. Exactly THREE fully clothed people in a quiet shaded garden pavilion on a very hot June afternoon. Left Ximen with loosened black hair, pale jade-grey summer robe casually open ONLY a little at collar over a fully opaque white inner garment, torso covered. He offers ONE small cut daphne flower sprig with his right hand toward Li Ping'er on the right. Pan Jinlian stands middle slightly behind the offered flower, wearing an opaque-lined white fine silver-striped summer shirt, a SILVERY ROSE-RED sleeveless long vest edged with restrained gold and a pale honey-beige long skirt with fine flower-bird gold embroidery. No crown: black silk hairnet around a loose coiled bun, exactly three tiny green floral forehead/temple ornaments, and one daphne sprig already tucked beside the bun. Her hands relaxed together at waist while watching. Li Ping'er stands right, wearing matching opaque-lined white silver-striped shirt, a distinctly DEEP SCARLET RED sleeveless vest edged with gold and pale honey-beige embroidered long skirt. She gently receives the flower with one hand. Natural modest posture, no emphasis on chest or belly. Foreground a tiny turquoise-green glazed narrow-neck vase holds a few cut daphne blossoms in water; nearby a potted flowering daphne shrub. No attendants in the frame, no other people. Dense midsummer greens beyond, dry bright garden outside and cool subdued shade inside. Painted not photo.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "027-04",
+      "chapter": 27,
+      "title": "三器合声，凉墩上的话",
+      "excerpt": {
+        "chapter": 27,
+        "paragraph": 20,
+        "quote": "一面令春梅旋取了一副红牙象板来，教李瓶儿拿着。他两个方纔轻舒玉指，款跨鲛绡，合着声唱〈鴈过声〉，丫鬟绣春在傍打扇。"
+      },
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "西门庆居上坐，三个妇人两边打横"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "只坐豆青磁凉墩儿"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "取月琴来教玉楼、取琵琶教金莲弹"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "一副红牙象板来，教李瓶儿拿着"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 20,
+          "quote": "羞的李瓶儿在傍脸上红一块，白一块。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "潘金莲",
+        "孟玉楼",
+        "李瓶儿"
+      ],
+      "place": "翡翠轩凉亭酒席",
+      "event": "玉楼弹月琴，金莲弹琵琶，瓶儿执红牙象板，西门庆居上听唱。",
+      "why": "同席的三个乐器由谁会、谁不会而分配；合唱之后的生冷话语又把孕事放进公开席间。",
+      "composition": "左前金莲坐豆青瓷墩执琵琶，后左玉楼坐椅持圆身月琴，右前瓶儿持一副板，后右西门庆上坐听唱。",
+      "summary": "梳洗后西门庆设酒，金莲不肯只与玉楼演唱，让不会弹拨的瓶儿也执板。三人于是同声，玉楼月琴、金莲琵琶、瓶儿红牙象板各有分工。金莲独坐豆青凉墩，随后又借冰水生果说到“冰了胎”，瓶儿羞窘。本图止在合乐，席间的言语冲突另以原文说明。",
+      "psychology": {
+        "明写": "金莲要求瓶儿也持乐器，瓶儿执板；金莲只吃生冷，后来以话刺她，瓶儿羞窘。",
+        "推断": "合乐一刻的神态保留差异，尚不把后续羞窘强加为全场固定表情。"
+      },
+      "social": "同一次避暑宴席中，表演、饮酒与侍候并不均等。绣春打扇为正文事实，本图裁在席内四人，侍女留在画外，不据其职业或画外状态确定年龄。",
+      "explicit": [
+        "恰四名主要人物，西门庆上坐，三个妇人两边。",
+        "金莲琵琶、玉楼月琴、瓶儿红牙象板。",
+        "金莲坐豆青瓷凉墩，其余用椅。",
+        "冰盆沉李浮瓜；未把歌辞中的景物当作现场实录。"
+      ],
+      "inference": {
+        "推断": "合乐与听曲凝为同一时刻，四人具体对视由美术安排。",
+        "美术补足": "玉楼淡青绿夏衣、桌案与器皿形制、屏风和座位的左右安排；红牙象板画为红褐色板，不由图判别实际材料。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；器物尺度、衣色、工艺和园林空间未考定部分均为美术补足，不据生成图作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/pan-solo-030.png",
+        "references/yulou.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference roles in order: 1 Ximen Qing only face/body, 2 Pan Jinlian only face, 3 Meng Yulou only face/body (taller frame, faint cheek pockmark texture), 4 Li Ping'er only face/body (smaller delicate face). Disregard prior clothing and props in all references. Exactly FOUR fully clothed adult main figures at a summer garden pavilion wine table, framed so any servants remain OUTSIDE the picture. No children, no extra background people. The action is a restrained musical performance. Front LEFT Pan Jinlian sits upright on a pale BEAN-GREEN GLAZED CERAMIC COOL STOOL, not a chair. She holds a pear-shaped PIPA, four strings, slightly diagonal across her front, one hand plucks and the other touches the neck. White silver-striped opaque-lined shirt, silvery ROSE-RED gold-edged sleeveless vest, pale honey-beige long skirt, black silk hairnet with no crown, tiny green face flowers and daphne sprig. Back LEFT Meng Yulou in a restrained pale teal-green opaque summer robe and modest black bun sits on a wooden chair and plays a SHORT-NECK ROUND-BODIED YUEQIN moon-lute, clearly circular soundbox and short neck, completely distinct from the pear-shaped pipa. Preserve faint small pockmark texture on cheeks, natural face, not cosmetic perfection. Front RIGHT Li Ping'er in white opaque-lined silver-striped shirt, DEEP SCARLET red sleeveless gold-edged vest and pale honey-beige long skirt holds a PAIR OF SHORT FLAT RED-BROWN RHYTHM CLAPPERS, one in each hand, chest-height with ample separation so shapes read clearly; not drumsticks or fans. Back RIGHT Ximen Qing in pale jade summer robe and neat simply tied hair sits on the upper seat, attentive to the musicians, hands down rather than conducting. Low table only modest wine ewer, small cups and plain fruit plates, not a large feast obscuring instruments. Off to the side a basin with some floating plums and small melon pieces, a few pieces of ice visible. Natural summer noon shade with garden behind. No exaggerated pregnancy silhouette, no alcohol intoxication, no sensual posing.",
+      "image": "assets/027-04.webp",
+      "status": "generated",
+      "review": "已实际看返回图并打开采用文件：恰四主要人物，左前金莲梨形琵琶并坐豆青瓷墩，左后玉楼圆身短颈月琴，右前瓶儿持一对红褐平板，右后庆上座听曲。乐器各异，手臂和手势自然，玉楼微麻面纹可见；无侍女儿童加入。盆内冰果在位，暂取合乐时刻，未把后续羞窘强加为恒常表情。面花未精确描足、金边花纹与器物形制从简，属非关键美术差异。可采用。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference roles in order: 1 Ximen Qing only face/body, 2 Pan Jinlian only face, 3 Meng Yulou only face/body (taller frame, faint cheek pockmark texture), 4 Li Ping'er only face/body (smaller delicate face). Disregard prior clothing and props in all references. Exactly FOUR fully clothed adult main figures at a summer garden pavilion wine table, framed so any servants remain OUTSIDE the picture. No children, no extra background people. The action is a restrained musical performance. Front LEFT Pan Jinlian sits upright on a pale BEAN-GREEN GLAZED CERAMIC COOL STOOL, not a chair. She holds a pear-shaped PIPA, four strings, slightly diagonal across her front, one hand plucks and the other touches the neck. White silver-striped opaque-lined shirt, silvery ROSE-RED gold-edged sleeveless vest, pale honey-beige long skirt, black silk hairnet with no crown, tiny green face flowers and daphne sprig. Back LEFT Meng Yulou in a restrained pale teal-green opaque summer robe and modest black bun sits on a wooden chair and plays a SHORT-NECK ROUND-BODIED YUEQIN moon-lute, clearly circular soundbox and short neck, completely distinct from the pear-shaped pipa. Preserve faint small pockmark texture on cheeks, natural face, not cosmetic perfection. Front RIGHT Li Ping'er in white opaque-lined silver-striped shirt, DEEP SCARLET red sleeveless gold-edged vest and pale honey-beige long skirt holds a PAIR OF SHORT FLAT RED-BROWN RHYTHM CLAPPERS, one in each hand, chest-height with ample separation so shapes read clearly; not drumsticks or fans. Back RIGHT Ximen Qing in pale jade summer robe and neat simply tied hair sits on the upper seat, attentive to the musicians, hands down rather than conducting. Low table only modest wine ewer, small cups and plain fruit plates, not a large feast obscuring instruments. Off to the side a basin with some floating plums and small melon pieces, a few pieces of ice visible. Natural summer noon shade with garden behind. No exaggerated pregnancy silhouette, no alcohol intoxication, no sensual posing.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "027-05",
+      "chapter": 27,
+      "title": "葡萄架下，四墩一壶",
+      "excerpt": {
+        "chapter": 27,
+        "paragraph": 33,
+        "quote": "二人到于架下，原来放着四个凉墩，有一把壶在傍。金莲把月琴倚了，和西门庆投壶。"
+      },
+      "evidence": [
+        {
+          "chapter": 27,
+          "paragraph": 31,
+          "quote": "两人并肩而行"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 32,
+          "quote": "四面雕栏石甃，周围翠叶深稠。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 33,
+          "quote": "四个凉墩，有一把壶在傍"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 33,
+          "quote": "金莲把月琴倚了，和西门庆投壶。"
+        },
+        {
+          "chapter": 27,
+          "paragraph": 33,
+          "quote": "西门庆与妇人对面坐着，投壶耍子"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "潘金莲"
+      ],
+      "place": "花园葡萄架下",
+      "event": "两人来到葡萄架，金莲倚下月琴，与西门庆相对投壶。",
+      "why": "选择饮醉与伤害之前的明确日常活动；壶、四个凉墩和倚着的月琴共同辨认此处。",
+      "composition": "左金莲、右西门庆，各坐一墩相对；另两墩留空，正中地面投壶，一侧斜倚圆身月琴，顶上葡萄密叶。",
+      "summary": "雨后两人走过碧池、木香亭和翡翠轩，来到葡萄架。这里有四个凉墩与一把壶，金莲先把月琴倚下，随后与西门庆对坐投壶。画面取游戏初始，保留浓叶、石栏和圆琴的地点记号；后续灌醉与伤害并不因这一帧日常游乐而被抹掉，另以非露骨说明记明。",
+      "psychology": {
+        "明写": "二人并肩至葡萄架下；金莲倚下月琴，二人相对投壶。",
+        "推断": "金莲手持投矢、双方望向壶口属于对游戏动作的美术展开；不把此刻读成后段伤害的同意。"
+      },
+      "social": "投壶在此与饮酒相连，正文后来写十数壶后金莲被灌醉。图只选初始游戏，不把酒局的权力关系改写为毫无后果的风雅展示。",
+      "explicit": [
+        "四个凉墩、一把投壶，月琴倚在一旁。",
+        "两人都穿着衣服，取景在饮醉与后段伤害以前。",
+        "不画春梅、秋菊或小铁棍与后段性事同场。"
+      ],
+      "inference": {
+        "推断": "投矢的长度、手势及一人将投一人观看的时序为动作设计。",
+        "美术补足": "四墩排布、投壶形制、地面与栏杆构造、雨后侧光；葡萄颜色从正文铺陈取意，不据图断定植物成熟节令。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；器物尺度、衣色、工艺和园林空间未考定部分均为美术补足，不据生成图作史证。",
+      "references": [
+        "references/ximen.png",
+        "references/pan-solo-030.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference 1 Ximen Qing face/body only. Reference 2 Pan Jinlian face only; disregard the indigo vest, sewing basket and old skirt. Exactly TWO fully clothed adults playing the traditional arrow-tossing game TOUHU beneath a lush grape arbor after a summer shower. Pan at LEFT sits upright on one plain pale green ceramic cooling stool and holds one thin blunt wooden game arrow loosely, hand forward ready to toss. Her clothes remain exactly as the day scene: opaque-lined white silver-striped summer shirt, silvery ROSE-RED sleeveless gold-edged vest, pale honey-beige long skirt, a black silk hairnet without crown and a small red pomegranate flower beside her bun, from the flower she placed after rain. No daphne sprig now. Ximen at RIGHT sits facing her on a second cooling stool, pale jade-grey opaque summer robe completely covering his body, loose simple tied hair, empty hands relaxed and looking toward the game vessel. Place exactly FOUR cooling stools TOTAL: one under each seated person, and TWO distinctly visible EMPTY stools set behind them, not partly hidden. On ground between them ONE tall narrow-neck bronze-colored arrow-toss vessel with two small side ears and no handle, no second game vessel, and a few blunt wooden arrows resting neatly nearby. A round-bodied SHORT-neck yueqin moon-lute leans safely against the left stone balustrade. No pipa. Surrounding carved stone railing and stone paving, thick green grape canopy with a few restrained hanging pale-green and purple clusters; wet stone and mild westward light after rain. No food, no wine jug, no servants, no children, no bed, no cushions or bedding, no ropes, no nudity, no intimate actions. This is the earlier ordinary social game only. Faces varied and calm, no tipsiness. Natural cinematic diagonal depth, not posed symmetrical portraits.",
+      "image": "assets/027-05.webp",
+      "status": "generated",
+      "review": "实际查看生成返回并打开采用文件：恰二人、四个凉墩（两人各坐一、后景恰两空墩）、中央一只投壶；左金莲持投矢、右庆望向壶口，月琴倚左栏，葡萄叶密、地面雨后微湿，金莲改簪石榴花。人物手臂自然，均衣装完整，无侍女儿童、衾枕、束缚或后段性事误入。投壶具体纹饰、壶与栏架尺度、葡萄色泽为美术补足，非精确园林或植物物候证据。可采用，无必须修改项。",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours, mineral pigment washes on subtly textured paper, natural cinematic depth, realistic individually recognizable faces and worn everyday late-Ming material life. Painted, not photographic, not anime, not glossy fantasy. No lettering, signature, watermark, readable inscriptions or modern objects. The source is a novel, not a verified architectural reconstruction. Reference 1 Ximen Qing face/body only. Reference 2 Pan Jinlian face only; disregard the indigo vest, sewing basket and old skirt. Exactly TWO fully clothed adults playing the traditional arrow-tossing game TOUHU beneath a lush grape arbor after a summer shower. Pan at LEFT sits upright on one plain pale green ceramic cooling stool and holds one thin blunt wooden game arrow loosely, hand forward ready to toss. Her clothes remain exactly as the day scene: opaque-lined white silver-striped summer shirt, silvery ROSE-RED sleeveless gold-edged vest, pale honey-beige long skirt, a black silk hairnet without crown and a small red pomegranate flower beside her bun, from the flower she placed after rain. No daphne sprig now. Ximen at RIGHT sits facing her on a second cooling stool, pale jade-grey opaque summer robe completely covering his body, loose simple tied hair, empty hands relaxed and looking toward the game vessel. Place exactly FOUR cooling stools TOTAL: one under each seated person, and TWO distinctly visible EMPTY stools set behind them, not partly hidden. On ground between them ONE tall narrow-neck bronze-colored arrow-toss vessel with two small side ears and no handle, no second game vessel, and a few blunt wooden arrows resting neatly nearby. A round-bodied SHORT-neck yueqin moon-lute leans safely against the left stone balustrade. No pipa. Surrounding carved stone railing and stone paving, thick green grape canopy with a few restrained hanging pale-green and purple clusters; wet stone and mild westward light after rain. No food, no wine jug, no servants, no children, no bed, no cushions or bedding, no ropes, no nudity, no intimate actions. This is the earlier ordinary social game only. Faces varied and calm, no tipsiness. Natural cinematic diagonal depth, not posed symmetrical portraits.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "number": 48,
+  "title": "第四十八回曾御史参劾提刑官　蔡太师奏行七件事",
+  "intro": "安童的递诉引出重查与参劾，清明祭祖的声势映出婴儿受惊的细小身体反应；两官转向京城门路，公文、礼物与商业消息最终在西门宅汇合。只据本回及此前，不以预告、人物说法或后文补定因果。",
+  "supplements": [
+    {
+      "title": "检尸、误拘与翻案：未另配图",
+      "text": "狄县丞循旋风寻得岸边埋尸，误指慈惠寺众僧谋杀并施酷刑。曾御史从埋尸行为与牵连人数察出疑点，后令安童认尸，放众僧、重审两船家并提苗青。旋风是叙事所写的寻尸线索，不作现实司法方法或神异因果证明；本次不另画尸体与施刑。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 7,
+          "quote": "先把长老一箍两拶，一夹一百敲"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 7,
+          "quote": "旣是此僧谋死，尸必弃于河中，岂反埋于岸上？"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 7,
+          "quote": "回报曾公，即把众僧放回。"
+        }
+      ]
+    },
+    {
+      "title": "赃银余波：韩家新屋与夏家生员",
+      "text": "王六儿韩道国以所得银衣添首饰、衣物、丫头。西门庆以风水为由要隔壁拆站台，韩家改在自家盖两间小房，用三十两；西门庆送酒肉犒劳。夏提刑得银后令十八岁的夏承恩入武学，众官出人情庆贺。只记分散花费与文字所列，不据此编完整账目。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 10,
+          "quote": "于是使了三十两银子，又盖了两间平房起来。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 11,
+          "quote": "把儿子夏承恩，年十八岁，干入武学肄业，做了生员。"
+        }
+      ]
+    },
+    {
+      "title": "桃花圈与归轿：未另配图",
+      "text": "卷棚后歇息房内，潘金莲与陈经济借逗孩子调笑，随后将桃花圈套到他帽上，出门被西门大姐看见；经济取下丢了未言。归途奶子独坐小轿，月娘仍派画童跟定。此处只保留本回行为，不用后文解释其关系或赋予桃花宿命象征；未向工具请求亲密画面。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 14,
+          "quote": "金莲将那一枝桃花儿做了一个圈儿，悄悄套在经济帽子上。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 14,
+          "quote": "经济取下来丢了，一声儿也没言语。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 15,
+          "quote": "月娘还不放心，又使回画童儿来，叫他跟定着奶子轿子"
+        }
+      ]
+    },
+    {
+      "title": "归家惊哭与求治：人物病因说法分开",
+      "text": "官哥儿回家惊哭吐奶，月娘请刘婆子及小儿科太医，家中忙乱一夜。刘婆称惊气入肚、路遇五道将军，留丸药又烧纸跳神；文本写孩子睡后不哭吐、身热未退。这是小说所写就诊与症状变化，不证明鬼神病因或药物效用，也不作医疗建议。月娘责奶子疏忽，如意儿则陈述途中裹紧、到门前冷战，不能直接裁成奶子过错。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 19,
+          "quote": "夜间只是惊哭，不肯吃奶，但吃下奶去，就吐了。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 19,
+          "quote": "又请小儿科太医，开门阖户乱了一夜。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 19,
+          "quote": "睡了一觉，不惊哭吐奶了，只是身上热还未退。"
+        }
+      ]
+    },
+    {
+      "title": "七件事：小说中的条陈与批旨",
+      "text": "本回列七项：罢科举改学校升贡，罢讲议财利司，更盐钞法，制钱法，行结粜俵籴，纳免夫钱，置提举御前人舡所；随后写旨意准行。这些按小说公文照录概括，不当已核实宋史制度沿革。来保前文行程称六日，回禀又说五日，保留两处字样差异不强行统一。文末预告和命数诗未纳入当前判断。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 24,
+          "quote": "第一曰罢科举取士，悉由学校升贡。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 25,
+          "quote": "二曰罢讲议财利司。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 26,
+          "quote": "三曰更盐钞法。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 27,
+          "quote": "四曰制钱法"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 28,
+          "quote": "五曰行结粜俵籴之法。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 30,
+          "quote": "六曰诏天下州郡纳免夫钱。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 31,
+          "quote": "七曰置提举御前人舡所。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 32,
+          "quote": "都依拟行，该部知道。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 20,
+          "quote": "只六日就赶到东京城内。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 33,
+          "quote": "只五日就赶到京中"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "048-01",
+      "chapter": 48,
+      "title": "察院呈书：等到放告之后",
+      "people": [
+        "安童",
+        "曾孝序",
+        "吏典"
+      ],
+      "place": "东昌府察院公堂",
+      "event": "安童随放告牌入内，待众事发放后跪呈黄通判书信，曾御史命接上。",
+      "why": "相同冤案换了递诉入口；安童先判断门禁，再借放告程序把信送到案头。",
+      "composition": "前景右侧安童双膝跪地举书，左侧吏典俯身接取；曾御史在后上方案后看向来信。",
+      "summary": "安童到东昌府探知巡按所在，想到若只称送信恐被挡在门外，便先写状、等放告牌。待诸事发放完毕，他才跪到丹墀上，将信高举。曾御史命人接信，随后取状批令查验尸首、连卷详报，案件由此进入重查。",
+      "psychology": {
+        "明写": "安童自思门人可能不放，决意随放告牌入内；曾御史命接书并批查。",
+        "推断": "高举信封的紧张与案上目光的专注是对此刻动作的阅读，不以容貌证明清廉。"
+      },
+      "social": "门禁、放告与同年书信共同构成递诉路径；文本肯定曾御史正气，也显示正式程序之外的人际引介。",
+      "explicit": [
+        "安童先写状，随放告牌进去，待事情发放净后跪下。",
+        "书双手举高，吏典接上，曾御史拆看。"
+      ],
+      "inference": [
+        "厅堂、人数裁切、衣色、信封折法和新建曾御史五官为美术补足。",
+        "安童沿用047-01少年面貌，干衣与整发不沿袭落水状态；不统一十七八岁为已成年。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离文本；宋代故事设定与宽泛晚明视觉参考分开。图中家具、衣装及空间不作精确历史复原；生成图不是历史证据。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 3,
+          "quote": "这安童就随状牌进去。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 3,
+          "quote": "这安童方纔把书双手举得高高的呈上。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 6,
+          "quote": "仰东平府府官，従公查明，验相尸首，连卷详报。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 48,
+        "paragraph": 3,
+        "quote": "这安童就随状牌进去。待把一应事情发放净了，方走在丹墀上跪下。两边左右问是做甚么的，这安童方纔把书双手举得高高的呈上。"
+      },
+      "references": [
+        "assets/047-01.webp"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference image 1 ONLY the young boy on the RIGHT, Antong: narrow oval face, soft youthful cheeks, straight brows and small dark eyes; retain age seventeen or eighteen without aging him into a mature man. NOT the old fisherman. Spring daylight inside a sober judicial hall, a letter being accepted at a public hearing, exactly THREE people. At lower RIGHT Antong in dry plain faded indigo cloth jacket, tidy simple hair knot, KNEELS on both knees and raises a small folded paper letter in BOTH hands above chest height. At LEFT a plain gray-robed clerk bends down with hands extended to receive the letter, hands distinct and natural, no grabbing. At upper center behind a broad used timber writing desk sits Censor Zeng Xiaoxu, newly designed distinct adult face: lean rectangular face, pronounced cheekbones, long straight nose, natural medium brows, short neat dark moustache and narrow dark chin beard, composed alert gaze. He wears a sober blue-green official robe and black winged official cap, looking toward the letter, no halo or supernatural moral symbolism. A small brush, inkstone and closed case at desk, no readable inscription. Clear low-to-high sightline from kneeling petitioner to seated official, restrained dignified colors, court architecture only generic, not a precise institutional reconstruction. No weapons, no kneeling old man, no injury, no additional crowd.",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference image 1 ONLY the young boy on the RIGHT, Antong: narrow oval face, soft youthful cheeks, straight brows and small dark eyes; retain age seventeen or eighteen without aging him into a mature man. NOT the old fisherman. Spring daylight inside a sober judicial hall, a letter being accepted at a public hearing, exactly THREE people. At lower RIGHT Antong in dry plain faded indigo cloth jacket, tidy simple hair knot, KNEELS on both knees and raises a small folded paper letter in BOTH hands above chest height. At LEFT a plain gray-robed clerk bends down with hands extended to receive the letter, hands distinct and natural, no grabbing. At upper center behind a broad used timber writing desk sits Censor Zeng Xiaoxu, newly designed distinct adult face: lean rectangular face, pronounced cheekbones, long straight nose, natural medium brows, short neat dark moustache and narrow dark chin beard, composed alert gaze. He wears a sober blue-green official robe and black winged official cap, looking toward the letter, no halo or supernatural moral symbolism. A small brush, inkstone and closed case at desk, no readable inscription. Clear low-to-high sightline from kneeling petitioner to seated official, restrained dignified colors, court architecture only generic, not a precise institutional reconstruction. No weapons, no kneeling old man, no injury, no additional crowd.",
+      "image": "assets/048-01.webp",
+      "status": "generated",
+      "review": "已逐张展开核看1536×1024采用图：恰三人，右前安童双膝跪地、双手举书，左吏典弯身接取，后中曾御史坐案后看向来信。安童确实沿用047-01右侧少年脸，未增龄；旧蓝衣的补丁、散发与泪痕仍带救人参考的视觉痕迹，此处视为美术补足，不声称本回明写湿衣或哭泣。信封、举书与接手动作清楚，手部、跪姿和人数无显著错误；曾御史新脸宽窄分明、短髭与窄下颏须，不用面貌判断品行。春花、堂屋、案具、服色、补子与帽形为宽泛艺术设置，不作制度考证；无可读字、血迹或额外人物。采用，不为衣服细节重做。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "048-02",
+      "chapter": 48,
+      "title": "祭声骤起：掩耳抱往后边",
+      "people": [
+        "吴月娘",
+        "李瓶儿",
+        "如意儿",
+        "官哥儿"
+      ],
+      "place": "五里原祖坟祭场边缘",
+      "event": "锣鼓响起，官哥儿伏在奶子怀里，月娘催促避开，李瓶儿叫停乐声并吩咐掩耳抱走。",
+      "why": "祭祖的声势与婴儿的身体反应在同一场合相撞，月娘先前的劝阻有了可见回应。",
+      "composition": "近景右侧奶子背向观者抱婴儿，李瓶儿侧身伸手示意护耳，左侧月娘指向后方；远处石香炉与一名乐工背影。",
+      "summary": "西门庆坚持让未满周岁的官哥儿随众祭祖。清明祭场锣鼓齐响，孩子在奶子怀里伏着不动。月娘催李瓶儿让奶子抱走，李瓶儿忙叫玳安停锣鼓，并嘱掩耳往后边去。图取这一保护动作，不把后来刘婆子的惊气说当作病因证明。",
+      "psychology": {
+        "明写": "孩子受响器惊吓，月娘责怪执意带来的决定，李瓶儿连忙吩咐。",
+        "推断": "两位主母急切的目光与奶子收紧手臂为动作情境推断；不画亡魂或预兆。"
+      },
+      "social": "盛大的家族仪式以成人秩序为中心，照料者却必须随时回应婴儿承受能力；此处的争执落在谁有权决定出行。",
+      "explicit": [
+        "出南门到五里原，明堂神台、香炉、烛台为白玉石，周围松柏。",
+        "锣鼓齐响后官哥儿伏在奶子怀里，瓶儿令停乐、掩耳抱去。"
+      ],
+      "inference": [
+        "只画祭场侧边局部，不以少数人物代表完整宾客人数。",
+        "奶子仅背侧面不建新脸；衣色、抱姿、局部景物与光线为美术补足。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离文本；宋代故事设定与宽泛晚明视觉参考分开。图中家具、衣装及空间不作精确历史复原；生成图不是历史证据。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 12,
+          "quote": "一来还不曾过一周"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 13,
+          "quote": "那官哥儿唬的在奶子怀里磕伏着，只倒咽气，不敢动一动儿。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 13,
+          "quote": "掩着孩儿耳朵，快抱了后边去罢。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 48,
+        "paragraph": 13,
+        "quote": "响器锣鼓一齐打起来。那官哥儿唬的在奶子怀里磕伏着，只倒咽气，不敢动一动儿。"
+      },
+      "references": [
+        "assets/020-02.webp",
+        "references/ping-013.png",
+        "assets/039-04.webp"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference 1 ONLY woman at RIGHT is Wu Yueniang, rounded full face and steady substantial build. Reference 2 ONLY Li Pinger face: petite build, pale elongated melon-seed face, delicate arched brows. Reference 3 ONLY the swaddled baby face, Guange, round infant cheeks and short fine hair, do not copy old costumes or any other adult. Early spring Qingming, day, at the SIDE EDGE of family tomb ceremony, cypress and pine, one pale stone incense burner behind, plain distant earth mound, fresh willow leaves. Foreground RIGHT a nurse Ruyier shown almost completely from the BACK in a sober brown-gray long jacket, holding a FULLY CLOTHED and securely wrapped very small baby close to her shoulder. Infant is below one year, not a toddler; its cheek visible in narrow side view as it curls against her. The nurse has one supporting arm under the baby body, other hand gently cupping the the baby outer ear, anatomically clear protective action. Center Li Pinger in a subdued pale peach spring jacket and dark skirt urgently gestures with an open hand toward the path behind, worried gaze at child. LEFT Wu Yueniang in muted slate-blue spring jacket and dark skirt points calmly but firmly toward the rear garden path, rounded recognizable face. Exactly these three adult women and one infant in foreground. At far-left background ONLY one small indistinct musician from behind with a lowered gong and mallet, no named identity. Festival sound is implied, no sound lettering. Human vulnerability within spacious ceremony, no ghost, no omen, no weapons, no distressing bodily injury, no nudity. No Ximen Qing in this cropped view, no grand procession added.",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference 1 ONLY woman at RIGHT is Wu Yueniang, rounded full face and steady substantial build. Reference 2 ONLY Li Pinger face: petite build, pale elongated melon-seed face, delicate arched brows. Reference 3 ONLY the swaddled baby face, Guange, round infant cheeks and short fine hair, do not copy old costumes or any other adult. Early spring Qingming, day, at the SIDE EDGE of family tomb ceremony, cypress and pine, one pale stone incense burner behind, plain distant earth mound, fresh willow leaves. Foreground RIGHT a nurse Ruyier shown almost completely from the BACK in a sober brown-gray long jacket, holding a FULLY CLOTHED and securely wrapped very small baby close to her shoulder. Infant is below one year, not a toddler; its cheek visible in narrow side view as it curls against her. The nurse has one supporting arm under the baby body, other hand gently cupping the the baby outer ear, anatomically clear protective action. Center Li Pinger in a subdued pale peach spring jacket and dark skirt urgently gestures with an open hand toward the path behind, worried gaze at child. LEFT Wu Yueniang in muted slate-blue spring jacket and dark skirt points calmly but firmly toward the rear garden path, rounded recognizable face. Exactly these three adult women and one infant in foreground. At far-left background ONLY one small indistinct musician from behind with a lowered gong and mallet, no named identity. Festival sound is implied, no sound lettering. Human vulnerability within spacious ceremony, no ghost, no omen, no weapons, no distressing bodily injury, no nudity. No Ximen Qing in this cropped view, no grand procession added.",
+      "image": "assets/048-02.webp",
+      "status": "generated",
+      "review": "已单独展开核看1536×1024采用图：近景三女一婴，左吴月娘圆润稳重、中李瓶儿较窄瓜子脸与小身量、右如意儿背面抱婴；远左仅一名无名乐工背影，人数与局部裁切合理。三张实际旧参考分别锁月娘、瓶儿和官哥儿，婴儿圆颊与闭眼面貌延续039-04，仍明显未满周岁体量。奶子手在婴儿耳侧与后脑轻护，孩子贴肩、另一臂承托，瓶儿伸掌催避、月娘指向后方，动作和手部无明显畸变。婴儿穿黑帽纹衣是旧参考视觉沿袭，本回未明衣装，已作为艺术补足；不据其闭眼断病。白石香炉、松柏、柳叶符合祭场宽泛条件，细小春花、服色纹样、头簪、土丘 与光向不作考证。无鬼神、预兆、身体暴露或可读字，采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "048-03",
+      "chapter": 48,
+      "title": "灯下参本：两官相对失色",
+      "people": [
+        "西门庆",
+        "夏提刑"
+      ],
+      "place": "西门宅卷棚客位",
+      "event": "夏提刑暮时密告参劾，西门庆急接邸报灯下观看，两人商议遣人赴京送礼。",
+      "why": "白日祭祖的官身荣耀转为黄昏灯下的官位危机；下层案卷开始触及问官本人。",
+      "composition": "桌左西门庆展开邸报，右夏提刑便衣坡巾相对；单盏无罩油灯照纸与失色的脸。",
+      "summary": "祭扫归家后，夏提刑带来要紧消息，将左右遣退，到卷棚私谈。参本逐项指陈两人贪鄙不职，西门庆接过邸报大惊。两人默默相对后转而筹措银两与器物，遣来保、夏寿星夜赴京。图停在灯下阅报的瞬间，未把之后处置提前画入。",
+      "psychology": {
+        "明写": "西门庆听见参例大惊失色，看后面面相觑、默默不言，继而称道在人为。",
+        "推断": "夏提刑皱眉等候答复是据其追问如何计较作的神态补足。"
+      },
+      "social": "参劾将官员行为写成可追问的文字，但当事人首先想到的是打点礼物与上层关系；私人客位成为规避监督的谋划场所。",
+      "explicit": [
+        "黄昏时分，夏提刑便衣坡巾，卷棚密谈，左右退下。",
+        "西门庆急接邸报灯下看；看后两官失色无言。"
+      ],
+      "inference": [
+        "西门庆此刻衣色未明，画普通深褐春袍，不把祭扫大红冠带直接延续。",
+        "油灯、桌面、纸折与座次为美术补足，纸面不生成文字。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离文本；宋代故事设定与宽泛晚明视觉参考分开。图中家具、衣装及空间不作精确历史复原；生成图不是历史证据。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 16,
+          "quote": "夏提刑便衣坡巾"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 16,
+          "quote": "左右都令下去。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 16,
+          "quote": "西门庆听了，大惊失色，急接过邸报来，灯下观看。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 18,
+          "quote": "西门庆看了一遍，唬的面面相觑，默默不言。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 48,
+        "paragraph": 18,
+        "quote": "西门庆看了一遍，唬的面面相觑，默默不言。夏提刑道：「长官，似此如何计较？」"
+      },
+      "references": [
+        "references/ximen.png",
+        "assets/019-03.webp"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference 1 ONLY Ximen Qing face and lean frame, long face straight brows narrow long eyes. Reference 2 ONLY Xia Tixing, the seated official at RIGHT behind the desk, broad long mature face, slightly heavy upper lids, natural straight brows, short gray-black moustache and longer chin beard. Do not copy other faces. Spring evening after sunset in a private timber canopy guest room. Exactly TWO men seated facing each other diagonally at a small used wooden table. LEFT Ximen in a plain dark umber spring robe with a simple black soft cap, tense pale expression with parted lips, holds an unfolded thin paper newsletter in two hands and stares down, body arrested in surprise. RIGHT Xia in plain gray-blue spring robe and soft dark POJIN cloth headwrap, NOT winged official cap, leans forward watching Ximen with concerned question. A single small open ceramic oil lamp without glass chimney illuminates paper and their faces from tabletop; exterior doorway dim twilight. No servants, no women, no treasure, no other light source. Empty chairs around edge, closed timber lattice, private unequal intimacy and political fear. Paper has only faint unresolvable strokes, absolutely no readable writing. Distinct natural faces, hands holding paper correctly, painted mineral colors with subtle hard-edged shadows.",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference 1 ONLY Ximen Qing face and lean frame, long face straight brows narrow long eyes. Reference 2 ONLY Xia Tixing, the seated official at RIGHT behind the desk, broad long mature face, slightly heavy upper lids, natural straight brows, short gray-black moustache and longer chin beard. Do not copy other faces. Spring evening after sunset in a private timber canopy guest room. Exactly TWO men seated facing each other diagonally at a small used wooden table. LEFT Ximen in a plain dark umber spring robe with a simple black soft cap, tense pale expression with parted lips, holds an unfolded thin paper newsletter in two hands and stares down, body arrested in surprise. RIGHT Xia in plain gray-blue spring robe and soft dark POJIN cloth headwrap, NOT winged official cap, leans forward watching Ximen with concerned question. A single small open ceramic oil lamp without glass chimney illuminates paper and their faces from tabletop; exterior doorway dim twilight. No servants, no women, no treasure, no other light source. Empty chairs around edge, closed timber lattice, private unequal intimacy and political fear. Paper has only faint unresolvable strokes, absolutely no readable writing. Distinct natural faces, hands holding paper correctly, painted mineral colors with subtle hard-edged shadows.",
+      "image": "assets/048-03.webp",
+      "status": "generated",
+      "review": "已单独展开核看1536×1024采用图：恰两男，左西门庆长脸直眉窄眼、双手展开邸报，右夏提刑宽长成熟脸、厚眼睑与灰黑髭须，分别实际沿用ximen及019-03右侧旧参考。西门庆眉紧唇微张，夏提刑倾身问话，纸张、手指和身体无明显失真。夏穿便衣、软布坡巾而非官帽，与本回文字相符；西门庆衣色与帽形未明，深褐袍为艺术补足，不把此前祭祖大红冠带延续。桌上无罩陶油灯、窗外暮色，符合灯下与黄昏；花帘、枝花、桌椅和光向为美术补足，不声称小说明写。无仆役、礼物、可读字或提前发生的处置，采用。\n",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "048-04",
+      "chapter": 48,
+      "title": "太师府交割：书信与礼物",
+      "people": [
+        "来保",
+        "夏寿",
+        "翟谦"
+      ],
+      "place": "东京太师府管家客位",
+      "event": "来保、夏寿赶到京中交割礼物，翟管家看信后承诺通过批语与部中关系压下参本。",
+      "why": "送礼的速度先于参本；镜头落在管家手中的信与已交到桌前的包裹，权力通过中间人运转。",
+      "composition": "左来保三分面递交清点后的礼包，右翟谦坐案边看信，夏寿背影立在左后；两把银壶与布包仅局部可见。",
+      "summary": "来保、夏寿日夜赶路到东京，入太师府将两家礼物交清。翟谦看过西门庆信，说参本尚未到，许诺使阁中批“该部知道”，再请兵部余尚书不覆上。图画交割与看信，不虚构蔡太师亲自受礼或已经办成；这时仍是管家的保证。",
+      "psychology": {
+        "明写": "翟谦说参本未到、令住两日，并许诺阻止覆上；来保夏寿交割礼物。",
+        "推断": "来保专注等待、管家从容看信的神态是据办事场景补足，不以容貌证明奸诈。"
+      },
+      "social": "官府监察被转成管家能够协调的文书步骤；礼物不只买一次接见，也购买对公文流转的干预。",
+      "explicit": [
+        "两家礼物已交割，翟谦看西门庆书信。",
+        "上京礼中含夏家二百两、两把银壶，西门家三百两及金镶玉寳石闹妆一条。"
+      ],
+      "inference": [
+        "布包与银壶只示意礼物类别，不依图清点重量；闹妆包裹不露，不猜其精确形制。",
+        "夏寿只背影不建脸；新建翟谦五官、客位、座次和衣色均为美术约定。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离文本；宋代故事设定与宽泛晚明视觉参考分开。图中家具、衣装及空间不作精确历史复原；生成图不是历史证据。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 18,
+          "quote": "到家拿了二百两银子，两把银壶。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 18,
+          "quote": "西门庆这里是金镶玉寳石闹妆一条，三百两银子。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 20,
+          "quote": "到太师府内见了翟管家，将两家礼物交割明白。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 20,
+          "quote": "吩咐兵部余尚书把他的本只不覆上来。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 48,
+        "paragraph": 20,
+        "quote": "按下这里家中烧纸与孩子下神。且说来保夏寿一路趱行，只六日就赶到东京城内。到太师府内见了翟管家，将两家礼物交割明白。"
+      },
+      "references": [
+        "未公开参考〔unpublished-reference-51bc57e745d1；过程图或旧参考不随本包发布〕",
+        "assets/018-01.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the painted 3:2 steward reception illustration. Image 2 is a face reference ONLY for Laibao, the brown kneeling man at front LEFT in that old image. Make one targeted correction in Image 1: replace the torn ragged robe and visible underclothes of the STANDING FOREGROUND LEFT man Laibao with an INTACT, SOUND, modest gray-brown long travel robe, plain hemp or cotton fabric, light normal creases, a simple waist tie, hem dusty only, NO holes, NO frayed tears, NO large patchwork. Keep his existing same lean angular mature face, high cheekbones, sparse short moustache, black cloth cap, body, standing position and both hands on parcel. Keep every other part of Image 1 unchanged: exactly three men; Xia Shou back view at far-left rear, Zhai Qian seated at right reading letter, the same distinct rounded Zhai face, desk, exactly TWO silver jugs, three closed cloth parcels, used timber room, spring daylight, palette and gongbi painted texture. Do not redesign anyone, do not add people, readable writing, jewels, money piles or modern items. Keep the composition and all faces unchanged, only mend and replace the foreground standing man's torn robe into sound ordinary travel clothing.",
+      "actualPrompt": "Use case: precise-object-edit. Image 1 is the edit target, the painted 3:2 steward reception illustration. Image 2 is a face reference ONLY for Laibao, the brown kneeling man at front LEFT in that old image. Make one targeted correction in Image 1: replace the torn ragged robe and visible underclothes of the STANDING FOREGROUND LEFT man Laibao with an INTACT, SOUND, modest gray-brown long travel robe, plain hemp or cotton fabric, light normal creases, a simple waist tie, hem dusty only, NO holes, NO frayed tears, NO large patchwork. Keep his existing same lean angular mature face, high cheekbones, sparse short moustache, black cloth cap, body, standing position and both hands on parcel. Keep every other part of Image 1 unchanged: exactly three men; Xia Shou back view at far-left rear, Zhai Qian seated at right reading letter, the same distinct rounded Zhai face, desk, exactly TWO silver jugs, three closed cloth parcels, used timber room, spring daylight, palette and gongbi painted texture. Do not redesign anyone, do not add people, readable writing, jewels, money piles or modern items. Keep the composition and all faces unchanged, only mend and replace the foreground standing man's torn robe into sound ordinary travel clothing.",
+      "image": "assets/048-04.webp",
+      "status": "generated",
+      "review": "已单独展开核看1536×1024修订图：前左来保面貌及站立交包动作未变，破洞衣装已改为完整朴素灰褐旅行袍；左后夏寿仍背面，右翟谦坐读信，恰三人。两把银壶、三个布包、纸信与桌具保持，手部和身体无显著失真。来保最初实际沿用018-01左前褐衣旧主参考，修订真实传入保存的初稿与该旧主参考；翟谦宽椭圆圆颊脸、短髭紧凑下颏须为本回新建艺术面貌，确切年岁未明。银壶细纹与器形、包裹规格、衣色、房屋、春花和光向均为美术补足，不依图清点银两，也不声称蔡太师在场亲受。无可读文字，采用修订，初稿与完整实际提示词已另存。\n",
+      "initialPrompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference image 1 ONLY Laibao, the kneeling man at front LEFT in brown: lean angular mature face, high cheekbones, sparse short moustache, black-gray hair and natural fine face lines. Do not copy the other man or kneeling pose. Spring daytime, understated wealthy steward reception room in the capital, timber desk, subdued material wealth without throne or palace audience. Exactly THREE men: LEFT foreground Laibao STANDS in worn but sound gray-brown travel robe and plain folded black cloth cap, three-quarter face visible, placing a tightly closed cloth parcel on near desk edge with both hands. At far-left rear his companion Xia Shou stands seen ONLY from behind, dark blue travel coat and plain cap, no recognizable face. RIGHT seated house steward Zhai Qian reading a small folded letter held near chest: newly designed distinct mature face, broad oval face with full cheeks, slightly rounded nose, short curved dark-gray brows, close dark-grey moustache and compact short chin beard, subtle natural eyelid wrinkles, sober olive-brown robe and folded black cloth cap, no officials wings. On the desk EXACTLY TWO modest silver-toned metal wine jugs and several small tightly wrapped cloth bundles, representative gifts, no overflowing treasure or countable weights, no coins, jewel ornament remains wrapped. Letter has no readable writing. Quiet transactional asymmetry, no handshake, no emperor, no grand minister present, no bowing crowd. Worn travel dust at hems, even indirect daylight, distinct anatomy and restrained gongbi mineral colors.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "048-05",
+      "chapter": 48,
+      "title": "邸报读到底：来保报回两桩好事",
+      "people": [
+        "西门庆",
+        "来保",
+        "书童"
+      ],
+      "place": "西门宅后边客位",
+      "event": "来保归来报信并取出七事邸报，陈经济读到眼生字停住，书童接读，西门庆听后大喜。",
+      "why": "一份公文既许诺摆脱参劾，又带来盐引机会；读字能力的差异决定了消息如何抵达主人。",
+      "composition": "左前书童站立展报朗读，中右西门庆倾身听，右后旅行衣来保候话；陈经济在画框之外。",
+      "summary": "来保回家复述翟谦保证，西门庆才放下心。他又报七事准行、旧仓钞可派盐引的消息，取邸报为凭。陈经济碰到眼生字读不下去，书童却一气读到底。西门庆听了喜甚，赏来保银酒肉。图停在书童朗读时，盐引利益只是本回人物所报的机会，尚非实收利润。",
+      "psychology": {
+        "明写": "西门庆先躭心，听保证方放心，听条陈与书信又喜甚；陈经济有眼生字，书童直念到底。",
+        "推断": "主人倾身与来保候赏的神态为叙事补足，不能由图确定具体心理。"
+      },
+      "social": "政治消息、文字能力和商业利益在内宅客位相接。公文中便利民情的表述与家主对私利的喜悦并置，不等于该政策已被实际执行。",
+      "explicit": [
+        "来保向书箧取邸报；陈经济读到眼生字停住，另叫书童。",
+        "书童念到底，西门庆听后喜甚，随后赏来保。"
+      ],
+      "inference": [
+        "只截取接读时的三人，陈经济和夏寿在画框外，不称他们此刻不在宅内。",
+        "书箧、衣色、手势与侧光为美术补足，不生成条陈可读字，也不画已实现的盐利。"
+      ],
+      "history": "小说事实仅据用户梦梅馆词话本MOBI本回隔离文本；宋代故事设定与宽泛晚明视觉参考分开。图中家具、衣装及空间不作精确历史复原；生成图不是历史证据。",
+      "evidence": [
+        {
+          "chapter": 48,
+          "paragraph": 33,
+          "quote": "向书箧中取出来，与西门庆观看。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 33,
+          "quote": "还有几个眼生字不认的。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 33,
+          "quote": "那书童倒还是门子出身，荡荡如流水不差，直念到底。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 33,
+          "quote": "西门庆听了喜甚"
+        }
+      ],
+      "excerpt": {
+        "chapter": 48,
+        "paragraph": 33,
+        "quote": "旋叫了书童儿来念。那书童倒还是门子出身，荡荡如流水不差，直念到底。"
+      },
+      "references": [
+        "未公开参考〔unpublished-reference-7f7f39bd3611；过程图或旧参考不随本包发布〕",
+        "assets/018-01.webp",
+        "assets/048-04.webp"
+      ],
+      "prompt": "Use case: identity-preserve precise-object-edit. Image 1 is the edit target: painted 3:2 room illustration, three men with young man reading at left, Ximen Qing seated center, Laibao standing at far right. Image 2 is the PRIMARY established Laibao face reference: use ONLY the brown-robed KNEELING man at FRONT LEFT, with slim angular mature face, high cheekbones, narrow cheeks, long straight nose, sparse very SHORT moustache and NO extended chin beard. DO NOT take the other two petitioners or the official. Image 3 is supporting same-chapter continuity: use ONLY the FOREGROUND LEFT STANDING man by the parcels, Laibao, same established lean narrow high-cheekboned face, close sparse moustache, clean narrow chin and intact ordinary gray-brown travel robe. Do NOT take the seated round-faced steward in Image 3. Correct ONLY the face of the FAR RIGHT STANDING man Laibao in Image 1 so it is the same individual as Image 2 front-left and Image 3 foreground-left: narrower lean angular cheeks and chin, high cheekbones, sparse short moustache, NO goat beard and NO extended chin tuft, same mature age and natural forehead/eye wrinkles. Preserve his current black cap, standing body, gathered hands, position and listening expression. Keep every other part of Image 1 unchanged: same young clean-shaven Shutong reading at left, same Ximen face and brown robe in center, exact three-person composition, open document case, held newspaper, folded letter, teacup, spring daylight, furniture, painted gongbi mineral-color texture. Do not redesign Ximen or Shutong, do not add a fourth person, do not change the scene or props, no readable text. This is a local face identity correction, not a new scene.",
+      "actualPrompt": "Use case: identity-preserve precise-object-edit. Image 1 is the edit target: painted 3:2 room illustration, three men with young man reading at left, Ximen Qing seated center, Laibao standing at far right. Image 2 is the PRIMARY established Laibao face reference: use ONLY the brown-robed KNEELING man at FRONT LEFT, with slim angular mature face, high cheekbones, narrow cheeks, long straight nose, sparse very SHORT moustache and NO extended chin beard. DO NOT take the other two petitioners or the official. Image 3 is supporting same-chapter continuity: use ONLY the FOREGROUND LEFT STANDING man by the parcels, Laibao, same established lean narrow high-cheekboned face, close sparse moustache, clean narrow chin and intact ordinary gray-brown travel robe. Do NOT take the seated round-faced steward in Image 3. Correct ONLY the face of the FAR RIGHT STANDING man Laibao in Image 1 so it is the same individual as Image 2 front-left and Image 3 foreground-left: narrower lean angular cheeks and chin, high cheekbones, sparse short moustache, NO goat beard and NO extended chin tuft, same mature age and natural forehead/eye wrinkles. Preserve his current black cap, standing body, gathered hands, position and listening expression. Keep every other part of Image 1 unchanged: same young clean-shaven Shutong reading at left, same Ximen face and brown robe in center, exact three-person composition, open document case, held newspaper, folded letter, teacup, spring daylight, furniture, painted gongbi mineral-color texture. Do not redesign Ximen or Shutong, do not add a fourth person, do not change the scene or props, no readable text. This is a local face identity correction, not a new scene.",
+      "image": "assets/048-05.webp",
+      "status": "generated",
+      "review": "已单独展开核看1536×1024身份修订图：恰三人，左书童站立双手持报朗读，中西门庆坐听露出舒展神态，右来保候话，书箧、信、茶杯及听读关系清楚。书童实际沿用034-03右侧无须少年面貌、西门庆实际沿用ximen，修订保留两人。来保初稿误带另一参考人物下颏须，已单次修成018-01左前褐衣者及本回048-04来保的窄瘦高颧骨、稀短髭和较净窄下颌；实际传入初稿、旧主参考和本回来保辅助参考，非重建新脸。面部自然细纹与成熟感仍为美术约定，确切年岁未明。持纸手、坐姿和站姿无显著失真；报面只有不可辨笔痕，无可读句。来保旅袍的灰尘斑驳、衣色与帽形、侧光、家具和插花为艺术补足，不声称本回明写；未画已经实现的盐利或尚未发放的赏物。采用修订，初稿及全实际提示词保留。\n",
+      "initialPrompt": "Complete literary narrative illustration, 3:2 horizontal landscape. Chinese gongbi fine ink contours, opaque mineral pigment layers and painted paper texture, natural varied faces, worn everyday late-Ming material life, cinematic light and convincing spatial depth. Painted, not photography, anime, fantasy or costume poster. No lettering, readable text, signatures, watermark, modern objects or glass-chimney lamps. Reference 1 ONLY Ximen Qing face and lean body: long face, straight brows, narrow long eyes. Reference 2 ONLY Shutong the youthful male servant on RIGHT in pale jade garment looking at silver, slim long oval face, straight brows, dark eyes, no beard and rounded narrow chin; exact age unknown, retain youthful look without adult embellishment. Reference 3 ONLY Laibao at front LEFT in brown, mature lean angular face, high cheekbones, sparse short moustache and black-gray hair, not any other face. Spring daytime in a comfortable private timber guest room, exactly THREE men visible. LEFT foreground Shutong stands near an open plain wooden document case, in a sober pale gray-green long jacket and simple folded black cap, holding a spread paper newsletter with two hands, mouth slightly open READING ALOUD with focused natural expression, not a schoolboy reciting a book. CENTER-RIGHT seated Ximen wears a subdued warm brown spring robe and ordinary black soft cap, leans toward the speaker with an attentive visibly relieved pleased face, one hand resting on tabletop, no exaggerated laughter. RIGHT BACK Laibao in gray-brown travel clothing and black cloth cap stands waiting, hands respectfully gathered, dust only at hem. A folded letter and empty ceramic teacup on table; no silver piles, no rewards delivered yet, no salt sacks or ships or imagined future profit. Chen Jingji and Xia Shou outside this cropped frame, do not add them. No readable text on the newsletter, faint unresolvable brush strokes only. Natural window side light, asymmetric listening triangle, separate readable faces, restrained mineral colors, correct hands and paper edges.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

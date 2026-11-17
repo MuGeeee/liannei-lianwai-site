@@ -1,0 +1,273 @@
+{
+  "number": 4,
+  "title": "第四回淫妇背武大偷奸　郓哥不愤闹茶肆",
+  "intro": "茶坊的门可以被关上，也可以被人守住。这回既有二人的亲密，也有王婆以揭发相要挟的约束；到街头的一篮梨，局外人的生计又撞上了这道门。",
+  "supplements": [
+    {
+      "title": "年龄线索不替原文抹平",
+      "text": "前回叙述者说西门庆二十五六岁，本回人物自报二十七。图像保留青年年龄感，不把两种写法擅自改成一个精确生日表。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 14,
+          "quote": "属虎的，二十七岁"
+        }
+      ]
+    },
+    {
+      "title": "借瓢是一次暗号",
+      "text": "王婆推借瓢到武大家，用手势让金莲知道人已到。原文紧跟一段双关韵语；实际发生的家用器物借还，与借它传递的消息要分开理解。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 10,
+          "quote": "向妇人使手势"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 10,
+          "quote": "有瓢，一任拿去"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "004-01",
+      "chapter": 4,
+      "title": "门绳拴在外面",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 5,
+          "quote": "把门拽上，用索儿拴了"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 5,
+          "quote": "当路坐了"
+        }
+      ],
+      "people": [
+        "王婆"
+      ],
+      "place": "王婆茶坊外间",
+      "event": "王婆将二人关在房内，自己坐在通路上绩线。",
+      "why": "看似退场的人仍控制着门口和出入；她没有离开自己布置的局面。",
+      "composition": "近景门环与绳结，侧后方王婆坐小凳绩线，室内不透视。",
+      "summary": "王婆说要去远处买酒，却把房门拉上，用绳拴住，在通路上坐下绩线。画面不穿过门替读者偷看，而让门外的动作自己讲事：她说自己要离开，身体却留在最能掌握出入的位置。",
+      "psychology": "原文明写她关门、坐守；将这看作对空间的控制，是由动作得出的解释。原文未交代门锁形制，不画复杂机关。",
+      "social": "招待者掌握房间与出入口。能够安排别人独处，也能够突然返回，是她这一刻的实际资源。",
+      "explicit": "绳拴门，王婆在通路绩线。",
+      "inference": "门板、门环、凳子、绳结为具体化补足；看不到内室人物，不代表二人原文没有行动。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "王婆旧像",
+        "本回沿用茶坊"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Elderly Wang Po alone in outer passage of modest tea shop. Main foreground a plain closed wooden door with simple rope tied around handles, not padlock. She sits sideways on low stool directly beside the narrow passage spinning ramie thread, hands working but eyes alert toward entrance. Spring daylight falls on rope and old plaster, restrained close environmental composition. No view through door, no people in interior visible, no sexual content. Same elderly face as reference.",
+      "image": "assets/004-01.webp",
+      "status": "generated",
+      "review": "已实际打开核看：王婆独坐门外绩线，闭门绳结清楚，内室不可见；年老皱纹与灰黑发髻延续，春日与旧茶坊质感成立。门环、绳结、纺具及通路形制均属美术补足。未发现影响叙事的显著错误。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Elderly Wang Po alone in outer passage of modest tea shop. Main foreground a plain closed wooden door with simple rope tied around handles, not padlock. She sits sideways on low stool directly beside the narrow passage spinning ramie thread, hands working but eyes alert toward entrance. Spring daylight falls on rope and old plaster, restrained close environmental composition. No view through door, no people in interior visible, no sexual content. Same elderly face as reference.",
+      "excerpt": {
+        "chapter": 4,
+        "paragraph": 5,
+        "quote": "婆子一面把门拽上，用索儿拴了，倒关他二人在屋裏。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "004-02",
+      "chapter": 4,
+      "title": "扶起跪着的人",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 6,
+          "quote": "官人休要啰唣"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 6,
+          "quote": "那妇人便把西门庆搂将起来"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "西门庆"
+      ],
+      "place": "王婆房内",
+      "event": "西门庆跪下央求，潘金莲把他搂起，又担心王婆来撞见。",
+      "why": "这不是一幅无来由的甜蜜合影：她的回应、他的央求，以及对第三人来临的顾虑，在同一动作里并存。",
+      "composition": "成年二人中景，金莲扶住西门庆上臂将他带起；他一膝尚低，地上落筷、旁搭绿袍可见。",
+      "summary": "西门庆借拾筷靠近，随后跪下央求。金莲说出“你有心，奴亦有意”，把他搂起来，却又怕王婆撞见。插画选取扶起的一刻，直接保留两人的身体接近；亲密已经有了回应，空间里第三人的存在也并未消失。",
+      "psychology": "原文明写双方有意、金莲搂起与担心撞见。画中以扶臂靠近表现回应；实际画面目光集中在对方，没有把朝门一瞥作为原文事实。",
+      "social": "王婆的安排提供相见条件，但人物仍各有自己的话与动作。不能把此前的每一次留坐都简单等同于这一刻已经说出的回应。",
+      "explicit": "成年二人，西门庆跪求，金莲搂起；褪下的绿纱褶子已搭在护炕处。",
+      "inference": "只表现此前扶起，人物内衣覆盖完整；姿势与目光为美术补足，地上筷子依据同段动作。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "潘金莲旧像",
+        "西门庆旧像",
+        "茶坊相见衣装"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring daylight. Create a NEW two-person scene, not a copy of the reference composition. Reference image 1: use only Pan Jinlian at left and Ximen Qing at right to preserve their faces, hair, and her white closed shirt, blue sleeveless vest, dusty rose long skirt; do not include the elderly woman or sewing objects. Reference image 2: style only, do not borrow its characters, mourning clothes, season or room. Inside a modest tea-room, two fully clothed adults. Adult Pan Jinlian stands beside the table and supports adult Ximen Qing by both upper arms to bring him up from kneeling, his knee still low near the floor and a foot beginning to plant. Their faces are close with a restrained mutual tenderness, his expression pleading, her attention angled slightly toward the closed door. Ximen has the same long face, straight brows and narrow eyes as reference, wears a fully covering cream inner robe tied closed and his black cap; his green gauze outer robe has been laid over a low platform nearby. Include the dropped pair of chopsticks on the floor near the plain wooden table. The action is helping him rise and a brief embrace, with all clothing closed. Clear natural hands, no undressing, nudity or sexual act. Medium-to-wide composition showing the body action, no glamour posing. Exactly two adults and no other people.",
+      "image": "assets/004-02.webp",
+      "status": "generated",
+      "review": "已实际核看：仅两名成年人物，金莲白衫蓝比甲桃红裙、西门庆完整米色内袍与黑帽；她扶其上臂，他一膝低伏一足落地，地面落筷、旁搭绿袍可辨。面貌沿用参考，完整着衣且无露骨内容。金莲目光更集中在西门庆，未落实计划中朝门一瞥；不影响原文动作，不以该视线为事实。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring daylight. Create a NEW two-person scene, not a copy of the reference composition. Reference image 1: use only Pan Jinlian at left and Ximen Qing at right to preserve their faces, hair, and her white closed shirt, blue sleeveless vest, dusty rose long skirt; do not include the elderly woman or sewing objects. Reference image 2: style only, do not borrow its characters, mourning clothes, season or room. Inside a modest tea-room, two fully clothed adults. Adult Pan Jinlian stands beside the table and supports adult Ximen Qing by both upper arms to bring him up from kneeling, his knee still low near the floor and a foot beginning to plant. Their faces are close with a restrained mutual tenderness, his expression pleading, her attention angled slightly toward the closed door. Ximen has the same long face, straight brows and narrow eyes as reference, wears a fully covering cream inner robe tied closed and his black cap; his green gauze outer robe has been laid over a low platform nearby. Include the dropped pair of chopsticks on the floor near the plain wooden table. The action is helping him rise and a brief embrace, with all clothing closed. Clear natural hands, no undressing, nudity or sexual act. Medium-to-wide composition showing the body action, no glamour posing. Exactly two adults and no other people.",
+      "excerpt": {
+        "chapter": 4,
+        "paragraph": 6,
+        "quote": "「官人休要啰唣！你有心，奴亦有意。你真个勾搭我？」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "004-03",
+      "chapter": 4,
+      "title": "裙角被扯住的那一刻",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 8,
+          "quote": "慌的扯住他裙子，便双膝跪下"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 8,
+          "quote": "若是一日不来，我便就对你武大说"
+        }
+      ],
+      "people": [
+        "王婆",
+        "潘金莲",
+        "西门庆"
+      ],
+      "place": "王婆房内门边",
+      "event": "王婆佯称要揭发，金莲扯住她裙子跪求；王婆据此提出日日来会的条件。",
+      "why": "刚才主动撮合的人转而用揭发威胁；这一次下跪与前一幅的含义完全不同。",
+      "composition": "低视角金莲跪在门边拉裙角，王婆身体向门、脸转回，西门庆在后方停住。",
+      "summary": "王婆突然闯入，声称要去告诉武大。金莲慌忙抓住她的裙子跪下，许诺依从；王婆随即规定何时叫来便要何时来，否则就揭发。画面把威胁落实在两人高度与行动方向上：一人欲走，一人不得不拦。",
+      "psychology": "“慌”和下跪是原文明确状态。王婆的惊讶是表演的读法，由她前面亲自安排并守门支持；不把胁迫画成轻松玩笑。",
+      "social": "秘密被转为约束他人的筹码。金莲的亲密选择与王婆对她的胁迫是不同层次，前者不能取消后者。",
+      "explicit": "三人在室，王婆威胁，金莲扯裙跪求。",
+      "inference": "此刻二人已整理好衣服以免露骨；原文先写欲整衣襟，图把衣服收束，不补画性交。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "本回二人面貌与衣装",
+        "王婆旧像"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring daylight. Create a NEW tense doorway scene with exactly three fully dressed adults. Reference image 1 locks the identity and clothes of young adult Pan Jinlian at left (white closed shirt, blue sleeveless vest, dusty rose long skirt), elderly Wang Po in center (deep wrinkles, gray-black coiled bun, worn brown robe), and young adult Ximen Qing at right (long face, straight brows, narrow eyes, green gauze robe, black cap). Do not copy their sewing scene or its objects. Reference image 2 is painting style only: do not borrow characters, mourning clothes, season or plot. Modest tea-shop room at the open doorway. Elderly Wang Po is about to go out through the door, her torso angled toward the exit and one foot stepping, but her head turned back sternly. Pan Jinlian kneels on BOTH knees low in foreground, urgently holding a visible corner of Wang Po's brown skirt hem with one hand, her other hand supporting the grasp, looking up anxiously. Pan's white collar is closed and all clothing is already neatly secured. Ximen Qing stands farther behind beside the plain table, now dressed again in his green robe and black cap, halted and worried, hands held close without touching anyone. Strong separation of body heights shows the elderly woman's threat and the kneeling woman's plea. Side spring daylight through open doorway, clear physical interaction of fingers with fabric, no comedy or romantic mood. No nudity, undressing, sexual acts, injuries, extra people, or weapons.",
+      "image": "assets/004-03.webp",
+      "status": "generated",
+      "review": "已实际核看：三名人物正确，王婆一足向门、回首严厉，金莲双膝低跪并用双手拉住其裙角，西门庆着绿袍停在桌后。面貌与茶坊衣装延续；身高差及拉拦动作清楚，人物均已整衣，无露骨场面、伤口或喜剧化处理。未发现需重生的显著错误。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring daylight. Create a NEW tense doorway scene with exactly three fully dressed adults. Reference image 1 locks the identity and clothes of young adult Pan Jinlian at left (white closed shirt, blue sleeveless vest, dusty rose long skirt), elderly Wang Po in center (deep wrinkles, gray-black coiled bun, worn brown robe), and young adult Ximen Qing at right (long face, straight brows, narrow eyes, green gauze robe, black cap). Do not copy their sewing scene or its objects. Reference image 2 is painting style only: do not borrow characters, mourning clothes, season or plot. Modest tea-shop room at the open doorway. Elderly Wang Po is about to go out through the door, her torso angled toward the exit and one foot stepping, but her head turned back sternly. Pan Jinlian kneels on BOTH knees low in foreground, urgently holding a visible corner of Wang Po's brown skirt hem with one hand, her other hand supporting the grasp, looking up anxiously. Pan's white collar is closed and all clothing is already neatly secured. Ximen Qing stands farther behind beside the plain table, now dressed again in his green robe and black cap, halted and worried, hands held close without touching anyone. Strong separation of body heights shows the elderly woman's threat and the kneeling woman's plea. Side spring daylight through open doorway, clear physical interaction of fingers with fabric, no comedy or romantic mood. No nudity, undressing, sexual acts, injuries, extra people, or weapons.",
+      "excerpt": {
+        "chapter": 4,
+        "paragraph": 8,
+        "quote": "那妇人慌的扯住他裙子，便双膝跪下，说道：「干娘饶恕！」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "004-04",
+      "chapter": 4,
+      "title": "许下的十两，次日送到",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 10,
+          "quote": "取出一锭十两银子来，递与王婆"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 10,
+          "quote": "多谢大官人布施"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "王婆"
+      ],
+      "place": "王婆茶坊",
+      "event": "次日西门庆兑现十两酬银，王婆欢喜收下，称为布施。",
+      "why": "读者可以把前两回的许诺与这一次实际交付连起来；“布施”是王婆当场的称说。",
+      "composition": "一锭银落在老手与年轻手之间，王婆起身回礼；桌上茶盏仍在。",
+      "summary": "西门庆第二天再来，取出一锭十两银子递给王婆。她欢喜收下，连道万福，口称布施。上一回的衣料与许诺，到这里有了具体交付；同样是茶坊桌前的银，这次的用途与先前茶钱不同。",
+      "psychology": "原文明写欢喜和谢礼，不需补推她的完整人格。银锭形状、重量难靠生成图核实，应以文字记录十两。",
+      "social": "王婆把酬劳叫作布施，正如先前把买衣料的人叫施主。场合中的好听话包着一笔已说定的交易。",
+      "explicit": "西门庆递一锭十两，王婆收且谢。",
+      "inference": "不声称生成银锭是标准十两器形；手势、桌面与服色为补足。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "assets/002-05.webp（原说明：002-05王婆与西门庆面貌及衣装）",
+        "assets/065-01.webp（原说明：065-01仅画风）"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring morning light. NEW scene of a payment being handed over on the next morning in a modest tea shop, exactly two adults. Reference image 1 locks only the faces and clothing of elderly Wang Po on left (gray-black coiled bun, deep wrinkles, worn brown robe) and adult Ximen Qing on right (long face, straight brows, narrow eyes, green gauze robe, black cap). Do not simply copy the small pebble-like piece of silver on the table in reference; this new scene shows the clearly visible handing of ONE single silver ingot. Reference image 2 is for fine painted narrative style only, not characters, costumes, season or room. A single plain silver ingot rests across the open receiving hand of Wang Po as Ximen Qing's fingertips release it from above. Wang Po is rising from her low stool and beginning a grateful slight bow, her practical pleased smile and wrinkled face visible. Ximen Qing's giving arm leads the eye into the central exchange. Tea cup and small plain teapot nearby on worn wooden tabletop, no money already lying on the table. Mid-close composition with recognizably different elderly and young faces and one clear pair of hands at the exchange. The silver piece has no writing, number, stamp or engraving; its weight is recorded in accompanying text, not visually claimed as a historical standard. One ingot only, no coins, gold, extra arms, extra people or other payment.",
+      "image": "assets/004-04.webp",
+      "status": "generated",
+      "review": "已实际核看：仅西门庆、王婆两人，青年手将唯一一块银递入老年掌心；王婆前倾谢礼、欢喜表情可辨，茶盏与茶壶在桌。手指接触和人数成立，未发现需重生的显著错误。银块是未经器物考证的美术形状，不能以画面尺寸或造型证明十两，文字据原文记账。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Spring morning light. NEW scene of a payment being handed over on the next morning in a modest tea shop, exactly two adults. Reference image 1 locks only the faces and clothing of elderly Wang Po on left (gray-black coiled bun, deep wrinkles, worn brown robe) and adult Ximen Qing on right (long face, straight brows, narrow eyes, green gauze robe, black cap). Do not simply copy the small pebble-like piece of silver on the table in reference; this new scene shows the clearly visible handing of ONE single silver ingot. Reference image 2 is for fine painted narrative style only, not characters, costumes, season or room. A single plain silver ingot rests across the open receiving hand of Wang Po as Ximen Qing's fingertips release it from above. Wang Po is rising from her low stool and beginning a grateful slight bow, her practical pleased smile and wrinkled face visible. Ximen Qing's giving arm leads the eye into the central exchange. Tea cup and small plain teapot nearby on worn wooden tabletop, no money already lying on the table. Mid-close composition with recognizably different elderly and young faces and one clear pair of hands at the exchange. The silver piece has no writing, number, stamp or engraving; its weight is recorded in accompanying text, not visually claimed as a historical standard. One ingot only, no coins, gold, extra arms, extra people or other payment.",
+      "excerpt": {
+        "chapter": 4,
+        "paragraph": 10,
+        "quote": "西门庆便向袖中取出一锭十两银子来，递与王婆。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "004-05",
+      "chapter": 4,
+      "title": "梨滚到了街上",
+      "evidence": [
+        {
+          "chapter": 4,
+          "paragraph": 27,
+          "quote": "年方十五六岁"
+        },
+        {
+          "chapter": 4,
+          "paragraph": 27,
+          "quote": "那篮雪梨，四分五落滚落了开去"
+        }
+      ],
+      "people": [
+        "郓哥",
+        "王婆"
+      ],
+      "place": "王婆茶坊门口及街道",
+      "event": "郓哥寻西门庆卖梨讨盘缠，被王婆打赶出门，篮梨散落。",
+      "why": "一份卖果养父的生计，被门内生意挡住；郓哥的愤怒不只是听到闲话的好奇。",
+      "composition": "街面低机位，梨从翻倒篮子滚向前景；郓哥蹲拾，王婆在门边收手，拉开距离。",
+      "summary": "十五六岁的郓哥提梨来找西门庆，想赚些钱养活老父。王婆阻拦，他说破几句，便被揪打着赶到街上，梨也散了。画面留在他哭着拾梨的一刻，不让争吵盖过那些会直接影响一天收入的果子。",
+      "psychology": "原文明写哭、骂、拾梨与要养父。选择事后距离而不是夸张伤口，是为了同时看见受辱和生计损失；未画原文没有的严重伤势。",
+      "social": "他求的是三五十钱，不是与西门庆同样的消费。门内的付酬与门外的卖果形成悬殊，但不能给梨编造单价。",
+      "explicit": "十五六岁的男孩、梨篮、王婆打赶、梨散街上。",
+      "inference": "郓哥容貌未详，另立清瘦少年美术约定；非性化、无成人私密场面，同图只有门外冲突。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "assets/004-01.webp（原说明：004-01王婆与茶坊材质）",
+        "assets/065-01.webp（原说明：065-01仅画风）",
+        "郓哥本回首立普通少年形象"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. NEW ordinary street scene at a modest Chinese tea-shop entrance in spring daylight. Reference image 1 locks elderly Wang Po's identity (deeply wrinkled face, gray-black coiled bun, worn brown robe) and the rough wood and plaster tea-shop material; do not copy her seated spinning pose, wheel or tied interior door. Reference image 2 is painting style only; do not borrow its people, mourning clothes, season or story. Exactly two people: Wang Po at the doorway behind and a fifteen-or-sixteen-year-old adolescent boy, Yun Ge, in the street foreground. This is his first portrait. Make him visibly a thin adolescent rather than a small child or grown man: narrow youthful oval face, straight dark eyebrows, lively dark eyes, no facial hair, black hair gathered into a small plain topknot with a faded dark brown cloth band. He wears a worn gray-brown coarse-cloth tunic with simple cloth belt, dark loose trousers, ordinary cloth shoes, fully clothed, no jewelry. Low street-level composition: a tipped wicker basket on its side near him, pale yellow-white snow pears with small brown stems scattered and rolling across the stone street toward foreground. The boy crouches low on bent legs to gather the pears, one hand reaching for a pear on the paving, his other hand steadying the basket edge; tears and an angry humiliated expression, no blood or severe injury. Wang Po stands several steps behind in the doorway with a stern guarded face, her raised hand now lowered after sending him out, no current hitting contact. The focus is spilled fruit, lost livelihood and the boy's anger. Keep clear separation between them and natural hands. No other people, no adult lovers or private room visible, no sexual setting, no luxury or weapons.",
+      "image": "assets/004-05.webp",
+      "status": "generated",
+      "review": "已实际核看：仅郓哥与门内王婆两人；郓哥为无须清瘦少年，黑发小髻束褐布、灰褐粗衣深裤，含泪而怒，蹲拾雪梨并扶翻篮。梨和篮在街面，王婆与少年保持距离，未出现成人私密场面、血或严重伤势。手、人数、关键动作和道具成立。少年容貌与破旧衣装细节为本回新立的美术约定，年龄十五六仅据原文。未发现需重生的显著错误。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted illustration, not photography, anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. NEW ordinary street scene at a modest Chinese tea-shop entrance in spring daylight. Reference image 1 locks elderly Wang Po's identity (deeply wrinkled face, gray-black coiled bun, worn brown robe) and the rough wood and plaster tea-shop material; do not copy her seated spinning pose, wheel or tied interior door. Reference image 2 is painting style only; do not borrow its people, mourning clothes, season or story. Exactly two people: Wang Po at the doorway behind and a fifteen-or-sixteen-year-old adolescent boy, Yun Ge, in the street foreground. This is his first portrait. Make him visibly a thin adolescent rather than a small child or grown man: narrow youthful oval face, straight dark eyebrows, lively dark eyes, no facial hair, black hair gathered into a small plain topknot with a faded dark brown cloth band. He wears a worn gray-brown coarse-cloth tunic with simple cloth belt, dark loose trousers, ordinary cloth shoes, fully clothed, no jewelry. Low street-level composition: a tipped wicker basket on its side near him, pale yellow-white snow pears with small brown stems scattered and rolling across the stone street toward foreground. The boy crouches low on bent legs to gather the pears, one hand reaching for a pear on the paving, his other hand steadying the basket edge; tears and an angry humiliated expression, no blood or severe injury. Wang Po stands several steps behind in the doorway with a stern guarded face, her raised hand now lowered after sending him out, no current hitting contact. The focus is spilled fruit, lost livelihood and the boy's anger. Keep clear separation between them and natural hands. No other people, no adult lovers or private room visible, no sexual setting, no luxury or weapons.",
+      "excerpt": {
+        "chapter": 4,
+        "paragraph": 27,
+        "quote": "且说本县有个小的，年方十五六岁，本身姓乔，因为做军在郓州生养的，就取名叫做郓哥儿。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "number": 14,
+  "title": "第十四回花子虚因气丧身　李瓶儿送奸赴会",
+  "intro": "本回由求援与家财移存，写到打点诉讼、估卖家产、谢席落空和花子虚病亡，再转入李瓶儿的拜寿留宿与赠簪。五幅各取一个已发生时刻；数目、话语、叙述与艺术补足分开，不使用结尾预告或后回事实。",
+  "supplements": [
+    {
+      "title": "审讯、估卖与实际款项",
+      "text": "西门庆递书礼并预先教花子虚说家财已花费。杨府尹依此断二宅一庄估卖，三名族人分价；本回称其清廉的赞语与紧接的人情结果并置，不作为独立官史结论。大宅七百两、庄田六百五十五两、小宅五百四十两，共一千八百九十五两，三人均分。小宅由李瓶儿托冯妈妈，要求西门庆拿寄存银购买。这些数目不等于三千两支用的完整账。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 10,
+          "quote": "只说都花费无存，止是房产庄田见在。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 13,
+          "quote": "于是把花子虚一下儿也没打，批了一道公文，押发清河县前来估计庄宅，不在话下。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 14,
+          "quote": "共该银一千八百九十五两，三人均分讫。"
+        }
+      ]
+    },
+    {
+      "title": "丧期与来访日期照存原文",
+      "text": "第22段叙述先写正月初九来拜寿时“未曾过子虚五七”，同段李瓶儿却说“昨日纔过了他五七”。两种说法照存，不替原书强行统一历日。花子虚死亡只依“二十头”，不写成确定十一月二十日。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 22,
+          "quote": "未曾过子虚五七"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 22,
+          "quote": "昨日纔过了他五七"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 21,
+          "quote": "挨到二十头，呜呼哀哉，断气身亡。亡年二十四岁。"
+        }
+      ]
+    },
+    {
+      "title": "拜寿、留宿和席间关系",
+      "text": "李瓶儿穿白绫袄、蓝织金裙来给金莲做生日，反复行礼并被众人留宿。初见孙雪娥，月娘称她“姑娘”，席上她却须回厨下照管、不敢久坐。晚间西门庆归来又劝酒，月娘见话语不妥而离席；这里保留非露骨文学说明，不把劝酒与醉态美化为不受压力的同意。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 22,
+          "quote": "孙雪娥回厨下照管，不敢久坐。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 24,
+          "quote": "逼迫的李瓶儿就把房门钥匙递与冯妈妈"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 25,
+          "quote": "月娘见他二人吃得饧成一块，言颇涉邪，看不上，往那边房裏陪吴大妗子坐去了"
+        }
+      ]
+    },
+    {
+      "title": "次晨赏赐与园门，只到已发生处",
+      "text": "次晨李瓶儿赏春梅一付金三事儿，随后同金莲、潘姥姥游看花园。她问起通向旧宅的便门，金莲说二月将动工、扩园并连楼；这是人物说明的计划，图鉴不能据此画成已完工花园。金三事儿具体器类未校定。叙述将丫鬟与西门庆发生性关系相连，迎春前回十七岁，其他年龄未核，不配性化图、不升龄。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 26,
+          "quote": "与了他一付金三事儿"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 26,
+          "quote": "也只到这二月间兴土动工，收拾起要盖。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 26,
+          "quote": "这李瓶儿听记在心。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "014-01",
+      "chapter": 14,
+      "title": "求人的门路",
+      "people": [
+        "李瓶儿",
+        "西门庆"
+      ],
+      "place": "花家后房，花子虚被拿之后",
+      "event": "李瓶儿跪求西门庆寻人情，西门庆答应经手，继而说起向权门递礼的关系。",
+      "why": "惊惧、邻里相助的话语与权势门路在一次求告中相接。",
+      "composition": "右侧李瓶儿双膝跪地、双手合于胸前求告；左侧西门庆向前伸一手请她起来，二人不触碰。",
+      "summary": "花子虚因族人争告家财被拿，李瓶儿脸色惊黄，跪请西门庆相助。她一面怨丈夫不理家事，一面求他免受凌逼。西门庆答应领事，又说可借蔡太师、杨提督两处关系。图停在求告，未把随后搬银与夜间越墙并进同室，也不把他的门路说法当独立查证。",
+      "psychology": {
+        "明写": "李瓶儿惊恐、跪着再三哀告，谈到家事后放声哭；西门庆连忙请她起来并承诺。",
+        "推断": "她抬眼求助、他微俯身伸手，是求告动作的艺术安排，不能据一瞬表情概括完整动机。"
+      },
+      "social": "女性口中的“没脚蟹”与“寻人情”把求援困难说得具体；财产争讼又被导向私人关系与递礼。",
+      "explicit": [
+        "跪求、罗衫不整、粉面慵妆、脸色惊黄均为叙述明写。",
+        "亲属关系、家财交付经过与两处权门门路分别是李瓶儿和西门庆的说话，不全当旁证已核事实。",
+        "李瓶儿在指定第13回前情中自述二十三岁；本图按同一成年人面貌，不另推生日。"
+      ],
+      "inference": [
+        "罗衫以浅灰宽松织物示意，只作衣领微乱，身体与内层完全遮蔽；具体衣色和形制未考定。",
+        "西门庆衣色、房间摆设、手势与光线为补足；不画银锭，避免把下一段行动提前。"
+      ],
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 6,
+          "quote": "脸唬的蜡渣也似黄，跪着西门庆，再三哀告道"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 6,
+          "quote": "千万只看奴之薄面，有人情，好歹寻一个儿，只休敎他吃凌逼便了。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 6,
+          "quote": "西门庆见妇人下礼，连忙道：「嫂子请起来，不妨！"
+        }
+      ],
+      "excerpt": {
+        "chapter": 14,
+        "paragraph": 6,
+        "quote": "西门庆见妇人下礼，连忙道：「嫂子请起来，不妨！今日我还不知因为了甚勾当。俺们都在郑家吃酒，只见几个做公的人，把哥拿的到东京去了。」"
+      },
+      "references": [
+        "references/ximen.png",
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Ximen Qing face identity: long face, straight brows, narrow long eyes, long-waisted adult man. Reference 2 ONLY Li Pinger face and small stature: pale compact oval face, fine arched brows, an adult woman in her twenties. Do not copy reference costume, fan, photo style or pleasant expressions. Exactly TWO fully clothed people in an ordinary rear household room in cool-season daylight, no snow. RIGHT Li Pinger kneels upright on both knees on the floor, her clasped normal hands held near her chest, frightened slightly yellow-pale face and tearful eyes looking up, pleading for help in a family property lawsuit. Her loose light-grey woven blouse has a slightly crooked outer collar but completely opaque high-neck underlayer and long muted blue-grey skirt cover all body; black bun only a little untidy, no sensuality. LEFT Ximen in a muted deep blue long robe and black cloth cap bends slightly forward and extends ONE open hand to ask her to rise, other hand visible by his waist; no contact. Quiet room with a closed plain chest far behind, unadorned timber chair and plaster wall, cool side light from lattice window. No money, gold, affection, violence, prison scene or extra people. One single moment of asking for assistance; anatomically clear ordinary hands, respectful dramatic distance.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Ximen Qing face identity: long face, straight brows, narrow long eyes, long-waisted adult man. Reference 2 ONLY Li Pinger face and small stature: pale compact oval face, fine arched brows, an adult woman in her twenties. Do not copy reference costume, fan, photo style or pleasant expressions. Exactly TWO fully clothed people in an ordinary rear household room in cool-season daylight, no snow. RIGHT Li Pinger kneels upright on both knees on the floor, her clasped normal hands held near her chest, frightened slightly yellow-pale face and tearful eyes looking up, pleading for help in a family property lawsuit. Her loose light-grey woven blouse has a slightly crooked outer collar but completely opaque high-neck underlayer and long muted blue-grey skirt cover all body; black bun only a little untidy, no sensuality. LEFT Ximen in a muted deep blue long robe and black cloth cap bends slightly forward and extends ONE open hand to ask her to rise, other hand visible by his waist; no contact. Quiet room with a closed plain chest far behind, unadorned timber chair and plaster wall, cool side light from lattice window. No money, gold, affection, violence, prison scene or extra people. One single moment of asking for assistance; anatomically clear ordinary hands, respectful dramatic distance.",
+      "image": "assets/014-01.webp",
+      "status": "generated",
+      "review": "已显示生成结果并另打开本地采用PNG核看：恰两名成人，左西门庆长脸直眉、右李瓶儿小瓜子面细弯眉，与参考相合。李瓶儿双膝跪地、泪眼求助，西门庆一手请起，二人未接触；各两只手、衣着全遮蔽，无显著畸变。后案闭箱属一般室内陈设，没有银锭、私会或多时段拼贴。衣领微乱、灰衫蓝裙、家具和光线均为补足；泪水为本段哭诉的画法，未把惊黄画成病症。初稿采用。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI第14回及指定第13回前情。故事时代与宽泛晚明视觉参考分开；未考定的衣装、器物、空间与尺度属美术补足。生成图不是历史证据。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "014-02",
+      "chapter": 14,
+      "title": "月下接箱",
+      "people": [
+        "吴月娘",
+        "潘金莲",
+        "春梅"
+      ],
+      "place": "两家分界墙，月上之后，西门家一侧",
+      "event": "银子先由食盒抬走，晚间四口描金箱柜再从墙上过手，由月娘、金莲、春梅接取。",
+      "why": "白日可以解释为办事，箱柜却要避开大门与街坊目光；家宅分界成了转移财物的通道。",
+      "composition": "取景只在接箱一侧：月娘与金莲在铺毡墙头扶住一口闭箱，春梅在下方稳住梯子；对面仅露推动箱子的袖口与手。",
+      "summary": "李瓶儿搬出六十锭大元宝，另托存四口描金箱柜。月娘建议银子用食盒抬来，箱柜则待夜间从墙上转过，免得街坊看见。图只取月上接一口箱子的片刻，另一侧的李瓶儿和两名丫鬟没有露脸；随后箱柜都送入月娘房中，不在图里展示其未明的摆放次序。",
+      "psychology": {
+        "明写": "李瓶儿说要为自己防身；月娘提出避人眼目的运送法，西门庆听后大喜。",
+        "推断": "接箱者抬头盯着重物、春梅扶稳梯子的紧张专注，是动作与安全所需的美术补足，不据此推定她们各自知悉全部内情。"
+      },
+      "social": "银钱、珍宝与日常食盒的搭配，让家内协作如何隐蔽财物变得可见；“防身”是人物自己的解释。",
+      "explicit": [
+        "本段明写六十锭共三千两，四口描金箱柜；先抬金银，后越墙转箱。",
+        "接箱一侧明写只有月娘、金莲、春梅，图中不加入西门庆或男仆。",
+        "对面是李瓶儿与迎春、绣春；迎春前回明写十七，绣春和春梅精确年龄未核定，均不性化、不擅自改龄。"
+      ],
+      "inference": [
+        "每次过一口箱是由“一个个”作的取景，一口可见、其他箱在画外，不以画面数量否定总数。",
+        "梯子角度、墙高、谁站哪一级、手的分工、闭箱金纹与月光颜色为补足；不展示箱内未知配置。",
+        "画外袖手不明确归给某人，不能从局部手反推对面的个人姿态；衣色均非固定人物制服。",
+        "月娘的毛边发饰袖缘、树叶与月相为美术补足，不据此认定精确物候。"
+      ],
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 7,
+          "quote": "必须如此如此，夜晚打墙上过来，方隐密些。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 7,
+          "quote": "西门庆这边止是月娘金莲春梅，用梯子接着。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 7,
+          "quote": "墙头上铺苫毡条，一个个打发过来，都送到月娘房中去。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 14,
+        "paragraph": 7,
+        "quote": "然后到晚夕月上的时分，李瓶儿那边同两个丫鬟迎春绣春，放桌凳把箱柜挨到墙上，西门庆这边止是月娘金莲春梅，用梯子接着。墙头上铺苫毡条，一个个打发过来，都送到月娘房中去。"
+      },
+      "references": [
+        "references/moon-030.png",
+        "references/pan-solo-030.png",
+        "references/chun-030.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Wu Yueniang round face and steady full build; reference 2 ONLY Pan Jinlian narrower oval face and clear brows; reference 3 ONLY Chunmei youthful face and straighter brows. Do not copy old clothing, snow or reference poses. A strictly nonsexual domestic task with EXACTLY THREE visible women, all in modest opaque long-sleeved practical robes and long skirts; Chunmei keeps a plain ordinary youthful appearance, not aged up or glamorized. A night-time receiving side of one weathered plaster courtyard wall, moon now up. Medium-wide composition from INSIDE the receiving courtyard, wall stretches diagonally, one sturdy wooden ladder leans against it. One CLOSED rectangular dark wooden chest with restrained painted gold decoration rests horizontally over the felt strip cushioning the top of the wall. Center-right Yueniang in muted russet jacket and taupe skirt has climbed partway up the ladder and grasps the near chest edge with both normal hands. Left Pan in opaque dull olive jacket and dark rose skirt stands on a stable low wooden step next to the ladder, supporting the adjacent chest corner with both hands. Lower foreground Chunmei in plain pale-grey jacket and dark blue skirt steadies the ladder with two hands, looking upward attentively. Only two anonymous sleeved hands from the people HIDDEN on the far side push the far edge of the same chest; no far-side faces or bodies. Exactly ONE visible chest, other three boxes outside frame. No Ximen Qing or other men. No money, open chest, fantasy treasures, theft caricature, lantern festival, snow or text. Focus on the physically believable transfer and wary quiet, cool moonlight with a little warm light from a distant doorway. Distinct faces, normal limbs, strong but not dangerous-looking ladder, no falling or violence. Architecture and action staging are illustrative not a measured reconstruction.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Wu Yueniang round face and steady full build; reference 2 ONLY Pan Jinlian narrower oval face and clear brows; reference 3 ONLY Chunmei youthful face and straighter brows. Do not copy old clothing, snow or reference poses. A strictly nonsexual domestic task with EXACTLY THREE visible women, all in modest opaque long-sleeved practical robes and long skirts; Chunmei keeps a plain ordinary youthful appearance, not aged up or glamorized. A night-time receiving side of one weathered plaster courtyard wall, moon now up. Medium-wide composition from INSIDE the receiving courtyard, wall stretches diagonally, one sturdy wooden ladder leans against it. One CLOSED rectangular dark wooden chest with restrained painted gold decoration rests horizontally over the felt strip cushioning the top of the wall. Center-right Yueniang in muted russet jacket and taupe skirt has climbed partway up the ladder and grasps the near chest edge with both normal hands. Left Pan in opaque dull olive jacket and dark rose skirt stands on a stable low wooden step next to the ladder, supporting the adjacent chest corner with both hands. Lower foreground Chunmei in plain pale-grey jacket and dark blue skirt steadies the ladder with two hands, looking upward attentively. Only two anonymous sleeved hands from the people HIDDEN on the far side push the far edge of the same chest; no far-side faces or bodies. Exactly ONE visible chest, other three boxes outside frame. No Ximen Qing or other men. No money, open chest, fantasy treasures, theft caricature, lantern festival, snow or text. Focus on the physically believable transfer and wary quiet, cool moonlight with a little warm light from a distant doorway. Distinct faces, normal limbs, strong but not dangerous-looking ladder, no falling or violence. Architecture and action staging are illustrative not a measured reconstruction.",
+      "image": "assets/014-02.webp",
+      "status": "generated",
+      "review": "已显示并另打开本地采用PNG核看：接箱侧恰月娘、金莲、春梅三名女子，月娘圆润脸、金莲窄脸与春梅年轻直眉可区分；无西门庆和男仆。恰一口闭合描金箱横于铺毡墙头，月娘登梯扶箱，金莲立凳协助，春梅双手稳梯；对面只见两只袖手、不见人物脸，其他箱在画外。手脚、梯凳与箱体关系无明显失真，无可读字和性化。月娘的毛边发饰袖缘、箱纹、墙高、树叶及月相均为美术补足，不作原文季节精确物候或器物复原。初稿采用。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI第14回及指定第13回前情。故事时代与宽泛晚明视觉参考分开；未考定的衣装、器物、空间与尺度属美术补足。生成图不是历史证据。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "014-03",
+      "chapter": 14,
+      "title": "盼不到的谢席",
+      "people": [
+        "花子虚"
+      ],
+      "place": "花家搬离旧宅前，邀西门庆知谢时",
+      "event": "花子虚设席想谢西门庆并问余银，李瓶儿却暗叫西门庆不来，只送花帐；再三邀请仍只得“不在家”的回复。",
+      "why": "一桌谢酒把朋友之义与钱帐之疑并在一起，对方的缺席使两者都无从兑现。",
+      "composition": "花子虚独在紧裁的门边跌脚，身后案上留一张空椅与杯盘，其他受邀者和仆从在画外。",
+      "summary": "官司后房舍庄田被估卖，三千两银子也无下落。花子虚想把余银凑来另买房，安排一席请西门庆知谢并当面问帐。李瓶儿却暗传不必赴席、只送一篇花帐。西门庆躲去，只回不在家，花子虚气得跌脚。图不把设席画成两人已会面，也不编造花帐具体项目。",
+      "psychology": {
+        "明写": "花子虚心中焦燥，希望尚有余银买房；请客不得，气得发昏跌脚。西门庆本有再找几百两给他的意思，李瓶儿不肯。",
+        "推断": "他咬紧嘴、握空拳的怒意与空椅的前景安排，是让落空的邀请可见，不作为他在这一瞬间的逐字动作记录。"
+      },
+      "social": "礼席的答谢和余款结算彼此纠缠；经手者不出面，账目便失去当面查问的机会。",
+      "explicit": [
+        "两箱三千两不见踪影与没分得财产是本回叙述；不能把三千两全数写成已核实支付给权门。",
+        "“一篇花帐”“只说银子上下打点都使没了”是李瓶儿暗传的指令，图不生成可读伪账。",
+        "本段另有两名妓者及仆从，紧裁只画花子虚，不表示原现场只有一人。"
+      ],
+      "inference": [
+        "花子虚面貌没有指定旧参考，本图建立年轻成年男子的宽方圆脸、浓直眉与无明显须容作为识别约定。",
+        "杯盘、菜色、空椅位置、光线与足部瞬间属补足；不画账单内容、不推算元宝重量或现代价值。",
+        "本图表现早于病倒时的愤怒，不把死亡先画到眼前。"
+      ],
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 16,
+          "quote": "子虚这裏安排了一席，叫了两个妓者，请西门庆来知谢，就找着问他银两下落。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 16,
+          "quote": "只回不在家。花子虚气的发昏，只是跌脚。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 16,
+          "quote": "开送了一篇花帐与他，只说银子上下打点都使没了。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 14,
+        "paragraph": 16,
+        "quote": "西门庆一径躲的往院裏去了，只回不在家。花子虚气的发昏，只是跌脚。"
+      },
+      "references": [],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. No input reference is needed for this newly established face. Exactly ONE VISIBLE young adult Chinese man, Hua Zixu, at a household reception-room doorway, late autumn cool daylight before his later illness. He has a broad rounded-square face clearly different from Ximen Qing, naturally thick straight brows, ordinary black eyes, a short broad straight nose, clean-shaven cheeks, black hair in a simple cloth cap, early twenties appearance without age lines. Modest high-neck muted brown long robe tied at waist and black cloth shoes, opaque fabric. He has just received another refusal from an invited friend: body turned toward the door, jaw tightened, one foot stamping down on the stone threshold, hands clenched near his own sides, angry frustration not rage at another person. Foreground banquet table partly cropped with a few ordinary cold dishes, one wine pot, cups and a prominently EMPTY chair angled toward him. No seated guest, no other visible figure, no paper or readable accounts. The invited performers and household staff remain outside this tight framing; it is not an empty house. Worn timber, simple plaster, a quiet unlit corner contrast with side daylight. Feet anatomically sound, no floating, no blood, no physical assault, no illness or corpse, no ghosts or future omens. Single actual moment, not a collage.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. No input reference is needed for this newly established face. Exactly ONE VISIBLE young adult Chinese man, Hua Zixu, at a household reception-room doorway, late autumn cool daylight before his later illness. He has a broad rounded-square face clearly different from Ximen Qing, naturally thick straight brows, ordinary black eyes, a short broad straight nose, clean-shaven cheeks, black hair in a simple cloth cap, early twenties appearance without age lines. Modest high-neck muted brown long robe tied at waist and black cloth shoes, opaque fabric. He has just received another refusal from an invited friend: body turned toward the door, jaw tightened, one foot stamping down on the stone threshold, hands clenched near his own sides, angry frustration not rage at another person. Foreground banquet table partly cropped with a few ordinary cold dishes, one wine pot, cups and a prominently EMPTY chair angled toward him. No seated guest, no other visible figure, no paper or readable accounts. The invited performers and household staff remain outside this tight framing; it is not an empty house. Worn timber, simple plaster, a quiet unlit corner contrast with side daylight. Feet anatomically sound, no floating, no blood, no physical assault, no illness or corpse, no ghosts or future omens. Single actual moment, not a collage.",
+      "image": "assets/014-03.webp",
+      "status": "generated",
+      "review": "已显示并另打开本地采用PNG核看：仅花子虚一名可见男子，宽方圆脸、浓直眉、无明显胡须，和西门庆脸形可区分；握拳、抬脚在门槛上跌脚的愤怒动作成立，手足无显著异常。前景谢席杯盘与一张空椅清楚，西门庆没有误在席上；他人裁在画外。菜色、桌布纹样、花瓶和秋叶为补足，不是原文食单或明确物候证据；未画可读假账、疾病、暴力与未来征兆。初稿采用，新增脸留作识别约定。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI第14回及指定第13回前情。故事时代与宽泛晚明视觉参考分开；未考定的衣装、器物、空间与尺度属美术补足。生成图不是历史证据。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "014-04",
+      "chapter": 14,
+      "title": "带回房中的灵位",
+      "people": [
+        "李瓶儿"
+      ],
+      "place": "狮子街新居，花子虚送葬归来当日",
+      "event": "花子虚病亡并下葬，李瓶儿从送葬归来，将灵位供养在房中；叙述同时明写她心里想着西门庆。",
+      "why": "从家财与相交转到一个二十四岁人的死亡；灵位与门外方向的视线只取当下，不借后文裁判。",
+      "composition": "右侧李瓶儿站在房内，目光转向画外门口；左侧桌案供一个灵位，只见无可读字的背侧。",
+      "summary": "花子虚凑二百五十两买了狮子街房子，搬入后病倒。李瓶儿初请胡太医，后来怕花钱拖延；十一月二十头他去世，叙述记二十四岁。丧葬由她请西门庆商议办理，送殡归来又带回灵位。图只取房中供位的一刻；“一心只想着西门庆”有明文，不由眼神假装读心。",
+      "psychology": {
+        "明写": "叙述写李瓶儿后来怕使钱而拖着；送葬归来虽守灵，一心想着西门庆。花子虚先前焦燥，本回又明写害伤寒，不能将死亡仅断为生气的医学因果。",
+        "推断": "李瓶儿向门口偏头和安静的站姿是视觉补足，不以此证明她绝无悲伤或完整的内心状态。"
+      },
+      "social": "看病支出、继承争讼与丧葬往来交叠；本回对照守灵形式与内心所向，图不将未考定丧仪当制度样本。",
+      "explicit": [
+        "病自十一月初旬起，挨到“二十头”而亡，亡年二十四；不擅定具体某一天。",
+        "先请胡太医、后来怕使钱、买棺入殓与埋葬、灵位供在房中都有叙述。",
+        "灵位是送葬已归之后，不把葬地、尸身或未来相处拼入。"
+      ],
+      "inference": [
+        "李瓶儿灰白衣、素髻、供桌、香炉、灯具与灵位背面形制为宽泛美术补足，非确证丧服复原。",
+        "图内不造姓名、谥号、祭文或题字，不添加眼泪与虔诚合掌；不能因无泪画法推断她毫无感受。",
+        "光线与朝门口的视线为表现手段，门外无人，不象征后来结果。",
+        "画中门外薄雪及香炉里三枝香为冬日美术补足；本回没有明写这一天降雪或香数，不能据画断定天气与丧仪。"
+      ],
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 21,
+          "quote": "従十一月初旬睡倒在床上，就不曾起来。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 21,
+          "quote": "亡年二十四岁。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 21,
+          "quote": "当日妇人轿子归家，也回了一个灵位供养在房中。虽是守灵，一心只想着西门庆。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 14,
+        "paragraph": 21,
+        "quote": "当日妇人轿子归家，也回了一个灵位供养在房中。虽是守灵，一心只想着西门庆。"
+      },
+      "references": [
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Li Pinger compact pale oval face, fine arched brows and small stature, an adult woman in her twenties; do not copy pink costume, fan, jewelry or summer garden. Exactly ONE person in an ordinary household room in early winter after returning from her husband funeral, calm non-graphic literary scene. RIGHT Li Pinger standing fully clothed in plain opaque off-white high-collared jacket and grey full-length skirt, simple dark bun partly covered with plain pale cloth, hands relaxed together at waist, head slightly turned toward the quiet open doorway at far right. Her expression restrained and distracted, neither staged weeping nor villainous smile. LEFT on a worn wooden side table stands ONE simple upright dark wooden memorial tablet seen from its BACK and oblique edge, no readable inscriptions, with one small incense bowl and a humble oil lamp nearby. Plain warm grey plaster, timber lattice window, little household furnishing. Clear empty space between woman and memorial table, low winter afternoon light fading on the floor. No body, coffin, grave, blood, ghosts, man in doorway, romantic vignette, second time scene, ominous symbolic animal or future construction. The lamp, clothing and altar form are broad artistic conventions, not a claimed precise ritual reconstruction; no compulsory worship pose.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Li Pinger compact pale oval face, fine arched brows and small stature, an adult woman in her twenties; do not copy pink costume, fan, jewelry or summer garden. Exactly ONE person in an ordinary household room in early winter after returning from her husband funeral, calm non-graphic literary scene. RIGHT Li Pinger standing fully clothed in plain opaque off-white high-collared jacket and grey full-length skirt, simple dark bun partly covered with plain pale cloth, hands relaxed together at waist, head slightly turned toward the quiet open doorway at far right. Her expression restrained and distracted, neither staged weeping nor villainous smile. LEFT on a worn wooden side table stands ONE simple upright dark wooden memorial tablet seen from its BACK and oblique edge, no readable inscriptions, with one small incense bowl and a humble oil lamp nearby. Plain warm grey plaster, timber lattice window, little household furnishing. Clear empty space between woman and memorial table, low winter afternoon light fading on the floor. No body, coffin, grave, blood, ghosts, man in doorway, romantic vignette, second time scene, ominous symbolic animal or future construction. The lamp, clothing and altar form are broad artistic conventions, not a claimed precise ritual reconstruction; no compulsory worship pose.",
+      "image": "assets/014-04.webp",
+      "status": "generated",
+      "review": "已显示并另打开本地采用PNG核看：恰李瓶儿一人，瓜子面细眉和小身量承接参考；素衣全遮蔽，双手自然相叠，目光朝向空门口，未加媚笑、哭丧或祈拜动作。左案恰一座灵位的无字背侧、香炉与油灯，未造祭文姓名；没有尸身、棺木、墓地、鬼影或男人。室外薄雪、素髻衣色、香数、器型、笼篮与房间均为冬日美术补足，不是本回明写天气或丧仪复原；视线只是画法，不当作全盘读心。初稿采用。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI第14回及指定第13回前情。故事时代与宽泛晚明视觉参考分开；未考定的衣装、器物、空间与尺度属美术补足。生成图不是历史证据。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "014-05",
+      "chapter": 14,
+      "title": "旧汗巾里的四对簪",
+      "people": [
+        "李瓶儿",
+        "吴月娘"
+      ],
+      "place": "西门家上房，金莲生日留宿后的次晨茶席",
+      "event": "冯妈妈带来旧汗巾包的四对金寿字簪；李瓶儿先奉月娘一对，其余三对分给李娇儿、孟玉楼和孙雪娥。",
+      "why": "前回一对簪的私下交换，来到本回成为几房各一对的礼物；物件在姐妹称谓与席面关系中扩散。",
+      "composition": "只裁李瓶儿奉第一对给月娘：恰两根簪在交递处，桌上摊开的旧巾里还留三对共六根，其他茶客在画外。",
+      "summary": "金莲生日，李瓶儿来拜寿又被众人留宿。席上月娘问起金莲头上簪子，她便说还有几对。第二天冯妈妈果然从袖中取出旧汗巾包的四对金簪；李瓶儿先奉月娘，再分给其余三房。图只取第一对交递，不把后来各人戴簪和再约生日宴同时画成已经完成。",
+      "psychology": {
+        "明写": "月娘说多有破费、使不得，李瓶儿笑说并非罕稀之物，众人拜谢后各插头上。",
+        "推断": "李瓶儿前倾奉礼、月娘半抬手的礼貌推让是对话姿态补足；礼物客观拉近往来，不据此断言双方已知彼此全部私情。"
+      },
+      "social": "赠物按房各一对建立席间对等；孙雪娥先前须回厨下，此时同样收到一对，礼物次序与劳动位置并不相同。",
+      "explicit": [
+        "旧汗巾、四对、先月娘而后李娇儿孟玉楼孙雪娥是明文。",
+        "“宫裏御前带出来”是上一日晚席李瓶儿的话，不能把生成纹样当宫廷器物鉴定。",
+        "本图两位成年女子可见，冯妈妈和其他茶客在画外；不表示原文只有两人。"
+      ],
+      "inference": [
+        "桌上展开旧巾是交付之后的布置补足，原文没有规定巾、茶碗和簪在桌上的精确位置。",
+        "每簪以金透空纹小头示意，避免造可读寿字；数量四对明确，尺度和具体纹样未考定。",
+        "次晨衣色未明，图中素灰蓝与赭色衣服为美术补足，不把前日详细盛装永久固定。",
+        "图中窗外薄雪、袖口毛边与左侧炉具是冬晨美术补足，本段未明写降雪、毛边或炉具形制。"
+      ],
+      "evidence": [
+        {
+          "chapter": 14,
+          "paragraph": 27,
+          "quote": "冯妈妈向袖中取出一方旧汗巾，包着四对金寿字簪儿，递与李瓶儿。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 27,
+          "quote": "接过来先奉了一对与月娘，然后李娇儿孟玉楼孙雪娥，每人都是一对。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 27,
+          "quote": "月娘众人拜谢了，方纔各人插在头上。"
+        }
+      ],
+      "excerpt": {
+        "chapter": 14,
+        "paragraph": 27,
+        "quote": "冯妈妈向袖中取出一方旧汗巾，包着四对金寿字簪儿，递与李瓶儿。接过来先奉了一对与月娘，然后李娇儿孟玉楼孙雪娥，每人都是一对。"
+      },
+      "references": [
+        "references/ping-013.png",
+        "references/moon-030.png"
+      ],
+      "prompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Li Pinger pale compact oval face, fine arched brows and small stature; reference 2 ONLY Wu Yueniang round face and steady full build. Do not copy previous costume, fan, snow, praying pose or hairpin count in references. Exactly TWO VISIBLE adult women in a household morning tea room in winter; the other tea guests and elderly messenger are OUTSIDE the tight framing. LEFT Li Pinger in a plain opaque pale grey-blue warm jacket and long muted blue skirt, modest simple black bun, leans forward slightly and courteously offers a PAIR of matching slender GOLD HAIRPINS held together horizontally with both normal hands, shafts pointing sideways safely. RIGHT Yueniang in muted russet jacket and taupe skirt, neat simple bun, seated and looking at the offered gift, one open hand partly raised in polite demurral and the other at table edge. On the foreground table an opened visibly WORN FADED CLOTH HANDKERCHIEF contains exactly THREE more pairs, SIX individual gold pins laid side-by-side in three separated pairs, no extra pin or jewelry anywhere. Total exactly EIGHT pins: two being offered, six on cloth. Small gold openwork heads with abstract curling motifs, NO readable character or text. A tea bowl and one small plate of plain pastries well separated from the six pins. Pin count and exchange are the focus, faces also clear; room textures of worn wood and plaster, soft cold morning window light with warm interior tones. No multi-moment collage, no already inserting pins in hair, no additional people, romance, medicine, luxury treasure pile, paper or labels. Pattern and scale are broad painted conventions not exact court jewelry reconstruction.",
+      "actualPrompt": "Use case: historical-scene. A complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured silk, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted, not photographic, not anime or glossy fantasy. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. Reference 1 ONLY Li Pinger pale compact oval face, fine arched brows and small stature; reference 2 ONLY Wu Yueniang round face and steady full build. Do not copy previous costume, fan, snow, praying pose or hairpin count in references. Exactly TWO VISIBLE adult women in a household morning tea room in winter; the other tea guests and elderly messenger are OUTSIDE the tight framing. LEFT Li Pinger in a plain opaque pale grey-blue warm jacket and long muted blue skirt, modest simple black bun, leans forward slightly and courteously offers a PAIR of matching slender GOLD HAIRPINS held together horizontally with both normal hands, shafts pointing sideways safely. RIGHT Yueniang in muted russet jacket and taupe skirt, neat simple bun, seated and looking at the offered gift, one open hand partly raised in polite demurral and the other at table edge. On the foreground table an opened visibly WORN FADED CLOTH HANDKERCHIEF contains exactly THREE more pairs, SIX individual gold pins laid side-by-side in three separated pairs, no extra pin or jewelry anywhere. Total exactly EIGHT pins: two being offered, six on cloth. Small gold openwork heads with abstract curling motifs, NO readable character or text. A tea bowl and one small plate of plain pastries well separated from the six pins. Pin count and exchange are the focus, faces also clear; room textures of worn wood and plaster, soft cold morning window light with warm interior tones. No multi-moment collage, no already inserting pins in hair, no additional people, romance, medicine, luxury treasure pile, paper or labels. Pattern and scale are broad painted conventions not exact court jewelry reconstruction.",
+      "image": "assets/014-05.webp",
+      "status": "generated",
+      "review": "已显示生成结果并另打开本地采用PNG核看：恰两名成人，左李瓶儿小瓜子面细眉、右月娘圆润脸稳重体态，与参考相合。交递处清楚为两根金簪，旧汗巾上三对共六根，合计八根，头上没有新插簪；旧巾、礼貌推让、茶碗与点心关系清楚。双手与身体无显著异常，无可读字或额外人物；其他茶客均在画外。透空纹只是示意，没有假造寿字或宫廷鉴定；窗外薄雪、毛边袖口、衣色、炉具、家具和糕点为冬晨美术补足，不是明写天气、食单或盛装复原。初稿采用。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI第14回及指定第13回前情。故事时代与宽泛晚明视觉参考分开；未考定的衣装、器物、空间与尺度属美术补足。生成图不是历史证据。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

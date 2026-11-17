@@ -1,0 +1,469 @@
+{
+  "number": 29,
+  "title": "第二十九回吴神僊贵贱相人　潘金莲兰汤午战",
+  "intro": "鞋扇上的闲谈余波仍在，前厅又来一位吴神仙。五图取早凉针线、观手、春梅出见、辞银受布与午间冰汤；只画本回已经发生的动作。相师预测、人物反驳、院内惩罚和亲密情节分层作文学说明，不据后文解读此刻。",
+  "supplements": [
+    {
+      "title": "鞋事续波：来昭一家迁看狮子街",
+      "text": "玉楼转述月娘对拾鞋责罚的批评，金莲恼怒；转述中的猜测与辱骂不当作独立事实。金莲夜里再向庆告一丈青指骂，庆要撵来昭三口出门，月娘再三拦劝后，仍把他们调去狮子街看屋，换平安儿回来看门。这是本回实际的雇役处置，不用上回画面的省略淡化后果。",
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 7,
+          "quote": "到次日，要撵来昭三口子出门，多亏月娘再三拦劝下。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 7,
+          "quote": "不容他在家，打发他往狮子街房子那裏看守，替了平安儿来家看守大门。"
+        }
+      ]
+    },
+    {
+      "title": "相法是当场话语，不是未来事实",
+      "text": "吴神仙依次为主人与众女相看，多以容貌连接道德、贫富与吉凶。这些都按他的言说记载，不把歧视性面相判断当作本馆结论，也不把未发生的结果画成预兆。月娘事后说有三人相不着；庆也说可能把春梅认成养女。这些同样是人物当下的判断，不能提前由后文验真。",
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 14,
+          "quote": "于是李娇儿、孟玉楼、潘金莲、李瓶儿、孙雪娥等众人都跟出来，在软屏后潜听。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 23,
+          "quote": "那潘金莲只顾嬉笑，不肯过来。月娘催之再三，方纔出见。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 39,
+          "quote": "月娘道：「相的也都好，只是三个人相不着。」"
+        }
+      ]
+    },
+    {
+      "title": "春梅的年龄与当下身份话语",
+      "text": "本回明确春梅年纪不上二九，按未满十八岁处理。图3与图5仅为全衣行礼和置壶。梅汤段后续出现的搂抱及有关生育话语本次不配图；不以既有图像、职业或婚育话语把她升龄。她关于能否长远做奴才的反问，只是此刻的愿望与不服，不预告身份兑现。",
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 35,
+          "quote": "年纪不上二九"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 45,
+          "quote": "莫不长远只在你家做奴才罢！"
+        }
+      ]
+    },
+    {
+      "title": "午后床浴与争宠，只留文学说明",
+      "text": "后段写庆在金莲熟睡时进房，未经当下询问便开始亲密行为；不能据随后嬉笑推成全程事先同意。金莲因前日庆夸瓶儿白净而调花蕊、酥油、定粉搽身，以求夺宠，后来又有共浴与饮酒。这些重要事实仅作非露骨说明，本次未配床浴图，不补画不明的精确身体状态、器物尺度或过程。",
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 46,
+          "quote": "在凉席之上睡思正浓。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 47,
+          "quote": "使西门庆见了爱他，以夺其宠。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 47,
+          "quote": "把浴盆掇到房中，注了汤"
+        }
+      ]
+    },
+    {
+      "title": "秋菊因冷酒再受罚",
+      "text": "午后饮酒时，金莲嫌秋菊送来的是冷酒，泼了她一头一脸。秋菊低声说每日又吃冰湃的酒，今日却改了要求。金莲随后命责罚，春梅拉她到院里顶石跪着。这段不配刺激性责罚图，事实仍保留；侍役遭遇的是随主人临时心意改变的要求，而非可据此认定她天生愚笨。",
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 49,
+          "quote": "摸了摸，冰凉的"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 49,
+          "quote": "泼了一头一脸"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 49,
+          "quote": "每日爹娘还吃冰湃的酒儿，谁知今日又改了腔儿。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 49,
+          "quote": "拉到院子内，教他顶着块大石头跪着。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "029-01",
+      "chapter": 29,
+      "title": "赶早凉，三人同看鞋扇",
+      "excerpt": {
+        "chapter": 29,
+        "paragraph": 6,
+        "quote": "三人一处坐下，拿起鞋扇，你瞧我的，我瞧你的，都瞧了一遍。先是春梅拿茶来吃了，然后李瓶儿那边的茶到，孟玉楼房裏兰香落后纔拿茶至。"
+      },
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 5,
+          "quote": "往花园翡翠轩台基儿上坐着"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 5,
+          "quote": "要做一双大红光素缎子白绫平底鞋儿"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 5,
+          "quote": "鞋尖儿上扣绣『鹦鹉摘桃』"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 5,
+          "quote": "我有一方大红十样锦缎子"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 5,
+          "quote": "是昨日你看我开的那双玄色缎子鞋"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 6,
+          "quote": "三人一处坐下，拿起鞋扇，你瞧我的，我瞧你的，都瞧了一遍。"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "孟玉楼",
+        "李瓶儿"
+      ],
+      "place": "花园翡翠轩台基",
+      "event": "金莲、瓶儿与玉楼趁早凉一起做针线，互相看过鞋扇，茶也先后送到。",
+      "why": "日常针线先把三人联在一起，随后同一双红鞋却引出拾鞋、责罚和转述之争。",
+      "composition": "三人围着低几而坐，左金莲拿红素缎鞋扇，中间玉楼持玄色鞋扇，右瓶儿持红锦鞋扇；针线筐与茶盏在手边。",
+      "summary": "一早，金莲打发西门庆出门，邀瓶儿、玉楼到翡翠轩赶凉做生活。三人先把彼此的鞋扇看遍：金莲要做红缎平底睡鞋，瓶儿偏要高底，玉楼已经衲好一只玄色鞋。图停在共同做针线的开端，未把随后转述引起的恼怒提前画成三人的永久表情。",
+      "psychology": {
+        "明写": "金莲因失鞋记挂重做；玉楼已衲好一只，三人互相看鞋扇。",
+        "推断": "彼此举物相看与暂时放松的神情，是根据共同针线活动作的美术推断。"
+      },
+      "social": "同做针线呈现宅内妇人的日常往来；后续谈话说明，消息也经由这样的聚坐流通，日常闲谈能触及仆役的处境。",
+      "explicit": [
+        "三人同处翡翠轩台基，赶早凉做鞋；茶先后由不同房中送来。",
+        "红光素缎平底、红锦高底与玄色鞋各有不同，不互换物主。",
+        "李瓶儿本回后文明写怀孕；图中衣着宽松，不以旧参考身体状态替代。"
+      ],
+      "inference": {
+        "推断": "针线与茶都放在可取用处，人物视线汇在举起的鞋扇。",
+        "美术补足": "三人的夏日衣色、花纹饰物、坐具、低几、针线筐、剪具针插与台基园景为美术安排；采用图玉楼胸前无龙纹圆章，黑鞋扇只简化云纹。鹦鹉摘桃、羊皮金云头与绿线锁白山子未作名物精确复原。三片鞋扇均未合底，平底与高底只在文字说明；荷花绣球不作实测园景。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；衣物、器物尺度与宅园空间未考定部分均为美术补足，不以生成图作史证。",
+      "references": [
+        "未公开参考〔unpublished-reference-223f05e742a6；过程图或旧参考不随本包发布〕"
+      ],
+      "prompt": "Edit this illustration with two tightly related historical sewing-scene corrections, preserving all faces, bodies, poses, hands, lighting, framing and other objects exactly. (1) The CENTER woman Meng Yulou currently has a large circular golden dragon emblem on her blue-teal robe. Remove that entire round dragon emblem; replace only that patch with the same subdued SMALL floral vine pattern as the surrounding robe. No round badge, dragon, phoenix, official rank symbol or medallion anywhere on her clothing. This is ordinary domestic clothing. (2) The BLACK shoe-upper cloth in the center woman's hands currently shows a bird-and-peach embroidery. Remove that bird-and-peach design from the BLACK cloth ONLY; leave the black cloth with subtle small pale-green edge stitching and one simple restrained cloud outline. Preserve the cloth shape, her sewing needle, thread and all fingers. Leave the red shoe uppers of the left and right women unchanged. Keep exactly THREE fully clothed women at a sewing table. Keep faces (left narrow-faced Pan, middle slightly pockmarked Meng, right small-faced Li), their hairstyles, expressions, table, sewing basket, three tea cups and background unchanged. No new people, letters or objects. Retain gongbi mineral-wash painted texture. No body or age changes.",
+      "actualPrompt": "Edit this illustration with two tightly related historical sewing-scene corrections, preserving all faces, bodies, poses, hands, lighting, framing and other objects exactly. (1) The CENTER woman Meng Yulou currently has a large circular golden dragon emblem on her blue-teal robe. Remove that entire round dragon emblem; replace only that patch with the same subdued SMALL floral vine pattern as the surrounding robe. No round badge, dragon, phoenix, official rank symbol or medallion anywhere on her clothing. This is ordinary domestic clothing. (2) The BLACK shoe-upper cloth in the center woman's hands currently shows a bird-and-peach embroidery. Remove that bird-and-peach design from the BLACK cloth ONLY; leave the black cloth with subtle small pale-green edge stitching and one simple restrained cloud outline. Preserve the cloth shape, her sewing needle, thread and all fingers. Leave the red shoe uppers of the left and right women unchanged. Keep exactly THREE fully clothed women at a sewing table. Keep faces (left narrow-faced Pan, middle slightly pockmarked Meng, right small-faced Li), their hairstyles, expressions, table, sewing basket, three tea cups and background unchanged. No new people, letters or objects. Retain gongbi mineral-wash painted texture. No body or age changes.",
+      "image": "assets/029-01.webp",
+      "status": "generated",
+      "review": "已实际view_image打开修正版采用图。恰三人：左金莲窄鹅蛋脸、中玉楼微麻面、右瓶儿小瓜子脸，均延续指定参考；手指、针线、三茶盏和针线筐清楚。金莲持红素缎鞋扇，玉楼持玄色鞋扇，瓶儿持红锦鞋扇，均未合底，故平底、高底差别只作文字，不据图宣称已经做完。一次定向编辑已去掉玉楼衣上的大圆龙纹，改为普通花枝；黑鞋扇多余鸟桃纹已改为小云纹，原文拟用的羊皮金及绿锁白山子仍只作简化艺术提示。三人身份、脸、动作与人数保持，无脚部焦点、试穿或亲密。衣上花纹、瓶儿耳饰、园中荷花绣球、几案剪具、针插与具体空间为美术补足，妊娠衣装宽松而不强调身体；可采用。",
+      "initialPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Input reference 1 locks ONLY Pan Jinlian narrow oval face; reference 2 ONLY Meng Yulou taller build and slightly pockmarked face; reference 3 ONLY Li Ping er small oval face and delicate curved brows. Exactly THREE fully clothed women doing ordinary sewing in morning cool shade on a garden pavilion raised stone terrace. Left Pan in loose ivory summer blouse and muted plum sleeveless outer layer holds an unfinished FLAT red satin shoe upper, not a worn shoe; center Meng with faint natural facial pockmarks in muted teal layers holds a partly stitched BLACK satin shoe; right Li in loose pale apricot layers, modestly pregnant with no body emphasis, holds red patterned brocade shoe-upper cloth. They compare their separate work with attentive relaxed faces, no fashion-pose. A low wooden table has three small plain tea cups, a sewing basket, thread, and flat cloth pieces. All hands naturally attached, clear faces in three-quarter view. Fully covered feet kept inconspicuous. Dense summer foliage, angled morning light. No attendants or additional people, no romantic contact, no violence. Shoe motifs are tiny simple parrot-and-peach-like decorative outlines, no readable marks or fetish focus.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "029-02",
+      "chapter": 29,
+      "title": "伸手听相，欢喜在前厅",
+      "excerpt": {
+        "chapter": 29,
+        "paragraph": 11,
+        "quote": "西门庆道：「已刑过了。」神僊道：「请出手来看一看。」西门庆舒手来与神僊看。"
+      },
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 8,
+          "quote": "头戴青布道巾，身穿布袍草履，腰系黄丝双穗绦，手执龟壳扇子"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 8,
+          "quote": "年约四十之上"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 11,
+          "quote": "讨笔砚来"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 11,
+          "quote": "西门庆便说与八字：「属虎的，二十九岁了，七月二十八日子时生。」"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 11,
+          "quote": "西门庆听了，满心欢喜。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 11,
+          "quote": "西门庆舒手来与神僊看。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "吴神仙"
+      ],
+      "place": "西门宅前厅",
+      "event": "素斋已撤，吴神仙说过八字、看过走路，又请西门庆伸手相看。",
+      "why": "主人把身体与自报八字交给相师解释，喜听贵旺之言；图像只呈现这一问相行为。",
+      "composition": "左侧吴神仙俯眼看手，右侧西门庆坐着伸出一掌；桌上笔砚与无字纸，龟壳纹扇在道士手边。",
+      "summary": "周守备荐来吴神仙，西门庆敬重款待，先陪吃素斋，才请他论命观相。神仙从自报八字说到面貌、步态和手掌，赞辞与不足交替。西门庆听得欢喜，依言舒手。图不把预测变为已发生的命运，也不把相法中对五官的道德评断当成人物事实。",
+      "psychology": {
+        "明写": "西门庆听论命而满心欢喜，又依言走步、出手。吴神仙几次说有不足之处不敢说。",
+        "推断": "西门庆略带期待、相师凝神端详，是据动作组织的美术表现。"
+      },
+      "social": "周守备的介绍使云游相士获得进入宅门的信用；本回把权门往来、款待和相术服务放在一起。相术话语本身不作可信知识采用。",
+      "explicit": [
+        "吴神仙年约四十之上，青布道巾、布袍草履、黄丝双穗绦、龟壳扇。",
+        "西门庆自报二十九岁与生辰；这是本回人物自报，不另校成统一生年。",
+        "笔砚在斋后讨来，西门庆确实伸手。"
+      ],
+      "inference": {
+        "推断": "相师目光落在掌纹，主人在对面坐着，具体左右方位未载。",
+        "美术补足": "吴神仙窄长成熟面、颧骨、深眼、短须是首次面貌设定；布袍用灰褐色、庆的青绿夏袍、桌椅与扇纹均为美术安排。龟壳扇的形制未经考定，仅用龟甲纹平扇提示，不画整只龟或声称器物复原。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；衣物、器物尺度与宅园空间未考定部分均为美术补足，不以生成图作史证。",
+      "references": [
+        "references/ximen.png"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference image 1 locks ONLY Ximen Qing face and long lean build, straight brows and narrow eyes, not his old outfit. Exactly TWO adult men in a shaded domestic front hall after a simple vegetarian meal has been removed. Right Ximen, self-reported age twenty-nine, wears loose muted green summer robe and a plain black cap, seated with one palm naturally open toward the other man, quietly pleased and listening. Left NEW identity Wu Shixian, a wandering Daoist physiognomist over forty: narrow weathered long face, noticeable cheekbones, deep natural eyes, short black beard and mustache with a few grey hairs, composed expression; blue cotton Daoist headcloth, plain grey-brown cloth robe, yellow cord sash with two tassels and straw sandals. He sits leaning slightly forward, studies the open palm without grabbing it or dramatic magic. A simple flat handheld fan with abstract tortoise-shell pattern rests next to him, not a whole turtle. Brush, inkstone and blank paper on the table. No legible charts. Clear separated naturally formed hands, faces visible. Daylight from lattice doors, plain folding screen, no women or attendants. No supernatural glow, omens, future visions, official regalia or fortune made visible.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference image 1 locks ONLY Ximen Qing face and long lean build, straight brows and narrow eyes, not his old outfit. Exactly TWO adult men in a shaded domestic front hall after a simple vegetarian meal has been removed. Right Ximen, self-reported age twenty-nine, wears loose muted green summer robe and a plain black cap, seated with one palm naturally open toward the other man, quietly pleased and listening. Left NEW identity Wu Shixian, a wandering Daoist physiognomist over forty: narrow weathered long face, noticeable cheekbones, deep natural eyes, short black beard and mustache with a few grey hairs, composed expression; blue cotton Daoist headcloth, plain grey-brown cloth robe, yellow cord sash with two tassels and straw sandals. He sits leaning slightly forward, studies the open palm without grabbing it or dramatic magic. A simple flat handheld fan with abstract tortoise-shell pattern rests next to him, not a whole turtle. Brush, inkstone and blank paper on the table. No legible charts. Clear separated naturally formed hands, faces visible. Daylight from lattice doors, plain folding screen, no women or attendants. No supernatural glow, omens, future visions, official regalia or fortune made visible.",
+      "image": "assets/029-02.webp",
+      "status": "generated",
+      "review": "已实际view_image打开采用图。恰两名男子，右西门庆长脸直眉窄眼、左吴神仙成熟窄长脸颧骨短黑灰须；庆一掌伸出，另一手扶椅，道士专注看掌，手指和人数自然。青布道巾、布袍、黄丝双穗绦、草履均清楚；桌上龟甲纹平扇、笔砚和无字纸可辨。没有把占验画成官帽、后代、疾厄或超自然异象。新道士面貌、扇形、厅内花瓶与花木、袍色和空间为标明的美术设定；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "029-03",
+      "chapter": 29,
+      "title": "春梅上前，万福见相师",
+      "excerpt": {
+        "chapter": 29,
+        "paragraph": 35,
+        "quote": "大姐相毕，教春梅也上来教神僊相相。神僊睁眼儿见了春梅，年纪不上二九，头戴银丝云髻儿，白线挑衫儿，桃红裙子，蓝纱比甲儿，缠手缚脚出来，道了万福。"
+      },
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 35,
+          "quote": "年纪不上二九"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 35,
+          "quote": "头戴银丝云髻儿，白线挑衫儿，桃红裙子，蓝纱比甲儿"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 35,
+          "quote": "道了万福"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 35,
+          "quote": "神僊观看良久"
+        }
+      ],
+      "people": [
+        "春梅",
+        "吴神仙"
+      ],
+      "place": "前厅相面处",
+      "event": "轮到春梅，春梅上前行万福礼，吴神仙抬眼端详良久。",
+      "why": "同一位侍女因衣饰和站位而被读出不同身份，形貌解释与阶序判断在此交会。",
+      "composition": "左侧春梅全衣端立行礼，右侧吴神仙坐着抬眼观察，二人不接触；不画珠冠或任何预言兑现物。",
+      "summary": "众妇人先后受相，最后春梅也被叫上来。她尚未满十八岁，穿白线挑衫、桃红裙与蓝纱比甲，戴银丝云髻，行了万福。相师端详良久。本图只保留见面与观察的当前时刻；他说的富贵、生子等话另按话语记录，不画作春梅此时已有的身份与经历。",
+      "psychology": {
+        "明写": "春梅上前行万福，相师观看良久。段中性情与命途评价是相师的话，不能自动当作叙述者确认。",
+        "推断": "行礼时专注而克制的表情为美术推断，本段没有明确写她当场得意或忧惧。"
+      },
+      "social": "西门庆随后解释，相师可能因她和众妇女站在一处、打扮不同而误认为养女。这一解释属于西门庆自己的推测，显示身份也会被衣饰与场合影响。",
+      "explicit": [
+        "本回明写春梅年纪不上二九，按尚未十八岁处理，不由职业、旧图或后文升龄。",
+        "银丝云髻、白线挑衫、桃红裙、蓝纱比甲与万福礼有本回依据。",
+        "图只截取二人，不否认厅中还有其他人；珠冠只是相师话语，本图不画。"
+      ],
+      "inference": {
+        "推断": "二人隔着一段礼貌距离，端立与座位关系为画面组织。",
+        "美术补足": "万福的手位、银丝云髻编网与衣上挑线纹均作克制简化，不声称礼法、发饰实物已精确考证；背景软屏只作空间提示。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；衣物、器物尺度与宅园空间未考定部分均为美术补足，不以生成图作史证。",
+      "references": [
+        "references/chun-030.png",
+        "assets/029-02.webp"
+      ],
+      "prompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference image 1 locks ONLY Chunmei youthful oval face and naturally straighter eyebrows. She is explicitly under eighteen in this chapter: portray her as an ordinary teenage household maid in a completely NON-SEXUAL formal greeting. Do not age her up. Reference image 2 locks ONLY Wu Shixian, the seated older Daoist on the LEFT of that image: narrow weathered face, cheekbones, deep eyes, short dark-grey beard, blue cotton Daoist headcloth, grey-brown robe, yellow two-tassel sash. Exactly TWO figures in this cropped section of the front hall. LEFT Chunmei stands a respectful distance away, fully clothed in opaque white embroidered long-sleeved blouse, opaque blue gauze outer vest over the blouse, peach-pink long skirt, modest silver-wire net over a practical dark bun. Her hands together at the front make a restrained wanfu greeting, body upright and unposed, eyes attentive; no emphasis on body curves, feet or cosmetics. RIGHT seated Wu looks up at her face thoughtfully, hands on his own lap, no touch. Neutral daylight, plain soft folding screen, no throne. No crown, jewels of future office, child, romance, physical intimacy, supernatural symbols or future outcome. Garment weave and simple silver net are approximate artistic details.",
+      "actualPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference image 1 locks ONLY Chunmei youthful oval face and naturally straighter eyebrows. She is explicitly under eighteen in this chapter: portray her as an ordinary teenage household maid in a completely NON-SEXUAL formal greeting. Do not age her up. Reference image 2 locks ONLY Wu Shixian, the seated older Daoist on the LEFT of that image: narrow weathered face, cheekbones, deep eyes, short dark-grey beard, blue cotton Daoist headcloth, grey-brown robe, yellow two-tassel sash. Exactly TWO figures in this cropped section of the front hall. LEFT Chunmei stands a respectful distance away, fully clothed in opaque white embroidered long-sleeved blouse, opaque blue gauze outer vest over the blouse, peach-pink long skirt, modest silver-wire net over a practical dark bun. Her hands together at the front make a restrained wanfu greeting, body upright and unposed, eyes attentive; no emphasis on body curves, feet or cosmetics. RIGHT seated Wu looks up at her face thoughtfully, hands on his own lap, no touch. Neutral daylight, plain soft folding screen, no throne. No crown, jewels of future office, child, romance, physical intimacy, supernatural symbols or future outcome. Garment weave and simple silver net are approximate artistic details.",
+      "image": "assets/029-03.webp",
+      "status": "generated",
+      "review": "已实际view_image打开采用图。恰两人：左春梅全衣端立、双手在身前行礼，右吴神仙坐着抬眼观察，身份与既有脸部可辨，未将其升龄为成人。白衫、桃红裙、蓝纱比甲和银丝云髻均可辨；蓝纱只罩在完整不透明白衫外，未暴露身体，没有接触、性化、珠冠或未来象征。道士与029-02面貌、布巾和双穗绦一致。桌椅、屏、花瓶、挑线纹与万福手位是美术补足，礼法姿势未经精确考证；可采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "029-04",
+      "chapter": 29,
+      "title": "辞去白银，只受一疋大布",
+      "excerpt": {
+        "chapter": 29,
+        "paragraph": 38,
+        "quote": "西门庆不得已，拿出一疋大布：「送僊长做一件大衣何如？」神僊方纔受之，令小童接了，收在经包内，稽首拜谢。"
+      },
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 38,
+          "quote": "西门庆封白银五两与神僊"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 38,
+          "quote": "吴神僊再三辞却"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 38,
+          "quote": "西门庆不得已，拿出一疋大布"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 38,
+          "quote": "神僊方纔受之，令小童接了，收在经包内，稽首拜谢。"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "吴神仙"
+      ],
+      "place": "前厅送客处",
+      "event": "吴神仙再三拒绝五两银谢礼，西门庆改拿一疋大布，他才受下。",
+      "why": "谢礼从白银改成衣料，使相士口称不爱财的姿态有了可见动作。",
+      "composition": "庆双手递出一疋素色大布，吴神仙颔首伸手将受；退回的银礼包放在庆身后边几，随行小童与装包环节留在画外。",
+      "summary": "众妇女咬指称神，西门庆封出五两银作谢礼，另赏守备府来人五钱。吴神仙一再辞谢，西门庆便换作一疋大布，问可否做大衣。神仙终于受下，交小童收入经包，再稽首而去。图取改赠衣料的一刻，不把拒银自动解释成真正超脱，也不借此否定他全部话语。",
+      "psychology": {
+        "明写": "相师再三不受银，受布后稽首拜谢；西门庆因不得已改赠。",
+        "推断": "递布和接布时双方放缓的手势，是根据礼物协商动作作的画面推断。"
+      },
+      "social": "款待、银谢、衣料都是主人尽礼的方式。五两与五钱是原文数额，二者对象不同；本图不做购买力与现代币值换算。",
+      "explicit": [
+        "五两银给相师、五钱给守备府来人，不能混作一笔。",
+        "相师最终受一疋大布，小童随后接过收在经包；图只取主客递受前后的一刻。",
+        "经包、小童与拜帖不在画内，不补定样式。"
+      ],
+      "inference": {
+        "推断": "原文未写布色，暂用未染素布；包银形态与边几位置是叙事布置。",
+        "美术补足": "布疋卷叠方式、长短尺寸、厅门方位与二人具体手势未考定；本图不是交易制度或量制的复原。 采用图仍有浅色花式织纹，非原文明示，且定向修改未全部消净；不据图认定精确纤维、锦缎或织法，不称完全素无纹。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；衣物、器物尺度与宅园空间未考定部分均为美术补足，不以生成图作史证。",
+      "references": [
+        "未公开参考〔unpublished-reference-853e429fed45；过程图或旧参考不随本包发布〕"
+      ],
+      "prompt": "Edit this historical literary illustration with one precise object-material correction. Change ONLY the folded bolt of cloth being exchanged in the center: remove ALL woven floral or brocade motifs and make it plain undyed coarse cotton cloth, matte, a subtle simple unpatterned weave, retaining exactly its present folded shape, approximate size, shadows and position in the two men's hands. The novel says a bolt of ordinary cloth, not luxurious figured silk. Keep both men's faces, expressions, ages, hair, headgear, outfits, hand anatomy and exchange poses EXACTLY unchanged. Keep Wu on left, Ximen Qing on right, the silver pouch on the back side-table, hanging fan, doorway, light, framing, background, painterly gongbi mineral-wash style and every other object unchanged. Do not add text, people, coins, symbols or new objects. This is an object material edit only.",
+      "actualPrompt": "Edit this historical literary illustration with one precise object-material correction. Change ONLY the folded bolt of cloth being exchanged in the center: remove ALL woven floral or brocade motifs and make it plain undyed coarse cotton cloth, matte, a subtle simple unpatterned weave, retaining exactly its present folded shape, approximate size, shadows and position in the two men's hands. The novel says a bolt of ordinary cloth, not luxurious figured silk. Keep both men's faces, expressions, ages, hair, headgear, outfits, hand anatomy and exchange poses EXACTLY unchanged. Keep Wu on left, Ximen Qing on right, the silver pouch on the back side-table, hanging fan, doorway, light, framing, background, painterly gongbi mineral-wash style and every other object unchanged. Do not add text, people, coins, symbols or new objects. This is an object material edit only.",
+      "image": "assets/029-04.webp",
+      "status": "generated",
+      "review": "已实际view_image打开修正版采用图。恰两名男子，左吴神仙、右西门庆面貌延续029-02，双手递受一疋折布，后方边几有退回银礼包，无当场银数与购买力的伪精确表现。初稿花卉锦纹偏明显，已作一次定向材质修改并保留初稿；修正版淡化了织花感，但仍有浅色花式织纹残留，不宣称已成完全无纹素布，也不据图判定锦缎、棉麻原料、织法或布疋尺度。折布与赠布动作可辨，浅纹是美术补足，本章不再为细纹重做。四只手与人物身份、站位自然，未加小童或未来符号；可采用并保留材质局限说明。",
+      "initialPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference 1 locks ONLY Ximen Qing long face, straight brows, narrow eyes and long lean body. Reference 2 locks ONLY Wu Shixian older Daoist, the man on the LEFT in the reference: weathered narrow face, cheekbones, short black-grey beard, blue cotton Daoist headcloth, plain grey-brown robe, yellow sash with two tassels. Exactly TWO adult men standing near the open domestic front-hall doorway in summer daylight, not a palace. RIGHT Ximen in a muted green summer robe and black plain cap respectfully offers with two hands ONE folded substantial bolt of plain unbleached cloth across the space. LEFT Wu nods and reaches to accept the folded cloth with natural hands, composed and courteous. A small tied plain white cloth pouch representing the declined silver remains on a side table BEHIND Ximen, not in either hand. No visible coins, weights, lettering or specific taels rendered. The accompanying child is OUTSIDE the cropped moment; do not add a third figure. Worn wooden floor and doorway, quiet hospitality, tactile matte cloth; fan tucked at Wu waist if visible. No magic, no future foreshadowing, no official insignia, no crowd. Keep faces and exchange clear, no hand merging.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "029-05",
+      "chapter": 29,
+      "title": "聚景堂内，梅汤入冰盆",
+      "excerpt": {
+        "chapter": 29,
+        "paragraph": 45,
+        "quote": "来安儿应诺去了。半日，只见春梅家常露着头，戴着银丝云髻儿，穿着毛青布褂儿，桃红夏布裙子，手提一壶蜜煎梅汤，笑嘻嘻走来，问道：「你吃了饭了？」"
+      },
+      "evidence": [
+        {
+          "chapter": 29,
+          "paragraph": 40,
+          "quote": "西门庆手拿芭蕉扇儿，信步闲游，来花园大卷棚内聚景堂内"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 40,
+          "quote": "正值日当午时分"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 45,
+          "quote": "来安儿画童儿两个小厮来井上打水，拿浇冰安放盆内"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 45,
+          "quote": "穿着毛青布褂儿，桃红夏布裙子，手提一壶蜜煎梅汤"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 45,
+          "quote": "春梅湃上梅汤"
+        }
+      ],
+      "people": [
+        "春梅",
+        "西门庆"
+      ],
+      "place": "花园聚景堂大卷棚",
+      "event": "午间，西门庆在聚景堂摇扇，春梅送来一壶蜜煎梅汤，放进冰盆湃凉。",
+      "why": "冰、井水、梅汤与帘栊构成一个清晰的夏日生活场景，也给随后春梅的身份申说一个日常入口。",
+      "composition": "左侧春梅把带盖汤壶置于桌上盛冰水的盆里，右侧庆隔着桌子持芭蕉扇坐着；半落帘栊外有浓荫和石榴花。",
+      "summary": "饭后，西门庆独自信步到聚景堂，午日、蝉声和花香包围卷棚。两个小厮打水安冰，春梅随后提来蜜煎梅汤，将壶湃入冰盆。图停在这项全衣日常差事，不延伸到后来的搂抱。她随后反问岂能长远为奴，只以人物当下话语记下，不画成未来身份的预证。",
+      "psychology": {
+        "明写": "春梅笑嘻嘻送梅汤，并在随后的谈话中反驳月娘对珠冠的判断，问莫不长远只做奴才。",
+        "推断": "送汤时从容专注的手势是美术表达；不把后来的话倒写成此刻已经反抗主人。"
+      },
+      "social": "冰湃饮物与小厮打井水表现宅中消暑的劳动安排；春梅既承担送汤侍候，又在话语中不甘身份被看定，两层处境同时存在。",
+      "explicit": [
+        "午时、聚景堂、帘栊、花木、芭蕉扇、冰盆和蜜煎梅汤均有本回依据。",
+        "春梅此刻改穿毛青布褂、桃红夏布裙，不能照搬受相时白衫蓝比甲。",
+        "未满十八岁的年龄边界沿用本回明文，本图只全衣置壶，无身体接触或性化。"
+      ],
+      "inference": {
+        "推断": "冰盆置桌上、壶处在盆中、庆在桌对面是便于辨认动作的构图。",
+        "美术补足": "盆与壶材质、尺寸、冰块形状、桌椅与帘栊形制、具体园路都未考定；石榴花据本回描景诗作季节提示，不作建筑实测。 修正版整片叶面扇为芭蕉扇的艺术近似，不据图作植物种属鉴定；壶嘴把手与材质尺度未经实物考定。"
+      },
+      "history": "小说依据为用户梦梅馆词话本MOBI本回隔离正文。故事时代与宽泛晚明视觉参考分开；衣物、器物尺度与宅园空间未考定部分均为美术补足，不以生成图作史证。",
+      "references": [
+        "未公开参考〔unpublished-reference-f66fb93750a0；过程图或旧参考不随本包发布〕"
+      ],
+      "prompt": "Edit this historical literary illustration with two precise prop corrections only. Preserve exactly the two figures, their faces, ages, bodies, opaque clothing, separation by the table, poses, naturally formed hands, environment, noon light, framing and painterly gongbi mineral-wash style. (1) In the RIGHT seated man's existing fan-holding hand, replace the rigid bamboo folding fan with ONE broad banana-leaf hand fan (芭蕉扇): a SINGLE rounded natural dried pale straw-green leaf blade, simple smooth rounded outline and visible natural leaf veins radiating from one short handle. NO folding ribs, no accordion folds and no pleats. The handle stays in the same hand. (2) In the LEFT teenage maid's existing two hands and IN the ice-water basin, change the current round covered earthenware jar into a modest lidded earthenware DRINK JUG with a short clearly visible pouring spout and one small loop handle, retaining nearly the same round size, lid, brown clay texture and position in the basin. Her hands continue to lower the jug naturally; preserve every finger, the ice chunks and basin. This is a completely NON-SEXUAL daily household task, no touching between figures, no age or body changes. Do not add people, cups, text, crowns or other objects. Keep her silver-wire bun net, dark indigo cotton jacket and long peach-pink skirt unchanged.",
+      "actualPrompt": "Edit this historical literary illustration with two precise prop corrections only. Preserve exactly the two figures, their faces, ages, bodies, opaque clothing, separation by the table, poses, naturally formed hands, environment, noon light, framing and painterly gongbi mineral-wash style. (1) In the RIGHT seated man's existing fan-holding hand, replace the rigid bamboo folding fan with ONE broad banana-leaf hand fan (芭蕉扇): a SINGLE rounded natural dried pale straw-green leaf blade, simple smooth rounded outline and visible natural leaf veins radiating from one short handle. NO folding ribs, no accordion folds and no pleats. The handle stays in the same hand. (2) In the LEFT teenage maid's existing two hands and IN the ice-water basin, change the current round covered earthenware jar into a modest lidded earthenware DRINK JUG with a short clearly visible pouring spout and one small loop handle, retaining nearly the same round size, lid, brown clay texture and position in the basin. Her hands continue to lower the jug naturally; preserve every finger, the ice chunks and basin. This is a completely NON-SEXUAL daily household task, no touching between figures, no age or body changes. Do not add people, cups, text, crowns or other objects. Keep her silver-wire bun net, dark indigo cotton jacket and long peach-pink skirt unchanged.",
+      "image": "assets/029-05.webp",
+      "status": "generated",
+      "review": "已实际view_image打开修正版采用图。恰两人，左春梅年轻脸、银丝云髻、毛青褂与桃红夏布裙，右庆长脸窄眼青绿袍，隔桌无接触，均为全衣日常活动。一次定向编辑已将庆手中的折扇改成整片圆叶面手扇，无折扇骨，作为芭蕉扇的艺术近似而非植物种属鉴定；盖罐改成有清楚壶嘴、把手的盖壶，仍由春梅双手放在冰水盆里，冰块、盆沿、手指和置壶动作自然。树荫、半落帘与午光保持，未把春梅升龄或加珠冠、亲密、沐浴情节。壶盆材质尺寸、花木与叶扇精确形制均为美术补足；可采用。",
+      "initialPrompt": "Use case: historical-scene. Complete literary narrative illustration, 3:2 landscape. Chinese gongbi fine ink contours and layered mineral pigment washes on subtly textured paper, naturally varied realistic faces, worn everyday late-Ming material life, cinematic natural light and depth. Painted, not photographic, not anime or glossy fantasy. No lettering, calligraphy, readable marks, signature, watermark or modern objects. Summer. Novel illustration, not a verified architectural reconstruction. Reference 1 locks ONLY Chunmei youthful oval face and natural straight brows. She is under eighteen in this chapter; ordinary teenage maid in a wholly NON-SEXUAL daily task, do not age her up. Reference 2 locks ONLY Ximen Qing adult long face, straight eyebrows, narrow eyes and long lean build. Exactly TWO fully clothed people, clearly separated by a low table in a summer garden pavilion at NOON. LEFT Chunmei wears loose opaque dark indigo cotton short outer jacket over complete clothing and a long peach-pink ramie skirt, dark hair with a modest silver-wire bun net; this is her everyday changed outfit. She carefully sets ONE closed lidded earthenware jug of sweet plum drink into a wide shallow metal basin with water and several pale ice chunks on the table, using two natural hands, warm matter-of-fact face. RIGHT Ximen sits in a loose muted green summer robe and plain cap, holding a broad banana-leaf fan, watches from the other side. No touching, leaning on bodies, intimacy, bare skin, bathing or bedroom. Half-lowered bamboo blinds, shade and lush summer foliage, a few pomegranate flowers beyond, bright noon leaves and cool interior. Jug must clearly sit IN the ice-water basin. The basin, jug and architecture are approximate period props. No servants beyond these two, no future crown or supernatural symbolism.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

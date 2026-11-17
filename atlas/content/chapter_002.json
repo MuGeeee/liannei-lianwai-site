@@ -1,0 +1,262 @@
+{
+  "number": 2,
+  "title": "第二回西门庆帘下遇金莲　王婆子贪贿说风情",
+  "intro": "从一担送往京城的礼物，转到一根失手的叉竿，再转到茶桌上的一两银子。本回几次“客气”各有指向，先看谁开口、谁等候、谁收钱。",
+  "supplements": [
+    {
+      "title": "“九十三岁”是取笑",
+      "text": "王婆先夸说好亲事，再报新年九十三岁，使西门庆发笑。这不是等待出场的一位女子，也不能照话画出婚配对象。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 26,
+          "quote": "交新年恰九十三岁了"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "002-01",
+      "chapter": 2,
+      "title": "谁替知县送这一担",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 6,
+          "quote": "赚得许多金银"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 6,
+          "quote": "要送一担礼物，捎封书去问安"
+        }
+      ],
+      "people": [
+        "知县",
+        "武松"
+      ],
+      "place": "清河县衙内",
+      "event": "知县借问安为名，派武松送一担财物往东京。",
+      "why": "叙述者交代的收寄金银，与知县对武松说的亲眷问安不是同一种说法。",
+      "composition": "偏侧县案，两只包裹归一担，武松听命，袋内不展示。",
+      "summary": "知县要把积下的金银送往东京亲眷处，又担心道路不安，想到武松的胆力。他对武松称一担问安礼物，给十两路费。武松领命，尚未上路；图只取交代差事，不把收寄人画在县内。",
+      "psychology": "武松说愿借此看看京城，原文没有说他已经知道叙述者交代的全部用途。",
+      "social": "正式差役的人力，可以被用来护送官员私人物件；这次路费与上一回赏银分开。",
+      "explicit": "一担财物、信、武松领命、十两路费。",
+      "inference": "包件数、封法、冠服与衙内布置补足；不复原金银数量。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/old-people-030.png（原说明：old-people-030右（武松））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 ONLY right adult muscular Wusong age28, ignore left and middle; ref2 fine paint technique. Plain Chinese county office, exactly TWO adult men. Older magistrate in modest dark navy robe behind side desk indicates a folded letter and two CLOSED travel packages laid with a carrying pole on low stand. Wusong in clean dark cotton listens standing to the side, respectful not servile, composed daylight, bare winter twigs outside. Neither package shows contents, no writing, wax seal, weapons or imperial throne.",
+      "image": "assets/002-01.webp",
+      "status": "generated",
+      "review": "已打开检查：武松、知县与担中礼物，书信交代动作成立。礼物内容、官服形制未明，画中包裹不代表可核清单；窗外积雪为画面补足，该段未明确当日天气。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 ONLY right adult muscular Wusong age28, ignore left and middle; ref2 fine paint technique. Plain Chinese county office, exactly TWO adult men. Older magistrate in modest dark navy robe behind side desk indicates a folded letter and two CLOSED travel packages laid with a carrying pole on low stand. Wusong in clean dark cotton listens standing to the side, respectful not servile, composed daylight, bare winter twigs outside. Neither package shows contents, no writing, wax seal, weapons or imperial throne.",
+      "excerpt": {
+        "chapter": 2,
+        "paragraph": 6,
+        "quote": "却说本县知县，自从到任以来，却得二年有余，赚得许多金银。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "002-02",
+      "chapter": 2,
+      "title": "临行再劝半担生意",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 8,
+          "quote": "只做五扇笼炊饼出去卖"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 8,
+          "quote": "一手推开酒盏"
+        }
+      ],
+      "people": [
+        "武松",
+        "武大",
+        "潘金莲"
+      ],
+      "place": "武家楼上",
+      "event": "武松劝哥嫂早归闭门，金莲推杯离席。",
+      "why": "同是护家的话，武大听作照顾，金莲却把话中的指向听了出来。",
+      "composition": "比前回换席：哥嫂上首，武松打横；金莲推杯起身，楼梯在后。",
+      "summary": "出发前，武松买酒向哥嫂辞行，劝武大减半做饼、迟出早归，劝嫂嫂把家定。他这次让哥嫂上首，自己打横。金莲恼了，推开杯走下楼；图画离席动作，不把争论写成兄弟反目。",
+      "psychology": "武大答应依言；金莲先脸红再骂。武松的譬喻有指向，不替他加一番未说出口的供词。",
+      "social": "照应亲人被折成可执行的时间和生意数量；省下半天，不是书中记下的收入换算。",
+      "explicit": "哥嫂上首、武松打横、推酒杯、临行之言。",
+      "inference": "三人位置依原文相对座次；临行服饰没有新明示，不用后来官服。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "assets/001-03.webp（原说明：001-03（金莲、武大））",
+        "references/old-people-030.png（原说明：old-people-030右（武松））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult woman Pan in blue and very short adult man Wuda, ref2 ONLY RIGHT broad Wusong, ref3 paint technique. Exactly three adults in modest upstairs dining room. Pan in closed blue jacket and long skirt rises from chair beside her short husband Wuda at the head of table; one palm pushes a small wine cup away across the table. Wusong sits at SIDE on simple stool holding a second cup, matter-of-fact face. Visible edge of wooden stairs behind Pan, cold winter daylight, clear hands. No children, touch, assault, text or luxurious decor.",
+      "image": "assets/002-02.webp",
+      "status": "generated",
+      "review": "已打开检查：三人饭桌上推开酒盏，武松说话、武大在旁。座位不作精确朝向图；窗外积雪是沿用旧场景的艺术补足，本段未明写当日天气。菜肴样式亦未核定。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult woman Pan in blue and very short adult man Wuda, ref2 ONLY RIGHT broad Wusong, ref3 paint technique. Exactly three adults in modest upstairs dining room. Pan in closed blue jacket and long skirt rises from chair beside her short husband Wuda at the head of table; one palm pushes a small wine cup away across the table. Wusong sits at SIDE on simple stool holding a second cup, matter-of-fact face. Visible edge of wooden stairs behind Pan, cold winter daylight, clear hands. No children, touch, assault, text or luxurious decor.",
+      "excerpt": {
+        "chapter": 2,
+        "paragraph": 8,
+        "quote": "归家便下了帘子，早闭门，省了多少是非口舌。若是有人欺负你，不要和他争执，待我回来，自和他理论。大哥，你依我时，满饮此杯！"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "002-03",
+      "chapter": 2,
+      "title": "叉竿落在帽上",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 15,
+          "quote": "三月春光明媚时分"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 15,
+          "quote": "却打在那人头巾上"
+        }
+      ],
+      "people": [
+        "潘金莲",
+        "西门庆",
+        "王婆"
+      ],
+      "place": "武家门前帘下",
+      "event": "金莲放帘失手，叉竿落在路过的西门庆帽上。",
+      "why": "两个人先互不知道姓名，第三个人在旁看见；这次相识是具体的街面事故。",
+      "composition": "街巷全景中取一根斜落叉竿，竹帘和隔壁茶坊同框。",
+      "summary": "三月，金莲在武大归来前放帘，被风刮倒叉竿，打到一名过路人的帽。那人回头，怒意转为陪笑，她赔礼，隔壁王婆也看见。这时金莲还不知道西门庆姓名。",
+      "psychology": "西门庆由要发作到笑脸、离去多次回头，原文有动作可循，不用脸上写“大官人”的自信。",
+      "social": "帘下与茶坊是相邻关系，不把街宽、门向或两户院落画成测绘。",
+      "explicit": "三月、叉竿、帘、绿罗褶、缨帽、洒金扇。",
+      "inference": "女子衣装按本回青布大袖、裙、髻作复原，簪和鞋细部补足；不画身体列举。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "references/old-people-030.png（原说明：old-people-030左（王婆））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult Pan25 narrow oval face, ref2 adult Ximen25-26 long-waisted tall man in GREEN sheer-over-lined robe and modest tasseled black cap with small gold pin, ref3 ONLY LEFT elderly female Wang, ref4 paint. Three adults in a lively but uncrowded narrow Chinese town street in fresh March spring light. Pan fully covered in muted blue broad sleeve jacket and long skirt stands just inside threshold holding bottom of a bamboo curtain, a thin falling curtain pole diagonally touches Ximen's cap; he reflexively raises one hand to cap and looks back, closed folding fan in other hand. Elderly Wang watches from adjacent tea doorway farther away. Natural surprise, scale pole properly, no injury, no writing or extra people.",
+      "image": "assets/002-03.webp",
+      "status": "generated",
+      "review": "已打开检查：潘金莲、西门庆、王婆三人；叉竿与头巾接触、回头惊讶和春日窗帘均可辨。街巷宽度与隔街位置为关系示意，不是准确地图；人物衣饰小纹样简化。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult Pan25 narrow oval face, ref2 adult Ximen25-26 long-waisted tall man in GREEN sheer-over-lined robe and modest tasseled black cap with small gold pin, ref3 ONLY LEFT elderly female Wang, ref4 paint. Three adults in a lively but uncrowded narrow Chinese town street in fresh March spring light. Pan fully covered in muted blue broad sleeve jacket and long skirt stands just inside threshold holding bottom of a bamboo curtain, a thin falling curtain pole diagonally touches Ximen's cap; he reflexively raises one hand to cap and looks back, closed folding fan in other hand. Elderly Wang watches from adjacent tea doorway farther away. Natural surprise, scale pole properly, no injury, no writing or extra people.",
+      "excerpt": {
+        "chapter": 2,
+        "paragraph": 15,
+        "quote": "一日，三月春光明媚时分，金莲打扮光鲜，单等武大出门，就在门前帘下站立，——约莫将及他归来时分，便下了帘子，自去房内坐的。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "002-04",
+      "chapter": 2,
+      "title": "茶桌朝着谁家门",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 30,
+          "quote": "对着武大门首"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 30,
+          "quote": "只顾在茶局子内搧火，不出来问茶"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "王婆"
+      ],
+      "place": "王婆茶坊水帘下",
+      "event": "西门庆望着武家帘门，王婆看见却不先问茶。",
+      "why": "茶客要看的不是茶，店主握着的也不只是一杯饮料。",
+      "composition": "从炉边看过去，扇火手近处，客人背侧凝望另一扇闭帘。",
+      "summary": "西门庆几次往返茶坊，坐在能望见武家的地方。王婆明白他的来意，故意在里面扇火，不出来招呼，让他先开口。画只表现看与等的距离，不把后回的安排提前画出。",
+      "psychology": "她内心想赚风流钱，和这里延迟问茶相连；这是本回给的线索，不是将她一生归成一个标签。",
+      "social": "店中位置给了视线，也给店主接触邻家的机会；谁先发话影响接下来怎样谈。",
+      "explicit": "水帘、茶炉、扇火、不问茶、望武家门首。",
+      "inference": "炉、扇、水帘样式和跨门视线压缩为叙事示意，无精确街图。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "references/old-people-030.png（原说明：old-people-030左（王婆））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult Ximen face and long-waisted green robe, ref2 ONLY left elderly woman Wang with gray bun and deeply lived-in face, ref3 paint medium. Layered view from the small tea stove inside a modest Chinese teahouse in March. Foreground elderly woman Wang in dark brown closed robe tends embers with woven fan, looking sideways but not approaching customer. Midground adult Ximen seated sideways under a thin hanging bamboo screen looks across doorway toward a separate closed bamboo curtain of neighboring dwelling. Exactly two adults, no woman in opposite doorway. Everyday jars and two small bowls, bright tender green outside, no orange foliage or text.",
+      "image": "assets/002-04.webp",
+      "status": "generated",
+      "review": "已打开检查：西门庆望门，王婆持扇在炉边，茶坊与对面门口关系清楚。图压缩了街道，门窗具体朝向未明；杯盏已摆但不表示王婆此刻已应声奉茶。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 adult Ximen face and long-waisted green robe, ref2 ONLY left elderly woman Wang with gray bun and deeply lived-in face, ref3 paint medium. Layered view from the small tea stove inside a modest Chinese teahouse in March. Foreground elderly woman Wang in dark brown closed robe tends embers with woven fan, looking sideways but not approaching customer. Midground adult Ximen seated sideways under a thin hanging bamboo screen looks across doorway toward a separate closed bamboo curtain of neighboring dwelling. Exactly two adults, no woman in opposite doorway. Everyday jars and two small bowls, bright tender green outside, no orange foliage or text.",
+      "excerpt": {
+        "chapter": 2,
+        "paragraph": 30,
+        "quote": "张见西门庆踅过几遍，奔入茶局子水帘下，对着武大门首，不住把眼只望帘子裏瞧。"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "002-05",
+      "chapter": 2,
+      "title": "“茶钱”先递一两",
+      "evidence": [
+        {
+          "chapter": 2,
+          "paragraph": 31,
+          "quote": "一两一块银子"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 31,
+          "quote": "权且收了做茶钱"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "王婆"
+      ],
+      "place": "王婆茶坊",
+      "event": "西门庆递一两银，随后把请求从买茶说到会面。",
+      "why": "银的名称先叫茶钱，话题却逐步变成一项有条件的撮合。",
+      "composition": "只取桌角双手和半身，银锭靠空茶杯，王婆不立刻伸得过分。",
+      "summary": "西门庆来回踅走，终于递一两银称作茶钱。王婆收下，试探他的心事，他又以事成后十两为说。图画已经交付的一两；五两猜谜与十两事成酬劳都是承诺，不能一起摆成现款。",
+      "psychology": "王婆知道他的来意仍让他自己说；西门庆觉得受情所困，却也在用银子求办法。",
+      "social": "茶钱、猜中之约、事成之谢三种说法有前后，不是一份已经履行的合同。",
+      "explicit": "一两银、茶杯、递付与试话。",
+      "inference": "银块体积未考定，灯具不画近代玻璃罩。",
+      "history": "小说依据仅为用户梦梅馆词话本MOBI；宋代故事设定与宽泛晚明视觉参考分开。未考定的器物、服装与空间按美术补足标示。",
+      "references": [
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "references/old-people-030.png（原说明：old-people-030左（王婆））",
+        "assets/065-01.webp（原说明：065-01（画法））"
+      ],
+      "prompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult Ximen face green closed robe, ref2 ONLY LEFT elderly woman Wang, ref3 painted technique. Tight oblique Chinese teahouse table view, two adult people half visible. Ximen lays ONE small irregular lump of silver on rough tabletop beside an empty ceramic tea bowl while old Wang's wrinkled hand pauses a short distance away; mutual attentive negotiating looks. Modest room with tea kettle out of focus, March daylight, no coins, ledger, modern lamp, text or over-rich interiors.",
+      "image": "assets/002-05.webp",
+      "status": "generated",
+      "review": "已打开检查：只一块银递向王婆，近景手与杯可辨。不能从生成银块判断真实一两重量；五两、十两只在文字中解释为许诺，图未画成同时交付。",
+      "actualPrompt": "Complete literary narrative illustration, 3:2 landscape, Chinese gongbi fine ink contours with mineral pigment wash, realistic varied faces, worn everyday late-Ming material life, natural cinematic light and convincing depth. Painted not photographic, not anime or glossy fantasy. No lettering, signature, watermark or readable text. No modern objects or glass-chimney lamps. Keep the specific season. Ref1 only adult Ximen face green closed robe, ref2 ONLY LEFT elderly woman Wang, ref3 painted technique. Tight oblique Chinese teahouse table view, two adult people half visible. Ximen lays ONE small irregular lump of silver on rough tabletop beside an empty ceramic tea bowl while old Wang's wrinkled hand pauses a short distance away; mutual attentive negotiating looks. Modest room with tea kettle out of focus, March daylight, no coins, ledger, modern lamp, text or over-rich interiors.",
+      "excerpt": {
+        "chapter": 2,
+        "paragraph": 31,
+        "quote": "西门庆便笑将起来，去身边摸出一两一块银子，递与王婆，说道：「干娘，权且收了做茶钱。」"
+      },
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

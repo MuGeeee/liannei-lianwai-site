@@ -1,0 +1,451 @@
+{
+  "number": 60,
+  "title": "第六十回李瓶儿因暗气惹病　西门庆立缎铺开张",
+  "intro": "失子后的暗气、疾病与梦醒，对照缎铺开张、长夜行令和常时节买房。五图只取本回已发生时刻；梦境、人物吉语、叙述因果与美术补足分开，不使用末段下回引语和未来预测。",
+  "supplements": [
+    {
+      "title": "旧病、医药与消瘦",
+      "text": "本回将失子忧戚与受气并写为旧病复发的叙事原因，并记持续经水、请任医官和服药无效。只作非露骨病情记录，不绘血迹，也不把小说中的因果表述当作现代医学诊断。",
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "这李瓶儿一者思念孩儿，二者着了重气，把旧时病症又发起来，照旧下边经水淋漓不止。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "西门庆请任医官来看一遍，讨将薬来，吃下去如水浇石一般，越吃薬越旺。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "那消半月之间，渐渐容颜顿减，肌肤消瘦，而精彩丰标无复昔时之态矣。"
+        }
+      ]
+    },
+    {
+      "title": "翠儿被卖入房",
+      "text": "本回记老冯领十三岁丫头，卖与孙雪娥使唤，价五两，改名翠儿。年龄保持十三岁；不以买卖身份或古代婚姻职业推定成年，不制作性化画面。此事本次文字保存，未另配图。",
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "老冯领了十三岁丫头来，卖与孙雪娥房中使唤，要了五两银子，改名翠儿，不在话下。"
+        }
+      ]
+    },
+    {
+      "title": "谢钱主事与通关求照应",
+      "text": "南京货船再到，西门庆差荣海携一百两及羊酒金缎谢钱主事，又写书求过税照应。只记本次请求，不造通关税率或合法性结论。",
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "西门庆这里写书，差荣海拿一百两银子，又具羊酒金缎礼物谢钱主事，就说：「此船货过税，还望青目一二。」"
+        }
+      ]
+    },
+    {
+      "title": "酒宴表演与年龄边界",
+      "text": "郑春被李铭介绍为郑奉的兄弟，席上弹筝唱曲；歌词中的“十六七”是曲中姐儿，不据此判为郑春本人年龄。人物确切年岁本包未给，宴席表演本次仅作非性化文字记述，不把伯爵的玩笑和曲词当人物关系的额外事实。",
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 10,
+          "quote": "他是郑奉的兄弟郑春。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 10,
+          "quote": "那郑春款按银筝，低低唱〈清江引〉道："
+        }
+      ]
+    },
+    {
+      "title": "次日收银与资助的数额边界",
+      "text": "李智黄四只先交三百五十两，并称仍待下遭补齐；陈经济持天平兑收。随后五十两为常时节买房及小本经营所拨，并非该债全额，也非房价本身。",
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "只挪了这三百五十两银子与老爹。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "西门庆把银子教陈经济来拿天平兑收明白，打发去了。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "拿一封五十两银子"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "前后四间，只要三十五两银子就卖了。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "060-01",
+      "chapter": 60,
+      "title": "隔壁暗气，背地掉泪",
+      "excerpt": {
+        "chapter": 60,
+        "paragraph": 5,
+        "quote": "李瓶儿这边屋里分明听见，不敢声言，背地里只是掉泪。着了这暗气暗恼，又加之烦恼忧戚，渐渐心神恍乱，梦魂颠倒，且每日茶饭都减少了。"
+      },
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "每日抖擞精神，百般的称快。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "指着丫头骂道："
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "李瓶儿这边屋里分明听见，不敢声言，背地里只是掉泪。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "且每日茶饭都减少了。"
+        }
+      ],
+      "people": [
+        "李瓶儿",
+        "潘金莲",
+        "未具名丫头"
+      ],
+      "place": "李瓶儿房内与可听见声音的相邻院室",
+      "event": "潘金莲指着丫头辱骂，李瓶儿在自己房内听见，只敢背地掉泪。",
+      "why": "声音穿过房间，伤害却没有正面对质；病苦与内宅势位相连。",
+      "composition": "前景瓶儿独坐桌边垂泪；门框和院落将她与后景金莲指斥丫头的动作隔开。",
+      "summary": "官哥儿葬后，金莲借骂丫头出言称快，瓶儿在自己屋里听得分明，却不敢回应。图取两处空间中的说话与忍泪，不让二人当面对峙。她的饮食减少、旧病重发在本回明写，面容和坐姿表现疲惫；衰弱不是供人欣赏的清丽姿态。",
+      "psychology": {
+        "明写": "金莲称快，瓶儿不敢声言而掉泪，忧戚并使茶饭减少。",
+        "推断": "门框与距离强调声音可达而对话不发生，是构图解释，不是房屋实测。"
+      },
+      "social": "借指斥婢女向另一房传话，使主仆等级和房内争宠同时进入日常言语；不据一次事件概括全部家庭制度。",
+      "explicit": [
+        "金莲指着丫头骂、瓶儿在自己屋里听见并落泪有据。",
+        "吴银儿葬后第二日已回家，不加在本图。"
+      ],
+      "inference": [
+        "两间房的相对位置、门框、碗箸、衣色、手帕和手势为补足。",
+        "只取言语羞辱和忍泪一刻，不将半月后的消瘦程度硬合成同一日。"
+      ],
+      "history": "小说事实只据本回用户梦梅馆MOBI隔离包；前回连续性仅供必要前情。故事宋代设定与宽泛晚明视觉参考分开；生成图不是历史证据，未考定的服饰、空间和器物形制均属美术补足。",
+      "references": [
+        "references/ping-013.png",
+        "references/pan-solo-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 is a face-identity reference for Li Pinger only: small build, tapering oval face, curved fine brows. Input image 2 is a face-identity reference for Pan Jinlian only: narrower oval face and clear brows. Do NOT copy their old clothing, poses or setting. Foreground inside a dim autumn household room: Li Pinger sits alone at the edge of a worn wooden table, turned slightly away from the open doorway. She wears a fully closed dull pale-grey lined jacket and muted dark skirt, plain practical hair knot with minimal ornament. Her face is tired, tear-streaked and drawn after bereavement, eyes swollen from crying, unidealized skin, shoulders collapsed; one hand holds a small plain handkerchief low near her lap, the other rests on the table beside a little unfinished plain meal. She is silently listening, not posing. Through the doorway across a small strip of courtyard at the distant right, Pan Jinlian is in a separate room, in a muted russet autumn jacket and grey-green skirt, gesturing sharply toward one fully clothed anonymous maid shown only from behind, no specific age asserted. Pan is speaking with satisfaction, not a monstrous grin. Exactly three people, two clearly separated rooms, no direct eye contact or confrontation between the women. Restrained daylit courtyard, cool foreground, natural sorrow without decorative glamour. No child, ghost, cat, illness wounds, blood or medical procedure. Keep foreground Pinger dominant and her face recognizable, do not beautify distress.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 is a face-identity reference for Li Pinger only: small build, tapering oval face, curved fine brows. Input image 2 is a face-identity reference for Pan Jinlian only: narrower oval face and clear brows. Do NOT copy their old clothing, poses or setting. Foreground inside a dim autumn household room: Li Pinger sits alone at the edge of a worn wooden table, turned slightly away from the open doorway. She wears a fully closed dull pale-grey lined jacket and muted dark skirt, plain practical hair knot with minimal ornament. Her face is tired, tear-streaked and drawn after bereavement, eyes swollen from crying, unidealized skin, shoulders collapsed; one hand holds a small plain handkerchief low near her lap, the other rests on the table beside a little unfinished plain meal. She is silently listening, not posing. Through the doorway across a small strip of courtyard at the distant right, Pan Jinlian is in a separate room, in a muted russet autumn jacket and grey-green skirt, gesturing sharply toward one fully clothed anonymous maid shown only from behind, no specific age asserted. Pan is speaking with satisfaction, not a monstrous grin. Exactly three people, two clearly separated rooms, no direct eye contact or confrontation between the women. Restrained daylit courtyard, cool foreground, natural sorrow without decorative glamour. No child, ghost, cat, illness wounds, blood or medical procedure. Keep foreground Pinger dominant and her face recognizable, do not beautify distress.",
+      "image": "assets/060-01.webp",
+      "status": "generated",
+      "review": "已单张实际打开核看。恰三人：前景瓶儿独坐垂泪，后景金莲指向背身丫头，门框和院落把二房清楚分开；未让二女当面对视。瓶儿瓜子面与金莲窄脸沿用两项实际传入的旧参考，落泪、眼睑肿红和塌肩疲惫可见，没有美化悲苦。碗饭未动、手帕与手部自然，无孩儿、鬼影和血迹。笸箩、挂物、室内相对位置、秋叶花木、衣色为美术补足，不作为该宅精确陈设或季候物证。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "060-02",
+      "chapter": 60,
+      "title": "梦醒冷汗，哭到天明",
+      "excerpt": {
+        "chapter": 60,
+        "paragraph": 6,
+        "quote": "撒手惊觉，却是南柯一梦。吓了一身冷汗，呜呜咽咽，直哭到天明。"
+      },
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 6,
+          "quote": "一日，九月初旬，天气凄凉，金风淅淅。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 6,
+          "quote": "李瓶儿夜间独宿在房中。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 6,
+          "quote": "银床枕冷，纱窗月浸。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 6,
+          "quote": "撒手惊觉，却是南柯一梦。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 6,
+          "quote": "吓了一身冷汗，呜呜咽咽，直哭到天明。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 5,
+          "quote": "渐渐容颜顿减，肌肤消瘦，而精彩丰标无复昔时之态矣。"
+        }
+      ],
+      "people": [
+        "李瓶儿"
+      ],
+      "place": "九月初旬李瓶儿独宿的寝房",
+      "event": "瓶儿在思儿的梦里受惊，醒来出冷汗，独自哭到天亮。",
+      "why": "梦中的召唤属于失子者的体验；醒来的身体与空房才是画面所见。",
+      "composition": "单人横幅，床缘与纱窗形成两条斜线，瓶儿在床上蜷身掩泪，窗外将明而无人影。",
+      "summary": "九月初旬的冷夜，瓶儿独宿，思念孩儿，似睡非睡间梦见花子虚抱着孩子来唤。她惊醒后冷汗满身，一直哭到天明。图只画醒后的房间和病后身体，不把梦中人画成实有鬼魂，也不将此梦解释为后来事情的预告。",
+      "psychology": {
+        "明写": "她思念孩儿；梦里舍不得西门庆，醒后受惊、哭泣。",
+        "推断": "蜷身、湿发和透入纱窗的微光是醒后惊惧的视觉转换，具体姿态非原文。"
+      },
+      "social": "丫鬟睡熟不答与独宿，使家中有人却无人应声的孤立感可见；不据此推定谁故意弃置她。",
+      "explicit": [
+        "独宿、秋冷、纱窗、梦醒冷汗与哭到天明有据。",
+        "本回半月间容颜顿减、肌肤消瘦，当前病态需显出。"
+      ],
+      "inference": [
+        "醒后仍在床上、手抹泪、被褥和光线是补足；原文未细写醒来的坐姿。",
+        "不画梦中花子虚和孩儿，不画超自然存在、跌伤或血迹；窗外不画月盘以免误作精确月相。"
+      ],
+      "history": "小说事实只据本回用户梦梅馆MOBI隔离包；前回连续性仅供必要前情。故事宋代设定与宽泛晚明视觉参考分开；生成图不是历史证据，未考定的服饰、空间和器物形制均属美术补足。",
+      "references": [
+        "references/ping-013.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Li Pinger facial identity, tapering oval face, fine curved brows and small build. Do not retain the old healthy body, pink outfit, fan, makeup or smile. One woman only in an early-autumn bedroom before dawn. She has just awakened from a frightening dream and is crying; do not illustrate any dream figure. Li Pinger sits hunched low on a wooden bed, wrapped fully in a plain faded blue-grey quilt over a closed ivory underjacket. Her body is noticeably weakened and thin after illness, cheek hollows, tired puffy eyelids, dark eye shadows, pale uneven skin and damp loose hair at her temples from cold sweat; her face must remain recognizably the same person despite illness. No elegant tragic beauty pose, no makeup glow, no exposed chest. One hand wipes tears against her cheek, the other grips the quilt, anatomically natural hands. Empty bed space and a cool pillow occupy the left; faint cold grey dawn filters through a gauze-covered lattice window at the right, no visible moon disc. One shallow oil dish on a low stable stool is nearly spent, no glass. Quiet unadorned wood and faded textile, generous empty space, human vulnerability without spectacle. No other people, no child, no ghost, no dream portal, no injury, no blood, no celestial omens. The depiction is waking grief, not a claim of a supernatural event.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks ONLY Li Pinger facial identity, tapering oval face, fine curved brows and small build. Do not retain the old healthy body, pink outfit, fan, makeup or smile. One woman only in an early-autumn bedroom before dawn. She has just awakened from a frightening dream and is crying; do not illustrate any dream figure. Li Pinger sits hunched low on a wooden bed, wrapped fully in a plain faded blue-grey quilt over a closed ivory underjacket. Her body is noticeably weakened and thin after illness, cheek hollows, tired puffy eyelids, dark eye shadows, pale uneven skin and damp loose hair at her temples from cold sweat; her face must remain recognizably the same person despite illness. No elegant tragic beauty pose, no makeup glow, no exposed chest. One hand wipes tears against her cheek, the other grips the quilt, anatomically natural hands. Empty bed space and a cool pillow occupy the left; faint cold grey dawn filters through a gauze-covered lattice window at the right, no visible moon disc. One shallow oil dish on a low stable stool is nearly spent, no glass. Quiet unadorned wood and faded textile, generous empty space, human vulnerability without spectacle. No other people, no child, no ghost, no dream portal, no injury, no blood, no celestial omens. The depiction is waking grief, not a claim of a supernatural event.",
+      "image": "assets/060-02.webp",
+      "status": "generated",
+      "review": "已单张实际打开核看。只有瓶儿一人，闭合衣襟、灰蓝被褥裹身，手拭泪与握被清楚自然；脸部沿用实际传入旧参考，同时明显消瘦、倦眼、泪痕和湿乱鬓发，不以旧健康体态遮蔽本回病情。无孩儿、花子虚或鬼影，无伤口血迹；纱窗和将明冷光、床边小油盏均清楚，未画月盘。床形、抹泪姿态、布色及油盏是美术补足，窗外秋叶不是天气实测。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "060-03",
+      "chapter": 60,
+      "title": "开张柜上，银货两分",
+      "excerpt": {
+        "chapter": 60,
+        "paragraph": 9,
+        "quote": "甘伙计与韩伙计都在柜上发卖，一个看银子，一个讲说价钱。崔本专管收生活，不拘经纪、买主进来，让进去，每人饮酒二杯。西门庆穿大红，冠带着。"
+      },
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "又择九月初四日开张。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "连行李共装二十大车。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "甘伙计与韩伙计都在柜上发卖，一个看银子，一个讲说价钱。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "那日新开张，伙计攒帐，就卖了五百余两银子。"
+        }
+      ],
+      "people": [
+        "甘出身",
+        "韩道国",
+        "未具名买主"
+      ],
+      "place": "新开张的缎铺柜前",
+      "event": "九月初四缎铺开张，甘、韩分别验银与讲价，亲友庆贺与柜上买卖并行。",
+      "why": "开张并非只有宴饮，柜上分工使货物、银两和说价同时运作。",
+      "composition": "两名旧伙计在柜内，一名无名买主在柜外；秤银和展开缎料分别占据左右。",
+      "summary": "新货连行李装了二十车，铺面择初四开张。甘、韩在柜上一人看银、一人说价，崔本在外照应来客。图紧取柜台买卖，庆贺红绸只在门边一角。当日卖五百余两是营业额的叙述，不能直接扣算利润或据此推出全店货值。",
+      "psychology": {
+        "明写": "开张当日攒帐卖了五百余两，西门庆满心欢喜。",
+        "推断": "两项动作并置强调经营组织；原文未指明甘、韩谁验银谁讲价，图中的分配仅为美术安排。"
+      },
+      "social": "柜上验银、说价与外间招待显示分工；本回未列全体工钱、货本及完整经营账。",
+      "explicit": [
+        "甘、韩都在柜上发卖，一看银子一讲价有据。",
+        "九月初四、二十车、营业额五百余两照文字保存；不由画内数量复原。"
+      ],
+      "inference": [
+        "本幅约定甘看银、韩讲价，原文未实名分派。",
+        "天平、缎卷色、柜架、来客面貌、红绸位置、衣色为美术补足；崔本与西门庆在裁切外。"
+      ],
+      "history": "小说事实只据本回用户梦梅馆MOBI隔离包；前回连续性仅供必要前情。故事宋代设定与宽泛晚明视觉参考分开；生成图不是历史证据，未考定的服饰、空间和器物形制均属美术补足。",
+      "references": [
+        "assets/058-01.webp",
+        "assets/033-01.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1: use ONLY the man at the RIGHT as Gan Chushen facial identity, mature high forehead, compact slightly square oval face, heavy natural upper eyelids and short sparse mustache and small chin beard. Input image 2: use ONLY the man at the RIGHT as Han Daoguo identity, compact short build, full round cheeks, straight heavy brows, short mustache. Ignore every other reference person. A late-Ming-style working silk shop on an autumn opening day, a modest red cloth tied high at the edge of the open doorway, no signs or writing. Exactly three visible people. Behind the worn long counter at LEFT Gan Chushen in practical faded blue robe and black cloth cap is carefully attending to small irregular silver pieces on a simple tabletop balance with two shallow pans. At RIGHT behind the counter Han Daoguo in dark brown practical robe and cap, broad round face clearly different from Gan, is showing the edge and texture of one muted gold silk length to a single anonymous ordinary male customer in a grey robe outside the counter, in three-quarter rear profile. The buyer looks at cloth, one hand touches its edge; natural conversation rather than posing. Stacked folded silk bolts in subdued mineral blue, ochre and dusky red fill low shelves, cargo chests below. Clear separation of silver weighing and fabric bargaining, plausible hands, coherent scale. Daylight from open shop front with depth and worn wood grain. Do not include Ximen, a banquet, musicians, piles of gold, account numerals, readable labels, price tags or modern cash. Gan/Han role assignment here is an illustrative staging, not a sourced identification of which man held which job.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1: use ONLY the man at the RIGHT as Gan Chushen facial identity, mature high forehead, compact slightly square oval face, heavy natural upper eyelids and short sparse mustache and small chin beard. Input image 2: use ONLY the man at the RIGHT as Han Daoguo identity, compact short build, full round cheeks, straight heavy brows, short mustache. Ignore every other reference person. A late-Ming-style working silk shop on an autumn opening day, a modest red cloth tied high at the edge of the open doorway, no signs or writing. Exactly three visible people. Behind the worn long counter at LEFT Gan Chushen in practical faded blue robe and black cloth cap is carefully attending to small irregular silver pieces on a simple tabletop balance with two shallow pans. At RIGHT behind the counter Han Daoguo in dark brown practical robe and cap, broad round face clearly different from Gan, is showing the edge and texture of one muted gold silk length to a single anonymous ordinary male customer in a grey robe outside the counter, in three-quarter rear profile. The buyer looks at cloth, one hand touches its edge; natural conversation rather than posing. Stacked folded silk bolts in subdued mineral blue, ochre and dusky red fill low shelves, cargo chests below. Clear separation of silver weighing and fabric bargaining, plausible hands, coherent scale. Daylight from open shop front with depth and worn wood grain. Do not include Ximen, a banquet, musicians, piles of gold, account numerals, readable labels, price tags or modern cash. Gan/Han role assignment here is an illustrative staging, not a sourced identification of which man held which job.",
+      "image": "assets/060-03.webp",
+      "status": "generated",
+      "review": "已单张实际打开核看。柜前主要三人：左甘出身看银，中央韩道国展开缎料，右背侧买主触看布边；甘的较方脸与韩的圆颊短髭区分清楚，两项旧参考实际传入。秤盘、银块、柜架和缎料清晰，手部自然，无文字价签。门外另有远处无名行人，属于生成的街市补足，不给他们套入任何亲友姓名，也不将画面人数当开张总数。红绸、盘秤、布纹、银块数量及甘韩分工归属均为美术安排，不能用于计算营业额或利润。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "060-04",
+      "chapter": 60,
+      "title": "骰盆前，庆酒又斟",
+      "excerpt": {
+        "chapter": 60,
+        "paragraph": 53,
+        "quote": "掷到遇红一句，果然掷出个四来。"
+      },
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "西门庆穿大红，冠带着。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "quote": "晚夕收了铺面"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 53,
+          "quote": "掷到遇红一句，果然掷出个四来。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 53,
+          "quote": "于是斟了一大杯酒与西门庆，一面唤李铭等三个上来弹唱。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 53,
+          "quote": "派定韩道国、甘伙计、崔本、来保，四人轮流上宿，吩咐仔细门户"
+        }
+      ],
+      "people": [
+        "西门庆",
+        "应伯爵"
+      ],
+      "place": "开张当夜续宴席前",
+      "event": "行令轮到西门庆，掷出四来；应伯爵紧接着为他斟了一大杯酒。",
+      "why": "骰子成为劝酒和奉承的引线，主人喜悦与陪客应和汇在一桌。",
+      "composition": "近景骰盆，左西门庆收回投掷的手，右应伯爵前倾斟酒；其余留席者在裁切外。",
+      "summary": "白日送走大批贺客，晚间主人又邀伙计入席，行令一直到更深。图取西门庆掷罢、伯爵斟酒相接的一刻，不把吉利说辞转成未来命运的图示。喧闹散后还有轮值宿铺和看守门户的吩咐，喜庆之下仍是新生意的日常管理。",
+      "psychology": {
+        "明写": "西门庆当日满心欢喜，众人饮酒行令至更阑。",
+        "推断": "伯爵即时劝酒显出陪客应和的熟练；不由笑容判定其全部动机。"
+      },
+      "social": "文人、亲戚、伙计与陪客同处酒令，发言机会并不消除经济依附；不把游戏中的吉语当事实判断。",
+      "explicit": [
+        "掷出四、伯爵斟大杯、深夜方散有据。",
+        "西门庆当日穿大红冠带，未写续宴前换衣，图沿用。"
+      ],
+      "inference": [
+        "掷罢和斟酒在原文相邻，本图压缩在一刻。",
+        "一枚骰子、红点朝向、浅盆、酒器、桌上残肴、烛位及座次为补足，不精确复原骰制。",
+        "吉语涉及未来，配套摘录主动只取当前掷骰完整一句，不重述预测。"
+      ],
+      "history": "小说事实只据本回用户梦梅馆MOBI隔离包；前回连续性仅供必要前情。故事宋代设定与宽泛晚明视觉参考分开；生成图不是历史证据，未考定的服饰、空间和器物形制均属美术补足。",
+      "references": [
+        "references/ximen.png",
+        "references/guests-030.png"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks Ximen Qing face and long build: long face, straight brows, narrow long eyes, clean chin. Input image 2 use ONLY the LEFT seated thin-faced man as Ying Bojue identity: slim long face, fine mustache and pointed short chin beard, natural smiling eye creases; ignore center and right reference figures. Tight narrative view of exactly TWO identifiable men at a late-evening opening-day feast, other named guests cropped outside the frame rather than inventing faces. At LEFT Ximen Qing wears a deep vermilion-red long formal robe with a plain dark formal cap and belt, no readable rank emblem; he has just drawn his hand back above a shallow dice bowl on a worn table, looking down with a relaxed pleased smile. In the bowl a single small ivory-colored cube die rests with a four-red-dot upper face; keep die small and simple. At RIGHT Ying Bojue in a muted olive-brown autumn robe leans forward naturally, pouring wine from a small plain metal ewer into a large silver cup placed securely before Ximen. Both cup and ewer visibly distinct and hands anatomically coherent. A few used food dishes and chopsticks remain at table edges, not a banquet still life. Warm candlelight against dark lattice space, smoke-free, worn wood and restrained vermilion/mineral green palette, cinematic close depth. No music performers inside this crop, no embraces, no prophecies, no symbolic future official robes, no dice numerals, writing or text. Ordinary joyful social interaction, not ceremonial posing. The throw and following pour are compressed adjacent actions.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 locks Ximen Qing face and long build: long face, straight brows, narrow long eyes, clean chin. Input image 2 use ONLY the LEFT seated thin-faced man as Ying Bojue identity: slim long face, fine mustache and pointed short chin beard, natural smiling eye creases; ignore center and right reference figures. Tight narrative view of exactly TWO identifiable men at a late-evening opening-day feast, other named guests cropped outside the frame rather than inventing faces. At LEFT Ximen Qing wears a deep vermilion-red long formal robe with a plain dark formal cap and belt, no readable rank emblem; he has just drawn his hand back above a shallow dice bowl on a worn table, looking down with a relaxed pleased smile. In the bowl a single small ivory-colored cube die rests with a four-red-dot upper face; keep die small and simple. At RIGHT Ying Bojue in a muted olive-brown autumn robe leans forward naturally, pouring wine from a small plain metal ewer into a large silver cup placed securely before Ximen. Both cup and ewer visibly distinct and hands anatomically coherent. A few used food dishes and chopsticks remain at table edges, not a banquet still life. Warm candlelight against dark lattice space, smoke-free, worn wood and restrained vermilion/mineral green palette, cinematic close depth. No music performers inside this crop, no embraces, no prophecies, no symbolic future official robes, no dice numerals, writing or text. Ordinary joyful social interaction, not ceremonial posing. The throw and following pour are compressed adjacent actions.",
+      "image": "assets/060-04.webp",
+      "status": "generated",
+      "review": "已单张实际打开核看。只有左西门庆、右应伯爵两人，两项旧参考实际传入，西门长脸净颏与伯爵细髭尖颏须保留。西门大红袍冠带，手刚收回，伯爵双手持壶斟入稳放大杯；壶、杯、酒流和手部无明显失真。浅盆小骰上面可见四个红点，无可读字。夜色、烛光、残肴与秋叶补成续宴气氛；烛位、酒壶纹样、骰数及座次是美术补足。未画未来升官象征，未将应伯爵的吉语做预测。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "060-05",
+      "chapter": 60,
+      "title": "新市街，银两写成房契",
+      "excerpt": {
+        "chapter": 60,
+        "paragraph": 55,
+        "quote": "一面吃毕茶，呌了房中人来，同到新市街，兑与卖主银子，写立房契。"
+      },
+      "evidence": [
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "前后四间，只要三十五两银子就卖了。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "拿一封五十两银子"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 54,
+          "quote": "剩下的，敎常二哥门面开个小本铺儿"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 55,
+          "quote": "同到新市街，兑与卖主银子，写立房契。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 55,
+          "quote": "剩的银，教与常时节收了。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 55,
+          "quote": "西门庆看了文契，还使王经：「送与你常二叔收了。」"
+        }
+      ],
+      "people": [
+        "应伯爵",
+        "常时节",
+        "未具名卖主"
+      ],
+      "place": "新市街交易房屋之处",
+      "event": "应伯爵陪常时节去新市街付银立契，余银留常时节收存，文契后经西门庆看过交还。",
+      "why": "几次求告之后，居处终于落实到交付和文契；援助同时经陪客和仆人传递。",
+      "composition": "常时节与应伯爵分居桌前两侧，卖主在后案提笔写契，称过的银两在盘边；王经和房中人在画外。",
+      "summary": "西门庆拨五十两托伯爵办事，其中三十五两用于前后四间的房屋，余数留作小本经营。伯爵在常家吃茶后，众人到新市街兑银立契。图只画交易落定，不把小本铺设想画成已经营业；四间的规模也不凭画面虚构成精确平面图。",
+      "psychology": {
+        "明写": "常时节以“哥的盛情，谁肯”相谢；伯爵说办完此事还要赴杜家生日酒。",
+        "推断": "援助的可靠处在银两和文契落地，但当事人的长期生计并未在本回获保证。"
+      },
+      "social": "三十五两为此处一套房的叙事成交条件，五十两为所拨总额；不换算人民币、不推作城市平均房价，也不杜撰契税和法律程序。",
+      "explicit": [
+        "新市街、兑银、写房契、余银留常时节有据。",
+        "王经同行并回报，西门庆看契后命送回；本画中二人不需同场。"
+      ],
+      "inference": [
+        "卖主执笔而非另请书手、盘秤、银锭形、桌椅、衣色和三人站位均为美术安排。",
+        "“房中人”原文称谓未作制度身份考定，与王经在裁切外；不凭缺席画面否认同行。"
+      ],
+      "history": "小说事实只据本回用户梦梅馆MOBI隔离包；前回连续性仅供必要前情。故事宋代设定与宽泛晚明视觉参考分开；生成图不是历史证据，未考定的服饰、空间和器物形制均属美术补足。",
+      "references": [
+        "references/guests-030.png",
+        "assets/054-01.webp"
+      ],
+      "prompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 use ONLY the LEFT slim-faced man as Ying Bojue facial identity, fine mustache, small pointed chin beard and natural eye creases; ignore center and right figures. Input image 2 use ONLY the RIGHT seated man as Chang Shijie facial identity: thin long rectangular-oval face, long straight nose, short natural brows, narrow mouth, sparse grey-black mustache and a small compact chin beard, grey at the temples. Ignore the left and center men. Autumn daylight, a modest house-sale transaction room adjoining a quiet street, everyday late-Ming painted texture. Exactly THREE visible men. At LEFT foreground Ying Bojue in a muted olive-brown robe watches the transaction attentively, one relaxed hand indicating the silver placed on the table. At RIGHT foreground Chang Shijie in a clean but faded blue-grey robe and plain cloth cap leans forward with visible relief and serious attention, hands resting naturally at the table edge; he must not look like Han Daoguo or a wealthy host. Behind the middle of the table an anonymous ordinary male seller in a dark ash-brown robe is writing a simple property deed with brush on a flat sheet, ink strokes must remain entirely indistinct and unreadable, no seals or official insignia. A shallow silver-weighing balance and a few irregular small silver pieces sit well clear of the writing hand; do not encode exact weights or count. The men attend to the paper and silver, no posed handshakes, no house keys. A door opens onto plain plaster and timber frontage; do not display an asserted four-room plan or a new shop already open. Wang Jing and the other accompanying intermediary are outside this crop. Clear spatial layout, believable hands and brush grip, restrained warm earth/mineral-blue palette, hopeful but ordinary moment, no text, modern documents, gold treasure or luxurious interiors.",
+      "actualPrompt": "Use case: illustration-story. Complete literary narrative illustration, landscape 3:2, 1536x1024. Chinese gongbi fine ink contours with layered mineral pigments, matte painted texture, realistic varied human faces, everyday late-Ming material life, cinematic narrative light and convincing depth. Painted, not a photograph, not anime, not fantasy, not glossy beauty advertising. No lettering, signature, readable text or watermark. No modern objects or glass-chimney lamps. Autumn. Input image 1 use ONLY the LEFT slim-faced man as Ying Bojue facial identity, fine mustache, small pointed chin beard and natural eye creases; ignore center and right figures. Input image 2 use ONLY the RIGHT seated man as Chang Shijie facial identity: thin long rectangular-oval face, long straight nose, short natural brows, narrow mouth, sparse grey-black mustache and a small compact chin beard, grey at the temples. Ignore the left and center men. Autumn daylight, a modest house-sale transaction room adjoining a quiet street, everyday late-Ming painted texture. Exactly THREE visible men. At LEFT foreground Ying Bojue in a muted olive-brown robe watches the transaction attentively, one relaxed hand indicating the silver placed on the table. At RIGHT foreground Chang Shijie in a clean but faded blue-grey robe and plain cloth cap leans forward with visible relief and serious attention, hands resting naturally at the table edge; he must not look like Han Daoguo or a wealthy host. Behind the middle of the table an anonymous ordinary male seller in a dark ash-brown robe is writing a simple property deed with brush on a flat sheet, ink strokes must remain entirely indistinct and unreadable, no seals or official insignia. A shallow silver-weighing balance and a few irregular small silver pieces sit well clear of the writing hand; do not encode exact weights or count. The men attend to the paper and silver, no posed handshakes, no house keys. A door opens onto plain plaster and timber frontage; do not display an asserted four-room plan or a new shop already open. Wang Jing and the other accompanying intermediary are outside this crop. Clear spatial layout, believable hands and brush grip, restrained warm earth/mineral-blue palette, hopeful but ordinary moment, no text, modern documents, gold treasure or luxurious interiors.",
+      "image": "assets/060-05.webp",
+      "status": "generated",
+      "review": "已单张实际打开核看。恰三人：左应伯爵看银，右常时节关注桌案，后中无名卖主执笔写契。两名旧角色实际传入相应参考，伯爵细髭与常时节清瘦长脸、长直鼻及灰鬓可辨。三人的手、笔、墨砚、纸、秤盘和银块无明显失真；契上只是模糊笔迹，无可读条款或印章，未杜撰法定契式。门外未画精确四间平面或已经开张的小铺。卖主执笔、银块形制与数量、称银器、座次、衣色和房屋陈设属美术安排，不能据图推重量、房价或契税。王经与房中人在裁切外，未遗漏其文字同行记载。采用。",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}

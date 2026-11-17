@@ -2,6 +2,41 @@
   "number": 74,
   "title": "第七十四回宋御史索求八僊鼎　吴月娘听宣黄氏卷",
   "intro": "衣物的分配、赔礼的笑脸、被观看的鼎、迎客的礼与接不到的琵琶：同一天里，许多先后都在重新排定。",
+  "supplements": [
+    {
+      "title": "回目与正文的称谓空缺",
+      "text": "回目写宋御史索求鼎，正文赏鼎处却写安御史；同段前后列宋御史、安郎中、钱主事三人。本版不擅自校改，也不借下一回替这一回确定发言者。",
+      "evidence": [
+        {
+          "chapter": 74,
+          "paragraph": 11,
+          "quote": "安御史见西门庆堂庑宽广"
+        }
+      ]
+    },
+    {
+      "title": "富贵有由，是谁在解释",
+      "text": "薛姑子把听众高官厚禄、呼奴使婢说成前生功果，也把自己吃茶饭、受布施纳进同一缘分。展馆将它标作她在这次宣卷中的解释，不作为贫富成因的客观结论。",
+      "evidence": [
+        {
+          "chapter": 74,
+          "paragraph": 28,
+          "quote": "也是吃着这羙口茶饭，受着发心布施"
+        }
+      ]
+    },
+    {
+      "title": "两种理由，放到遗物上就冲突",
+      "text": "西门此前因瓶儿丫鬟被分散而伤心，此处却应金莲索要拿出皮袄。月娘指出他自己也分散遗物，西门无言；这项矛盾不需用后面的命运来证明。",
+      "evidence": [
+        {
+          "chapter": 74,
+          "paragraph": 8,
+          "quote": "他死了，嗔人分散他房里丫头；像你这等，就没的话儿说了"
+        }
+      ]
+    }
+  ],
   "scenes": [
     {
       "id": "074-01",
@@ -35,14 +70,16 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow oval face. Reference2 ONLY Ruyi at FAR RIGHT, tired narrow middle-aged face and coarse hair arrangement, not central mediator or left Pan; now she wears PALE JADE padded paired-front jacket and WHITE full skirt as current text. Reference3 ONLY painted medium. TWO fully clothed ADULT women in a household room, medium-low framing. A FOLDED DARK BLACK-BROWN MINK FUR COAT on a simple cloth wrapper over low foreground stool is main tangible subject, NO bright red added sleeves yet. Ruyi has just set it down and kneels respectfully at left, joined hands and cautious face. Pan at right sits upright on ordinary kang edge in fully closed dark indigo jacket and rose long skirt, feet fully covered and out of focus, composed questioning expression, one small gesture toward bundle. Do NOT show foot binding, exposed legs, undressing, bedroom erotic props, dead woman or ghost. A closed cabinet and plain tea cup, winter light, matte gongbi fine contours, no text.",
       "references": [
-        "pan-solo-030（金莲）",
-        "072-01右侧（如意儿）",
-        "065-01（媒介）"
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
+        "assets/072-01.webp（原说明：072-01右侧（如意儿））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/074-01.png",
+      "image": "assets/074-01.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow oval face. Reference2 ONLY Ruyi at FAR RIGHT, tired narrow middle-aged face and coarse hair arrangement, not central mediator or left Pan; now she wears PALE JADE padded paired-front jacket and WHITE full skirt as current text. Reference3 ONLY painted medium. TWO fully clothed ADULT women in a household room, medium-low framing. A FOLDED DARK BLACK-BROWN MINK FUR COAT on a simple cloth wrapper over low foreground stool is main tangible subject, NO bright red added sleeves yet. Ruyi has just set it down and kneels respectfully at left, joined hands and cautious face. Pan at right sits upright on ordinary kang edge in fully closed dark indigo jacket and rose long skirt, feet fully covered and out of focus, composed questioning expression, one small gesture toward bundle. Do NOT show foot binding, exposed legs, undressing, bedroom erotic props, dead woman or ghost. A closed cabinet and plain tea cup, winter light, matte gongbi fine contours, no text."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Pan Jinlian adult narrow oval face. Reference2 ONLY Ruyi at FAR RIGHT, tired narrow middle-aged face and coarse hair arrangement, not central mediator or left Pan; now she wears PALE JADE padded paired-front jacket and WHITE full skirt as current text. Reference3 ONLY painted medium. TWO fully clothed ADULT women in a household room, medium-low framing. A FOLDED DARK BLACK-BROWN MINK FUR COAT on a simple cloth wrapper over low foreground stool is main tangible subject, NO bright red added sleeves yet. Ruyi has just set it down and kneels respectfully at left, joined hands and cautious face. Pan at right sits upright on ordinary kang edge in fully closed dark indigo jacket and rose long skirt, feet fully covered and out of focus, composed questioning expression, one small gesture toward bundle. Do NOT show foot binding, exposed legs, undressing, bedroom erotic props, dead woman or ghost. A closed cabinet and plain tea cup, winter light, matte gongbi fine contours, no text.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "074-02",
@@ -78,16 +115,18 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen adult long face; reference2 ONLY round-faced Wu Yueniang; reference3 ONLY narrow oval Pan Jinlian; reference4 ONLY Li Guijie in BOTTOM RIGHT independent portrait, not other people, retain that face, precise age unspecified and DO NOT sexualize her; reference5 ONLY painted medium. FOUR fully clothed people in a domestic reception room, medium-wide group. Guijie at lower foreground has just begun to rise from respectful kneeling, wearing white embroidered forehead kerchief with compact jeweled hair, closed RED paired-front padded jacket and BLUE long skirt, hands joined, checking the face of Ximen. Ximen seated left in dark blue-green robe breaks into an ordinary relieved smile. Yueniang beside him in muted russet jacket smiles too. Pan stands right in dark indigo jacket and rose skirt, has just made a dry remark with one small open hand, not mocking grimace. A partly opened food gift box with cakes and covered cooked food at side; no sexual touching, bedroom or flirting poses, no hurt or coercive physical force, no text. Painted contours and winter diffused light, the scene is interpersonal repair not a glamour portrait.",
       "references": [
-        "ximen（西门庆）",
-        "moon-030（月娘）",
-        "pan-solo-030（金莲）",
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "references/moon-030.png（原说明：moon-030（月娘））",
+        "references/pan-solo-030.png（原说明：pan-solo-030（金莲））",
         "others-030右下（桂姐）",
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/074-02.png",
+      "image": "assets/074-02.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen adult long face; reference2 ONLY round-faced Wu Yueniang; reference3 ONLY narrow oval Pan Jinlian; reference4 ONLY Li Guijie in BOTTOM RIGHT independent portrait, not other people, retain that face, precise age unspecified and DO NOT sexualize her; reference5 ONLY painted medium. FOUR fully clothed people in a domestic reception room, medium-wide group. Guijie at lower foreground has just begun to rise from respectful kneeling, wearing white embroidered forehead kerchief with compact jeweled hair, closed RED paired-front padded jacket and BLUE long skirt, hands joined, checking the face of Ximen. Ximen seated left in dark blue-green robe breaks into an ordinary relieved smile. Yueniang beside him in muted russet jacket smiles too. Pan stands right in dark indigo jacket and rose skirt, has just made a dry remark with one small open hand, not mocking grimace. A partly opened food gift box with cakes and covered cooked food at side; no sexual touching, bedroom or flirting poses, no hurt or coercive physical force, no text. Painted contours and winter diffused light, the scene is interpersonal repair not a glamour portrait."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen adult long face; reference2 ONLY round-faced Wu Yueniang; reference3 ONLY narrow oval Pan Jinlian; reference4 ONLY Li Guijie in BOTTOM RIGHT independent portrait, not other people, retain that face, precise age unspecified and DO NOT sexualize her; reference5 ONLY painted medium. FOUR fully clothed people in a domestic reception room, medium-wide group. Guijie at lower foreground has just begun to rise from respectful kneeling, wearing white embroidered forehead kerchief with compact jeweled hair, closed RED paired-front padded jacket and BLUE long skirt, hands joined, checking the face of Ximen. Ximen seated left in dark blue-green robe breaks into an ordinary relieved smile. Yueniang beside him in muted russet jacket smiles too. Pan stands right in dark indigo jacket and rose skirt, has just made a dry remark with one small open hand, not mocking grimace. A partly opened food gift box with cakes and covered cooked food at side; no sexual touching, bedroom or flirting poses, no hurt or coercive physical force, no text. Painted contours and winter diffused light, the scene is interpersonal repair not a glamour portrait.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "074-03",
@@ -126,12 +165,14 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. ONLY reference is gongbi mineral-pigment painted medium, copy no people. An OBJECT-LED close narrative view of an ornate Chinese GILT BRONZE INCENSE DING in front of a dark MOTHER-OF-PEARL INLAID wooden screen inside a wealthy garden hall. The body carries EIGHT SMALL stylized immortal human relief figures arranged around a longevity motif, not eight live human miniatures, no inscriptions. Delicate turtle, crane and deer ornamental heads incorporate tiny smoke apertures; thin incense threads emerge from their mouths, no actual animals beside vessel, no giant smoke cloud. Warm worn gilded highlights reveal bronze beneath at edges, plausible crafted metal, no modern kettle or electric vapor. At far edge ONLY the fully clothed sleeve and respectful open hand of an adult official pointing out workmanship; another sleeve indicates listening host, faces out of frame deliberately because current text has uncertain title. Vessel is furniture-scale, not temple tower, no exact measuring device, no money, no wrapping or handover, no caption, no writing. Fine ink contours and tactile matte pigment, cinematic shallow layered detail while keeping vessel coherent.",
       "references": [
-        "065-01（媒介）"
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/074-03.png",
+      "image": "assets/074-03.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. ONLY reference is gongbi mineral-pigment painted medium, copy no people. An OBJECT-LED close narrative view of an ornate Chinese GILT BRONZE INCENSE DING in front of a dark MOTHER-OF-PEARL INLAID wooden screen inside a wealthy garden hall. The body carries EIGHT SMALL stylized immortal human relief figures arranged around a longevity motif, not eight live human miniatures, no inscriptions. Delicate turtle, crane and deer ornamental heads incorporate tiny smoke apertures; thin incense threads emerge from their mouths, no actual animals beside vessel, no giant smoke cloud. Warm worn gilded highlights reveal bronze beneath at edges, plausible crafted metal, no modern kettle or electric vapor. At far edge ONLY the fully clothed sleeve and respectful open hand of an adult official pointing out workmanship; another sleeve indicates listening host, faces out of frame deliberately because current text has uncertain title. Vessel is furniture-scale, not temple tower, no exact measuring device, no money, no wrapping or handover, no caption, no writing. Fine ink contours and tactile matte pigment, cinematic shallow layered detail while keeping vessel coherent."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. ONLY reference is gongbi mineral-pigment painted medium, copy no people. An OBJECT-LED close narrative view of an ornate Chinese GILT BRONZE INCENSE DING in front of a dark MOTHER-OF-PEARL INLAID wooden screen inside a wealthy garden hall. The body carries EIGHT SMALL stylized immortal human relief figures arranged around a longevity motif, not eight live human miniatures, no inscriptions. Delicate turtle, crane and deer ornamental heads incorporate tiny smoke apertures; thin incense threads emerge from their mouths, no actual animals beside vessel, no giant smoke cloud. Warm worn gilded highlights reveal bronze beneath at edges, plausible crafted metal, no modern kettle or electric vapor. At far edge ONLY the fully clothed sleeve and respectful open hand of an adult official pointing out workmanship; another sleeve indicates listening host, faces out of frame deliberately because current text has uncertain title. Vessel is furniture-scale, not temple tower, no exact measuring device, no money, no wrapping or handover, no caption, no writing. Fine ink contours and tactile matte pigment, cinematic shallow layered detail while keeping vessel coherent.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "074-04",
@@ -168,13 +209,15 @@
       "history": "仅以用户梦梅馆MOBI为小说依据；未另引其他版本或外部历史论述。建筑、衣纹、首饰与器物的未明细部为美术补足，图像不是历史证据。",
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing face, long adult face, narrow eyes. Reference2 ONLY gongbi silk painting medium. WIDE threshold reception at a wealthy but human-scale Chinese household hall, winter noon. At right arriving Cai Jiu is a DISTINCT mature official, long rectangular face with short neat moustache, plain unpatterned DARK GRAY FORMAL ROBE and GOLD BELT, black official cap, returning a formal hands-joined greeting. Ximen at left in dark blue-green full formal robe and black cap greets him respectfully. Slightly behind Ximen one middle-aged official in muted dark blue indicates host with open hand, and another older lean official in subdued brown stands attentive. Far edge a single adult attendant folds away a small food table from earlier snacks, one servant partly at courtyard door with a closed visiting-note box. Architecture opens into real depth, subtle screens, bare winter branches, NOT all guests eating or posing for camera. No giant gold palace, no emperor, no handoff of cash, no text on plaque or note, distinctly painted contour and mineral pigment, natural faces.",
       "references": [
-        "ximen（西门庆）",
-        "065-01（媒介）"
+        "references/ximen.png（原说明：ximen（西门庆））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/074-04.png",
+      "image": "assets/074-04.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing face, long adult face, narrow eyes. Reference2 ONLY gongbi silk painting medium. WIDE threshold reception at a wealthy but human-scale Chinese household hall, winter noon. At right arriving Cai Jiu is a DISTINCT mature official, long rectangular face with short neat moustache, plain unpatterned DARK GRAY FORMAL ROBE and GOLD BELT, black official cap, returning a formal hands-joined greeting. Ximen at left in dark blue-green full formal robe and black cap greets him respectfully. Slightly behind Ximen one middle-aged official in muted dark blue indicates host with open hand, and another older lean official in subdued brown stands attentive. Far edge a single adult attendant folds away a small food table from earlier snacks, one servant partly at courtyard door with a closed visiting-note box. Architecture opens into real depth, subtle screens, bare winter branches, NOT all guests eating or posing for camera. No giant gold palace, no emperor, no handoff of cash, no text on plaque or note, distinctly painted contour and mineral pigment, natural faces."
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Ximen Qing face, long adult face, narrow eyes. Reference2 ONLY gongbi silk painting medium. WIDE threshold reception at a wealthy but human-scale Chinese household hall, winter noon. At right arriving Cai Jiu is a DISTINCT mature official, long rectangular face with short neat moustache, plain unpatterned DARK GRAY FORMAL ROBE and GOLD BELT, black official cap, returning a formal hands-joined greeting. Ximen at left in dark blue-green full formal robe and black cap greets him respectfully. Slightly behind Ximen one middle-aged official in muted dark blue indicates host with open hand, and another older lean official in subdued brown stands attentive. Far edge a single adult attendant folds away a small food table from earlier snacks, one servant partly at courtyard door with a closed visiting-note box. Architecture opens into real depth, subtle screens, bare winter branches, NOT all guests eating or posing for camera. No giant gold palace, no emperor, no handoff of cash, no text on plaque or note, distinctly painted contour and mineral pigment, natural faces.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     },
     {
       "id": "074-05",
@@ -211,48 +254,15 @@
       "prompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Li Guijie in BOTTOM RIGHT portrait, precise age unspecified, entirely modest fully clothed nonsexual musician identity. Reference2 ONLY gongbi painted medium. A warm night household music circle in medium shot, THREE principal fully clothed female performers and one distant older female listener. At left Guijie in RED closed jacket, BLUE long skirt and WHITE forehead kerchief has finished playing and releases an ordinary PIPA. At center Yu Dajie, middle-aged long lined face and dark plum robe, extends one hand to receive it, mildly expectant. At right Shen Erjie, a DISTINCT rounder-faced middle-aged woman in a muted deep teal jacket and dark skirt, has ALREADY grasped the pipa neck securely with her left hand to take her turn, poised rather than rude caricature. Coherent instrument and separate hands, no tugging fight. Far back older female listener rubs tired eyes beside tea tray. Small food plates and lamp, incense almost spent, no literal religious-story ghosts or heaven, no musical notation or written labels, fine gongbi contour matte pigment.",
       "references": [
         "others-030右下（桂姐）",
-        "073-04后侧（郁大姐）",
-        "065-01（媒介）"
+        "assets/073-04.webp（原说明：073-04后侧（郁大姐））",
+        "assets/065-01.webp（原说明：065-01（媒介））"
       ],
-      "image": "assets/074-05.png",
+      "image": "assets/074-05.webp",
       "status": "generated",
       "review": "已使用内置 image_gen 实际生成并保存。沿用本地交付要求，不另做成图或浏览器验收；未核定的小构件、面貌、衣纹和空间形制不作精确复原声明。",
-      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Li Guijie in BOTTOM RIGHT portrait, precise age unspecified, entirely modest fully clothed nonsexual musician identity. Reference2 ONLY gongbi painted medium. A warm night household music circle in medium shot, THREE principal fully clothed female performers and one distant older female listener. At left Guijie in RED closed jacket, BLUE long skirt and WHITE forehead kerchief has finished playing and releases an ordinary PIPA. At center Yu Dajie, middle-aged long lined face and dark plum robe, extends one hand to receive it, mildly expectant. At right Shen Erjie, a DISTINCT rounder-faced middle-aged woman in a muted deep teal jacket and dark skirt, has ALREADY grasped the pipa neck securely with her left hand to take her turn, poised rather than rude caricature. Coherent instrument and separate hands, no tugging fight. Far back older female listener rubs tired eyes beside tea tray. Small food plates and lamp, incense almost spent, no literal religious-story ghosts or heaven, no musical notation or written labels, fine gongbi contour matte pigment. Additional reference3 locks ONLY Yu Dajie, the middle-aged woman in dark PLUM clothes playing the lute at CENTER BACK behind the two guessing-game players. Preserve her long lined face, age and hair; change lute to pipa as THIS paragraph specifies. Do not copy the game players."
-    }
-  ],
-  "supplements": [
-    {
-      "title": "回目与正文的称谓空缺",
-      "text": "回目写宋御史索求鼎，正文赏鼎处却写安御史；同段前后列宋御史、安郎中、钱主事三人。本版不擅自校改，也不借下一回替这一回确定发言者。",
-      "evidence": [
-        {
-          "chapter": 74,
-          "paragraph": 11,
-          "quote": "安御史见西门庆堂庑宽广"
-        }
-      ]
-    },
-    {
-      "title": "富贵有由，是谁在解释",
-      "text": "薛姑子把听众高官厚禄、呼奴使婢说成前生功果，也把自己吃茶饭、受布施纳进同一缘分。展馆将它标作她在这次宣卷中的解释，不作为贫富成因的客观结论。",
-      "evidence": [
-        {
-          "chapter": 74,
-          "paragraph": 28,
-          "quote": "也是吃着这羙口茶饭，受着发心布施"
-        }
-      ]
-    },
-    {
-      "title": "两种理由，放到遗物上就冲突",
-      "text": "西门此前因瓶儿丫鬟被分散而伤心，此处却应金莲索要拿出皮袄。月娘指出他自己也分散遗物，西门无言；这项矛盾不需用后面的命运来证明。",
-      "evidence": [
-        {
-          "chapter": 74,
-          "paragraph": 8,
-          "quote": "他死了，嗔人分散他房里丫头；像你这等，就没的话儿说了"
-        }
-      ]
+      "actualPrompt": "Finished literary narrative illustration, landscape 3:2. Delicate Chinese gongbi ink contour lines, mineral-pigment shading on silk, realistic individually distinct faces, tactile late-Ming everyday materials, cinematic staging and depth. Recognizably drawn and painted, not a photograph, not anime or glossy fantasy. No writing, lettering, signature or watermark anywhere, even on paintings or packages. No nudity, sexual activity, sexualized minors or gore. Song story setting and late-Ming visual language are not claimed to be identical historical reconstruction. Reference1 ONLY Li Guijie in BOTTOM RIGHT portrait, precise age unspecified, entirely modest fully clothed nonsexual musician identity. Reference2 ONLY gongbi painted medium. A warm night household music circle in medium shot, THREE principal fully clothed female performers and one distant older female listener. At left Guijie in RED closed jacket, BLUE long skirt and WHITE forehead kerchief has finished playing and releases an ordinary PIPA. At center Yu Dajie, middle-aged long lined face and dark plum robe, extends one hand to receive it, mildly expectant. At right Shen Erjie, a DISTINCT rounder-faced middle-aged woman in a muted deep teal jacket and dark skirt, has ALREADY grasped the pipa neck securely with her left hand to take her turn, poised rather than rude caricature. Coherent instrument and separate hands, no tugging fight. Far back older female listener rubs tired eyes beside tea tray. Small food plates and lamp, incense almost spent, no literal religious-story ghosts or heaven, no musical notation or written labels, fine gongbi contour matte pigment. Additional reference3 locks ONLY Yu Dajie, the middle-aged woman in dark PLUM clothes playing the lute at CENTER BACK behind the two guessing-game players. Preserve her long lined face, age and hair; change lute to pipa as THIS paragraph specifies. Do not copy the game players.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
     }
   ]
 }

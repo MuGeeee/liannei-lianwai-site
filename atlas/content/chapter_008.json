@@ -1,0 +1,366 @@
+{
+  "number": 8,
+  "title": "第八回潘金莲永夜盼西门庆　烧夫灵和尚听淫声",
+  "intro": "从炎热房中的等候和传书，到毁扇、截信和晚间除灵，五幅只取本回已经发生的行动。人物猜测不冒充已证事实；迎儿所受饥饿与暴力另在文字卡明确保存，不用失落为伤害开脱。",
+  "supplements": [
+    {
+      "title": "一个角儿与迎儿的处境",
+      "text": "本回先写迎儿被使唤寻人，挨打并饿到晌午；她后来因饥饿偷吃一个肉角儿，再遭鞭打、强迫打扇和掐脸。金莲等候的焦躁落到弱小的孩子身上，不能成为伤害的理由。这段事实保留文字依据，不以身体伤害特写观看孩子。本事件本次未配图；占卦图只还原占卦，不替代这一段事实。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 5,
+          "quote": "饿到晌午，又不与他饭吃。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 9,
+          "quote": "娘休打，是我害饿的慌，偷吃了一个。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 9,
+          "quote": "打了一回，穿上小衣，放他起来，吩咐在旁打扇。"
+        }
+      ]
+    },
+    {
+      "title": "相思卦与整夜琵琶",
+      "text": "金莲在三伏投红绣鞋卜相思；临西门庆生日又以金头银簪央王婆请人，夜里独弹琵琶。这两段仍保留在文字卡，不把它们和递信并成同一时刻。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 6,
+          "quote": "试打一个相思卦，看西门庆来不来。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 15,
+          "quote": "于是独自弹着琵琶"
+        }
+      ]
+    },
+    {
+      "title": "寿礼是实物，猜疑须分层",
+      "text": "本回寿礼有玄色鞋、酱色护膝、绿兜肚与并头莲瓣簪，西门庆搂住金莲亲吻；属于成年亲密。夺来的点油金簪由叙述指为玉楼带来，红骨扇来历仍是金莲猜疑与西门庆辩说，不互相替代。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 26,
+          "quote": "一双玄色缎子鞋"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 26,
+          "quote": "把妇人一手搂过，亲了个嘴"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 25,
+          "quote": "却是孟玉楼带来的。"
+        }
+      ]
+    },
+    {
+      "title": "约定尚不是迎娶",
+      "text": "三人本回约定八月初六请僧除灵、初八晚抬娶。除灵在本回实际完成；迎娶仅为当时的计划，图中不提前画成事实。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 30,
+          "quote": "八月初六日是武大郎百日，请僧念佛烧灵；初八日晚，抬娶妇人家去。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "008-01",
+      "chapter": 8,
+      "title": "绣鞋落地问归期",
+      "people": [
+        "潘金莲"
+      ],
+      "place": "武大家房中",
+      "event": "三伏炎热，金莲备肉角儿苦候西门庆不来，从脚上脱下红绣鞋，在房中试打相思卦。",
+      "why": "等候没有音信，她把无法控制的归期寄托给两只绣鞋；图不替这次占卜解释吉凶。",
+      "composition": "金莲坐小杌斜望地上刚投下的两只绣鞋，裙摆遮住脚，门帘不动；桌边蒸笼只作等待的旁证。",
+      "summary": "西门庆新婚又忙女儿出嫁，月余不来。三伏房里，金莲备下肉角儿等候，穿薄短衫坐在小杌上，烦闷中脱下红绣鞋试打相思卦。画面只取鞋落地后她低头凝视的一刻：门帘仍静，角儿还在桌边，既不画占卜显灵，也不提前给出他何时到来的答案。",
+      "psychology": "明写：她盼不见西门庆，无情无绪、闷闷不语，试打相思卦。推断：她前倾低视、手停膝上，是等待无法得到回答时的姿态；不宣称原文明写占卜结果。",
+      "social": "等候和求信被安放在家中小物上。绣鞋在本场是小说写明的占卜道具，不把缠足身体细节转成观看对象，也不当作民俗制度的完整证据。",
+      "explicit": "三伏炎热，做一笼肉角儿候人；身着薄纩短衫，坐小杌，脱两只红绣鞋试打相思卦。",
+      "inference": "只画成年金莲独处，双脚始终由长裙遮住，无身体局部特写。鞋的朝向不解释吉凶；具体尺寸、绣样、衣色、蒸笼与房屋布局为美术补足。",
+      "excerpt": {
+        "chapter": 8,
+        "paragraph": 6,
+        "quote": "身上只着薄纩短衫，坐在小杌上，盼不见西门庆来到，嘴谷都的骂了几句负心贼。无情无绪，闷闷不语。用纤手向脚上脱下两只红绣鞋儿来，试打一个相思卦，看西门庆来不来。"
+      },
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: oppressive midsummer sanfu heat, modest Chinese timber-and-plaster domestic room, ONE fully clothed ADULT woman only. Pan Jinlian, narrow oval face and clear brows, slim body identity from input 1, in an opaque pale-grey light short jacket and long dark ochre skirt, practical bun. She sits on a LOW WOODEN STOOL, leaning slightly forward, looking quietly down at TWO RED EMBROIDERED CLOTH SHOES newly cast on the rough floor as a divination about an absent lover. The two shoes are ordinary small props at comfortable middle distance: one rests on side, one upright, not oversized and not body-focused. Her full-length opaque skirt completely covers her feet; no bare feet or legs visible, no sensual framing. Both hands rest naturally on skirt-covered knees after cast, no shoe in hand. A partly closed bamboo steamer on side table indicates prepared dumplings, a still plain door curtain farther back, no other people. Hot bright summer light enters lattice and stops in empty doorway, deep quiet shade around her. Reserved frustrated expression, no smile to viewer. Worn plaster and timber, no bath visible, no flowers or autumn fruit, no magic symbols, no supernatural response, no readable text. Moment of mundane waiting and uncertainty, candid narrative composition.",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 6,
+          "quote": "那时正值三伏，天道十分炎热。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 6,
+          "quote": "又做了一笼夸馅肉角儿，等西门庆来吃。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 6,
+          "quote": "身上只着薄纩短衫，坐在小杌上"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 6,
+          "quote": "试打一个相思卦，看西门庆来不来。"
+        }
+      ],
+      "references": [
+        "references/pan-solo-030.png"
+      ],
+      "image": "assets/008-01.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具返回图：成年金莲坐小杌，素色薄衫与长裙完整遮盖身体和双脚，双手落在膝上，地上仅两只红绣鞋，一侧卧一立，无占卜结果或神异物。蒸笼、静止门帘和热光支持候人时刻；脸部与参考相接，手指无明显畸变，采用。鞋朝向、尺寸、纹样及陈设为美术补足，不作缠足细节或民俗考证。",
+      "history": "仅据梦梅馆词话本第8回隔离原文、第7回连续性与指定脸部参考。宋代故事设定与宽泛晚明美术生活材质分开；生成图不是历史证据。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: oppressive midsummer sanfu heat, modest Chinese timber-and-plaster domestic room, ONE fully clothed ADULT woman only. Pan Jinlian, narrow oval face and clear brows, slim body identity from input 1, in an opaque pale-grey light short jacket and long dark ochre skirt, practical bun. She sits on a LOW WOODEN STOOL, leaning slightly forward, looking quietly down at TWO RED EMBROIDERED CLOTH SHOES newly cast on the rough floor as a divination about an absent lover. The two shoes are ordinary small props at comfortable middle distance: one rests on side, one upright, not oversized and not body-focused. Her full-length opaque skirt completely covers her feet; no bare feet or legs visible, no sensual framing. Both hands rest naturally on skirt-covered knees after cast, no shoe in hand. A partly closed bamboo steamer on side table indicates prepared dumplings, a still plain door curtain farther back, no other people. Hot bright summer light enters lattice and stops in empty doorway, deep quiet shade around her. Reserved frustrated expression, no smile to viewer. Worn plaster and timber, no bath visible, no flowers or autumn fruit, no magic symbols, no supernatural response, no readable text. Moment of mundane waiting and uncertainty, candid narrative composition.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "008-02",
+      "chapter": 8,
+      "title": "方胜托给玳安",
+      "people": [
+        "潘金莲",
+        "玳安"
+      ],
+      "place": "武大家房中近门处",
+      "event": "玳安说出西门庆娶玉楼的消息，金莲哭后写词，将花笺折成方胜交给他带去。",
+      "why": "无法直接相见的要求经由仆从和一张纸往返，传话者也要设计一套回答。",
+      "composition": "桌角斜向门口，金莲将封好的方胜递出，玳安伸手接；花笺和桌上笔砚在光下，门外只露停马的影子。",
+      "summary": "玳安路过，金莲问出了西门庆新娶玉楼的消息。她先哭，随后听从小厮提议，把知心话写在花笺上，折成方胜，托他一定请人过来。画面只取递信的片刻：她的急切落在伸出的手上，他接过纸笺，尚未出门，也未画成西门庆已经回信。",
+      "psychology": "明写：金莲听见娶亲消息落泪，玳安建议写字捎去。推断：她眼中余泪、他接信时谨慎的神情把希望与传话压力并置；不为小厮增添恋慕。",
+      "social": "主人的私情要靠小厮传递。点心、数十文钱和许诺鞋子同时出现，是本回具体的人情往来，不能换算成未经考证的购买力。",
+      "explicit": "花笺写词，折成方胜、封好后交玳安；玳安吃点心，另得数十文钱。",
+      "inference": "取递信先于临出门上马；画中不兼做哭诉、写字和骑马三个时刻。玳安年龄不臆定，以既有年轻脸和普通仆役衣装处理；方胜折法、书桌位置、灰紫上衣为补足，纸上不造可读词句。",
+      "excerpt": {
+        "chapter": 8,
+        "paragraph": 14,
+        "quote": "写就，迭成一个方胜儿，封停当，付与玳安儿收了：「好歹多上覆他，待他生日，千万走走，奴这裏来专望。」"
+      },
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: hot seventh lunar month daylight, modest Chinese domestic room by open door. TWO people. On LEFT ADULT Pan Jinlian, same narrow oval face, clear brows and slim build from reference 1, now opaque dusty-plum light jacket and subdued brown full-length skirt, tidy adult bun, slightly tearful eyes but intent composed expression. She leans forward and hands a SMALL SEALED DIAMOND-SHAPED folded decorated cream paper letter to Dai'an; NO visible writing. On RIGHT young male household servant Dai'an, face ONLY the LEFT figure of three-person reference 2 (narrow youthful face, straight brows, clean-shaven, tidy topknot), plain faded blue-grey long tunic and loose charcoal trousers, receives the diamond letter gently with one hand while other supports it naturally. Everyday errand, not intimacy; physical distance across table corner. A brush lying on inkstone and spare cream paper on worn side table show writing has ended, tiny dish of dumplings farther back. No coins need be counted, no additional people, horse can be omitted outside crop. She looks at his receiving hand, he at letter, no camera pose. Warm hard summer light from doorway, shadowy worn timber, subtle mineral plum blue and earth pigments. No wedding objects, no future arrival scene, no kiss, no ornament copied from reference.",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 12,
+          "quote": "取过一幅花笺，又轻拈玉管，款弄羊毛"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 14,
+          "quote": "写就，迭成一个方胜儿，封停当，付与玳安儿收了"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 14,
+          "quote": "那玳安吃了点心，妇人又与数十文钱。"
+        }
+      ],
+      "references": [
+        "references/pan-solo-030.png",
+        "references/young-people-030.png"
+      ],
+      "image": "assets/008-02.webp",
+      "status": "generated",
+      "review": "已实际查看内置工具返回图：金莲左侧倾身递出封好的小笺，玳安右侧双手接住，脸与左幅参考相接；两人有距离、无亲密姿态，笔砚和点心支持传信时刻。金莲余泪可见，手势与人体无显著畸变。折笺外形偏方，方胜具体折法未考定，作为美术补足保留，不据图断言标准样式；纸上仅花饰与封印，无可读词句。采用。",
+      "history": "仅据梦梅馆词话本第8回隔离原文、第7回连续性与指定脸部参考。宋代故事设定与宽泛晚明美术生活材质分开；生成图不是历史证据。",
+      "actualPrompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: hot seventh lunar month daylight, modest Chinese domestic room by open door. TWO people. On LEFT ADULT Pan Jinlian, same narrow oval face, clear brows and slim build from reference 1, now opaque dusty-plum light jacket and subdued brown full-length skirt, tidy adult bun, slightly tearful eyes but intent composed expression. She leans forward and hands a SMALL SEALED DIAMOND-SHAPED folded decorated cream paper letter to Dai'an; NO visible writing. On RIGHT young male household servant Dai'an, face ONLY the LEFT figure of three-person reference 2 (narrow youthful face, straight brows, clean-shaven, tidy topknot), plain faded blue-grey long tunic and loose charcoal trousers, receives the diamond letter gently with one hand while other supports it naturally. Everyday errand, not intimacy; physical distance across table corner. A brush lying on inkstone and spare cream paper on worn side table show writing has ended, tiny dish of dumplings farther back. No coins need be counted, no additional people, horse can be omitted outside crop. She looks at his receiving hand, he at letter, no camera pose. Warm hard summer light from doorway, shadowy worn timber, subtle mineral plum blue and earth pigments. No wedding objects, no future arrival scene, no kiss, no ornament copied from reference.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "008-03",
+      "chapter": 8,
+      "title": "红骨扇在手中裂开",
+      "people": [
+        "潘金莲",
+        "西门庆"
+      ],
+      "place": "武大家房内",
+      "event": "西门庆被请来，金莲追问变心，夺看簪子又疑起扇上咬痕，将红骨扇折毁。",
+      "why": "看得见的簪与扇成为她索要专情保证的凭据，物证与猜疑并未自动等同。",
+      "composition": "双人中近景，红扇骨与裂开的扇面居中，金莲刚掰断，西门庆伸手欲救已晚；桌上帽子退在一旁。",
+      "summary": "西门庆带酒进门，先否认另有新人，金莲却从帽簪追问到手里的红骨洒金扇。她迎光察看咬痕，疑是别的女子所赠，不由分说折断。西门庆伸手阻拦已晚，只说扇是朋友送的。画面保留怀疑与辩解的差距，不把金莲的猜测写成已经证实的来源。",
+      "psychology": "明写：金莲猜疑簪与扇的来历，西门庆救扇不及。推断：她紧抿嘴、他惊愕伸手表现瞬间冲突，不为两人安排后回心理。",
+      "social": "礼物被用来检验亲密关系中的承诺。簪的叙述来源与扇的猜测来源须分开：前者本回叙述指明玉楼带来，后者仍是人物解释和疑心。",
+      "explicit": "红骨细洒金、金钉铰川扇，有牙咬碎眼；金莲两把折断，西门庆救时已扯烂；帽子先被掷落后置桌上。",
+      "inference": "王婆在场但裁出镜头，不声称离开；具体扇骨数、金色斑点、孔痕分布与帽式不作器物定型。仅画两位成年人争执和物件损毁，无殴打或情色。",
+      "excerpt": {
+        "chapter": 8,
+        "paragraph": 25,
+        "quote": "不由分说，两把折了。西门庆救时，已是扯的烂了，说道：「这扇子是我一个朋友卜志道送我的。今日纔拿了三日，被你扯烂了。」"
+      },
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: summer morning indoors, Ximen Qing has arrived mildly drunk, an immediate candid domestic quarrel. TWO ADULTS close medium-wide at table. Pan Jinlian on LEFT, same narrow oval face and clear brows from input 1, opaque muted plum summer jacket and taupe long skirt, practical bun. She holds a DAMAGED RED-RIBBED FOLDING FAN in both natural hands just after snapping it: fan is one recognisable folding fan bent into two connected broken halves, cream paper torn across center, red ribs visibly fractured, tiny sparse gold flecks, absolutely NO readable writing. Her angry hurt gaze follows fan. Ximen Qing on RIGHT, 28-year-old tall slender long-torso man, long face, straight brows and narrow eyes from reference 2; opaque deep blue-green light robe, hair tied in topknot, NO cap on head because it was removed; he leans forward with ONE hand reaching too late toward the broken fan, other hand lowered, startled not smiling. His intact black ridged fabric cap with a small red tassel lies on far table edge. No hairpin presented to camera, no hat falling in midair: these happened earlier. Minimal ordinary timber chairs and worn plaster in morning side light. No extra people in frame (other people present off frame), no broken crockery, no hitting or restraint, no kiss, no exposed body. Dramatic diagonal from her two hands to his reaching hand, fan readable as fan not sword, no extra fingers.",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 25,
+          "quote": "一把红骨细洒金金钉铰川扇儿"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 25,
+          "quote": "见扇儿多是牙咬的碎眼儿"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 25,
+          "quote": "不由分说，两把折了。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 25,
+          "quote": "西门庆救时，已是扯的烂了"
+        }
+      ],
+      "references": [
+        "references/pan-solo-030.png",
+        "references/ximen.png"
+      ],
+      "image": "assets/008-03.webp",
+      "status": "generated",
+      "review": "已实际查看初稿与修订图：修订把扇两段改成清楚的一把扇、一个共同枢轴，扇纸横裂、红骨折损，金莲双手执扇、西门庆伸手救扇的动作自然；双方脸部、衣装和神情维持。帽已在桌上，符合先丢帽后毁扇的时序；无殴打或露骨接触，采用修订图。扇骨数、金点、帽式及桌上夏令果品为美术补足，不据图考证器物或物价。",
+      "history": "仅据梦梅馆词话本第8回隔离原文、第7回连续性与指定脸部参考。宋代故事设定与宽泛晚明美术生活材质分开；生成图不是历史证据。",
+      "actualPrompt": "Use case: precise-object-edit. Edit supplied gongbi 3:2 narrative illustration ONLY to make the broken prop read as ONE single folding fan, not two separate fans. Preserve exactly the two adults, faces, expressions, hands' positions, clothing, hat, tabletop, bowls, background, paper texture, colors and lighting. The woman's LEFT image-side hand (at lower left) holds the ONE ORIGINAL PIVOT of the fan; show ONE red circular pivot and red ribs radiating from that single pivot. Her RIGHT image-side hand grips the snapped OUTER section of the SAME fan, with its few broken red ribs extending toward the single left-hand pivot but broken partway across the fan. This right section has NO separate circular pivot or converging full fan base. Cream gold-flecked paper visibly torn across the middle, irregular torn paper and snapped ribs bridge the gap, the total outline still a single large semicircular folding fan broken into left inner section and right outer section. Exactly ONE folding fan altogether, exactly ONE pivot, not two full fans. Do not change anything else. No text, no watermark. Preserve 1536x1024.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "008-04",
+      "chapter": 8,
+      "title": "家书摊开，三人慌议",
+      "people": [
+        "王婆",
+        "西门庆",
+        "潘金莲"
+      ],
+      "place": "武大家房内",
+      "event": "王婆截得武松寄给哥哥的家书，带来催促；西门庆与金莲穿衣起身，读信后商议赶在武松回来前娶入。",
+      "why": "原应到达兄长的家书被截留，三人把消息转成对自己有利的时间表。",
+      "composition": "三人围着摊开的家书，王婆坐侧面说话，西门庆低头看信，金莲靠旁紧盯他的反应。",
+      "summary": "王婆从土兵手中接下家书，转身送到金莲屋里。两人起身穿衣，请她坐下，读到武松不迟于中秋回家的消息，顿时慌张。画面停在看信与商议之间，纸上不写可读字；后面定下的除灵与迎娶日期只在文字补充里保留，不提前画成婚礼。",
+      "psychology": "明写：两人听见消息、读信后慌了手脚，求王婆遮藏。推断：金莲握住自己的袖口、西门庆俯身读信、王婆前倾说明，呈现同一消息带来的不同反应。",
+      "social": "送信人不知实情，信被邻人以代转为由截下。私人通信和熟人信用在此被利用；王婆所说叔嫂礼法是人物劝说，不作准确制度结论。",
+      "explicit": "武松差土兵寄家书；王婆收下再带来；两人穿上衣服后看信；本回商定八月初六除灵、初八晚迎娶。",
+      "inference": "只画已经发生的读信商议，不画尚未发生的迎娶。信纸大小、无字折痕、座次、深赭上衣与青灰袍为美术补足。两人均穿戴完整，无床上情事。",
+      "excerpt": {
+        "chapter": 8,
+        "paragraph": 30,
+        "quote": "一面与妇人都起来，穿上衣服，请王婆到房内坐了，取出书来与西门庆看了。武松书中写着，不过中秋回家。"
+      },
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: late summer moving toward early autumn, morning in modest Wu-family room; a messenger letter has been intercepted and brought inside, now THREE FULLY CLOTHED ADULTS reading it. Input 1 supplies ONLY Pan Jinlian's narrow oval face. Input 2 supplies ONLY Ximen Qing's long face and tall slender body identity. Input 3 supplies ONLY old wrinkled Wang Po's face, greying bun and age. Do not copy any reference clothes, fan, spinning wheel, spring blossoms, rope, pose or doors. Center Ximen Qing, long face straight brows narrow eyes and slender long torso, plain opaque blue-grey robe and black cloth cap, seated leaning over one OPEN CREAM FOLDED LETTER on table; hand rests beside paper, anxious concentrated eyes. On his LEFT Pan Jinlian narrow oval face, now opaque muted rust-red light jacket and brown full-length skirt, stands close but does not embrace, eyebrows raised, one hand gripping her own sleeve at waist, looking toward letter. On RIGHT Wang Po, elderly deeply wrinkled face and grey-black bun, plain dark umber jacket and long charcoal skirt, seated on low chair, leaning in confidentially with small open-palm speaking gesture. Three distinct faces, no glamour. Letter angled away from viewer, all surfaces blank or tiny abstract nonletter marks, NO readable text. Thin wooden partition and shaded lattice behind, worn tabletop, one simple cup. No bed scene, no weapon, no imagined returned Wu Song, no wedding scene, no fan or spinning wheel. Natural morning light, uneasy quiet triangulated gaze.",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 29,
+          "quote": "你有书信，交与我就是了，等他归来，我递与他也是一般。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 30,
+          "quote": "一面与妇人都起来，穿上衣服，请王婆到房内坐了，取出书来与西门庆看了。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 30,
+          "quote": "武松书中写着，不过中秋回家。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 30,
+          "quote": "二人都慌了手脚"
+        }
+      ],
+      "references": [
+        "references/pan-solo-030.png",
+        "references/ximen.png",
+        "assets/004-01.webp"
+      ],
+      "image": "assets/008-04.webp",
+      "status": "generated",
+      "review": "已实际查看初稿与修订图：西门庆居中看摊开的家书，金莲左侧握袖、王婆右侧前倾说明，三张脸、成年衣装与手势清楚，无显著畸变；信纸无可读伪字。初稿窗外误生黄色熟果，已局部去果改绿叶，实际核看修订后人物、信纸与空间保持。初秋的南瓜、悬谷及绿叶只作美术陈设，未据此推出物价和精确时令；采用修订图。",
+      "history": "仅据梦梅馆词话本第8回隔离原文、第7回连续性与指定脸部参考。宋代故事设定与宽泛晚明美术生活材质分开；生成图不是历史证据。",
+      "actualPrompt": "Use case: precise-object-edit. Make ONE TINY seasonal correction only in supplied 3:2 gongbi literary illustration. At the upper right outside the window, replace ALL ripe yellow fruit clusters resembling loquats with ordinary mature GREEN LEAVES and a few thin branches. No ripe yellow fruit, no blossoms, no new fruit at all. The scene is late summer approaching early autumn, not spring. Preserve every other pixel as closely as possible: three people, faces, hair, expressions, hands, letter, outfits, hat, table, cup, pumpkin on far left, hanging grain, window lattice, blind, lighting, textures, color palette, 1536x1024 composition. Do not change or add people or objects. No text, no watermark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    },
+    {
+      "id": "008-05",
+      "chapter": 8,
+      "title": "帘内并肩，帘外烧灵",
+      "people": [
+        "王婆",
+        "潘金莲",
+        "西门庆",
+        "僧众"
+      ],
+      "place": "武大家佛堂邻近院处",
+      "event": "法事已至晚间，金莲除孝髻换艳衣，与西门庆帘内并肩；王婆点火烧灵牌与佛旛，僧人继续击鼓拍钹。",
+      "why": "除灵把丧仪推到结束；帘内外相隔的目光让本回讽刺落在同一时刻的动作里。",
+      "composition": "前景王婆斜俯点燃小堆灵牌佛旛，侧后僧众鼓钹，深处门帘后并肩两人；火光只照物件，不变成灾火。",
+      "summary": "八月初六的法事到了晚间，金莲已经除去孝髻，换上艳衣，和西门庆并肩站在帘里。王婆舀水、引火，把灵牌与佛旛烧掉，僧人仍在击鼓拍钹。画面用前后的距离并置告别亡者的仪式与帘里的两个人，不画墙内性行为，也不添亡魂、报应或后回预兆。",
+      "psychology": "明写：两人并肩看烧灵，僧众想起白日听闻而笑。推断：王婆专注点火、帘内二人神色绷紧、僧人相视带笑是绘画取舍，不宣称他们有原文未写的悔悟或胜利感。",
+      "social": "丧仪、斋衬和日常私情在薄壁与门帘之间并存。叙述者对僧人的贬斥只作为本回讽刺话语，不能推成所有僧人或真实宗教仪轨的普遍事实。",
+      "explicit": "八月初六，请六僧；晚夕送灵化财，金莲除孝髻换艳衣，与西门庆帘内并肩；王婆点火烧灵牌佛旛；僧众击鼓拍钹。",
+      "inference": "镜头只见部分六僧，不作完整人数清点；火盆、纸旛和牌位具体形制、庭院位置、灯色为美术补足，不作仪轨复原。艳衣用朱红表现，不把她画成新娘；无亡魂、血腥、房中性行为或未来报应象征。",
+      "excerpt": {
+        "chapter": 8,
+        "paragraph": 38,
+        "quote": "临佛事完满，晚夕送灵化财出去，妇人又早除了孝髻，换了一身艳衣服，在帘裏与西门庆两个并肩而立，看着和尚化烧灵座。王婆舀将水，点一把火来，登时把灵牌并佛旛烧了。"
+      },
+      "prompt": "Use case: historical-scene / illustration-story. Complete literary narrative illustration, exactly 3:2 landscape, 1536x1024. Chinese gongbi fine ink contours, mineral-pigment color layers, subtle painted paper texture, realistic varied faces, worn everyday late-Ming material life, cinematic narrative depth. Painted not photograph, not anime, not fantasy, no glossy idol faces. No lettering, signature, watermark, readable text, modern objects or glass-chimney lamps. References lock face identity ONLY, never inherit clothing, season, pose, objects or background. Scene: evening of eighth lunar month sixth day, end of a domestic memorial ritual. Single clear ongoing moment, layered diagonal composition. Input 1 provides ONLY Pan Jinlian's narrow oval face. Input 2 provides ONLY Ximen Qing's long face and tall slender body. Input 3 provides ONLY elderly Wang Po's wrinkles and greying bun. No reference clothes, fan, spinning wheel, spring blossoms or pose copied. Foreground LEFT old Wang Po, ordinary dark brown long jacket and charcoal skirt, bends forward lighting a SMALL CONTROLLED pile of cream paper streamers and ONE small wooden memorial tablet in a shallow earthen burn tray on bare ground; she uses a short glowing taper, anatomically natural hands, small clay water dipper rests to side. Tablet turned away with no visible writing. Modest flames and grey smoke confined to tray, not building fire. Midground RIGHT three ordinary ADULT Buddhist monks represent a cropped part of six hired monks, loose worn ochre/grey robes and shaved heads, one beats a small suspended drum, two hold pairs of round bronze cymbals, subtle sideways grins not grotesque. In deep background center under timber doorway: thin partially drawn cream curtain, Pan Jinlian and Ximen Qing stand SIDE BY SIDE visibly through opening, fully clothed, no embrace. Pan adult narrow oval face, removed mourning bun and now tidy ordinary bun with modest pin, vivid opaque cinnabar-red jacket and plum long skirt, NO bridal veil or wedding crown. Ximen tall slender long face, deep teal robe and plain black cap, both look toward fire, neither celebratory nor grieving theatrically. Their faces recognizable but not oversized. Ordinary late-Ming domestic worn wood and plaster, cool dusk balanced with warm tiny fire, no blossoms, no luxury temple hall, no ghosts, no omen, no sex scene, no hidden room cutaway, no children. Ritual objects broad artistic reconstruction, not exact archaeology.",
+      "evidence": [
+        {
+          "chapter": 8,
+          "paragraph": 31,
+          "quote": "八月初六日"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 31,
+          "quote": "教王婆报恩寺请了六个僧"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 38,
+          "quote": "妇人又早除了孝髻，换了一身艳衣服"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 38,
+          "quote": "在帘裏与西门庆两个并肩而立，看着和尚化烧灵座。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 38,
+          "quote": "王婆舀将水，点一把火来，登时把灵牌并佛旛烧了。"
+        }
+      ],
+      "references": [
+        "references/pan-solo-030.png",
+        "references/ximen.png",
+        "assets/004-01.webp"
+      ],
+      "image": "assets/008-05.webp",
+      "status": "generated",
+      "review": "已实际查看初稿和修订图：前景王婆向纸旛与灵牌引火，火势限在浅盆；中景三位成年僧人击鼓拍钹，是六僧的取景部分；帘口金莲与西门庆衣着完整、并肩看火，脸与指定参考相接，手、道具及空间无显著畸变。初稿天空擅加满月，已局部去月盘，实际核看其余叙事保持，采用修订图。具体烧纸盆、牌式、乐器和院落尺度为美术补足，不作仪轨考证；未画裸体、性行为、亡魂或后回报应。",
+      "history": "仅据梦梅馆词话本第8回隔离原文、第7回连续性与指定脸部参考。宋代故事设定与宽泛晚明美术生活材质分开；生成图不是历史证据。",
+      "actualPrompt": "Use case: precise-object-edit. ONE TINY CORRECTION ONLY to the supplied 3:2 gongbi illustration. REMOVE the small FULL MOON DISK at the extreme upper-right sky. Replace only that circular moon area with the SAME continuous lavender dusk sky around it, no moon visible. This scene is lunar eighth month sixth day, not full-moon night; do not introduce any replacement moon or astronomical symbol. Preserve EVERYTHING ELSE exactly as closely as possible: all six people, faces, expressions, clothing, folds, hands, cymbals, drum, stick, fire, smoke, tablet, paper, water dipper, curtain, architecture, branches, lighting, painted texture and exact 1536x1024 composition. No other edits, no new objects, no writing, no watermark.",
+      "publicRecord": "records/selected_generation.json",
+      "publicCopyNote": "公开副本保留实际提示词措辞；仅将机器文件路径替换为本网站相对路径或未公开参考标识。未采用初稿及其图像不发布；原始私有记录完整保留在本地。"
+    }
+  ]
+}
